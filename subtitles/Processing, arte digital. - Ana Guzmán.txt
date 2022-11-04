@@ -1,0 +1,1434 @@
+[Música]
+
+y
+
+[Música]
+
+[Música]
+
+[Música]
+
+[Música]
+
+[Música]
+
+[Música]
+
+[Música]
+
+[Música]
+
+y
+
+[Música]
+
+ah
+
+ah
+
+[Música]
+
+saludos a todos ya todas bienvenidos a
+
+esta segunda charla nash a las tres que
+
+nos dirigimos ahora al encuentro de la
+
+segunda sesión el procés inviable de
+
+fijarlos muy compañas para esta jornada
+
+ana guzmán ellas ingeniera de sistemas
+
+con amplia experiencia de manejo del
+
+papel libre limite y aplicación de
+
+grabación
+
+de plataformas
+
+[Música]
+
+gracias
+
+bien buenos días
+
+a todos y vamos a hablar de proceso y
+
+vamos a hablar de procesos incluso si es
+
+una aplicación de software libre se
+
+utiliza en su mayoría para el 15 lo
+
+graficó para las animaciones síndicos
+
+más herramientas muy poderosas podemos
+
+hacer el test de diseño sencillo salsa
+
+incluirlas dentro de la realidad
+
+aumentada
+
+entonces
+
+para compartir mi pantalla como hago
+
+en mi pantalla
+
+bueno entonces acá tengo la presentación
+
+bueno vamos a hablar de processing en su
+
+lengua de programación de código abierto
+
+basado en java creado por diseñadores
+
+que nos permite aprender dibujando
+
+aprender programación dibujando es un
+
+programa que desarrolla la creatividad y
+
+está a la altura de la danza y la
+
+pintura processing nació en el mit media
+
+lab en el laboratorio de ciencia y
+
+tecnología de bing frei y casi reese a
+
+partir del lenguaje de programación
+
+llamado design in pain in numbers
+
+vamos a empezar a programar con
+
+processing
+
+tenemos inicialmente dos funciones
+
+principales que la función setup y la
+
+función trauma la función setup se
+
+ejecuta una sola vez y allí creamos la
+
+ventana x para poder visualizar nuestros
+
+skets cada ventana se llama genes que es
+
+que es un diseño y en el draw se
+
+ejecutan muchísimas veces hasta que
+
+termine pues el programa según las
+
+condiciones que le damos en processing
+
+como en cualquier otro lenguaje de
+
+programación también debemos crear las
+
+variables según lo que vayamos a
+
+desarrollar entonces
+
+tenemos aquí
+
+me confirman si están viendo mi pantalla
+
+de processing por favor
+
+bueno entonces tenemos aquí inicialmente
+
+el setup creamos una ventana entonces
+
+como lo vamos a ver acá ya tenemos la
+
+ventana ventana tenemos una elipse
+
+tenemos un background de fondo que este
+
+background lo podemos crear de dos
+
+formas o utilizamos el código
+
+hexadecimal de colores con h
+
+sb que significa saturation and bridges
+
+que es el tono saturación y brillo que
+
+son las propiedades del color y luego
+
+utilizamos los colores y también podemos
+
+utilizar el código de colores rgb que es
+
+rojo verde y azul es el color que
+
+utilizado para el diseño gráfico en
+
+computador o para manejar el color en
+
+los computadores
+
+luego para eso podemos hacerle un
+
+relleno de color a la figura que en este
+
+caso es una elipse
+
+para trabajar en processing podemos
+
+descargar la aplicación directamente de
+
+la página de processing acá la tengo
+
+una vez estamos allí descargamos la
+
+última versión o las últimas versiones
+
+seleccionamos nuestro sistema operativo
+
+si es de 64 32 bits de allí se descarga
+
+una tarjeta una carpeta la
+
+descomprimimos y empezamos a trabajar
+
+como lo vemos acá nuestro programa de
+
+processing
+
+también tenemos en la página web una
+
+ayuda con una cantidad de herramientas
+
+que nos proporcionan de documentación
+
+donde podemos aprender muchísimas cosas
+
+para desarrollar a través de processing
+
+continuando con nuestro programa
+
+tenemos aquí algunas funciones como la
+
+función fill que es para relleno stroke
+
+para el borde y las formas geométricas
+
+elipse triángulo cuadrado rectángulo
+
+cualquier figura podemos hacer entonces
+
+tenemos aquí para las figuras una
+
+variable la primera variable es el valor
+
+o la posición de esta figura en el eje x
+
+dentro de nuestra ventana si tenemos en
+
+nuestro caso una ventana de 800 x 800 y
+
+si yo la quiero hacer que me quede más o
+
+menos en el centro entonces aquí le
+
+puedo cambiar
+
+para kenia el ipse se ubique en el
+
+centro de la ventana
+
+también puedo generar un movimiento
+
+a través de la variable x creo aquí
+
+la parte superior la variable x
+
+y empiezo a generar esta post y este
+
+movimiento en el tamaño de mi elipse
+
+depende de estos dos valores en este
+
+caso tengo una variable de 50/50
+
+significa el ancho y el alto de mi
+
+elipses y quiero hacerla más grande aquí
+
+modifico estos valores
+
+veamos esto
+
+para que mi elipse se desplace de
+
+derecha a izquierda pues sabemos que en
+
+el eje se desplaza
+
+en el eje ya se desplaza verticalmente
+
+y en el eje x horizontalmente
+
+entonces aquí
+
+creamos la variable para que se desplace
+
+en el eje x acá está de tipo entero y
+
+vamos a incrementando este valor para
+
+que se vaya viendo la animación de la
+
+figura que va a corría entonces hacia la
+
+derecha también queremos que
+
+una vez termine
+
+ella se devuelva
+
+y vuelva a iniciar
+
+el giro
+
+entonces para esto creamos esta función
+
+es que si x que cuando llegue al extremo
+
+de la ventana que es 800 entonces vuelva
+
+a iniciar el movimiento
+
+también tenemos aquí
+
+para poder que nuestra
+
+nuestra elipse se mueva en el eje en
+
+forma diagonal
+
+entonces aquí le vamos a hacer un
+
+recorrido
+
+le vamos a quitar el fondo
+
+ya lo tenía programado
+
+bueno aquí en esta estamos generando una
+
+espiral
+
+con esta función con el force con esta
+
+función for es un ciclo repetitivo que
+
+nos permite ir incrementando círculos de
+
+tal forma que podemos crear también una
+
+de podemos crear esta forma estas formas
+
+elípticas acá en forma de caracol y esta
+
+es otra de las herramientas que maneja
+
+proceso
+
+veamos otro ejemplo entonces tenemos
+
+aquí una animación
+
+es otro ejemplo de esta ventana
+
+en este caso tenemos una pelota que se
+
+desplaza de manera vertical
+
+entonces aquí hemos implementado estas
+
+funciones tenemos
+
+estos
+
+creamos estas variables le damos una
+
+velocidad si quiero más rápido más
+
+despacio
+
+le damos la dirección
+
+en el eje y creamos igual la ventana
+
+esta función en modo elipse radios me
+
+crea ya el círculo sin tener que agregar
+
+el ancho y el alto porque ya me lo hace
+
+de forma circular digamos que me
+
+reemplaza en 50/50 que tenían aquí sigue
+
+del programa anterior también hay otra
+
+función para que quede centrado etcétera
+
+todas estas referencias las podemos
+
+encontrar en la página de processing
+
+también esta función bueno está este
+
+ciclo repetitivo
+
+crea el movimiento esta parte de acá
+
+crea el movimiento de forma repetitiva y
+
+también podemos crear la función void
+
+press & kate preset que es para poder
+
+utilizar para poder mover mi mi pelota
+
+con el teclado casio la letra s
+
+y eso me sirve para crear por ejemplo
+
+videojuegos
+
+entonces acá le voy a cambiar
+
+la velocidad
+
+no la voy a poner tan rápido
+
+lo voy a poner más
+
+entonces ahí podemos esta es otra de las
+
+funciones
+
+de processing
+
+aquí podemos ir vamos a mostrar
+
+otro ejemplo
+
+process 50 con unas bibliotecas entonces
+
+tenemos aquí los ejemplos
+
+bueno y aquí en esta parte puedo también
+
+importar más modos aquí tengo más
+
+herramientas
+
+le voy cerrando lo que yo voy haciendo
+
+entonces tenemos acá
+
+las herramientas que nos deja manejar
+
+processing
+
+bueno entonces
+
+processing
+
+ha venido cambiando pues en los últimos
+
+años se han creado nuevas versiones es
+
+un poco pesado no ocupa mucho mucha
+
+máquina muchos recursos de máquina
+
+camps
+
+por ver
+
+bloqueo
+
+los ejemplos
+
+segundo por favor
+
+bueno cuando vayamos a instalar
+
+processing es importante tener en cuenta
+
+que el computador tenga instalado java
+
+si no lo tenemos instalado lo debemos
+
+instalar de la página oficial y pues
+
+tratar de instalar las últimas versiones
+
+de java
+
+estudian
+
+entonces aquí
+
+tenemos algunos ejemplos de lo que
+
+podemos hacer con los colores por
+
+ejemplo con el brillo
+
+desde acá
+
+y se genera un degradado de colores de
+
+manejo del brillo
+
+tenemos acá estas variables
+
+y con estas funciones
+
+vamos creando acá el brillo veamos por
+
+acá otra
+
+tras internet
+
+esta es otra
+
+la herramienta
+
+también podemos manejar las imágenes
+
+bueno vamos a trabajar uno que sea con
+
+el color entonces acá tenemos nuestro
+
+widget up
+
+creamos la ventana
+
+veamos la cantidad de píxeles de ancho y
+
+alto
+
+aquí con la función background
+
+recordemos que los colores acá se
+
+manejan del 0 al 255 entonces vamos a
+
+ponerle 1
+
+un fondo negro
+
+el fondo negro
+
+y vamos a crear
+
+cerramos acá
+
+nuestra forma geométrica
+
+entonces aquí le vamos a poner la
+
+ubicación
+
+en el eje x y en el eje de y para esta
+
+esta forma geométrica en especial
+
+necesitamos varios parámetros
+
+ah
+
+6 y son ocho parámetros
+
+y listo
+
+ahora vamos a cambiar acá y lo vamos a
+
+mover con el mouse vamos a crear un
+
+movimiento
+
+así sea
+
+y tenemos el movimiento de nuestra
+
+figura en el eje x ahora lo quiero mover
+
+también en el eje por toda la pantalla
+
+y tenemos
+
+podemos crear animaciones como ésta de
+
+manera muy sencilla
+
+entonces aquí le podemos agregar más
+
+parámetros como el color
+
+el formato de relieve entonces vamos a
+
+decir que lo queremos el rojo
+
+255
+
+podemos aquí modificar
+
+podemos dibujar por liga otra forma acá
+
+polígonos regulares
+
+diferentes polígonos
+
+entonces aquí encontramos
+
+las formas este translate lo que hace es
+
+ubicar la posición en la que se va a
+
+dibujar la forma la rotación recordemos
+
+que para las animaciones son cuadros
+
+para crear una animación son frames que
+
+se mueven que se van son como
+
+fotografías que se van pasando de tal
+
+forma que nuestro humano va creando en
+
+la mente la forma de movimiento y por y
+
+en el caso de procesa y maneja esta
+
+función frame cost para hacer rotar
+
+estos polígonos tenemos aquí la forma
+
+del polígono
+
+y aquí podemos crear muchas formas
+
+entonces ahí tenemos nuestros tres
+
+polígonos rotando
+
+[Música]
+
+vamos a ver otra
+
+también dentro del color y si lo vamos a
+
+utilizar con hsbc
+
+podemos agregar una al siguiente
+
+característica y es en la transparencia
+
+se llama la función canal calza
+
+y transparencia
+
+los colores de los colores en la función
+
+hsv se definen como formas
+
+en la variable se define como flotante
+
+bueno tenemos acá
+
+otro ejemplo de imagen del revisor para
+
+generar puntillismo
+
+[Música]
+
+funciones matemáticas
+
+aleatorias
+
+esta función simple light
+
+se utiliza también para trabajar
+
+realidad virtual y realidad aumentada
+
+[Música]
+
+con esta función condicional podemos
+
+crear nuevas animaciones
+
+bueno acá
+
+no sé si ustedes están viendo mi
+
+pantalla me confirman los
+
+existentes
+
+hasta aquí alguna pregunta
+
+bueno esa hasta que alguna pregunta
+
+entonces tenemos aquí
+
+el manejo de los colores lo que les
+
+había hablado el manejo con el mouse
+
+stroke que nos pone un color de línea
+
+podemos dibujar una línea este eje x es
+
+100 representa el eje de inicio de la
+
+línea hasta el el ancho y el alto
+
+el rectángulo
+
+estruch way es la función para realizar
+
+el grosor del trazo
+
+y tenemos los colores
+
+y el color ancho
+
+la función frame rate es una variable
+
+que se almacena que almacena cantidad de
+
+frames procesados por segundo para crear
+
+la ilusión de movimiento
+
+hasta aquí alguna pregunta
+
+así
+
+esto es lo que el año pasado realizamos
+
+con las estudiantes son los juegos
+
+en proceso y que otras preguntas haya
+
+si se vio
+
+si la pantalla de proceso si tú me
+
+escuchas en este momento
+
+sí sí estuvimos viendo te pero te estuve
+
+haciendo preguntas pero creo que no
+
+estamos escuchando no te preocupes
+
+entonces en este momento estamos en la
+
+sesión de
+
+preguntas también según indicó
+
+e
+
+ok entonces
+
+bueno le recordamos a las personas que
+
+están a los usuarios y usuarias que
+
+están interesados en el tema del
+
+software y el app digital
+
+contamos con la presencia de anna que
+
+nos está dando esta charla de processing
+
+y pues gráfica
+
+eso es algo que nos posibilita el sofá
+
+libre y después de echarle mano al
+
+código para personalizar todas estas
+
+cosas pasión son curvas en los temas
+
+gráficos en en este momento estamos en
+
+la sesión de preguntas y respuestas
+
+entiendo a la que ya abrimos esta parte
+
+o tienes algo más de la explicación
+
+pues quería mostrarles aquí el de la
+
+transparencia el canal alfa bueno esto
+
+tiene muchísimas herramientas lo que
+
+pasa es que si no tiene que sentarse a
+
+cachar darle a trabajar lea
+
+que se me hizo
+
+para poder
+
+para poder leer
+
+es que voy a compartir de nuevo
+
+abajo dice estás en el programa y
+
+sánchez se me pierde la ventana
+
+vale no estás compartiendo todavía ya
+
+a veces no me ha cargado a un segundo
+
+lista ahora sí ya carlo
+
+bueno entonces les estaba hablando acá
+
+de este que era el r&b y acá este último
+
+que es el canal alpha que no me ha
+
+funcionado y lo que hace es crear
+
+transparencias entonces si se vea
+
+si se ve a la ventana
+
+donde se ven las transparencias
+
+de la imagen entonces aquí puedo
+
+modificar
+
+esta transparencia muy transparente o no
+
+tan transparente
+
+aquí ya no veo las transparencias si lo
+
+quiero más transparente
+
+cambiando
+
+ahí ya de pronto no lo ve casi ustedes
+
+allá si se ve la pantalla
+
+que no lo veo desde desde el asistente
+
+bueno y eso entre muchos diseños también
+
+se pueden modificar imágenes y crear
+
+animaciones con estas imágenes
+
+hasta aquí sería todo y
+
+baleadas entonces cuéntanos las
+
+diferentes aplicaciones que pueden tener
+
+esta solución que nos acabas de
+
+compartir
+
+yo la veo de múltiples pero bueno vimos
+
+cómo en qué aplicaciones podríamos dar
+
+se utiliza en el cine se utiliza en el
+
+teatro para hacer animaciones para
+
+vídeos para juegos para muchísimas cosas
+
+todo lo que queramos hacer que tengan
+
+relación con las animaciones y que sean
+
+programables las podemos hacer aquí este
+
+proceso es perfecto entonces si están
+
+escuchando en la multimedia puede
+
+accionar de fondos puedes hacer no sé al
+
+básico life godín en tiempo real estar
+
+haciendo visuales en un performer yo
+
+creo que tiene bastantes aplicaciones y
+
+están sacadas de compartir y bueno en
+
+este momento estamos
+
+aquí
+
+te comparto y comentamos que acceder a
+
+luís emilio rodríguez aguilar en los
+
+días que estuve en la presentación
+
+completa igual la puedes consultar louis
+
+que va a quedar grabada en la lista de
+
+vídeos del canal en youtube del sol de
+
+bogotá entonces dice que tan compleja es
+
+la curva de aprendizaje
+
+sobre estas herramientas que acaba de
+
+socializarse no procesiones fácil de
+
+hecho yo lo trabajo es con estudiantes
+
+del colegio
+
+hemos hecho juegos o sea ellas se
+
+motivan muchísimo cuando ven que crean
+
+una circunferencia se mueve la podemos
+
+le podemos modificar sus colores le
+
+podemos agregar una imagen podemos tomar
+
+una foto y a partir de esta foto generar
+
+diferentes movimientos entonces la curva
+
+de aprendizaje sencilla no es complejo
+
+pues a ver de pronto algunas cosas
+
+básicas de programación de cómo
+
+funcionan las variables y ya
+
+entonces sí muchísimas gracias entonces
+
+estamos viendo a ver si de pronto
+
+alguien más quiere en este momento
+
+estamos en la sesión de preguntas y
+
+respuestas y bueno también mientras hay
+
+algún otro comentario o alguna prenda a
+
+la cual carlos sobre tus experiencias en
+
+el particulares en este con estas
+
+herramientas en que las aplicas tú
+
+personalmente yo las aplicó en educación
+
+para enseñar a los jóvenes a programar
+
+pero también se se aplican
+
+para android para raspberry by para
+
+arduino esto es desarrollo de la
+
+creatividad bastante amplio y tiene
+
+muchísimos campos de acción en la
+
+ingeniería
+
+les quería mostrar a con vídeo
+
+bueno entre las interacciones que les
+
+mostré pues están estos
+
+que puede ser para interés para vídeos
+
+pero que les quería mostrar una
+
+un recurso muy útil para los que usan
+
+editores de vídeo en el software libre
+
+pues hay formas de integrarles o la
+
+ventaja de los programas libres que nos
+
+permiten echarle mano al código que
+
+integrar herramientas entonces eso es lo
+
+bueno entonces aquí se me estaba
+
+ocurriendo poner esto como un background
+
+de un vídeo y
+
+pues claro me va a ahorrar tiempo en
+
+diagramación porque es básicamente puede
+
+automatizar muchos efectos gráficos
+
+entonces ahí estoy viendo como algo muy
+
+chévere incluso para hacer este escribir
+
+en un bar en un background podríamos
+
+estar cambiando el código los parámetros
+
+y hacer que nuestro paga uno coja
+
+diferentes movimientos diferentes
+
+dinámicas está mucho para las y se me
+
+ocurre que decidamos podemos hacer para
+
+la presentación entonces digamos que en
+
+cada cambio d
+
+conferencista se puede hacer como sea
+
+puedo hacer como una
+
+ilustración a través de estos
+
+movimientos y con el sonido bueno
+
+recordemos que luego de estos dos años
+
+de distanciamiento pues tuvimos la
+
+oportunidad de sentarnos en frente de
+
+nuestras computadoras ahora entablar una
+
+relación más libre con ella y muchos
+
+estuvieron usando o veces del hoyo pero
+
+ese estudio es una herramienta
+
+multiplataforma para la televisión
+
+debido a que yo veo sencillamente que
+
+puedes abrir esto que nos acaba por
+
+delante y es compartido en revocar lugar
+
+esa ventana y ponerla en un fondo en el
+
+fondo donde también vas a poder hacerlo
+
+en sus transmisiones en directo a lo que
+
+seguramente no vas a encontrar
+
+en un otro lado si ya vemos que hay
+
+muchos recursos que son compartidos pero
+
+para personalizar nuestros propios
+
+recursos yo creo que es una solución
+
+chévere bien particular y pues si quiero
+
+ser único digamos con este tipo de
+
+canciones de fondo del sistema te dicen
+
+y beckham acción pues aquí lo que hace
+
+muy bueno luís emilio nos dice que
+
+muchas gracias ha entendido tu
+
+comentario y
+
+ok estamos viendo en otras redes
+
+sociales pero por el momento estamos
+
+todavía abiertos tu vida sana es decir
+
+si dejamos unos cinco minutos más
+
+esperando más preguntas y mientras tanto
+
+charlamos un rato
+
+[Música]
+
+sí
+
+vale yo les quería compartir un poco de
+
+sobre estas salas para las personas
+
+mientras hacemos esta espera la sala
+
+trees que el nombre lo lleva porque
+
+trisquel es un sistema operativo es un
+
+sistema operativo para vincular como los
+
+son los nombres de las otras salas que
+
+llevan también por nombre un sistema
+
+operativo gnu linux a diferencia de
+
+otras que son muy conocidas digamos
+
+privativas comerciales que las hacen
+
+organizaciones y empresas estas
+
+distribuciones tienen la particularidad
+
+y que son sostenidas por comunidades por
+
+gente a piel por personas usuarias
+
+oficina habilidades en desarrollo diseño
+
+de difusión pedagogía salud legislación
+
+que se juntan para sostener un bien
+
+común y poder compartirlo
+
+de eso trata este movimiento de software
+
+libre de construir comunes para el líder
+
+para garantizar la libertad es que el
+
+mismo movimiento pueden promueve que es
+
+la vista pueden usar el programa poder
+
+modificarlo poder compartirlo
+
+pueden estudiarlo y adaptarlo entonces
+
+son cuatro libertades que todas estas
+
+herramientas que estamos usando y estas
+
+metodologías y estas tecnologías entre
+
+nuevas tecnologías como procesos
+
+sociales nos posibilitan entonces
+
+estamos aquí hablando de que es un
+
+paradigma de la abundancia o sea todo
+
+que todo aporte que tú hagas a una
+
+solución de software oa una tecnología
+
+libre va a repercutir en que la gente va
+
+a poder entrar recoger esa abundancia y
+
+aprender y mejorar y devolver esa mejora
+
+a todas esas aplicaciones que usamos hoy
+
+por hoy y bueno que sin duda pues
+
+podemos usar ya sea en cualquier sistema
+
+operativo que tengamos a llevar mejoras
+
+a lo que llamamos multiplataforma que
+
+puedes descargar independiente de la
+
+versión del sistema operativo que tengas
+
+puedes usarla y probar y ya hablando del
+
+sistema operativos que en la base 3 que
+
+es una que está construida en español
+
+por una comunidad hispana
+
+y está orientada a centros educativos y
+
+para personas independientes separadas
+
+empresas pequeñas grandes pymes porque
+
+realmente es muy versátil pero en su
+
+versión estándar es muy amigable
+
+entonces los invitamos a que la vean
+
+al principio de la presentación es un
+
+poco nerviosa pero es ese proceso y en
+
+ese lenguaje de programación processing
+
+es creado por una comunidad de
+
+diseñadores gráficos y cada año y cada
+
+momento del tiempo le van agregando
+
+nuevas librerías nuevas herramientas
+
+nuevas aplicaciones a todo lo que
+
+estamos creando muy utilizado para el
+
+software libre para la realidad
+
+aumentada acá les quería compartir por
+
+ejemplo este este texturas
+
+s texturas que podemos hacer por ejemplo
+
+para los videojuegos para la publicidad
+
+y acá tenemos las diferentes muchas
+
+herramientas que podemos hacer acá
+
+entonces este es otro mira
+
+entonces si es una herramienta que la
+
+podemos explorar muchísimo lo que les
+
+quería acá en este crisol es mostrar que
+
+existe esta herramienta que la puede
+
+dependiendo de pues del sector de cada
+
+quien
+
+puede utilizar la herramienta para
+
+múltiples
+
+acciones
+
+háblanos podrías compartir algún recurso
+
+donde podamos entrar a explorar debemos
+
+de pronto algunos que ya están
+
+construidos algunos con los que podamos
+
+usar estos que nos acaban de compartir
+
+de donde el 12 los acaba de tomar esos
+
+del mismo programa en la página de
+
+processing allí encuentran muchísimo más
+
+entonces
+
+de compartir en acá en el chat de la
+
+página es el enlace ese es el de
+
+descarga bueno pero ahí sí vamos a
+
+proceso impulso a hereje
+
+allí encontramos toda la documentación
+
+las librerías las herramientas
+
+tutoriales para aprender ejemplos libros
+
+todo acerca de proceso está digamos que
+
+la fuente más completa y más grande para
+
+trabajar proceso
+
+aquí tenemos el enlace para la
+
+documentación para las referencias aquí
+
+tiene encontramos cómo manejar el color
+
+por ejemplo
+
+para los canales alfa que les hablaban
+
+también para el texto
+
+imágenes tipografías vamos a las
+
+tipografías también podemos crear
+
+tipografías
+
+configurar
+
+en este momento
+
+estoy hablando por acá no tengo retorno
+
+de un segundito
+
+anna me escuchas sí perfectamente desde
+
+estamos hablando de la referencia
+
+[Música]
+
+pero aquí está george man también hace
+
+parte del equipo oficial
+
+si no están escuchando confirman
+
+sí porque bueno estas son cosas que
+
+pasan y suelen pasar estamos en la
+
+universidad distrital que muy
+
+gentilmente nos han logrado compartir
+
+una sala una sala de cómputo
+
+o puedes hablar anna por favor si
+
+listo perfecto después de hablar de
+
+todas las referencias de las referencias
+
+de la página que me decías para buscar
+
+para investigar para consultar no sé si
+
+me escucharon les estaba hablando que
+
+también podemos trabajar textos
+
+tipografías arreglos
+
+bueno y todo lo que tiene que ver con el
+
+tratamiento de las imágenes
+
+entonces ahí en la página en la misma
+
+página de processing allí encontramos
+
+todas estas herramientas para seguir
+
+aprendiendo
+
+aquí tenemos todos los tutoriales todos
+
+los ejemplos de todas las cosas que
+
+podemos construir
+
+[Música]
+
+en proceso
+
+bueno muchísimas gracias a la igual
+
+aprovechó para compartir aquí un poco
+
+estamos aquí en la sala de
+
+comunicaciones ayudando desde aquí están
+
+saliendo todos los streaming
+
+que estamos compartiendo desde los
+
+canales en youtube facebook y twitter y
+
+bueno ya con esto creo que podemos ir
+
+cerrando entonces en ese momento ya no
+
+tenemos más comentarios ni preguntas
+
+entonces no queda más sino agradecerte
+
+anna por tu participación y aquí bueno
+
+seguiremos las personas que están
+
+acompañándonos vamos a seguir en la
+
+siguiente hora vamos a seguir con la
+
+programación entonces vamos a cerrar
+
+este canal y los esperamos en el
+
+siguiente te agradecemos mucho ana bueno
+
+con muchísimo gusto vale esto es lo hizo
+
+bogotá 2022 todo él formó crisol todos
+
+somos libres
+

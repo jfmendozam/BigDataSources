@@ -1,0 +1,2250 @@
+muy buenas tardes buenos días a todos
+
+nos encontramos en otra edición del
+
+flisol bogotá esta vez año 2022 nos
+
+encontramos con el equipo que hace parte
+
+de la fundación corre libre entre ellos
+
+nos encontramos con el señor denis lópez
+
+un saludo estamos con gustavo
+
+y estamos con óscar álvarez un saludo
+
+oscar 10 buenos días y yo que pues
+
+estamos haciendo parte de este proyecto
+
+se llama observación ciudadana del
+
+proceso de elecciones de 14
+
+entonces es un interesante proyecto que
+
+vamos a compartir y vamos a introducir
+
+e ingeniero denisse lópez
+
+hola buenos días a todos en el crisol y
+
+un gusto estar acá de nuevo
+
+bueno gracias por el título ingeniero de
+
+otros un estadístico pero vale
+
+díaz actualmente trabajando con la que
+
+forma parte la fundación corre libre y
+
+pues nos
+
+vinimos el flisol a contarles de este
+
+proyecto que nos parece de suma
+
+importancia para el país
+
+y confiamos en que sea un proyecto que
+
+pronto se vuelva de código libre o sea
+
+el código que estamos usando va a ser
+
+de licenciado como código libre
+
+y pues queremos que contarle a los
+
+asistentes al pri son porque estamos
+
+haciendo esta iniciativa antes la de nos
+
+representara
+
+el equipo se va a ir presentando a cada
+
+uno de nosotros
+
+pero quería hacer una mención especial a
+
+unas personas que no están en este
+
+momento y que han sido parte de la
+
+iniciativa de este proyecto el ingeniero
+
+aplicarlo perilla
+
+al ingeniero jairo losada
+
+al ingeniero javier y a
+
+ingeniero andrés arango
+
+pues en primera instancia no sé si me
+
+puedas ayudar quién está
+
+haciendo la presentación de
+
+que podemos poner en modo presentaciones
+
+y posibilidad para que sea más grande o
+
+lo podemos tenemos que ver así
+
+yosbany no sé si nos está ayudando ahí
+
+[Música]
+
+vamos a ver la presentación en el resto
+
+de la presentación
+
+cuando dice que es la siguiente gracias
+
+mismo entonces un poco pues para
+
+contarles
+
+de dónde proviene o cuál es la agenda
+
+que vamos a tener el día de hoy entonces
+
+básicamente vamos a explicar rápidamente
+
+lo que es el proyecto
+
+después de la arquitectura
+
+propuesta el escape que se está
+
+implementando en la solución una
+
+un componente de reconocimiento de
+
+dígitos una piedra colección hasta el
+
+diente alegra y el modelo de datos y
+
+finalmente cómo serán los reportes en
+
+esta propuesta de foto de 14 cada uno de
+
+nosotros para la presentación de uno de
+
+estos puntos entonces vamos a la primera
+
+parte el objetivo el proyecto entonces
+
+las siguientes muchas gracias
+
+bueno
+
+pues nosotros
+
+hay que señalar primero que todo que
+
+somos una iniciativa ciudadana no
+
+partidista que pues hacemos parte de
+
+esta iniciativa y pues invitamos a todos
+
+los partidos a participar en esta
+
+iniciativa
+
+qué es lo que hacemos o sea nosotros
+
+estamos
+
+pidiéndole a los observadores testigos
+
+electorales y jurados una foto del
+
+formulario e-14 que se generan las mesas
+
+de votación esto pues es importante
+
+porque queremos que el público en
+
+general que tenga herramientas que
+
+permitan en la auditoría la vigilancia
+
+del proceso de elecciones y creo que eso
+
+es si lo hacemos de manera responsable
+
+los ciudadanos vamos a ayudar a nuestros
+
+procesos de consolidación democrática
+
+van a decir qué
+
+y repetir que es como iniciativa no
+
+partidista pues esperamos que cualquier
+
+partido cualquiera de sus
+
+observadores que nos puedan enviar una
+
+foto del 14 y nosotros centro de la
+
+procesarla
+
+adicionalmente a las posibilidades que
+
+tenemos es con los jurados de cada una
+
+de las mesas que son dos las personas
+
+responsables de hacer el conteo y
+
+preparar el pre control inicial que se
+
+denomina y que se incorpora en un
+
+formulario que es el que lleva el nombre
+
+del proyecto el formulario e-14 la
+
+registraduría
+
+nacemos de colombia
+
+pues básicamente qué es lo que hacemos
+
+nosotros se le pedía a dios mal que
+
+pasemos a la segunda de positivas
+
+gracias 3 más
+
+como algunos sabrán uno de los procesos
+
+de elecciones en colombia se desarrollan
+
+de manera análoga creemos que esto es
+
+una ventaja muy importante
+
+muchos de los que estamos aquí en este
+
+proyecto creemos que nunca el voto final
+
+debería ser electrónico creemos que es
+
+importante mantener el voto análogo
+
+porque es la garantía de verificar de
+
+alguna manera
+
+y que las elecciones
+
+estén no tengan una
+
+manipulación de manera electrónica
+
+hoy pues nosotros los que estamos acá
+
+hemos participado y seguimos
+
+participando en proyectos de
+
+tecnológicos donde
+
+cualquiera de las tecnologías
+
+en las que trabajamos pues ésta se está
+
+desarrollando de manera permanente y
+
+puede tener muchos elementos de
+
+seguridad pero somos unos convencidos de
+
+que es necesario
+
+en el caso de las votaciones mantener
+
+las las votaciones de manera análoga es
+
+decir que haya una
+
+en alguna forma después de verificar
+
+a través de un papel es como aquí lo
+
+hacemos a través de un tarjetón
+
+[Música]
+
+d
+
+de la elección entonces si es posible
+
+que yo comparta mi pantalla y sigo para
+
+la presentación desde acá es
+
+perfecto así
+
+bueno entonces de menos segundo voy a
+
+compartir desde acá si es posible
+
+[Música]
+
+yo si pasamos la presentación
+
+en un segundo
+
+tranquilo en y si quieres yo te sigo
+
+compartiendo en pantalla y ok esto vale
+
+entonces a compartir la pantalla
+
+es fácil ustedes seguir compartiendo
+
+entonces adelante
+
+ah
+
+ya tenemos la presentación positivo con
+
+la presente
+
+p
+
+muchas gracias
+
+bueno entonces estamos justamente en
+
+esta diapositiva 2 de 3
+
+entonces señalaba que somos convencidos
+
+de que es importante tenerla el voto
+
+análogo el voto electrónico nos parece
+
+una posibilidad enorme de fraude
+
+electrónico porque cuando tenemos voto
+
+análogo y hay en el voto análogo
+
+la posibilidad de verificar
+
+cómo fue
+
+cómo fueron las votaciones
+
+y aún así hemos observado que se
+
+presentan discrepancias para no decir
+
+qué posibilidades de fraude con este
+
+voto análogo en el voto electrónico no
+
+cambiaría estoy en cambio somos
+
+convencidos varios de los que estamos en
+
+esta iniciativa que es una forma que
+
+facilitaría
+
+el voto electrónico facilitaría el
+
+fraude de manera masiva de hecho uno de
+
+nuestros compañeros a los que saludó que
+
+el ingeniero jairo losada está en este
+
+momento
+
+como una de las personas que están
+
+revisando o tratando de como observador
+
+de las herramientas que tiene la
+
+registraduría
+
+para hacer los contenidos devotos y
+
+realmente no es posible hacer esa
+
+auditoría en la medida que el software
+
+que se está usando no ha sido posible
+
+auditarlo por parte de las personas que
+
+están asistiendo a la historia se hacen
+
+algunas sesiones de trabajo donde se le
+
+muestran algunas de las funcionalidades
+
+del software pero el propio software
+
+inclusive por no ser libre por no tener
+
+las características de lo que hoy
+
+promovemos en este en un día como en el
+
+flisol que el código pueda ser
+
+verificado que el código puede hacer
+
+escudriñado que el código puede ser
+
+inclusive mejorado y como no tiene estas
+
+características pues en millones de
+
+líneas de código se podría meter un par
+
+de líneas de código que pudiesen
+
+modificar los temas de contenido
+
+entonces
+
+nosotros
+
+mantengamos la diapositiva 2 gracias a
+
+lo que hemos querido hacer es que el
+
+formato en 14 que es el que aparece allí
+
+debajo de la figura de las 100 mil pesos
+
+que son las que
+
+hay que estar
+
+cuando los votantes asisten
+
+cada mes el mensaje era un formulario
+
+como el que está abajo y ese formulario
+
+es un resumen de lo que los jurados seis
+
+personas casi siempre han encontrado qué
+
+votaron los los electores que asistieron
+
+a esa misa si obviamos los problemas de
+
+corrupción o los problemas que puedan
+
+tener en la decisión de los de los
+
+votantes cuando se les construye porque
+
+prácticas que están más allá de lo que
+
+no de los problemas digamos técnicos y
+
+tecnológicos de lo que es el contexto
+
+pero digamos si llega a la mesa es
+
+existe la posibilidad de que una vez
+
+hecho el sacado este formulario e-14 se
+
+ha encontrado que los formularios son
+
+alterados que son modificados en estos
+
+formularios se saca en tres copias y se
+
+ha encontrado que afloren las copias
+
+de estos formularios a veces no
+
+coinciden entonces nuestra propuesta y
+
+nuestra iniciativa es que todo aquel que
+
+esté en la mesa habrían en cambios a por
+
+lo menos 6 personas
+
+además de los observadores y los
+
+testigos electorales de los partidos es
+
+que de estas personas al menos una nos
+
+enviara un formulario
+
+del ts resumen ese formulario lo que
+
+haríamos lo recogeríamos a través de los
+
+canales que ya dispusimos en el 'gran
+
+foto el 14 que a través de whatsapp el
+
+número que aparece allí a través de
+
+twitter como foto el 14 y en instagram
+
+igual como
+
+foto 14
+
+confiaríamos o sea a través de todos
+
+estos medios de cualquiera de esos
+
+medios de recogeríamos los
+
+formatos de la copia digital de forma
+
+fue en 14 y se guardaría para después
+
+hacerle un procesamiento aún así es
+
+obligación de vengamos de la
+
+registraduría después después de que se
+
+transmiten y se entregan los formularios
+
+e-14 en cada puesto de votación hacerle
+
+una digitalización para disponerlos a
+
+primeras horas del siguiente día de las
+
+votaciones cuando no tengamos las
+
+suficientes formularios que nos hayan
+
+enviado de todas y cada una de las 100
+
+mil mesas se diseñó un esquema para
+
+hacer scraping estos detalles los
+
+explicarán mis compañeros con los
+
+detalles de lo que es la inteligencia
+
+que hemos metido para hacer el conteo
+
+entonces al final es lo que queremos lo
+
+que queremos es que en los formularios
+
+que nos llegan con las escrituras a
+
+manos de los de los de los jurados esas
+
+lo que hacemos es un procesamiento de
+
+imágenes
+
+transformamos esos imágenes en datos
+
+para cada uno de los candidatos y poder
+
+hacer un resumen de las votaciones y
+
+brindarle a la ciudadanía a los partidos
+
+a los testigos
+
+a todos los que
+
+tengan un interés en las elecciones
+
+poder hacer una revisión de los
+
+resultados
+
+que se tienen a través de éstas de los
+
+formularios que hemos obtenido o bien a
+
+través de la bien a través de los fondos
+
+entonces pues
+
+dejad a los demás compañeros para que
+
+empiecen a explicar cada uno de los de
+
+los detalles de las propuestas entonces
+
+creo que le doy la palabra
+
+a buscar
+
+se va a encargar de la parte de
+
+arquitectura
+
+buenos días gracias de mí
+
+bueno ya después de todo lo que contó de
+
+anís ya viene de la parte más técnica de
+
+cómo estamos como se propuso el software
+
+completamente no lo primero es cómo
+
+funciona nuestra arquitectura cómo nos
+
+organizamos como la lógica de los
+
+componentes pues para que hagan
+
+ese análisis que queremos finalmente
+
+esta es la segunda versión de esta es la
+
+segunda arquitectura que se propuso
+
+esto porque
+
+acá quitamos un óvulo que es la parte de
+
+los usuarios donde se interactúa con
+
+ellos por medio de las redes sociales
+
+que nos dijo venid esto tiene una razón
+
+claro más adelante les explicamos por
+
+qué pero acá debe estar el actual qué es
+
+lo que hacemos acá
+
+tenemos dos partes del primero del
+
+worker análisis donde vamos a analizar
+
+cada uno de los formatos de 14 las
+
+imágenes los pdf es 1 1 pues de manera
+
+paralela digamos pues para disminuir un
+
+poco del tiempo y el otro módulo que lo
+
+yo lo llamamos como
+
+orquestación de archivos así es dónde
+
+descargamos por medio de scripting en
+
+hábitat les cuentan que más o menos y
+
+cómo funciona el escape de la
+
+registraduría si éstos los almacenamos y
+
+con él david mq y con seller y nos
+
+encargamos de analizarlos por medio del
+
+algoritmo de reconocimiento y de dígitos
+
+después de todo esto lo que hacemos es
+
+enviar
+
+al momento de después de analizar un 14
+
+estos nos entregan datos de qué
+
+candidatos fueron qué candidatos fueron
+
+con qué cantidades de votos no
+
+que nos entregan otros datos por ejemplo
+
+de qué mesa de que de qué zona de qué
+
+distrito de qué departamento así
+
+exactamente de dónde es l 14 pues para
+
+mantener el control de que no se nos
+
+repitan por ejemplo qué pasa si nos
+
+envían dos fotos iguales y entonces el
+
+analizado revisa las dos fotos y dicen
+
+que es el mismo no entonces no se va a
+
+guardar dos veces el mismo sino que se
+
+hace como una copia diciendo vale ya
+
+tengo esta pero dejemos esta un ladito
+
+si es más o menos como como se está
+
+pensando
+
+esto lo resolver el orquestador de
+
+archivos se encarga de decir ah vale
+
+esto ya está
+
+bueno se hace esto y al final pues por
+
+medio de meta base que es un
+
+como es como un framework para
+
+visualizar los datos desde una base de
+
+datos se puede ser un ciudadano podría
+
+consultarlo y la idea es que sea
+
+libremente consultable y una vez
+
+terminados los proyectos
+
+siguiente ahí toma la palabra leonardo
+
+así es bueno nos encontramos en otra
+
+etapa muy interesante el proyecto que
+
+nos permite nosotros de cierta manera
+
+recolectar datos para también realizar
+
+el proceso de entrenamiento entonces
+
+digamos como solución alternativa a
+
+obtener los datos mediante el uso de la
+
+api si estamos usando el webs captura
+
+webs paper digamos que tiene es un
+
+sistema de recolección de metadatos de
+
+archivos también digamos que la
+
+registraduría dispone de una página web
+
+cierto y esa página web de llama
+
+renderizar por html un conjunto de datos
+
+los cuales son
+
+si es con su lado el departamento
+
+después del departamento consulta el
+
+municipio después del municipio
+
+consultar la zona después consulta el
+
+puesto a votación hasta llegar a la mesa
+
+y de la mesa está alojado cómo está la
+
+información
+
+de los c 14 los formularios e-14 como
+
+tal están desplegados ahí entonces lo
+
+que usamos es mediante una librería de
+
+payton cierto como una forma paralela no
+
+sólo a llamar a una a pie que dispone
+
+también la registraduría para obtener
+
+las imágenes sino que una una forma de
+
+no depender mucho de esa parte de ese
+
+servicio que se está prestando
+
+centralizados
+
+digamos mediante técnicas y mediante
+
+librerías de payton lo que hacemos es
+
+integrar y hacer peticiones
+
+post necesarias para obtener la
+
+información esto qué quiere decir
+
+utilizando una librería en python que
+
+trabajamos esta es que eran meros falsos
+
+realmente nosotros hacemos un conjunto
+
+de peticiones posts hasta llegar a armar
+
+un paquete un archivo jason que tiene
+
+digamos la información que finalmente le
+
+va a pedir otra vez al en point de la de
+
+la registraduría como les digo de
+
+emoción se supone que son datos abiertos
+
+entonces ellos disponen de un el point y
+
+en ese tiempo en yo por post obtengo la
+
+información cierto obtengo y descargo lo
+
+que son los formularios el 14
+
+a lo largo de este proceso se trabajaron
+
+con
+
+formularios del año pasado y el año
+
+presente entonces digamos que
+
+algorítmicamente ese webs kripper
+
+digamos que por parte ir a un el point
+
+de procesar una respuesta html y luego
+
+de su parte alterar sobre una lista de
+
+tipos de formatos de elección digamos
+
+que para digamos que la registraduría
+
+organiza el psuv debe la clase los
+
+resultados de los de los formularios por
+
+el tipo de votación que sea digamos
+
+tenemos de 14 para descargar
+
+[Música]
+
+fueron senado cierto para descargar
+
+cámara para descargar para descargar
+
+votaciones por partidos o incluso
+
+votaciones
+
+se proyecta para presidenciales entonces
+
+digamos que la registraduría primero me
+
+entregan y una una lista y después de
+
+esa lista de iu tirarla vuelvo y hago la
+
+petición para poder obtener que cuáles
+
+son los departamentos que yo tengo
+
+registrados resulta que la registraduría
+
+o entrega a tanto la tanto los
+
+departamentos como el con los consulados
+
+inclusive entonces digamos de cierta
+
+manera no me toque hacer otra petición
+
+encadenada para obtener los datos
+
+cierto de los departamentos y habiendo
+
+tenido una obtención de datos de
+
+departamentos de forma interactiva hasta
+
+hasta pues él escribe está pensado para
+
+que haga todo el proceso automático
+
+entonces y ctera
+
+hasta el enésimo elemento del
+
+departamento consulado hasta entonces
+
+digamos que después de eso él hace otra
+
+petición para ya previamente habiendo
+
+armado un jason cierto con los datos
+
+obtenidos anteriormente y va y consulta
+
+por el municipio y él entrega él le
+
+entrega una respuesta en html y lo que
+
+sigo yo es procesar ese html para
+
+extraer los datos del municipio y volver
+
+y hacer nuevamente una una petición por
+
+cierto al end point de la parte de la
+
+página que entrega la registraduría y de
+
+tal manera que finalmente voy hago la
+
+consulta de la zona y vuelvo otra vez y
+
+hago una petición cierto proceso otra
+
+vez el html y voy armando cada vez un
+
+jason más grande con un conjunto de
+
+especificaciones porque tengo el tipo de
+
+elección tengo el departamento luego
+
+obteniendo el municipio boya obteniendo
+
+la zona de votación y finalmente
+
+finalmente pues hago una petición sobre
+
+el puesto bueno
+
+cierto y él
+
+hace el mismo proceso vuelve y ctera y
+
+saca la procesal de html para finalmente
+
+armar otro listón más grande que me
+
+especifica el puesto hasta llegar a la
+
+mesa que lo que pasa cuando llegó a la
+
+mesa yo ya tengo el cuerpo de la
+
+petición para descargar los datos que es
+
+que yo le entregué el haití de descargar
+
+el formulario de 14 y eso solo me lo
+
+entrega hasta habiendo pasado el aire la
+
+mesa entonces digamos que y para llegar
+
+a la ley de la mesa tengo que haber
+
+pasado por una petición en donde tenga
+
+entregue el haití de la del puesto y
+
+para que yo tenga lady el puesto tengo
+
+que haber pasado por una petición en la
+
+cual yo obtuve el aire en la zona
+
+después al aire y el municipio después
+
+al aire y el departamento y más atrás en
+
+primera instancia como primera etapa del
+
+script pero entonces es lo que hace es
+
+obtener el tipo de formulario e-14 que
+
+quiero para el tipo de elección entonces
+
+digamos que para él para lo que fue
+
+trabajado en este año digamos sé que fue
+
+un pequeño ajuste que cambió respecto al
+
+modelo que se tenía con el año 2000 de
+
+las elecciones del 2018 es que están
+
+categorizadas por tipo de elección
+
+entonces también tenía que pasar el tipo
+
+de elección entonces yo con eso podía
+
+alterar y obtener los datos los
+
+formularios e-14 de la sele digamos de
+
+lo que fue la
+
+parte legislativa tanto senado cama cama
+
+de si yo quería para el año presente
+
+pues tenía puede obtener los formularios
+
+e-14 por partida y eso es muy importante
+
+porque se escribe es una variante una
+
+alternativa a depender de la apicc y
+
+pues también está entregando la
+
+registraduría y también me permite como
+
+ser una estrategia de insumo para
+
+obtener los insumos para el
+
+entrenamiento qué es lo que viene en la
+
+siguiente etapa que es la extracción el
+
+procesamiento de los datos porque yo una
+
+vez con ese script ver obtenido obtengo
+
+todos los formularios e-14 que deseo
+
+hago la paso a la etapa de extracción y
+
+procesamiento en tiempo es ya mi
+
+compañero se encargará
+
+listo buenos días mi nombre es gustavo
+
+díaz y yo soy una de las personas que
+
+está digamos apoyando todo este tema del
+
+pre procesamiento y pues también digamos
+
+el modelo de clasificación para la
+
+identificación pues de estos de esta de
+
+esta información que es muy relevante en
+
+el en el en el tema de las elecciones de
+
+los formularios e-14
+
+entonces para eso pues lo primero que
+
+nosotros estamos haciendo es una
+
+extracción y procesamiento de dígitos
+
+todo esto lo estamos trabajando con
+
+python pues como ya saben corre libre
+
+pues es una fundación
+
+que basa sus digamos como sus
+
+herramientas y tecnologías en código
+
+abierto open source
+
+nosotros digamos las principales
+
+librerías que estamos trabajando
+
+utilizando para para lograr este fin en
+
+python es marlon lipke esto nos ayuda
+
+con todo lo que es la creación de
+
+gráficos y visualización de los dígitos
+
+importó ese que esto nos ayuda para el
+
+tema de la manipulación de carpetas y de
+
+los archivos de un país esto nos permite
+
+como tantos cálculos matemáticos y
+
+análisis de datos open se ve que es
+
+digamos como la que más nos ha servido
+
+para el tema de la extracción y el
+
+procesamiento con este estamos haciendo
+
+el digamos eso sacando esa esos esos
+
+datos que están
+
+digamos a mano alzada escritos los
+
+formularios para saber qué tipo de
+
+editores y acá pues pandas que es para
+
+se utiliza pues para manejar grandes
+
+volúmenes de datos siguiente porfa
+
+bueno entonces digamos que el tema
+
+digamos acá de la información digamos
+
+para nosotros de interés primordial de
+
+extraer de formulario e-14 como podemos
+
+ver en la izquierda tenemos un
+
+formulario e-14 entonces nosotros
+
+tenemos digamos como tres digamos
+
+puntos que identificamos que son
+
+cruciales uno es la extracción de
+
+decodificación del código qr ya que éste
+
+nos permite identificar cada uno de los
+
+formularios e-14 pues ya que es un
+
+código único lo segundo que nosotros
+
+tenemos en la parte superior derecha es
+
+identificar el total de estos de
+
+sufragantes el total de votos en la urna
+
+y total de votos incinerados este valor
+
+también muy importante porque pues como
+
+os pueden dar cuenta digamos este total
+
+de votos en la mayoría de ocasiones debe
+
+coincidir con el total de votos que hubo
+
+en la mesa y por último en el último
+
+sector que nosotros estamos
+
+identificando es cuántos votos tuvo que
+
+obtuvo cada uno de los candidatos
+
+entonces este formulario pues es de las
+
+elecciones pasadas entonces acá sólo
+
+tenemos a gustado petro y guandú que en
+
+los votos en blanco los votos nulos en
+
+votos votos no marcados y los votos en
+
+la mesa entonces es por cada uno de esos
+
+candidatos nuestras opciones que
+
+nosotros tenemos poder identificar la
+
+cantidad de votos que obtuvo ese ese
+
+candidato entonces digamos que ese
+
+digamos como otro de los sectores que
+
+nosotros extraemos e intentamos y pues
+
+procesamos para saber pues para llegar
+
+como ese control y esa auditoría en
+
+estas elecciones
+
+siguiente por favor
+
+entonces una vez nosotros identificamos
+
+esos esos sectores en la en el
+
+formulario procedemos a hacer como tal
+
+la extracción de los dígitos como se
+
+pueda dar cuenta acá pues nosotros
+
+estamos este pues esto es una imagen
+
+tomada pues de los monty inbox es que
+
+utilizamos con open se ve entonces
+
+nosotros lo que hacemos es identificar y
+
+extraer cómo está los dígitos que pasa
+
+que pues en la mayoría de ocasiones no
+
+todo lo que nosotros tenemos son dígitos
+
+que a veces aparecen rayitas aparecen
+
+asteriscos aparecen
+
+no sé es las entonces nada digamos que
+
+11 de las cosas que nosotros hicimos en
+
+ese procesamiento web identificar que
+
+eran dígitos e identificar la posición
+
+de cada uno de los dígitos partes para
+
+que nos dieran el total de los botes
+
+pues uno de nosotros hacemos digamos
+
+extraemos estos dígitos y la exposición
+
+que tienen los dígitos en el formulario
+
+siguiente por fa vemos pero nos hacemos
+
+una un
+
+procesamiento de esas imágenes si
+
+siguiente positiva por favor
+
+entonces cómo se pueden dar cuenta aquí
+
+nosotros digamos lo que estamos haciendo
+
+es poder capturar la mayor cantidad de
+
+información del dígito y pre procesarla
+
+para que al momento de que nosotros la
+
+pasemos a la red neuronal sea más fácil
+
+para la red neuronal poder hacer digamos
+
+esa clasificación utilizar esa
+
+inteligencia para que nos diga listo
+
+esto es un dígito este dígito el 2 o que
+
+pronto hayan dígitos que pues se ven
+
+alterados entonces como que la
+
+clasificación diga venga este dígito no
+
+coincide ese es un dígito pues según la
+
+clasificación que nosotros tenemos que
+
+no es que está alterado entonces digamos
+
+que ese pre procesamiento que nosotros
+
+hacemos acá nos ayuda a eso a que la
+
+prendieron al tenga o puede formar más
+
+fácil poder hacer la clasificación de
+
+esa desinformación 3 para esos otros acá
+
+tenemos como un ejemplo digamos de
+
+distintas técnicas que se han utilizado
+
+estamos trabajando temas de contornos
+
+temas de tecnología de atenuación es
+
+también temas de frijol entonces pues
+
+digamos que son como procesamiento que
+
+se le está haciendo la imagen para que
+
+sea más fácil de procesar para la red
+
+neuronal
+
+siguiente porfa
+
+siguiente positiva lista entonces
+
+digamos para la clasificación y
+
+predicción de dígitos lo mismo estamos
+
+utilizando python digamos que a
+
+diferencia de estas bajas son las
+
+librerías principales porque se están
+
+utilizando varias librerías en realidad
+
+para este trabajo entonces estamos
+
+utilizando íbamos acá lo más importante
+
+es tenso flow y caras pues ya que estos
+
+pues nos ayudan a construir y entrenar
+
+el el modelo de la red neuronal
+
+siguiente por fa
+
+entonces para que digamos que para este
+
+fin nosotros estamos utilizando una
+
+arquitectura de una red neuronal
+
+convolución 'la pues que es la
+
+arquitectura más utilizada para toda la
+
+clasificación de imágenes entonces
+
+digamos que que la represión utilizando
+
+es esta red de render una convulsión al
+
+siguiente
+
+entonces el siguiente movimiento es una
+
+vez nosotros hacemos como toda esa
+
+extracción de identificación de la zona
+
+de interés extracción de los dígitos y
+
+demás nosotros le pasamos ese dígito ya
+
+pre prosa pre previamente pre procesado
+
+a la red neuronal para que la red
+
+neuronal pues digamos con el
+
+entrenamiento previo que tiene pues nos
+
+diga qué tipo de
+
+egipto es el que se le está o sea según
+
+la clasificación que entonces le está
+
+enviando entonces se da cuenta que
+
+nosotros le estamos enviando un número
+
+dos pues con la digamos reprocesado y
+
+cuando se lo pasamos al modelo pues él
+
+nos dice que es un número dos entonces
+
+actualmente digamos otro estamos
+
+trabajando con con tenemos un modelo ya
+
+que nos dando una curas y una precisión
+
+de aproximadamente acuerdos como el 89
+
+por ciento y una pérdida del 4 por
+
+ciento que pues es un buen modelo igual
+
+todavía pues nos queremos mejorar mucho
+
+más el modelo estamos estado trabajando
+
+en en otras en distintas técnicas de d
+
+de red de modelos y arquitecturas de
+
+redes neuronales y también en distintas
+
+técnicas para ver si podemos mejorar un
+
+poco más digamos la la extracción del
+
+procesamiento de los dígitos pues para
+
+que pueda poder poder para poder
+
+aumentar esas métricas para para poder
+
+aumentar esa precisión que tenemos hasta
+
+el momento de estos hits y listo
+
+sería éxito por mi parte y ya mi
+
+compañero les explican cómo es el tema
+
+de la pila recolección de la información
+
+gracias gustavo
+
+al inicio de la arquitectura que
+
+estábamos manejando actualmente era la
+
+segunda la segunda arquitectura
+
+propuesta esta fue la primera
+
+como verán
+
+tiene tres componentes una que llamamos
+
+como internet que se basa en las redes
+
+sociales whatsapp tele grant y twitter
+
+otra que se llama captura del 14 que
+
+bueno la llamamos orquestación en la
+
+otra y procesamiento que es donde
+
+colocamos lo el 72 lo del celeri para
+
+procesar cada uno de los de 14
+
+porque pasamos de ésta a la otra es
+
+debido a que es muy difícil o mucho más
+
+complicado procesar imágenes que tienen
+
+demasiadas variables como por ejemplo la
+
+iluminación en la que la distancia desde
+
+donde se tomará con la cámara
+
+el papel ale 14
+
+hace que a veces se va borroso la
+
+resolución
+
+cosas por ejemplo como la inclinación
+
+del teléfono son tantas variables que lo
+
+que queremos ahorita es no preocuparnos
+
+tanto por eso sino por que podamos
+
+procesar información
+
+entonces bueno en la información de los
+
+c 14 de manera correcta no ajustar unos
+
+modelos que realmente
+
+sean precisos y puedes ir mejorándolo en
+
+poco a poco no simplemente lanzarnos al
+
+y vamos a procesar una imagen y va a
+
+sacar todo no es demasiado complejo
+
+desde el punto de vista de análisis de
+
+imágenes
+
+entonces dejamos este módulo en pausa y
+
+nos dimos cuenta de que era difícil
+
+procesar esto cuando lo hicimos con
+
+telegram en tele gran programamos un bot
+
+para que recibiera imágenes y descartará
+
+todo lo que no fuera imágenes
+
+y bueno desde telegram no se enviaban
+
+esas imágenes al módulo de app y captura
+
+que bueno después lo llamamos porque
+
+está haciendo ni así
+
+entonces bueno muchas personas nos
+
+enviaron también
+
+bueno buenas fotos de formularios e-14
+
+pero pues
+
+algunas líneas cortadas por ejemplo no
+
+nos dan la información de que meza de
+
+qué zona de qué departamento entonces
+
+será muy difícil intentar procesar eso
+
+es algo pues se podía procesar pero no
+
+teníamos la información completa que
+
+realmente necesitábamos pues para que
+
+hubiera cierta coherencia con lo que se
+
+guarda en términos de apps
+
+incluso también hubo personas que no nos
+
+enviaron a simplemente eran como fotos
+
+de una silla o fotos de una planta feo
+
+es difícil porque entonces ahora tenemos
+
+que encargar al procesador que nos diga
+
+va a procesar un 14 oa procesar una
+
+planta así entonces se va a volver loco
+
+y
+
+queremos disminuir un poco el ruido
+
+mientras que exploramos esta parte del
+
+procesamiento por eso
+
+partimos de decir vamos a dejar de estar
+
+esta recolección este tipo de
+
+recolección y pasemos a otro vayamos a
+
+hacer el escape de la registraduría
+
+perfecto y por último tenemos el modelo
+
+de la base de datos que nosotros estamos
+
+manejando que realmente es sencillo
+
+entre comillas en donde simplemente a
+
+partir de los 14 podemos armar el 26 si
+
+ustedes saben el de 26 pues es el
+
+formato de la registraduría donde se
+
+consolidan por zonas o por departamentos
+
+bueno depende el nivel el consolidado de
+
+los c 14 que están dentro de cada sala o
+
+departamentos independent y él
+
+ya no entonces como la idea es que sea
+
+un poco genérico pues sí se puede
+
+utilizar bien en otros momentos no sólo
+
+en estas elecciones pues queremos que
+
+los cambiantes puedas puedan variar
+
+12-14 tienen como un formato que no
+
+debería cambiar que están bien y
+
+finalmente pues se hace con una relación
+
+sencilla entre pues un candidato a tener
+
+ciertos votos que van a estar reflejados
+
+en el 14 y pues finalmente el cada 26 va
+
+a tener un el 14
+
+y listo
+
+para finalizar y en la parte de los
+
+reportes donde un usuario debería poder
+
+ver los datos
+
+esto es como debería haber un usuario en
+
+la parte del
+
+nombre bueno
+
+en internet se supone que esto va a
+
+poder estar viéndose de manera libre
+
+cualquier persona puede ingresar y
+
+serían los datos que vamos a analizamos
+
+los datos que ustedes están viendo en
+
+pantalla
+
+son parte del procesamiento como por el
+
+procesamiento que hicimos con datos de
+
+que arrojaban el procesador que están
+
+armando leonardo y gustavo y bueno
+
+pueden notar que en el 16 hay 1
+
+es bastante grande entonces hay una nota
+
+que realmente falta mucho el trabajo que
+
+hacerle pero
+
+lo está haciendo bien en inicios
+
+ya finalizando andrés a presentar
+
+backstage
+
+no se le dificultó volver a ingresar a
+
+la reunión entonces tranquilo
+
+muchas gracias
+
+bueno ok entonces digamos para hacerlo
+
+finalmente este es un trabajo que ya
+
+puede
+
+estas ramas de algunos resultados
+
+importantes para que la ciudadanía pueda
+
+si mantienes la presentación
+
+agradeceríamos pues como para que la
+
+gente sepa
+
+las redes en las que pueden mandar las
+
+fotos y como manera alternativa pues
+
+igual profesantes
+
+explicó leonardo pues está en
+
+y disponible es el que más adelantado
+
+está y estos temas
+
+dependemos mucho es que los ciudadanos
+
+que están como observadores jurados o
+
+testigos electorales puedan enviar sus
+
+fotos a las que tienen alcance
+
+de los comuneros de 14 entonces pues no
+
+sé ya dejamos para preguntas a
+
+los compañeros
+
+nos dirán en él
+
+está coordinando desde esta presentación
+
+muchas gracias
+
+bueno gracias a todos
+
+por la exposición a continuación venimos
+
+a la sección de preguntas de nuestro
+
+público y tenemos una por parte de
+
+cristian mansilla
+
+pregunta a cristian los datos se envían
+
+encriptados
+
+en respuesta por ahora no lo haremos
+
+tratado de hacer que el proceso sea lo
+
+más sencillo para que lleguen fotos es
+
+un proceso donde
+
+podrían venir de una mesa tres o cuatro
+
+fotos la inscripción pues la que tienen
+
+cada uno de los canales que utilizan si
+
+hiciéramos por foto de 14 desde un canal
+
+seguro de whatsapp pues es hacer el
+
+nivel de inglés siempre que traiga la
+
+foto en el procesamiento de la foto pues
+
+los formularios e-14 tienen unos unas
+
+guías y uno puede procesar a partir de
+
+esa guía
+
+de que a qué mesa hay un código de
+
+barras cantina social a qué mesa de
+
+votación está haciendo
+
+esta empresa esa foto si es una planta
+
+como la que escribió oscar pues nos
+
+vamos a encontrar esa grilla y el
+
+proceso
+
+desecharía de esa foto de la
+
+inscripciones para que alguien puede en
+
+el camino eventualmente cambiar la foto
+
+pues lo que cambiaría
+
+cuando me planteé por cualquiera de
+
+estas redes al principio hemos tratado
+
+de simplificar
+
+proporciona el proceso de envío de las
+
+puertas no se necesita entrar a una
+
+aplicación para enviarla no que sea
+
+sencilla y en si se acordarán en el
+
+diagrama lo primero que hacemos es
+
+cuerda en las fotos luego ya pensaremos
+
+a procesarlos cuando estas fórmulas
+
+ese componente no es tan importante en
+
+este
+
+de acuerdo aquí tenemos otra pregunta y
+
+pregunta cristian asociado también es
+
+que capacidad de procesamiento tiene ahí
+
+en metadata
+
+quien quiere contestar esa pregunta
+
+leonard lo mismo que el skate porque en
+
+principio los la capacidad de
+
+procesamiento que tenemos hasta nosotros
+
+esto lo tenemos ubicados en servidores
+
+de google jams entonces es relativamente
+
+barato pagar
+
+una un día de procesamiento que es
+
+escalando completamente hay unos
+
+componentes que no explicamos solos todo
+
+el sistema de digamos de infraestructura
+
+por la por el tiempo no quisimos
+
+encontrar este otro terror que es un
+
+otro tema parte pero pues tenemos es la
+
+estos están trabajando sobre
+
+servidores de google
+
+responde la pregunta dónde o
+
+antequera
+
+vale no yo te digo lo mismo
+
+tenemos otra pregunta pero es como una
+
+sugerencia técnica
+
+más para gustado y
+
+tal vez a oscar no se ha pensado en
+
+utilizarse más más o julia para hacer
+
+todo ese procesamiento ese es etapa de
+
+procesamiento
+
+empezamos obligamos un usamos python
+
+porque las personas que se incorporaron
+
+el proyector al óxido si hay personas
+
+que quieren unirse al proyecto
+
+escríbanos a las redes en mis compañeros
+
+seguramente si hay interés en participar
+
+serían bienvenidos a estas otras
+
+propuestas o sea yo ahí hay bastante
+
+trabajo para para hacer y mejorar la
+
+idea es que éstos sigan que su proyecto
+
+que continúe para como dijo oscar
+
+para otras elecciones no solo en
+
+colombia sino en otras partes
+
+imagínense de este proyecto en otro país
+
+entonces creo que los de
+
+independientemente del partido
+
+independientemente de la filiación
+
+política vídeo o su percepción
+
+ideológica es un proyecto que como
+
+ciudadanía no es cierto entonces están
+
+bienvenidos o sea que hemos utilizado
+
+las herramientas que respondan mejor
+
+porque es lo que conocen las personas
+
+que es se incorporaron al proyecto sería
+
+interesante pues utilizar esas otras
+
+opciones pero esto es un proyecto por
+
+digamos con financiado por correo libre
+
+muy
+
+buena parte del tiempo que tenemos hasta
+
+ese donado la mayoría de las personas
+
+están donando su trabajo entonces pues
+
+no tenemos con muchos posibles de
+
+explorar cosas que no conocemos en
+
+profundidad pero son bienvenidos a
+
+apoyar el proyecto
+
+bueno vale muchísimas gracias no olviden
+
+que aún hay espacio más para preguntas
+
+para los que nos estén viendo en estos
+
+momentos aún tienen tiempo de seguir
+
+formulando preguntas
+
+bueno
+
+al parecer no han surgido más preguntas
+
+por el momento no sé si te parece denis
+
+damos cinco minutos más para que las
+
+personas son nuestros quienes nos estén
+
+viendo formule su respectiva pregunta y
+
+en dado caso puede ser en cinco minutos
+
+daremos fin a la charla para ver si está
+
+bien está bien lo aprovecho pues como
+
+para para
+
+para algunas de las personas que no
+
+vinieron entonces pero que han sido tan
+
+pendientes de la iniciativa andrés
+
+calderón es un miembro de la fundación
+
+por el libre pues óscar pues repetirán
+
+de las gracias existo acaba haciendo la
+
+presentación a andrés ortega que no se
+
+pudo conectarse a salir no se pudo
+
+conectar
+
+responsable de scapín a javier rojas que
+
+ha sido nuestro coordinador el técnico
+
+desafortunadamente hoy no nos pudo
+
+acompañar
+
+gustavo fue la persona que presentó el
+
+tema imágenes y está apoyando a andrés
+
+aranguren que es la persona que ha
+
+desarrollado los algoritmos para lectura
+
+de los números también agradecerá
+
+[Música]
+
+jairo lo sabe ya lo mencioné a johan
+
+johan mora que es uno de los encargados
+
+con el gran de la infraestructura de
+
+del sitio
+
+darle las gracias también al profesor
+
+jorge camargo
+
+pues algunos temas a morir
+
+como pendiente de las redes
+
+por el equipo que es mencionado en gente
+
+que está haciendo voluntariado
+
+si viene más gente ayuda están
+
+dispuestos a ayudar
+
+hubo más preguntas para mis compañías
+
+tensión
+
+[Música]
+
+invitamos a todos nuestros espectadores
+
+a que formulen su respectiva preguntas
+
+recuerden que aún tiene tiempo máximo
+
+nos quedarían tres minutos
+
+i
+
+muy bien interesante aquí ya nos y
+
+riccardo perilla nos formula una
+
+pregunta
+
+dice lo siguiente
+
+interesante la parte que explicó oscar
+
+sobre el procesamiento podría por favor
+
+aclarar por qué se usó la segunda
+
+arquitectura ya es un criterio de
+
+diseño pregunta ricardo perilla es
+
+porque se usó la segunda arquitectura
+
+y sin
+
+como les comentaba
+
+no cambia mucho es simplemente como
+
+quitar el módulo de la parte en donde
+
+recibimos los datos de los sacas esto de
+
+viva porque nos genera mucho ruido
+
+entonces no es que esté descartada sino
+
+que es como
+
+causada por así decirlo para que los
+
+para nosotros puede perder tiempo para
+
+refinar los datos el procesador el
+
+procesamiento de los datos y poder
+
+centrarnos en después poder darle como
+
+de unidad a mejorarla con fotos que nos
+
+manden los usuarios entonces
+
+la razón por la crítica de la
+
+arquitectura sólo practicar esa parte
+
+donde recibimos las fotos de los
+
+usuarios porque nos generan demasiado
+
+ruido
+
+como les decía nos mandaron una foto de
+
+una planta entonces es como esto no es
+
+procesable no era lo que esperábamos y
+
+pues preocuparnos por decirle no es que
+
+no necesito que procese una planta pues
+
+es como trabajo extra que no es el
+
+centro de del proyecto por ahora no es
+
+que cuando cuando esté más avanzado el
+
+tema de que la visualización de los
+
+datos esté bien de qué
+
+de que se procesan los pdf bien
+
+ya ya sería como
+
+preocuparnos por que podamos procesar
+
+más cosas complejas sí pero no la idea
+
+es tener algo base que funcione y no
+
+preocuparnos por por las cosas que
+
+puedan llegar a ser demasiado complejas
+
+y ya ves como esa la razón no está
+
+descartada sino como pausa
+
+a veces
+
+bueno viste la interacción pues podemos
+
+dejar otro espacio de 4 minutos hasta
+
+las diez y media y ya finalizamos
+
+totalmente el espacio entonces invitamos
+
+a nuestros espectadores a que por favor
+
+nos escriban sus preguntas y nosotros
+
+con todo gusto la responderemos
+
+bueno quiero recordar a todos nuestros
+
+espectadores que sólo quedan exactamente
+
+dos minutos para terminar la transmisión
+
+estamos esperando sus preguntas atenta y
+
+atenta
+
+bueno no sobra de más mencionar que por
+
+favor a todos nuestros espectadores
+
+estén atentos en la programación de esta
+
+jornada del flisol bogotá 2022 va a ser
+
+semipresencial tenemos tenemos
+
+participación presencial en la 40 de la
+
+40 de la universidad distrital que queda
+
+en la carrera octava con calle 40 y
+
+también tenemos vía web online por medio
+
+de nuestras redes sociales el nuestro
+
+nuestro canal en youtube principal
+
+frijol bogotá
+
+se pueden dirigir y si continuar con
+
+nuestra programación bueno muchísimas
+
+gracias creo que ha sido se ha cumplido
+
+el tiempo no se despeguen de la
+
+programación de crisol bogotá 2022 y un
+
+saludo a todos muchísimas gracias
+
+y aceleró luego agradeciendo a todos
+
+es igualmente
+

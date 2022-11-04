@@ -1,0 +1,2500 @@
+muy buenas tardes a todos los que nos
+
+están acompañando nos encontramos en
+
+otra edición del crisol bogotá año 2022
+
+hoy nos acompaña a andrés gómez casanova
+
+él va a ser un taller con el open stream
+
+apps bueno estar de andrés o más bien
+
+bien ganando muchas gracias aquí muy
+
+agradecido por haberme abierto este
+
+espacio en el que hizo del 2022 aquí en
+
+bogotá muchas gracias de acuerdo
+
+entonces no siendo más andrés este
+
+espacio es tuyo al final tendremos bueno
+
+es un taller pero pues si preguntas pues
+
+igual será el espacio para que la gente
+
+vaya pasando sus preguntas listo
+
+perfecto leonardo muchas gracias
+
+entonces continuamos listo bueno
+
+buenas tardes a todos el en esta ocasión
+
+les voy a presentar un poquito
+
+openstreetmap sobre todo muy enfocado a
+
+la casa de cada uno de ustedes para que
+
+la amamos y agreguemos
+
+y nuestro lugar en el mapa
+
+bueno entonces eso ya nos vamos cazando
+
+como ya les dije mi usuario es angoca en
+
+open screen a que ustedes me pueden
+
+encontrar ahí en otras redes sociales
+
+como la siguiente
+
+bueno tocó con este que pena listo bueno
+
+primero tenemos que comenzar a entender
+
+que es open screen a para poder ahorita
+
+más adelante agregar un poquito de
+
+detalles openstreetmap es un mapa como
+
+muchos mapas de los que nos enseñaron
+
+inclusive en el colegio que tiene ríos
+
+tiene montañas dibujan cultivos de ríos
+
+montañas división política los mares
+
+tiene calles tiene muchas cosas pues
+
+y entonces empezamos a ver que open
+
+screen a es más que un mapa es una base
+
+de datos en la cual tiene mucha
+
+información
+
+entonces va a tener direcciones sentidos
+
+de vías
+
+restricciones de vías red de cruces
+
+quiere decir árboles por ejemplo ayer
+
+día que era el día de la tierra pues en
+
+los árboles juegan un papel importante
+
+en la comunidad que empezó a mapear
+
+árboles y empezamos a ver que open
+
+stream al es un conjunto de datos y que
+
+conforman finalmente una base de datos
+
+pero esa base de datos está
+
+mantenida por una comunidad que son
+
+personas como ustedes como yo como
+
+leonardo como cualquier persona que
+
+quiera aportar al mapa
+
+y simplemente es eso ganas de voluntad y
+
+ganas de aportar de poner tu granito de
+
+arena en un mapa para que todos nos
+
+aprovechemos de ese mapa entonces ahí
+
+empezamos a ver que ese conjunto de
+
+datos son datos abiertos
+
+y hoy que estamos en el festival
+
+latinoamericano de instalación de
+
+software libre pues los datos abiertos y
+
+software libre vienen como muy de la
+
+mano sobre todo que eso viene con una
+
+licencia pues la licencia de
+
+openstreetmap es una licencia particular
+
+porque una licencia de bases de datos
+
+y que permite hacer muchísimas cosas
+
+casi que cualquier persona puedo hacer
+
+lo que sea mientras se diga que los
+
+datos son de openstreetmap
+
+y pues esto estas libertades que nos
+
+ofrecen estos datos ha permitido crear
+
+un ecosistema de aplicaciones y
+
+herramientas alrededor de openstreetmap
+
+hoy les voy a presentar varias
+
+aplicaciones con las que podemos empezar
+
+a ver ese mundo y yo con este mapa y con
+
+lo que ustedes más ven cómo lo van a
+
+poder ver desde muchas aplicaciones y
+
+pues es una oportunidad para generar
+
+negocios para para crecer junto con los
+
+dos planes map ya que es una herramienta
+
+que lo permite hacer pues ya en este
+
+punto ustedes dirán bueno y sin usar
+
+openstreetmap porque pronto algunos de
+
+ustedes dirán no google es omnipresente
+
+google maps es el mejor mapa
+
+pues no sé aquí les va a presentar
+
+facebook me imagino ustedes tendrán una
+
+cuenta hay los mapas de facebook está
+
+nuevo pen estima pues me gusta hacer las
+
+pruebas de esto vamos a ver facebook a
+
+universidad distrital
+
+y aquí cuando abrimos la página de
+
+facebook
+
+es tema pita
+
+que vemos es un mapa de openstreetmap
+
+pues viven ya una empresa grande como
+
+facebook está usando nuestros mapas
+
+y procesos muy importante apple también
+
+está usando los mapas de
+
+openstreetmap aunque voy a abrir la
+
+aplicación maps y cuando la vemos acá es
+
+openstreetmap
+
+estoy en la aplicación de mapas y en
+
+abajo dice open screen a 2 si bien son
+
+dos aplicaciones ya muy grandes empresas
+
+de tecnologías gigantes que están usando
+
+los datos de open shimano están usando
+
+datos de google
+
+igualmente microsoft cuando vayamos a
+
+ver la página de bing maps punto ping
+
+vemos que estos datos una parte son de
+
+openstreetmap
+
+yo lo reconozco porque yo he empezado a
+
+hacer ciertos mapeos en la ciudad y aquí
+
+inclusive hemos open stream a veces es
+
+verdad que ellos ya tenían datos porque
+
+ellos venía levantando datos al terreno
+
+pero tener un dato un mapa mundial
+
+finalmente no es negocio para ellos sino
+
+de usar el mapa como tal no es negocio
+
+es lo que se le pone encima como estamos
+
+viendo todo esto todas esas punticos ese
+
+es el negocio de ellos pues el mapa base
+
+que es el mapa openstreetmap es lo mejor
+
+es tenerlo libre como como les estoy
+
+mostrando entonces otras aplicaciones
+
+otras empresas es para en programas son
+
+logistics en la que la parte
+
+distribución en eeuu usa open mapas de
+
+openstreetmap foursquare que es una
+
+página de
+
+como de recomendaciones de lugares
+
+también usa openstreetmap wikipedia que
+
+inclusive en el fin solo y tuvimos una
+
+una charla de wikipedia
+
+pongamos aquí wikipedia es si algo no se
+
+río magdalena
+
+la
+
+magdalena
+
+entonces cuando vamos a abrir el río
+
+magdalena
+
+aquí vamos a encontrar tenemos que
+
+encontrar un mapa ahí si no estoy seguro
+
+o no este mapa es una imagen pues no es
+
+un mapa dinámico es una mapa mapa
+
+generado y puede haber sido hecho con
+
+otra herramienta entonces pongamos
+
+bogotá no sé
+
+vamos a poner bogotá
+
+no me carga y aquí vemos un mapa si ven
+
+o volvemos a ver que este mapa de
+
+openstreetmap
+
+pues como ven apoyar este mapa es
+
+interesante porque ya no solamente va a
+
+ser el mapa de ese empleo de ese
+
+proyecto sino hace un mapa que va a ser
+
+usado por muchas empresas muchos
+
+proyectos ni antich ustedes saben que
+
+son los de los juegos de pokémon y link
+
+de inglés y no sé si el de harry potter
+
+snapshot que es otra red social
+
+inclusive el código postal del código
+
+postal es una división del ministerio de
+
+telecomunicaciones
+
+ellos usan nuestro mapa es genial
+
+entonces quiero
+
+decirle a los
+
+participantes que comencemos a instalar
+
+software
+
+para los que tienen apple iphone digo
+
+podemos instalar el dispositivo móvil
+
+una aplicación que se llama bow map y ya
+
+para los que tienen
+
+android podemos instalar una de estas
+
+tres aplicaciones os mando organic maps
+
+y locus local mapa
+
+son muy buenas aplicaciones les permite
+
+algunos permiten hacer ediciones de
+
+mapas como go map en androides otra
+
+aplicación pero bueno no viene al caso
+
+les permite hacer trazas o sea ustedes
+
+activan y les muestra qué recorrido
+
+hicieron les permite bajar no solamente
+
+mapas desde
+
+de openstreetmap sin oponer una capa de
+
+nivel de curvas de nivel e inclusive
+
+pagando pueden tener información del
+
+tráfico del clima bueno y ya empiezan
+
+ustedes saber que ese mapa base se le
+
+pueden meter muchas cosas encima y se
+
+puede tener una aplicación mucho más
+
+interesante que inclusive google maps y
+
+lo mejor es que ustedes mismos pueden
+
+contribuir a ello y no sé si hay alguna
+
+pregunta en el momento si quieren ir
+
+instalando se las voy a mostrar acá me
+
+gusta mostrar organic maps es una
+
+aplicación que es de tendencia ahorita
+
+en open street map es esta aplicación
+
+miren ahí tiene un ruteo quiero ir de un
+
+punto a otro punto me muestra algunos
+
+unos puntos de interés de
+
+nuestras curvas de nivel que son estas
+
+líneas y estás me muestra ríos hay
+
+vegetación
+
+muestra muchas cosas organic maps listas
+
+son unas vistas un mapa bastante
+
+agradable e inclusive muestra los
+
+edificios en tercera dimensión
+
+listo y ahorita más más adelante vamos a
+
+ver qué es eso de la tercera dimensión
+
+pero pues es importante que lo tengamos
+
+como ahí en el radar
+
+listo
+
+entonces
+
+espero pues
+
+instale en uno de estos software como
+
+les decía en sus celulares y van a ver
+
+los beneficios que les trae
+
+entonces ya
+
+está listo ya sé que lo están usando
+
+muchas empresas
+
+tengo aplicaciones pero como me
+
+beneficio aportar al mapa pues ya de por
+
+sí si tú vas el cuadrito de la casa o el
+
+edificio donde vídeos ese cuadro va a
+
+aparecer en el mapa o sea en este caso
+
+aquí vemos está bueno habría una foto
+
+que no está estos cuadritos títulos
+
+vivos tú das tu casa
+
+cualquiera lo va a ver ahí listo
+
+cualquiera a ver esa casa y no va a ser
+
+como una calle y un espacio la manzana
+
+sin construcciones sino ya tu casa va a
+
+tener volumen ahí en el mapa
+
+la calle tendrá el nombre pues uno de
+
+los problemas de las calles en colombia
+
+es que hay veces no se saben bien los
+
+nombres en los mapas de las grandes
+
+organizaciones no tienen los nombres
+
+adecuados porque ellos no han ido calle
+
+a calle recuerdos datos sino que se los
+
+compran se compran los datos entre
+
+compañías y pronto los datos no son
+
+verdaderos sobre llama aquí en bogotá y
+
+casas y vías que han cambiado de
+
+dirección dos veces
+
+y de pronto el mapa tiene dirección
+
+vieja y pues obviamente cuando alguien
+
+va a usar un mapa no va a concordar la
+
+realidad con esto
+
+pues tener la dirección es bueno incluye
+
+el sentido el sentido si va de sur a
+
+norte de oriente a occidente
+
+porque así si un carro necesita hacer un
+
+ruteo pues va a llegar y no va a
+
+encontrarse a una calle en contravía
+
+los rooteado la dirección como tal pues
+
+no sabe qué listo de la calle el frente
+
+line la calle que está al frente de la
+
+casa de uno es la calle y tal la carrera
+
+primera la calle segunda lo que sea
+
+pero el número número taltal ya es la
+
+ubicación en encima de esa calle de mi
+
+casa
+
+no sé si les pasó que al principio
+
+google no escribió a cualquier dirección
+
+y si yo estaba en fontibón me la mandaba
+
+al norte o si yo estaba no sé en
+
+cedritos me decía que era en el centro
+
+porque todavía no entendía las
+
+direcciones de bogotá porque claro estos
+
+sistemas están diseñados para sistemas
+
+americanos o británicos en cambio pues
+
+aquí si uno se pone esta es mi dirección
+
+ya el mundo de los motores de búsqueda
+
+van a saber dónde uno queda
+
+como les decía la altura en 3d no es lo
+
+mismo una casa de un piso a un edificio
+
+como no sé la torre colpatria que tiene
+
+como 30 pisos y es bonito ver en un mapa
+
+que el mapa se está
+
+expresando es el término como que se
+
+sale en tercera dimensión
+
+bueno
+
+también podrás identificar los comercios
+
+de cercanías donde queda la panadería
+
+más cercana a la estación de gasolina y
+
+una lavandería es información que puede
+
+que la conozcas pero es bueno que esté
+
+en el mapa para que cualquier otra
+
+persona lo pueda identificar si al lleno
+
+cuando como cuando uno se cambia se muda
+
+cambia de barrio uno no sabe dónde
+
+quedan las cosas y pues les gustaría
+
+escribir un mapa con toda la información
+
+pues este es el lugar indicado para
+
+indicar todos los puntitos que tú sabes
+
+dónde está que está la panadería que ya
+
+queda la lavandería que el montallantas
+
+que la carnicería lo que sea
+
+también identificarlo la división
+
+política por ejemplo bogotá bogotá es un
+
+caso muy particular que erróneamente
+
+decir creemos que bogotá hace parte de
+
+cundinamarca como el departamento
+
+bogotá tiene una condición particular
+
+que es un distrito especial distrito
+
+capital precisamente y tienen la misma
+
+él está al mismo nivel de los
+
+departamentos
+
+pues está daniel es así yo listo y es
+
+difícil en otro mapa como en google
+
+militar departamentos de nombres clímax
+
+y se puede yo listo de los departamentos
+
+y voy a encontrar bogotá a la misma
+
+altura de los departamentos pero bogotá
+
+también es un municipio pues yo listo
+
+todos los municipios de colombia también
+
+aparece bogotá y finalmente lo más
+
+particular la capital de cundinamarca es
+
+bogotá pues es una condición especial
+
+que en muchas aplicaciones no la
+
+entienden que bogotá tiene sus
+
+características particulares y no hace
+
+parte de cundinamarca pero sí es la
+
+capital y bueno como les dije uno puede
+
+hacer consultas lo bueno open stream
+
+aves que uno puede consultar el mapa y
+
+no solamente con un motor sitio de
+
+búsqueda un campito así sino con
+
+condiciones que cuál es el bar más cerca
+
+de un parqueadero en bogotá por ejemplo
+
+y eso no lo puede hacer es cuestión de
+
+consultar la base de datos que puede ser
+
+un poquito complicado al principio pero
+
+le permite hacer unas consultas muy
+
+interesantes
+
+bueno entonces ya como sabemos que
+
+podemos que ese mapa es súper
+
+interesante para aportar les propongo
+
+que queremos una cuenta en openstreetmap
+
+para comenzar a mapear o mapear es el
+
+término de aportar al mapa listo que
+
+necesito para crear una cuenta tan sólo
+
+necesito un correo electrónico supongo
+
+que muchos de los aquí presentes tienen
+
+un correo electrónico en el cual pueden
+
+acceder ya mismo y pues vamos a
+
+dirigirnos a la página
+
+una vez creada la cuenta ya solamente es
+
+entender los conceptos básicos y en la
+
+siguiente la positiva se los voy a
+
+presentar pues sigamos con el registro
+
+nos vamos a la página principal
+
+openstreetmap punto o hereje
+
+también se puede escribir sm punto
+
+hereje esa openstreetmap eso lo apunta
+
+el 1
+
+a la otra y aquí le decimos
+
+registrarse a la arriba a la derecha
+
+entonces les va a aparecer ese mismo
+
+globito de aquí en globo terráqueo y
+
+aquí voy a escribir mi dirección
+
+a punto c
+
+y confirmó a
+
+ver como yo ya estoy en openstreetmap no
+
+voy a crear otra cuenta no necesito pero
+
+este es el proceso usted entonces aquí
+
+escribe en su cuenta de correo
+
+electrónico aquí la confirman que sea
+
+igual aquí es el nombre yo al
+
+presentarme al comenzar esta
+
+presentación dije mi nombre de usuario
+
+de shango acá pues el nombre que ustedes
+
+quieran que yo me llamo
+
+cómo se llama el frailejón
+
+ernesto pérez
+
+pues yo puedo que llamarme ernesto pérez
+
+y la contraseña la que yo quiera listo
+
+eso es todo
+
+si yo no quiero poner mi nombre de
+
+verdad sino un nombre me alias también
+
+lo puedo poner acá frailejón por ejemplo
+
+y así es como la comunidad de
+
+openstreetmap me va a conocer listo es
+
+importante que este nombre pongan algo
+
+que
+
+estén seguros y que se acuerden porque
+
+así es como se van a conocer en la
+
+comunidad y todo lo todas las cosas que
+
+ustedes guarden las modificaciones va a
+
+quedar con este nombre
+
+bueno una vez de ahí al registrarse
+
+enviarán un mail y uno simplemente le
+
+dará confirmar y volverá aquí a
+
+openstreetmap
+
+bueno entonces
+
+ya con esto
+
+pasemos a los elementos básicos de mapeo
+
+ya tenemos la cuenta openstreetmap ya
+
+debemos estar
+
+adentro yo muevo yo voy a ingresar se
+
+iniciar sesión porque
+
+yo ya tengo cuenta entonces mi correo
+
+electrónico
+
+y mi contraseña
+
+entonces le digo iniciar sesión uno
+
+también puede como vieron
+
+[Música]
+
+bueno voy a cerrar sesión
+
+iniciar sesión uno pueda asociar su
+
+inicio de sesión con varios proveedores
+
+de terceros con facebook con google con
+
+pena y dih
+
+microsoft bukit hub wikipedia o
+
+wordpress ello el test si ustedes les
+
+gusta iniciar sesión con algún
+
+proveedor de eso la pueden unir vincular
+
+para no tener que hacer esto y listo ya
+
+acá ustedes podrán ver que el menú no es
+
+bueno está en gris pero les aparece
+
+porque ya paredes en gris porque estamos
+
+muy lejos hay muchos datos bogotá tiene
+
+muchísimos datos para no querer editar
+
+todo después nos vamos a acercar a la
+
+zona que queremos pero antes voy a
+
+seguir con la presentación
+
+entonces como de mapeo
+
+el concepto más básico del mapa es el
+
+nodo
+
+1.1.1 al espacio que va a tener
+
+coordenadas de latitud de longitud
+
+visto cuántos encima del ecuador y a
+
+cuánto estamos de almería no de greens y
+
+esa s
+
+ese cruce de esas dos líneas imaginarias
+
+nos va a dar la posición de un punto
+
+ese punto es único en toda la tierra y
+
+eso lo podemos matar este es un elemento
+
+básico en la open stream así puede por
+
+ejemplo representar la ubicación de una
+
+lavandería y este es el punto puede
+
+representar el 'label que tiene bogotá
+
+tienen que bogotá está aquí porque está
+
+ahí porque hay un puntito que definió
+
+que el 'label en la etiqueta bogotá debe
+
+aparecer ahí si yo ya le hago mucho sol
+
+desaparece
+
+pero aquí viendo estos digamos estos
+
+lugares de culto aquí vemos que hay un
+
+lugar de juntos cultos un punto una
+
+cafetería una panadería una ferretería
+
+una veterinaria son puntos listo es la
+
+el concepto más básico de openstreetmap
+
+para mapear
+
+ya después podemos tener líneas o
+
+segmentos en inglés los 16 en ways
+
+es unir dos puntos un punto de inicio el
+
+punto de fin y esa línea que se forma es
+
+un way
+
+y yo además puedo tener una un tercer
+
+punto y que lo uno con otro entonces
+
+tengo un
+
+un buey con múltiples segmentos y ya
+
+después inclusive lo puedo cerrar
+
+con 33 puntos yo puedo tener una línea
+
+entre 2
+
+en todos los tres nuevos puntos vértices
+
+inclusive puede hacer un
+
+círculo con la figura cerrada o puedo
+
+convertirme en área
+
+pero eso no es que yo lo convierta sino
+
+dependiendo de las propiedades que yo
+
+ahorita les voy a decir entonces con
+
+tres puntitos aquí tengo un wayne punto
+
+way y la tercera relación la relación
+
+que es es un conjunto de puntos
+
+weiss o de otras relaciones y eso es lo
+
+que se llama un miembro
+
+es algo complejo no esto realmente es
+
+fácil pero como siempre
+
+la curva aprendizaje hay que empezar
+
+primero con los después con ways y
+
+después con relaciones para que sea
+
+fácil entonces yo como digo que se llama
+
+la
+
+de la playa
+
+lavandería pablo sexto
+
+pues primero es el nodo lograr un nombre
+
+llave valor en la llave es name y el
+
+nombre es el nombre que sea lavandería
+
+para los extra
+
+y como ese es un tipo de
+
+establecimiento qué tipo de
+
+establecimiento es una lavandería yo sé
+
+y ahorita les explico ese es un subtipo
+
+londres
+
+y pues yo mapeo eso acá
+
+nombre en inglés lavandería
+
+y así se apea por ejemplo un punto ya
+
+después cuando hablamos de segmentos de
+
+weiss por ejemplo esto se representa una
+
+calle no sé la carrera 50 pues yo le
+
+pongo las propiedades es a alhuey no a
+
+los puntos a estos nodos y no a alhuey y
+
+le digo name carrera 50 y como tipo es
+
+un high way de tipo secundario se
+
+convierte
+
+y las relaciones viene a ser algo muy
+
+parecido en el que yo le doy las
+
+propiedades tanto a la relación como a
+
+sus miembros típicamente que es un
+
+ejemplo de una ruta de transporte pero
+
+ya ahorita lo vemos o sea no quiero
+
+confundirlos
+
+entonces
+
+como aportar desde el computador pues ya
+
+sabemos cómo mapear y ya tenemos una
+
+cuenta openstreetmap entonces para
+
+mapear podemos acceder desde el editor
+
+web que se llama haití o con una
+
+aplicación que se llama george o hay
+
+otro infinidad aplicaciones pero hoy
+
+solamente les voy a mostrar estas dos
+
+entonces aydin se puede abrir cuando uno
+
+le da aquí de editar
+
+entonces estamos aquí en pablo sexto en
+
+la esmeralda no sé
+
+vámonos a la universidad distrital qué
+
+tal está qué tan bien el mapeado hasta
+
+la universidad distrital
+
+y yo aquí me pierdo
+
+por acá
+
+estoy en la 43 mano por la séptima
+
+la distrital aquí estoy listo aquí
+
+podemos ver que la universidad distrital
+
+está bien mapeado tiene árboles tiene
+
+canecas tiene algunos establecimientos
+
+y pues bueno digamos que ahorita para el
+
+ejercicio no sería un buen en meterle
+
+más información veamos más bien un
+
+espacio que no tenga
+
+que no tenga mucho mapeo vámonos por
+
+ejemplo aquí al barrio san luis o
+
+galerías
+
+aquí está nuestras calles sabemos que
+
+tienen muchos edificios y pues los vamos
+
+a editar supongamos que vivimos acá
+
+entonces yo le al darle editar
+
+me va a cambiar
+
+la interfaz de openstreetmap en la
+
+primera vez que yo inicié me va a decir
+
+que si quiero hacer un tutorial se los
+
+recomiendo que lo hagan es un poquito la
+
+repetición de lo que yo les estoy
+
+diciendo pero pues ya han guiado como
+
+haga clic aquí a gatica ya
+
+es muy bueno entonces hay que seguir
+
+esto y como les digo
+
+estudias un poquito de lo que ya
+
+veníamos haciendo entonces
+
+va a pasarlo rápido y aquí nos va a
+
+mostrar como la navegación
+
+que arrastro el mapa
+
+arrastra el mapa
+
+y bueno me dio por cargar el este y no
+
+me cargó todo cuentos que daba mapear un
+
+punto después una área después líneas y
+
+difícil pero pues yo ya lo voy a hacer
+
+entonces empecemos a editar
+
+y después guardamos entonces volvimos
+
+aquí al barrio galerías
+
+y esto no me está desapareciendo aya
+
+listo vamos a
+
+suponer
+
+este edificio
+
+miren este edificio claramente se ve acá
+
+el de la esquina
+
+que estés
+
+el techo la terraza del edificio y tiene
+
+un poquito de fachada vamos a dibujarlo
+
+como una área
+
+y acá
+
+dibujo la terraza
+
+pero
+
+después la muevo entonces primero porque
+
+hay un poquito de parte 500 primero
+
+dibuje la terraza le va a dar clic
+
+derecho le digo ortogonal izaro es
+
+cuadrar
+
+ya quedaron bien en 90 grados de sus
+
+ángulos y la desplazó un poquitico afa
+
+área sin etiquetas porque no va a
+
+desplazar
+
+desplazado ya
+
+y aquí lo muevo a la base ustedes van a
+
+ver de pronto que está un poco los
+
+cuadrados ya con respecto a la terraza
+
+pero pues es la perspectiva y digo que
+
+de esa área entonces es simplemente un
+
+edificio
+
+lo voy a quitar esta área y le voy a
+
+poner building
+
+y yo sé que este violín es de
+
+apartamentos
+
+a por mentz
+
+phillips
+
+eso ya hice mi primera contribución
+
+dibuje el cuadrito como les decía de
+
+openstreetmap
+
+eso es así
+
+usted utilice la técnica les expliqué de
+
+un área y con una propiedad en este caso
+
+solamente una la construcción de tipo
+
+apartments
+
+en yo yo no es una aplicación similar es
+
+una aplicación basada en java y chan
+
+java todo esto es código abierto hoy que
+
+estamos en el festival de festival
+
+latinoamericano de instalación de
+
+software abierto
+
+pues qué mejor que mapear datos abiertos
+
+con software abierto qué es lo que
+
+estamos haciendo entonces este dios es
+
+una aplicación mucho más pesada una
+
+aplicación hecha nava y que va a traer
+
+o
+
+más herramientas para mapear si bien no
+
+estábamos hablando estuvo un poquito de
+
+complicación simplemente con moverla
+
+pues obviamente sabemos que es un editor
+
+web que no es tan dinámico
+
+todo tan desarrollado este editor si lo
+
+va a permitir hacer muy rápidamente
+
+porque además de uno puede jugar con el
+
+teclado y puede
+
+estar ahí pues mapeando el teclado y
+
+mouse teclado y mouse entonces nos vamos
+
+aquí vamos voy a bajar una zona cercana
+
+no la misma
+
+para que no vayamos a crear una colisión
+
+entre nosotros supongamos
+
+por acá
+
+yo selecciono qué área de trabajar
+
+y listo y está bajando de openstreetmap
+
+entonces ustedes dirán muy pero está
+
+aquí si no tiene la foto satelital pues
+
+eso es lo bueno de ellos porque permite
+
+bajar muchas imágenes satelitales o
+
+muchas otras herramientas
+
+solo voy a mostrarles que uno puede
+
+bajarla de bing
+
+o la del idec a la del y de castle
+
+departamento después de datos especiales
+
+del catastro osea bogotá ya que ellos
+
+liberaron esos datos pues tenemos unas
+
+fotos muy buenas de bogotá
+
+entonces si se mejora un poquito en
+
+bajar pero van a ver que las fotos son
+
+mucho mejores que las de bing siguen
+
+aquí se pueden mapear mucho mejor si en
+
+las canchas de tenis se ven mucho mejor
+
+en esta que en la otra aquí casi no se
+
+venían las líneas y todos los datos si
+
+bien no se ven las líneas en cambio en
+
+la herida acá se ven las líneas de la
+
+cancha
+
+bueno entonces esto es lo mismo yo
+
+agrego datos
+
+lo digo acá
+
+agregar y yo dibujo no voy a hacerlo
+
+completo pero si ven dibujo los datos
+
+acá le digo esto es por todo analizar
+
+y ya
+
+tradicional
+
+entonces es un mapa ya lo más veamos en
+
+dos herramientas y listo
+
+entonces me gustaría que ustedes mapear
+
+en su casa buscarán la ubicación de su
+
+casa en el mapa
+
+primero vean si está mapeada o no está
+
+mapeado dibujen el rectángulo tal cual
+
+como lo hice y añadan las etiquetas
+
+building y si es casa igual house si es
+
+un edificio
+
+apartment o simplemente si no saben
+
+exactamente qué desprender bell de
+
+inglés y lo final es guardar el
+
+comentario con este hashtag
+
+entonces yo
+
+voy a guardar mi cambio
+
+de que la página web años no
+
+esté
+
+y lo voy a guardar acá después de haber
+
+dibujado el cuadrado de haber puesto las
+
+etiquetas acá
+
+le voy a dar guardar
+
+y aquí voy a decir edificio
+
+galerías y voy a pegar este hashtag este
+
+hashtag es como para decir esta tarea se
+
+hizo durante el tri sol bogotá 2022
+
+y listo
+
+y ya que estoy subiendo los cambios
+
+y ya quedaron listo ya este edificio va
+
+a quedar en openstreetmap y ya no se ve
+
+como un espacio blanco como los mostré
+
+hace poquito sino se va a ver su silueta
+
+por favor si a quien están siguiendo y
+
+quiere mapear su casa es el momento de
+
+que me digan listo no encuentro mi casa
+
+o quieren que yo me vaya a un lado de
+
+bogotá y lo trabajamos en conjunto
+
+o si ven algo esto es muy muy bueno este
+
+momento para apoyar
+
+i
+
+y listo
+
+bueno entonces
+
+voy a guardar también el cambio aquí en
+
+un jd sm pero no le di las propiedades
+
+necesarias
+
+le voy a dar aquí
+
+herramientas
+
+por eso digo
+
+6 presets yo le voy a dar building desde
+
+que es un viento
+
+building y aquí le digo y es yo creo que
+
+estuvo una casa
+
+una casa
+
+y listo ya con eso la tengo mapeada la
+
+subo
+
+y le voy a decir edificio
+
+san luís
+
+bwin hashtag
+
+estamos usando listo en este momento ya
+
+hice dos edificios
+
+en dos herramientas diferentes como
+
+parte del crisol
+
+siguiendo entonces
+
+con la presentación
+
+en ese momento era listo y yo no estoy
+
+interesado en el mapa pero de pronto no
+
+quiero mapear solamente edificios que
+
+otra cosa para mapear pues ahí es cuando
+
+dependiendo de tu interés puedes mapear
+
+muchísimas cosas puedes mapear cuerpos
+
+de agua o sea ríos quebradas
+
+cascadas
+
+represas
+
+bueno
+
+donde haya agua todo eso se puede mapear
+
+incluyeron tuvo algunos tubos
+
+subterráneos se pueden hacer energía yo
+
+energía no
+
+comprendo mucho eso pero sé que hay
+
+transformadores hay unos disyuntores
+
+cableado de alta tensión de baja tensión
+
+y listo
+
+esperen un místico que aquí me están
+
+escribiendo del flisol como urgente un
+
+segundo
+
+[Música]
+
+en segundo segundo
+
+y listo
+
+entonces volviendo energía pues uno
+
+tiene que conocer un poquito para para
+
+entender a mí me gusta mucho transporte
+
+precisamente en el mes de mayo vamos a
+
+comenzar un proyecto de mapeo de las
+
+rutas de transporte en bogotá
+
+transmilenio y de stp
+
+y pues allí tocaba conocer el trayecto
+
+de los buses las zonas de parada del bus
+
+en la calle y las zonas de espera de los
+
+de las personas las estaciones de
+
+transmilenio de los terminales de
+
+transmilenio y todo esto tiene una unas
+
+etiquetas particulares para mapear la
+
+educación también pues no solamente es
+
+el colegio el edificio o la universidad
+
+como en el caso la universidad distrital
+
+sino también su grado de educación
+
+dependiendo hay un estándar
+
+internacional que dice esto es de qué
+
+tipo se ofrece
+
+por ejemplo un código bachillerato tree
+
+primaria de secundaria básica
+
+del bachillerato hasta 11 especies son
+
+técnicos y seis profesionales y
+
+especializaciones maestrías doctorados
+
+bueno eso tienen las categorías y la
+
+clasifica para todos los países y
+
+procesos de mapa de educación como
+
+también los centros de
+
+de investigación de las las facultades
+
+de las universidades de medicina derecho
+
+arquitectura ingeniería esto también se
+
+puede mapear
+
+bueno a la salud pues
+
+y la salud que es un hospital si es una
+
+clínica si es un médico particular
+
+y así casi todo todo tiene un nivel de
+
+profundización en openstreetmap para los
+
+que quieran mapear uno de los que hace
+
+poco investigue fue religiosos pues
+
+religiosos no solamente es la
+
+construcción de la iglesia de centro de
+
+culto sino el tipo de religión sabemos
+
+que hay algunas iglesias construcciones
+
+iglesias que por entren a europa ya los
+
+usan es como bibliotecas o como algunas
+
+construcciones que no tienen
+
+infraestructura de iglesia que son
+
+centros de culto como también hay
+
+empresas vírgenes que no veo santos que
+
+no en las carreteras de eso también se
+
+mapea y pues ya unos días a ver guau
+
+openstreetmap se matan muchísimas cosas
+
+y pues hay que investigar un poquito
+
+botánica no sé mucho con los árboles hay
+
+un proyecto cercano a openstreetmap
+
+cakes y naturales que es para mapear o
+
+como para identificar especies y pues
+
+también tiene una problemática alrededor
+
+que es openstreetmap como que abarca un
+
+poquitico de eso pero pues eso tiene que
+
+implicar en los árboles no la china la
+
+botánica en árboles
+
+el tipo de hojas y la hoja seca en el
+
+tipo de tronco la forma del árbol y la
+
+especie tiene muchas cosas que yo no
+
+domino de allí para el que quiera
+
+trabajar o para estimar siempre va
+
+erupciones
+
+bueno si uno dice oiga pero yo no quiero
+
+mapear yo no quiero estar como puede
+
+sacar de mostrar en el computador
+
+haciendo punticos rayitas enviando
+
+propiedades que otras formas hay para
+
+apoyar el mapa pues bueno no pude
+
+compartir desde el celular
+
+voy a hacerlo desde acá un segundo el
+
+segundo aquí
+
+a mostrarles
+
+respondiendo preguntas de street
+
+complete the street complete les
+
+recomiendo que se banaliza para esa
+
+aplicación también es una aplicación
+
+libre
+
+está en línea y la podemos descargar
+
+desde android y es buenísima para
+
+responder preguntas de openstreetmap
+
+pues
+
+nos lleva la abre voy aquí a ver cómo me
+
+estoy viendo en este chat en esta imagen
+
+acá
+
+y le doy a abrir hoy donde le doy a
+
+abrir puedo ver así
+
+y si ven unas burbujitas que salen de
+
+cada una de las casas esas son preguntas
+
+si yo le doy click a una de esas
+
+burbujas por ejemplo uy a ésta
+
+pues me va a decir
+
+qué tipo de construcción es esa
+
+eso es un edificio es una casa una casa
+
+independiente y yo simplemente le voy a
+
+dar clic en la
+
+en la respuesta que toque van a ver
+
+preguntas de todo tipo de superficies de
+
+el terreno de si la vida está iluminada
+
+de la altura del edificio
+
+muchas ya hay muchas preguntas que les
+
+va a hacerlo pues estoy complete y cada
+
+vez que ustedes me vayan haciendo clic
+
+en esas aplicas en esa aplicación les
+
+van a estar contribuyendo al mapa es una
+
+forma muy muy interesante de construir
+
+sin tener que hacer puntitos y rayitas
+
+como les mostré
+
+ya que está con una aplicación un
+
+poquito no tan bajo nivel de autoestima
+
+-que sino más elevada en la que
+
+alimenta o nutre las características ya
+
+marcadas en el mapa si yo en el mapa
+
+dibuje simplemente este cuadro este
+
+cuadro no me dice este particularmente
+
+creo que logró que fuera bueno le puse
+
+house pero no dije cuánto cuántos pisos
+
+tiene no tiene la dirección no tiene la
+
+fachada del material no tiene el tipo de
+
+techo cuales tres falta en elementos y
+
+eso se puede hacer con los incumplidos
+
+fácilmente desde terreno
+
+entonces volviendo aquí al al ahli sen
+
+otra forma es resolviendo notas
+
+de pronto yo no quiero mapear a partir
+
+de lo de él
+
+de lo que esté aquí en el mapa
+
+si no quiero ver notas pues yo voy a
+
+bajar las notas de las personas qué
+
+a un segundo
+
+yo quiero ver notas de las personas que
+
+una nota es simplemente una
+
+incongruencia que alguien ha encontrado
+
+en el mapa una incongruencia puede ser
+
+no es que ya la calle ya nos llama
+
+carrera uno sino carrera 1a y esas son
+
+notas aquí vemos una nota otros como el
+
+7 de agosto y dice sidecar bogotá inc
+
+esto parecerá que es como un
+
+como una venta de
+
+repuestos de carros por su ubicación y
+
+por su nombre y pues ahí lo podemos
+
+mapear como autopartes y esos son las
+
+notas pues hay notas en toda colombia
+
+pues ya tengo la comunidad open stream
+
+había estado trabajando bastante para
+
+tener unas notas recientes miren estas
+
+notas son de hace un poquito más de un
+
+mes la más vieja veamos esta por ejemplo
+
+la de alejandro
+
+y ahí muestra que dice la nota tiene
+
+reductores claro estos son reductores de
+
+velocidad que hay que mapear los un
+
+traffic cable
+
+y ya eso es el mapa de openstreetmap
+
+entonces volviendo aquí a la
+
+presentación
+
+otra forma es tomando fotos para pilar y
+
+que precisamente hoy me puse una
+
+camiseta de ellos es un proyecto
+
+equivalente a a google streetview vamos
+
+a verlo
+
+y es un proyecto que busca tomar fotos a
+
+nivel de calle
+
+solo que esas fotos son libres en el
+
+sentido de la licencia que tiene si nos
+
+vamos vamos a la universidad distrital a
+
+ver si alguien tomó fotos por la zona
+
+sí sí vemos que hay bastantes fotos
+
+aquí al frente la universidad distrital
+
+y vamos a ver
+
+estas fotos efectivamente aunque esto no
+
+es una foto 360 si vemos que hay fotos
+
+del área e inclusive muy buena
+
+resolución si ustedes se ponen a ver uno
+
+hace zoom y hasta tiene buen su mírenla
+
+la foto que tomaron y se la tomó un
+
+usuario que llama eje
+
+y listo estas son fotos a nivel de calle
+
+de pronto vemos fotos 360
+
+no estas fotos son de otra o de otra
+
+empresa que se llama card
+
+pues bien son fotos como las de google
+
+streetview pero libres de derechos y que
+
+les nos sirven para mapear en
+
+openstreetmap es si tenemos estos datos
+
+ya sabemos que podemos agregar una pizza
+
+que inclusive creo que habíamos visto la
+
+pizza acá en el cine de huelva firefox
+
+me parece haber visto
+
+me parece haber visto que había unas
+
+pizzerías en frente de la universidad
+
+distrital llama feas
+
+bueno si ven entonces si a uno le gustan
+
+las fotos pues tome todas las fotos de
+
+la calle y suba las haya se llama pilar
+
+y oa cartavio si les gusta es responder
+
+las notas no y no empezar a mapear lo
+
+que hay algo de
+
+desde acercamiento resuelva notas que
+
+están preguntando a la gente yo se lo
+
+traduzco a una modificación del mapa o
+
+si estoy en terreno no me gusta está en
+
+computador encerrado sin estar en calle
+
+es usar este conflicto y ahí está uno
+
+aportando directamente al mar
+
+entonces
+
+aprovechemos y descargamos la aplicación
+
+street complete como les digo se es una
+
+aplicación para android
+
+street con click tomamos el tiempo de
+
+descargarla nos vamos aquí al visitante
+
+desde el celular obviamente desde el
+
+pleito
+
+y les va a parecer esto le vamos a dar
+
+instalar
+
+y tomar un poquito de descargar
+
+realmente no es muy grande la aplicación
+
+y listo una vez dentro de la aplicación
+
+va a ser algo así pues vamos a tener que
+
+dar en el menú aquí de las tres líneas
+
+en el nueva hamburguesa y le decimos
+
+iniciar sesión como iniciamos sesión con
+
+el usuario openstreetmap usa ese usuario
+
+que ustedes crearon les va a permitir
+
+acceder a un universo de servicios
+
+alrededor de openstreetmap pues le damos
+
+le damos ahí iniciamos sesión y ya una
+
+vez iniciada la sesión podremos empezar
+
+a
+
+aportar datos ya ente rentes por ejemplo
+
+aquí que el horario pues uno le dice
+
+oiga el horario de atención es tal
+
+capital de lunes a viernes hasta el
+
+horario o los sábados hasta el otro y
+
+pueden crearse notas
+
+supongamos que un encontró iba caminando
+
+no es que le haya salido una pregunta
+
+pero si hoy ya esta calle está mal el
+
+nombre está mal o el sentido está mal
+
+que sólo mantiene oprimido
+
+que se genera este espacio que les estoy
+
+mostrando y uno escribe ahí su nota
+
+inclusive se puede agregar una foto
+
+y bueno le sale esto miren eso es una
+
+forma muy didáctica
+
+si hay un sistema de recolección de
+
+reciclaje digo le dice qué tipo de
+
+reciclaje de latas plásticos excelente
+
+para horita en el día del mediante la
+
+tierra que fire pues tenemos que ser muy
+
+conscientes de todo esto
+
+y bueno ahí van saliendo cosas tomen el
+
+tiempo van a ver que mapear construir
+
+coincide es muy muy rico uno puede
+
+empezar a resolver preguntas muy
+
+rápidamente de su contexto
+
+no es de alguna pregunta es recuerden
+
+escriban o me hablan cualquier cosa aquí
+
+estoy perfecto andrés les recordamos a
+
+todos los que nos están viendo que
+
+estamos en la zona de preguntas con toda
+
+libertad podemos dar un plazo de 10
+
+minutos para responder a sus inquietudes
+
+así que estamos atentos listos y por
+
+favor si si si tiene preguntas no dudan
+
+de
+
+escribirlas no sé si ellos van levantar
+
+la mano
+
+el problema pues
+
+bueno aquí tenemos una pregunta lección
+
+y
+
+decisión no si nos pregunte lo siguiente
+
+buenas tardes
+
+para android
+
+o es sólo los peces que he visto listos
+
+y delante en dinero gracias johnny para
+
+editar a la forma más práctica para
+
+editar es cuando tenemos accesos mouse
+
+ya que tenemos que hacer mucho clic y
+
+las aplicaciones como tenemos tres pues
+
+es haití desde el browser directamente o
+
+con la aplicación jsm pero en los
+
+celulares podemos encontrar la que yo
+
+les había comentado para hay para ios
+
+tenemos go maps que permite editarlo y
+
+para android tenemos esta aplicación que
+
+se llama vespucio hoy
+
+despus y permite editar el mapa ahí pero
+
+pues toca con el mouse mover los nodos
+
+obviamente es más complicado pero se
+
+puede hacer
+
+y listo
+
+y no solamente y editores gráficos
+
+openstreetmap también tiene editores y
+
+editores como
+
+detesto cuando yo quiero hacer una
+
+modificación masiva de cosas por ejemplo
+
+que las calles en bogotá les escribieron
+
+cl y las que toca escribirlas es calle o
+
+carrera la escribieron con cra pues toca
+
+cambiar las contras pues yo tengo puedo
+
+tener interés de texto que no son
+
+gráficos también en internet a quien
+
+empecé con tú si esto es una página web
+
+que te podrías celular y los voy
+
+modificando pero vuelvo a decir si uno
+
+tiene acceso a un teclado y el mouse es
+
+mucho más rápido marcar pues ahí depende
+
+la necesidad y listo
+
+no sé si hay otra pregunta
+
+leonardo
+
+en este momento no pero pues si estás
+
+preguntando
+
+liszt entonces terminemos la
+
+presentación que ya nos quedan 10
+
+minutos pues si hay alguna pregunta me
+
+interrumpas de una lista y hay alguien
+
+que tengan alguna pregunta no importa si
+
+sienten que es
+
+vo a la pregunta me preguntas bodas con
+
+confianza pueden preguntar aquí está su
+
+expositor listo
+
+yo en chillón términos preguntar lo
+
+siguiente
+
+soy interventor de una empresa de
+
+telecomunicaciones y me parecerían
+
+perfectos para la referenciación de las
+
+cuadrillas en terreno se puede hacer
+
+marca de agua
+
+para referenciación de cuadrillas with
+
+verme que tú me estás hablando ya de
+
+terminología que de pronto es técnica
+
+tuya la cuadrilla según entiendo es como
+
+el grupo de empleados que va a trabajar
+
+a un área
+
+[Música]
+
+y hacer el marca de aguas y no sé qué
+
+quieres decir
+
+porque otras
+
+capa base y tú le puedes poner capas
+
+encima una capa encima en yuma o sea un
+
+mp punto openstreetmap punto c o sea la
+
+comunidad de colombia tiene sus propios
+
+servidores para openstreetmap y tú
+
+puedes componer gráficas y tus cosas
+
+podría por ejemplo si entiendo bien
+
+cuadrilla es
+
+un grupo de claves que vas a enviar
+
+podrías crear esos mapas con yuma y
+
+listo a destruir se matan son los tres
+
+semanas tanto los tres matan son y listo
+
+porque esos datos no son propiamente del
+
+mapa son datos tuyos si es que te
+
+interesan los mandatos que otros entes
+
+intereses pero se puede usar para eso no
+
+sólo bueno openstreetmap tiene un
+
+conjunto de herramientas muy grande que
+
+uno puede utilizar para diferentes
+
+objetivos
+
+bueno
+
+sigo con un parte de diapositivas más yo
+
+había puesto más pero pasa es que este
+
+open este mal es demasiado grande hoy
+
+quería hacerles una invitación a que
+
+conocían lo más chiquito open estimada
+
+con mapear en su casa y de ahí en
+
+adelante se se metan en este mundo
+
+entonces otra forma de mapear es como
+
+white pues una aplicación que uno le
+
+dice ay casa sólo en esta foto satelital
+
+y simplemente uno las marcas sí y no y
+
+pasa
+
+entonces el tipo de aplicación es
+
+excelente para
+
+desastres humanitarios por ejemplo
+
+cuando hay una avalancha o así un
+
+terremoto que uno no sabe a dónde enviar
+
+las ayudas humanitarias y pues la cruz
+
+roja con unos entes americanos para
+
+empleo el tjue sedes y pues de todo el
+
+mundo de las naciones unidas también
+
+está metido en eso por ejemplo envían
+
+toneladas de alimentos de ayudas de
+
+cobijas de cosas pero no saben dónde hay
+
+porque es no en los mapas no están
+
+actualizados pues nos invita nos dicen
+
+oiga mate en esta zona estas son las
+
+fotos satelitales recientes o pasó un
+
+avión y las tomó ahorita después del
+
+desastre necesito que me levanten todas
+
+las construcciones y aquí ni uno empieza
+
+a mapear mapea maracaná pero en cuestión
+
+de una semana uno puede tener un mapa
+
+muy bueno colombia es pionera en eso por
+
+ejemplo
+
+uno de los casos nuestros es el de mocoa
+
+tristemente hubo una avalancha que se
+
+llevó mucho de esa ciudad fue muy triste
+
+pero la comunidad se activó muy
+
+rápidamente y en una semana teníamos un
+
+mapa
+
+ni los del instituto 25 así ni el google
+
+nos daba el nivel pues eso es lo bueno
+
+este tipo de mapas puede ayudar para
+
+muchas cosas o sea si necesitan algo de
+
+mapas piensen de una en openstreetmap
+
+el espacio si rápidamente pueden hablar
+
+hacer más cosas apoyar el proyecto se
+
+puede apoyar con creando vídeos redes
+
+sociales incluso se hacen deporte por
+
+ejemplo con esta valla están aportando
+
+al mapa por las trazas gpx que eso hace
+
+si ustedes son de una aplicación web
+
+pueden poner cambiar sus aves mapas de
+
+google por los de openstreetmap con
+
+libreta con open lakers y si no les
+
+gusta este fondo openstreetmap recuerden
+
+openstreetmap es una base de datos si no
+
+les gusta este bueno lo vuelva a sacar
+
+los entiendo sus colores pueden hacerlos
+
+más bonitos
+
+esta zona como morada las calles rojas
+
+pues smartbox ofrece otras
+
+tile se llaman tc las de otros colores y
+
+eso nos bienvenidos porque los datos son
+
+libres
+
+y bueno pues no sé si de jamón hasta
+
+aquí para no
+
+no sé si alguna pregunta final
+
+tenemos en este momento solo espacio
+
+para una última pregunta
+
+entonces
+
+con sus espectadores por favor
+
+sólo sólo pueden en este minuto hacer la
+
+última pregunta la extensión de la
+
+respuesta no puede durar más de dos
+
+minutos ya que enseguida comenzamos otra
+
+transmisión y por el cronograma
+
+las aspas tienen que llegar a esta cara
+
+a la conferencia
+
+pues yo más bien me despido
+
+muchas gracias por su atención de todas
+
+formas y los espero en una sesión de
+
+marta en bogotá somos un grupo de
+
+contribuidores del mapa los sábados en
+
+la mañana nos estamos reuniendo
+
+normalmente publicamos todos estos
+
+eventos en el mitad en la página de
+
+mitad de openstreetmap bogotá de matters
+
+bogotá y estamos en las redes sociales
+
+como maart en bogotá en twitter y en
+
+instagram
+
+son bienvenidos a estas sesiones muchas
+
+gracias
+
+bueno muchas gracias andrés excelente
+
+conferencia realmente quería muchas
+
+cosas que yo desconocía open
+
+desestimados no sabía cómo ni siquiera
+
+arrancarlo con el serrín realmente he
+
+podido digamos escasamente referenciar
+
+por por wiki que uno puede referenciar
+
+con open estimados y no ha ido hasta
+
+allá pero muy muy chévere entonces bueno
+
+gracias a todos gracias a ti andrés y
+
+especialmente gracias a ustedes
+
+terminamos hasta aquí pero no se
+
+desconecta del todo ahorita tenemos una
+
+una charla con alguien del lp y
+
+comenzará en breves minutos cuatro o
+
+cinco minutos hasta luego ganado gracias
+
+chavo todos feliz tarde
+

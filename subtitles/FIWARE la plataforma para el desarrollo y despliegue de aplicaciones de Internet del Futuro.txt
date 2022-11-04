@@ -1,0 +1,2200 @@
+muy buenas chicos
+
+disculpar la demora está terminando la
+
+otra charla
+
+hola cómo estás bien mucho
+
+bastante bien perdón por nada demora la
+
+verdad llegamos a tiempo
+
+punto
+
+veo que vas a informar las figuras
+
+estoy escuchando como entrecortado a
+
+ratos
+
+así debe ser porque rodríguez
+
+mejor
+
+un poquito
+
+bueno
+
+antes de empezar
+
+yo soy john caipa soy ingeniero
+
+electrónico
+
+en este momento soy el director de
+
+proyectos
+
+en ensayos de ingeniería es una empresa
+
+boyacense yo estoy aquí en sogama
+
+en soluciones en temas de internet las
+
+cosas y ciudades inteligentes
+
+y perteneces
+
+en la de la fundación power
+
+qué estáis
+
+[Música]
+
+bauer y la idea es como presentarles hoy
+
+un
+
+vistazo a esta plataforma y quizás
+
+algunos casos de usos y una demostración
+
+final con un dispositivo y yo te dan
+
+lástima
+
+vale listo
+
+listo entonces ya sports una
+
+introducción si quieres representar la
+
+pantalla y diciendo con su charla
+
+pegara un momento
+
+me confirman si ya están viendo la
+
+presentación
+
+si ya hace tv
+
+dios está viendo mi pantalla perdón
+
+y ya lo estamos viendo todos vale
+
+perfecto entonces pues
+
+buenas tardes a todos muchas gracias por
+
+la invitación
+
+como comenté pues mi nombre es john kay
+
+pan y vengo a mostrarles
+
+un vistazo
+
+con lo que es la plataforma fireware que
+
+se define como la plataforma para el
+
+desarrollo de aplicaciones de net
+
+la idea es durante esta presentación
+
+mostrarles un poco de qué se trata esta
+
+plataforma de dónde viene
+
+en el tema de desarrollo de aplicaciones
+
+para internet un poco la arquitectura
+
+los componentes
+
+que la componen valga la redundancia y
+
+como una introducción al estándar y al
+
+final tenemos por decir del tiempo nos
+
+alcanza como un pequeño demo con un
+
+dispositivo
+
+yo te contexto en a través de esta
+
+plataforma
+
+y entonces qué es que es fiver entonces
+
+fireware pues es una plataforma
+
+impulsada por la unión europa
+
+al fort el del año 2012 para el
+
+desarrollo despliegue de aplicaciones
+
+sobre todo
+
+fireware intenta proveer una
+
+arquitectura totalmente abierta
+
+digamos el desarrollo y la
+
+implementación de este tipo de
+
+soluciones a nivel de inglés incluso
+
+pues empresas
+
+desarrolla y tiene un conjunto de
+
+especies
+
+y de bloques modulares open source todos
+
+ellos que son tanto de firewall como de
+
+terceros
+
+y la idea es como ofrecerles estas
+
+herramientas a las empresas a
+
+desarrolladores a dios porque desde el
+
+estado para que desarrollen como
+
+productos y servicios innovadores
+
+y tips para el desarrollo de soluciones
+
+de monitoreo soluciones y si al final
+
+temas de internet las cosas para tener
+
+alrededor de una plataforma
+
+varias
+
+y está funcionando en lo que en lo que
+
+sabemos que es el tema de
+
+ciudades inteligentes cierto
+
+es una plataforma impulsada por la unión
+
+europea consiste en un ecosistema de
+
+microservicios vamos a ver más adelante
+
+que son verdes bloques alrededor de un
+
+bloque central que es el context broker
+
+que nos permite crear estas aptas y en
+
+demás ciudades inteligentes y casi todos
+
+estos bloques o la mayoría de estos
+
+bloques funcionan con tecnologías open
+
+door cual el roi worker entidad puede
+
+entrar a implementar su solución y el
+
+objetivo final
+
+o brindar una solución con protocolos
+
+estandarizados para el desarrollo de
+
+soluciones inteligentes y que dirigente
+
+bruce pon en vilo por ejemplo desde el
+
+caso de las ciudades que diferentes
+
+ciudades puedan compartir datos y
+
+pues estándar interoperable sobre todo
+
+para soluciones de internet las cosas
+
+soluciones que
+
+hay con temas de big data con temas de
+
+analíticas con machine learning
+
+ofrece son más inteligentes y llegar
+
+incluso a que estas soluciones pongan a
+
+disposición
+
+plataformas de estos ciertos al pasar al
+
+ciudadano al interesado para digamos que
+
+sus datos se puedan utilizar para otro
+
+tipo de actividades
+
+de dinamizar la economía de datos
+
+a través de estos estándares de
+
+inmunizarlos
+
+proponiendo unos modelos de datos para
+
+que sea mucho más sencillo dar mine
+
+action todo esto por detrás se basa en
+
+un estándar y el estándar aquí pues lo
+
+pongo en prestaciones estándar en eje
+
+ngs y de la etsi y esto éste nos permite
+
+crear de tres es que lo que comentaba de
+
+poder darle los municipios o agua de las
+
+empresas tienda de datos desde
+
+diferentes fuentes de datos de una forma
+
+estandarizada e incluso llegar a ofrecer
+
+ser vistos y un lata marketplace para lo
+
+que sería la comercialización de estos
+
+datos
+
+2
+
+el principio es estandarización
+
+intercambio de datos
+
+en este modo y mete en las enfocándome
+
+en las en las aplicaciones de ciudades
+
+inteligentes la mayoría después
+
+y los de servicios que todos funcionan
+
+como separados cierto podríamos tener
+
+su aplicación es en el tema de ciudades
+
+inteligentes soluciones en la parte
+
+agrícola soluciones la parte de retail
+
+en la de mica etcétera pero la mayoría
+
+de estas de estas soluciones funcionan
+
+de forma independiente
+
+digamos una compartición de datos
+
+estándar o un protocolo de datos
+
+estándar que está con los datos en estas
+
+diferentes
+
+verticales entonces lo que lo que se usa
+
+con la implementación estatal es brindar
+
+una capa de información estandarizada
+
+cierto y un protocolo mediante apis
+
+en consumir desde diferentes lugares
+
+obviamente pues con todos los niveles de
+
+seguridad del caso y creencia de que se
+
+tenga al final una una solución
+
+que pueda consumir en
+
+una sola plataforma y que esta misma
+
+plataforma sirva para compartir
+
+información y crecer con
+
+diferentes escalas en diferentes
+
+verticales o en el caso de gobierno con
+
+diferentes
+
+días estos protocolos o este protocolo
+
+que propone fireware se basan en votos
+
+por lo tanto del doble como protocolos
+
+de la ccma de la etsi de nist
+
+listos entonces aquí al final lo que se
+
+busca entonces con entonces con este con
+
+éste
+
+con plataforma es implementar un
+
+framework de componentes open source
+
+como un rector del bloque central que es
+
+el lo vamos a ver más adelante que es el
+
+contexto care y permite con
+
+el sorteo qué
+
+aplicaciones puede ser cualquier tipo de
+
+aplicaciones pero sobre todo a miles de
+
+datos de sensores datos de dispositivos
+
+datos de servicios de terceros y poder
+
+por su parte información y alusiones a
+
+partir de de hechos o cierto entonces
+
+tenemos varias que podemos acoplar
+
+en esa plataforma servicios como doquier
+
+como mojado como no red mosquito mongol
+
+hazte a 220 euros en el tema de
+
+visualización de datos podremos integrar
+
+graph ana y otras plataformas también
+
+autor para la creación de paneles de
+
+control de inteligencia de negocios
+
+herramientas para análisis de edad
+
+digamos que servicios o software open
+
+source
+
+y yo te que sea no pensar seguramente se
+
+puede integrar con ese estándar
+
+les voy a hablar un poco del ecosistema
+
+el ecosistema
+
+el software
+
+es muy grande
+
+en el mundo
+
+y digamos que está
+
+tosca con la fundación fireware que es
+
+la encargada de mantener
+
+a esta plataforma
+
+aunque aquí en esta gráfica de algunos
+
+datos
+
+hay más de 2.000 miembros inscritos como
+
+bien está en función de nombre total y
+
+alrededor también de esta de esta
+
+entidad
+
+cindy que esté esas diferentes
+
+laboratorios
+
+como se dice acá los hay que son
+
+grupos o comunidades que se digamos que
+
+se crean en las diferentes en los
+
+diferentes y es para impulsar el
+
+desarrollo y la innovación mediante esta
+
+tecnología pues de las aplicaciones en
+
+forma
+
+principalmente de ciudades inteligentes
+
+pero digamos que no sólo no solamente se
+
+queda ahí
+
+como lo vemos aquí al tema que se
+
+podrían
+
+implementar alrededor de fibers están en
+
+la parte de energía en la parte
+
+industria y hay muchos casos de uso
+
+bastante bastante que nos presente en
+
+europa en la parte agrícola ambiental y
+
+de salud
+
+charlton
+
+aquí les muestro un poco
+
+quizás un poco más al
+
+sistema en cuanto a empresas
+
+la fundación
+
+fireware es como contaba más allá de la
+
+financiación de la unión europea en el
+
+origen del proyecto es la que mantiene
+
+la plataforma en doble funcionalidades y
+
+creciendo a nivel internacional entonces
+
+existen muchísimas empresas que están
+
+esta fundación están usando y también
+
+igual
+
+apoyando e impulsando pues el uso de
+
+esas tecnologías un ejemplo de esta red
+
+en 2020 a la fundación
+
+soluciones hay muchísimas estándares and
+
+my place que está en la página de
+
+firewall donde encontramos soluciones en
+
+la parte de lotes de solución en la
+
+parte industrial que es diferentes
+
+miembros han desarrollado y que
+
+estuvieron allí paso para su
+
+comercialización
+
+alrededor de esta base para actualmente
+
+tienen
+
+implementada algún tipo de solución
+
+basada en hardware y la idea al final es
+
+que lo diga comentó que todas estas
+
+soluciones basadas en el digamos que en
+
+el núcleo principal del contexto voy a
+
+hacer información y que esta información
+
+estos datos que se están recolectando en
+
+los proyectos de ciudades inteligentes
+
+también puedan estar disponibles en pack
+
+de datos abiertos para que la comunidad
+
+y todo el ecosistema de desarrollo pues
+
+los plan usar y generar nuevas bases
+
+textos entonces vamos a entrar un poco
+
+como al detalle de la
+
+como tal
+
+y los usos y los bloques y qué
+
+componentes tienen en su suerte si el
+
+bloque el bloque principal en este caso
+
+es el context broker que desde el bloque
+
+sentado entonces el que él contestó
+
+broker es es el corazón de toda la
+
+arquitectura es el componente del único
+
+ente
+
+digámoslo obligatorio en cualquier
+
+plataforma o solución que era
+
+desarrollar con factor entonces el
+
+context broker es el elemento principal
+
+es el obligatorio entonces pero stoner a
+
+la arquitectura sea
+
+llamada como
+
+ese es el componente mínimo que debería
+
+incorporar en esa solución sí
+
+entonces por qué
+
+aporta una función fundamental en la
+
+solución inteligente que la ministración
+
+en el contexto la administración de los
+
+datos donde se pueden consultar
+
+actualizar medir
+
+entonces este este bloque es el que va a
+
+permitir hacer el intercambio de
+
+información y el ente también empezaba
+
+un conjunto de bases de datos donde
+
+podemos hacer nosotros el reporte de
+
+algo artístico que está enviando datos a
+
+esta plataforma cierto
+
+y que otras personas u otras entidades
+
+pueden existir más para
+
+solucionar algún caso de uso cierto
+
+y todo lo que se va a basar al final en
+
+una pista andar que es un api rest como
+
+vamos a hacer
+
+otro bloque es el bloque de internet de
+
+las cosas
+
+robots
+
+toque de aquí en la parte de abajo
+
+este bloque nos va a permitir
+
+mediante una serie de componentes
+
+adicionales
+
+poder hacer la interfaz o la integración
+
+con distritos en
+
+el mundo físico cierto entonces tenemos
+
+podemos tener sensores dispositivos
+
+que están viviendo en una ciudad
+
+diferentes parámetros temperaturas
+
+humedades el ruido de plantas
+
+temas de seguimiento de flotas etcétera
+
+etcétera incluso también podría llegar
+
+al tema de
+
+este componente
+
+permiten entonces hacer la integración
+
+puedes hacer traer esos at
+
+vemos que procesarlos o recopilar esta
+
+información y convertirla al protocolo
+
+está y
+
+poder llevarse información al contexto
+
+broker para digamos que a través del
+
+mismo app y podrá disponer ante cuál
+
+pero otro día en que esta información
+
+cierto
+
+es lo que me permite hacer ese bloque
+
+el bloque procesamiento análisis y
+
+visualización de la información es como
+
+su nombre lo indica también facilita un
+
+ven con una cita en el proceso de
+
+análisis visualización de la información
+
+de contexto con el fin de en parte
+
+comportamiento inteligente la aplicación
+
+es allí donde yo puedo utilizar
+
+diferentes componentes como graf anna
+
+a
+
+spark para hacer el análisis
+
+visualización análisis de información
+
+para digamos ya crear una solución
+
+para tomar poder tomar decisiones y
+
+ayudar al expresar al usuario final
+
+tenemos que hacer ese procesamiento
+
+de la solución al final pueda generar
+
+algún tipo de beneficio
+
+este es el bloque este es el bloque
+
+quizás que está más cerca al lucero
+
+final
+
+al final todos están alrededor mediante
+
+la comunicación con el api
+
+mi blog
+
+el bloque
+
+está a la derecha es el que estoy y
+
+monetización de datos en este bloque nos
+
+permite ver de forma transversal
+
+usted es seguridad desde tanto de
+
+entrada como de salida de datos cierto
+
+aquí también hay diferentes componentes
+
+tendré
+
+autentificación de usuarios la parte de
+
+seguridad y privacidad de usuarios y
+
+dispositivos
+
+para permitir crear esos portales de
+
+datos abiertos que les comentaba y
+
+asimismo podrá ser el tema en cuestión
+
+es tonta y compartirlas con otras
+
+entidades y por último procesar ya como
+
+el bloque de ramat que es más importante
+
+sería en herramientas cómodo que todos
+
+estos componentes
+
+como les gusta
+
+pero no va a permitir crearlos y
+
+organizarlos tipo lego para que se
+
+comunique
+
+para el tema de despliegues docker y a
+
+través de proxies poder hacer la
+
+comunicación segura entre los diferentes
+
+en la oración y la interacción de los
+
+datos
+
+es montar una un caso de ejemplo
+
+común que es el
+
+arquitecto y de ciudades inteligentes
+
+aquí vemos digamos que vemos los
+
+diferentes bloques y sus bloques que
+
+podrían componer estas opciones
+
+en una ciudad si desde la parte de abajo
+
+iniciando con con toda la recolección
+
+ellos podrían ser cámaras sensores
+
+drones redes de
+
+de robots que no todos formamos se
+
+podría enviar y compartir con esta
+
+plataforma para hacer el caso de uso
+
+final la ciudad tente pero asimismo se
+
+pueden traer información de otros
+
+servicios de terceros ya están este de
+
+información servicios meteorológicos u
+
+otras verticales ya existentes en una
+
+ciudad interesante este o estaciones que
+
+estén viendo temas de calidad del aire
+
+parque o control de tráfico el tema de
+
+desperdicios todas es fuente
+
+se pueden integrar mediante algunos
+
+agentes estándares que ya están
+
+disponibles para verter y la exposición
+
+a nuestro contexto
+
+que sería este bloque central cierto
+
+este contexto
+
+nosotros lo podríamos ver como
+
+una herramienta que nos permite crear
+
+metas que son representaciones de esos
+
+dispositivos físicos de esos objetos
+
+físicos están en que están que estarían
+
+en una ciudad que creemos que vamos por
+
+ejemplo en una entidad un gemelo vital
+
+que haga referencia a un ciudad cierto y
+
+tener información
+
+de sus servicios los temas los santones
+
+de tiempos de capacidades etcétera
+
+etcétera y asimismo teníamos que ir 30
+
+de uso que se pueden dar en una en una
+
+ciudad cierto entonces aquí es donde yo
+
+voy a tener
+
+siempre la última información que me
+
+ofrecen esos dispositivos que están en
+
+campos que están reportando sus hitos y
+
+basan también tanto pues en la
+
+recolección de dispositivos ios como
+
+cruzando información con otros sistemas
+
+buscando a sí mismo y la implementación
+
+de modelos de datos inteligentes es
+
+final también buscar una estandarización
+
+si yo creo una entidad un gemelo digital
+
+que haga reflexión
+
+huarte icio una luminaria hablando de
+
+temas de
+
+alumbrado público inteligente que es con
+
+el unics el estándar y digamos que todas
+
+las entidades que quieren utilizar ese
+
+modelo pues lo pueden hacer en un
+
+repositorio
+
+disponible para que digamos que se pueda
+
+basar una solución en el módulo que no
+
+creemos que no perdamos tiempo en desde
+
+cero crear un modelo sino ya tomás de
+
+bases auto ética está en la parte de
+
+arriba como lo lo comentaba estaría todo
+
+el tema de procesamiento análisis de
+
+información y amigo desde que ya hay
+
+aplicaciones no de aquí a través del del
+
+context broker yo puedo jalar esa
+
+información crear mi propio de usted
+
+la solución ya sea móvil web crea mi
+
+solución y visualizar y darle al fin
+
+dispone de esa información para que
+
+pueda tomar decisiones estaría todo el
+
+tema por este lado sería incluso estas
+
+está esta arquitectura contempla poder
+
+comunicar e intentar paz book en
+
+entonces vuelve mucho más interesante
+
+poder generar una solución en el tema de
+
+ciudades inteligentes y asimismo pero a
+
+esos data sets que se están almacenando
+
+poner ponerlos a disposición del público
+
+en la forma de tus pies del mismo
+
+también si es si la ciudad si la ciudad
+
+o la aplicación no amerita
+
+llegar un tema what the stars
+
+listos entonces voy a ponerlo aquí un
+
+poco más en
+
+tortura más básica entonces tendremos
+
+estos diferentes bloques donde de nuevo
+
+lo lo reitero que se entra a hacer el
+
+context broker si la recolección de
+
+información de dispositivos y ot que
+
+estaría pues en esta parte de integrar
+
+cualquier tecnología dispositivos o
+
+cualquier protocolo mqt el ahora one hip
+
+hop por hablar o cualquier incluso
+
+protocolos industriales se pueden
+
+recibir los datos de esos dispositivos
+
+que están
+
+volviendo al caso de la ciudad a través
+
+de unos agentes y yo te hay diferentes
+
+agentes ya estándares electas
+
+desarrollados y puestos a disposición
+
+para parar su uso que se comunican en el
+
+costo de los mensajes que están
+
+reportando de los datos que están
+
+reportando en los dispositivos y los
+
+convierte los que comparte con el
+
+context broker para generar como esa
+
+parte de recibir información de
+
+discusión también la puede brindar esa
+
+información de contexto también la
+
+pueden brindar servicios de la ciudad
+
+compañías de terceros y ellos mismos
+
+también pueden
+
+obtener o leer o buscar a su hijo del ex
+
+bloque
+
+aquí hay algo importante de aclarar que
+
+es construir que
+
+únicamente retiene la información
+
+el último dato que se reponga como la
+
+más actualizada del de la entidad o del
+
+gemelo digital o el dispositivo esté
+
+reportando información que sandro que
+
+adicionales para el tema si queremos
+
+tener el histórico completo
+
+sensacional para eso y aquí también
+
+otra funcionalidad que nos entrega el
+
+respirar
+
+la capacidad de
+
+disparar eventos aquí te está resultando
+
+una entidad sino que si esa entidad bajo
+
+unas reglas que yo definí quiero que en
+
+ocasiones esa esa funcionalidad también
+
+ya está presente en el contexto broker
+
+para disparar eventos clics en
+
+intérprete
+
+un ejemplo para para ponerlo como en
+
+contexto es por ejemplo que
+
+la temperatura de un dispositivo un
+
+sensor
+
+la temperatura por ejemplo sobre el
+
+mínimo nivel que le envía una
+
+notificación por alguna otra herramienta
+
+por algún otro sistema de un correo
+
+electrónico o por él
+
+por redes sociales se puede generar esa
+
+comunicación o ese disparo esos eventos
+
+así en todas las aplicaciones sin
+
+necesidad de que yo esté consultando
+
+acabando y el bloque estás versal
+
+el tema de autentificación
+
+de seguridad de las diferentes entradas
+
+descripción entre los diferentes bloques
+
+pues también está ya tenemos que ya hay
+
+varias herramientas disponibles para
+
+pasto plop león tratar
+
+el context broker entonces ahora
+
+internamente
+
+digamos que por detrás como ya lo
+
+comenté está una pin
+
+en el estándar rest con sus solicitudes
+
+normales de http de the pool post cierto
+
+y definido todo
+
+digamos que un 1
+
+es
+
+estándar donde unes en point estándar
+
+donde yo puedo deshacer las consultas
+
+de los datos y crear pues como tal las
+
+las diferentes los diferentes gemelos
+
+digitales d
+
+el con título que permite la publicación
+
+de información de contexto por clientes
+
+en este caso
+
+está reportando información normalmente
+
+los con los productores con héctor tips
+
+o pueden ser o puede ser una aplicación
+
+que está creando
+
+en esta en esta solución pero
+
+las diferentes gemelos digital entonces
+
+yo quiero crear los diferentes buses a
+
+través de esta de este puerto
+
+del stud para que lo cree con los
+
+diferentes parámetros que yo quiera como
+
+diferentes atributos que yo quiera
+
+asignarle
+
+con los datos de dispositivos y atentos
+
+voy a tener la opción de crear cierto
+
+para ponerlas a disposición
+
+esas entidades ponerlas a disposición de
+
+otros clientes que en
+
+este caso serían los consumidores de
+
+contexto entonces alrededor del contexto
+
+que voy a tener
+
+los entes o aplicaciones que crean
+
+el contexto es un poco de texto y al
+
+otro lado a otros clientes otro tipo de
+
+clientes que serían los que consumen
+
+esos esos contextos que cree como un
+
+comentaba
+
+suscripciones para recibir
+
+notificaciones ante algún cambio de un
+
+parámetro atributo que yo quiera definir
+
+o industriales
+
+para el almacenamiento de edad con esto
+
+que define fireware utiliza una base de
+
+datos basada en bongo debe que es donde
+
+se crea
+
+el estatus actual de las entidades
+
+como les como lo comenté anteriormente
+
+puede aclarar que en la escena única no
+
+se almas no se almacena la información
+
+histórica de los cambios de cada una de
+
+las engancha y cree el último dato o el
+
+dato actual de esa entidad porque está
+
+al final la idea es como relación esa
+
+parte de un objeto físico aquí ponerlo
+
+en el contexto broker como su gemelo
+
+digital en esa forma citó con cada cual
+
+se pueden y si yo quiero tener el
+
+histórico del comportamiento de esa
+
+entidad en el caso dispositivos y
+
+hoteles del jet
+
+básica en en este en este tipo de
+
+plataformas yo puedo generar otros blogs
+
+para almacenar en bases de datos
+
+adicionales
+
+e incluso pueden ser en
+
+bases de datos en tiempo real
+
+esa información para tener
+
+disponible para consumirla y analizarla
+
+por otras aplicaciones
+
+listos
+
+dentro del contexto broker entonces se
+
+almacenan datos sí
+
+pero en una estructura y esa estructura
+
+cuando la entrega el estándar de ngs y
+
+todo creer
+
+dentro del contexto broker
+
+mediante utilizar las tuercas a lo que
+
+nosotros llamamos
+
+entidades una entidad es hacer
+
+referencia a un objeto
+
+ya sea un dispositivo de un edificio una
+
+luminaria etcétera etcétera
+
+modelo de datos o de este modelo como
+
+tal son las entidades y la forma que
+
+tiene es que son los modelos de datos si
+
+con la estructura que yo quiera una
+
+estructura estándar como yo quiera hacer
+
+pelear a esa entidad
+
+entonces en la estructura de datos que
+
+utiliza o que figure en este caso se
+
+llaman entidades una entidad que es el
+
+elemento fundamental
+
+debe contener como mínimo una
+
+identificación 1 lo que llamamos aquí un
+
+día y un día ese tipo de entidades por
+
+ejemplo si yo defino si es un edificio
+
+si es una tienda
+
+es un dispositivo y ot entonces yo tengo
+
+que definirlo
+
+ese es el nombre a través de un tipo de
+
+entidad cierto
+
+como le comentaba el tipo de entidad más
+
+un bastón 5
+
+adicionalmente a estos dos parámetros la
+
+entidad tiene
+
+cierto que puede ser uno o varios
+
+atributos y cada tributo debe tener un
+
+nombre tuvo un valor y estos atributos a
+
+su vez pueden tener información
+
+adicional que lo que llamamos acá la
+
+meta
+
+refiriéndome por ejemplo a un
+
+dispositivo y atento sería una entidad
+
+tipo dispositivo y yo te el sitio está
+
+midiendo temperatura están viendo
+
+humedad están viendo un parámetro
+
+cualquiera cierto
+
+y una tarta podría ser las unidades el
+
+serial de s
+
+el serial del dispositivo como tal
+
+entonces dentro del contexto que yo
+
+puedo crear
+
+una entidad que se llame bus una entidad
+
+que se llame ciudadano o una entidad que
+
+se llame tienda y me alegre activos y
+
+que en tiempo real desde las diferentes
+
+aplicaciones que están alrededor de ese
+
+ecosistema por
+
+digamos que llenar esa información
+
+cierto en tiempo real y que esa
+
+disposición esa información esté
+
+disponible
+
+en otras aplicaciones
+
+acá les muestro un ejemplo en esta parte
+
+de muestra un ejemplo de cómo es como la
+
+estructura de una entidad bajo ese bajo
+
+el contexto de ese entonces yo defino el
+
+haití
+
+o poner un nombre con esa estructura que
+
+hace referencia
+
+valor que puede ir incrementando cierto
+
+el tipo heridas en unos atributos en
+
+este caso esta tienda
+
+que tengo acá virtual tiene entonces
+
+estando pues temperatura y humedad que
+
+son estos dos atributos esto yo porque
+
+yo puedo hacer una una entidad empleo
+
+que digamos que en este caso sea una
+
+tienda y que esa entidad haga referencia
+
+a otras entidades por ejemplo a
+
+dispositivos productos
+
+index garage y como ése es el gemelo
+
+digital en tiempo real mostrándome los
+
+datos en su portería
+
+aquí un ejemplo puntual para ponerlo o
+
+aterrizar en su cultivo que ya está una
+
+entidad que ya está creada en el
+
+contexto care
+
+después de su aplicación yo quiero
+
+tener información en este caso
+
+supongamos que en ese sector están los
+
+parámetros y que existe un sistema de
+
+riego y que ya esa información está
+
+digamos que creada en el contexto del
+
+juego antes de tipo de solicitudes en el
+
+caso de que yo quiera por ejemplo tener
+
+la humedad
+
+y ya tengo definidas técnicas para un
+
+cultivo 1 y tiene un atributo humeante
+
+yo hago este tipo de consultas
+
+directamente al contexto
+
+budget para que él me devuelva pues el
+
+valor actual de esa de esa humedad de
+
+ese culto y el que yo quiera actuar o
+
+enviar un comando hacia el sistema de
+
+control en este caso si está en el pico
+
+de una solicitud tipo put yo puedo
+
+cambiar el comando llamémoslo de
+
+tributos para que le encienda a través
+
+del contexto broker nunca hay todo un
+
+proceso de ahí hacia abajo si hay
+
+pastera dispositivo de montalt de
+
+control para que él realmente desde una
+
+aplicación yo
+
+oprima le clic en el de semana pico
+
+hasta que llega al sistema de control y
+
+yo te para que realmente encienda el
+
+sistema de riesgo entonces así somos
+
+como ahora pero de forma
+
+puntual es cómo funcionaría las
+
+consultas al con la intercambia
+
+información en un concepto que entonces
+
+definen
+
+diferentes
+
+para las consultas para el consumo como
+
+tal de lápiz a través de ngs y se define
+
+empecé el crudo a texto de las entidades
+
+entonces yo quiero obtener las entidades
+
+lo puedo hacer de esta forma puedo crear
+
+entidades puede obtener la impaciente
+
+una entidad en específico a través del
+
+site y puedo actualizar o crear nuevas
+
+entradas tipo de consultas o borrar una
+
+entidad ha llegado el caso de que lo
+
+necesite y asimismo puedo
+
+listar borrar modificar
+
+determinados atributos de una entidad a
+
+través de esta encuesta
+
+que les estoy comentando que son
+
+extractos de la documentación principal
+
+de fibers los que se la
+
+vea como es él
+
+la estructura de la aps
+
+un ejemplo sencillo que si quiero crear
+
+y crear un tipo
+
+adicción
+
+el tipo de habitación entonces esta
+
+sería como la el ejemplo práctico le
+
+pongo un ied y le pongo un tipo lo que
+
+les comentaba ya hay bastantes de este
+
+tipo de entidades creadas entonces ya
+
+hay un
+
+repositorio bastante amplio para
+
+diferentes tipos de entidades que se
+
+podrían encontrar en diferentes
+
+aplicaciones o en una ciudad que indican
+
+incluso piezas
+
+atributos si en este caso si tiene un
+
+sensor por ejemplo que me detecta si la
+
+presencia de la humedad es esta la forma
+
+como de crear cierto aquí hay otro
+
+ejemplo que es como para crear un ente
+
+con diferentes atributos y por ejemplo
+
+cuánto vales el producto el tipo
+
+esto es como como un ejemplo muy muy
+
+sencillo muy básico de cómo es la
+
+estructura productiva del context broker
+
+para consultarla es muy parecido con una
+
+solicitud la venta lady ip se me regresa
+
+a la solicitud en formato jason para que
+
+yo lo pueda consumir ya en fin
+
+listos
+
+en esas querida y tras gastan en el tema
+
+de internet las cosas por eso aquí les
+
+estoy mostrando como la arquitectura de
+
+lo que es este porque me permite
+
+comunicarme con esos diferentes
+
+protocolos de internet las cosas en este
+
+caso son los agentes
+
+y cómo lo miramos a cada vez él es un
+
+componente que vemos que está por debajo
+
+llamémoslo del content broker
+
+y sólo tengo un protocolo o un tipo
+
+dispositivo normalmente algún
+
+dispositivo por ejemplo me fire o por
+
+con estas nuevas tecnologías como logra
+
+si fox etcétera pues si existen pero
+
+antes y yo puedo ponerlos todos ellos
+
+trabajando en paralelo
+
+recibiendo más test por tips
+
+a través de un manager hacia la
+
+administración de esos dispositivos para
+
+entonces la ventaja de esta arquitectura
+
+es primero que ese estándar cierto me
+
+permite que son bloques que ya existen
+
+que son tan lector como lego al halcón
+
+test broker y comunicarse de forma
+
+estándar a través de él
+
+de ventajas entonces voy a poder tener
+
+la administración de dispositivos y los
+
+tokens de seguridad entonces
+
+en el caso de ejemplo de que yo tenga un
+
+dispositivo que se comunica a través de
+
+wifi por
+
+qt
+
+yo puedo definirlo un token de seguridad
+
+en un camino que envíen la solicitud con
+
+ese toque de seguridad pues realmente la
+
+planta de información haya ya hay un
+
+sistema una medida de
+
+identificación notificaciones o incluida
+
+aparte de otras que se pueden incluir en
+
+la plataforma entonces que es como la
+
+primera
+
+parte que me permite como lo comentaba e
+
+integrar protocolos yo te estándar como
+
+en
+
+una light que es un protocolo
+
+que se puede montar sobre todo en
+
+conexiones que no va mucho desde muy
+
+pequeño es un protocolo que de campos
+
+digamos que encapsula las
+
+variables
+
+light está mqt que es un protocolo yo te
+
+bastantemente
+
+usado en este tipo de la industria está
+
+con ésta el ahora one está sixto que
+
+entonces existen ya los agentes y yo te
+
+para este post y si digamos yo quiero
+
+integrar un protocolo que quizás no está
+
+en la lista oficial
+
+en gran lección en la plataforma de
+
+software
+
+power dispone un xerez para que yo
+
+desarrollé a medida la tendremos que la
+
+comunicación con mi dispositivo se puede
+
+desarrollar entre esa funcionalidad que
+
+yo puedo traer a mi proyecto hacer el
+
+desarrollo y publicarlo también para
+
+tener un plan esto lo permite la
+
+plataforma y se puede hacer
+
+otra ventaja es que te permite
+
+proveer como una capa de abstracción
+
+perdón para mí que hay un 2 en este caso
+
+significa que si un sensor un
+
+dispositivo y yo te están viendo
+
+temperatura cierto insultar la epa este
+
+este primer parámetro hace referencia a
+
+temperatura y lo mapea con el atributo
+
+de esa entidad cuenta con el broker es
+
+una tarea que está que hace que la gente
+
+en ese caso cierto y permite la
+
+inclusión
+
+si yo tengo un un conjunto dispositivos
+
+que pertenece a una zona ayuda a través
+
+del administrador
+
+los diferentes grupos puedo actuar
+
+al llegar a grupo de 24 bits
+
+en esta diapositiva les pongo también
+
+como para referencia de fuentes de
+
+información para usar cada uno de los de
+
+los agentes porque pues la invitación y
+
+el mundo intención es incentivar a la
+
+comunidad a que pueda utilizar estas
+
+herramientas
+
+para después ir de ciudades inteligentes
+
+o cualquier tipo de solución inteligente
+
+y si esta solución incorpora algunos
+
+puntos y odio
+
+aquí están las diferentes opciones de
+
+documentación para que puedan utilizar
+
+los diferentes ejemplos de documentación
+
+con estos positivos a mi plataforma
+
+y aquí como todo lo que tiene que ver
+
+con el modelo de datos ya ya lo
+
+comentaba antes lo que busca este modelo
+
+de datos es artista a la forma en que yo
+
+defino el formato de mi entidad de mi
+
+dispositivo entonces ya existen entradas
+
+diferentes enlaces está la información
+
+de ese repositorio donde ustedes con
+
+hardware en para una aplicación de
+
+ciudades inteligentes
+
+necesito crear una luminaria necesito
+
+crear y crear una tienda necesito crear
+
+un edificio que ya existe en esos
+
+modelos de datos creado ni es la portón
+
+mentores de revisar esa documentación
+
+incluso la puedo
+
+comunicarme oculta en tiempo real para
+
+definir esos formatos como yo quiero
+
+crear las diferentes entidades de mi
+
+aplicación
+
+y la idea de utilizar esos modelos es
+
+que pues al final puedan ser
+
+interoperables para las diferentes
+
+aplicaciones
+
+les comparto aquí la
+
+documentación oficial en español y en
+
+inglés pero
+
+en méxico hicieron la gran labor de
+
+disponer un repositorio español creo que
+
+en españa y en argentina también
+
+es
+
+[Música]
+
+ihab de fiverr que nos baste de mención
+
+en español y para comenzar también
+
+fireware nos
+
+esta
+
+de tutoriales disponibles para
+
+digamos que empezará a utilizar
+
+big thunder
+
+de internet y de ciudades inteligentes
+
+entonces en este en este repositorio
+
+eres experto aquí están los diferentes
+
+tutoriales paso a paso de cómo
+
+crear un contenedor cuando para
+
+implementar el context broker las bases
+
+de datos la comunicación en tiempo real
+
+en la que la gente yo te la parte de
+
+seguridad digamos que hay diferentes
+
+tutoriales de ahorita los los los
+
+muestro
+
+past los 2000
+
+y es parte de la sensación es eso eso
+
+era todo
+
+no sé si haya alguna alguna duda
+
+pregunta al entrar piden un equipo demo
+
+de un dispositivo acá acá le demuestra
+
+la información del tema que quiero
+
+mostrarles yo tengo he intentado ya en
+
+en un servidor en la nube estos
+
+componentes tengo una gente y hoteles y
+
+datos al pp desde desde cualquier
+
+dispositivo
+
+mediante una digamos que el formato
+
+menescal implementado el context broker
+
+y con tim bray care tiene
+
+incorporado un blog de temas miedo de
+
+los datos en tiempo real para tener todo
+
+el histórico y
+
+implementar una solución en aceptar nada
+
+como el de control donde pues voy a
+
+pueda ver los datos de que me está
+
+enviando y
+
+tenemos en pantalla cierto entonces en
+
+este caso el tema es muy sencillo
+
+de hecho el dispositivo que para mostrar
+
+no no tengo el sensor pero pues estoy
+
+simulando la piel está este tanto
+
+temperatura y humedad y la idea es que a
+
+través de todos estos componentes al
+
+final mons
+
+con la la temperatura y la humedad
+
+pues aquí les muestro rápidamente este
+
+es el dispositivo
+
+es un
+
+70 y vemos que yo ya lo tengo programado
+
+no vaya me voy a mostrarles todo todo es
+
+porque igual por tiempo no
+
+está este tutorial ya está implementado
+
+en la que
+
+compartir también digamos que la forma
+
+de hacerlo está en el repositorio
+
+que vaya en este link que le estoy
+
+mostrando en pantalla
+
+está el ejemplo de cómo implementarlo
+
+con la cocción
+
+s&p 32 y fue algo adicional que yo que
+
+yo implemente para que ustedes pudieran
+
+como movernos pero aquí también ya les
+
+muestra en pantalla tengo creado un
+
+panel de control hecho en donde estamos
+
+la humedad en este caso pues aún no lo
+
+he conectado el último dato es a las
+
+1052 cómo se pueden ver es conectarlo
+
+acá localmente
+
+en un puerto la atención del dispositivo
+
+el positivo hasta el final es
+
+conectarse a mi reloj calaca por wifi y
+
+el tartán cada minuto a una temperatura
+
+y una humedad a través de http
+
+mediante una foto jason
+
+que ya se decodifica que ya conoce la
+
+gente y el mapa ya como tal aún a través
+
+de él
+
+del context broker a una base
+
+en este caso
+
+esperamos un momentico que aquí con el
+
+dispositivo
+
+de actualidad
+
+a ver si carga el dato no me haga quedar
+
+mal
+
+después de un momento mientras que se
+
+conecta a la red
+
+wifi
+
+aquí en esta plataforma
+
+graph ana qué es un software también
+
+open source que se puede en este caso
+
+integrar con
+
+[Música]
+
+con que con el counter broker en la
+
+arquitectura completa de
+
+me permite crear y hacer conexiones con
+
+bases de datos en este caso es una base
+
+de datos en tiempo llama cat
+
+y me permite aquí crear estos paneles de
+
+controles pintar toda esta información
+
+en máx
+
+y ver todo el histórico pero yo poder el
+
+histórico de la de los últimos siete
+
+días
+
+con las tablas con
+
+[Música]
+
+el gráfico de tendencia incluso poder
+
+pintarlo los otros textos que se puedan
+
+que se pueden ubicar en un mapa y todo
+
+esto lo hago con la broker una entidad
+
+que me permita mapear esos atributos que
+
+tengo tengo atributos en este caso hoy
+
+en día y que me muestra en un atributo
+
+de temperatura un atributo humedad y un
+
+atributo que análisis john es idéntico
+
+en en este caso y ya como tengo una
+
+pieza esa información y la estoy
+
+almacenando en tiempo real eres
+
+producción pintarla en este tipo de
+
+plataformas para crear ya una plataforma
+
+que yo puedo abrir la unidad o disponer
+
+para tomar decisiones incluso aquí no no
+
+tengo nada de analista puesto pero que
+
+se puede acoplar de forma muy sencillo
+
+para trabajar con spark por ejemplo
+
+y los que se están almacenando en tiempo
+
+real y general no sea algún tipo de
+
+solución adicional en base a los datos
+
+y eso es lo que quería mostrarles no sé
+
+si tengamos alguna pregunta inquietud al
+
+respecto
+
+hola hola escuchar
+
+como yo
+
+ya que estamos perfectamente
+
+con problemas
+
+por lo que no tienen ninguna pregunta
+
+de buscarlo
+
+muy pendiente y
+
+estamos disfrutando bastante esta
+
+plataforma sabemos que bastantes
+
+colombia
+
+están comenzando a implementarla y al
+
+final lo que buscamos es poder darles
+
+herramientas
+
+[Música]
+
+de internet y entonces estamos abiertos
+
+a colaborar con cualquier persona si
+
+tienen dudas de la plataforma nos pueden
+
+contactar
+
+de ustedes muchas muchas gracias por
+
+ti
+
+y listo yo un placer haberte tenido con
+
+nosotros
+
+otra increíble conferencia
+
+muchas gracias
+
+tenemos otra conferencia
+

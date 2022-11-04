@@ -1,0 +1,2474 @@
+[Música]
+
+ah
+
+[Música]
+
+[Música]
+
+2
+
+[Música]
+
+[Música]
+
+[Música]
+
+[Música]
+
+a
+
+[Música]
+
+saludos a todas ya todos estamos en la
+
+18 versión del festival bogotá 2022 hoy
+
+en la sala actriz que llamamos por la
+
+junta charla que estaremos presentando
+
+en este momento no sin antes recordarles
+
+que tenemos el cupón de descuento para
+
+las personas que quieran hacer una
+
+certificación en linux ya más adelante
+
+al final al cierre de estas charlas
+
+estarán impartiendo detalles también
+
+invitarlos a que pueden acercarse de
+
+manera presencial a la universidad
+
+distrital
+
+tenemos todo este dos modalidades
+
+presencial y virtual pueden acceder a
+
+ambas aquí en la universidad distrital
+
+para que nos acompañamos nos recordemos
+
+en esta versión de todas somos visual
+
+todos somos líderes hoy proponiendo el
+
+reencuentro después de dos años de
+
+ejercicio virtual en el que hemos
+
+crecido y mejorado pues nuestras
+
+dinámicas en el tema digital bueno vamos
+
+a hacer la introducción a practicarle
+
+and drop
+
+va a compartir una actividad que se
+
+llama foto manipulación con
+
+la multimedia y la gráfica con la suite
+
+género linux pues aquí tenemos a táctica
+
+y práctica
+
+bienvenida
+
+y
+
+bueno pues diseñadora fotógrafa y
+
+persona comunitaria a tiempo completo
+
+adora analizar cómo funciona el mundo en
+
+esta era tecnológica no es programadora
+
+sin embargo así fue como entró a este
+
+mundo trabajan en el campo desde el 2005
+
+y ahora cada minuto que ha pasado bueno
+
+es alegra tenerte con nosotros técnicas
+
+llevamos la introducción aquí en
+
+trisquel nuestro canal de trish que
+
+recordemos que trisquel es una de las
+
+distros que promovemos para que ustedes
+
+acerquen a ellas porque está sostenida
+
+por una comunidad no con una empresa
+
+entonces que ese es el nombre de las
+
+salas que tenemos entonces vamos a darle
+
+paso a táctica bien
+
+gracias este pues bueno
+
+tengo bastantes años trabajando con él y
+
+con todo lo que son las herramientas
+
+gráficas
+
+considero que los diseñadores estamos en
+
+esta parte son como las ovejas negras la
+
+gente sabe que existimos pero casi que
+
+nadie nos conoce porque lamentablemente
+
+en el campo práctico muchas veces los
+
+formatos y no se discuten simplemente la
+
+gente te pide quiero esto en un jpg
+
+quiero es un pdf quiero es un prg o
+
+cualquier otro formato pero no se
+
+discute la base de por que esas cosas
+
+son así de porque se trabaja ahora mejor
+
+con ese vendan por evitó o este tema
+
+yo quisiera hacerles una pequeña
+
+demostración hoy de lo que es la foto
+
+manipulación con quien algunas cositas
+
+que podemos hacer de lo más fácil a lo
+
+más fácil porque no me gusta complicar
+
+las cosas pero para que comprendamos que
+
+a veces pensamos que
+
+en el mundo gráfico estamos ligados a
+
+ciertas aplicaciones propietarias que
+
+son las que pueden hacer las cosas y la
+
+verdad es que de cierta forma todo ese
+
+concepto se ha dado única exclusivamente
+
+porque ellos nos colocan clicks para
+
+hacer las cosas de forma automáticamente
+
+y en ese proceso digamos que un buen
+
+diseñador podemos a separarlo el usuario
+
+eventual de herramientas gráficas
+
+diseñador gráfico para un usuario
+
+eventual eso está bien porque en teoría
+
+no no tienen necesidad a menos que sean
+
+gusto de revisar porque las cosas
+
+suceden así que son los famosos filtros
+
+los los presets y todo eso pero un
+
+diseñador gráfico no puede casarse con
+
+estas cosas porque al final no comprende
+
+qué es lo que está sucediendo su imagen
+
+no comprende qué es lo que la aplicación
+
+está haciendo propios y en estas donde
+
+las aplicaciones de software libre que
+
+aunque también tienen su filtro y sus
+
+presidentes ganan a mi parecer porque
+
+reduzcan al diseñador gráfico a saberlos
+
+a las cosas desde cero lo cual le
+
+permite no solamente
+
+conocer cuáles son las cosas que se
+
+están aplicando sino mejorar el tiempo
+
+de realizado optimizar algunos procesos
+
+utilizar técnicas distintas que no me
+
+hagan perder tanta calidad en la imagen
+
+que usualmente lo que sucede cuando
+
+tienes un filtro entonces vamos a
+
+compartir aquí
+
+la de arriba
+
+ya se está viendo te avisan si se está
+
+viendo por allá hay que leer
+
+espera fijó como meta personal el año
+
+que viene voy a estar en el friso de
+
+bogotá presencial porque ya fueron
+
+demasiados años en el crisol de
+
+venezuela
+
+al finalizar faltando 15 minutos para
+
+terminar esta hora vamos a dejar una
+
+ronda de preguntas y respuestas pero
+
+pues anímate ática que nos cuentes y en
+
+la marcha recibimos preguntas porque veo
+
+que
+
+al final a veces las cosas salen en el
+
+medio en el interior y de hecho eso ese
+
+feedback en vivo es lo que hace que la
+
+charla sea más divertida porque a mí me
+
+gusta enseñar en vivo las cosas así que
+
+bueno entonces recuerdo a las personas
+
+que estaban visitando en la red social
+
+de youtube twitter facebook pueden hacer
+
+sus comentarios o preguntas directamente
+
+en la caja de comentarios y
+
+automáticamente vamos a verlas y
+
+compartirlas aquí en directo entonces
+
+estáticas la audiencia estudiantes
+
+es media cara si vale presión que tienen
+
+que ver la cara que pasa ajá aquí yo
+
+simplemente agarre unas poquitas fotos
+
+porque no vamos a evitar una sola foto
+
+sí sino que hollande este sino que vamos
+
+a tratar de demostrar algunas cositas
+
+que podemos hacer con varias fotos
+
+primero para darle más versatilidad y
+
+segundo para que no nos hacemos una
+
+imagen oficial entonces esto es algo tan
+
+fácil como una foto de una flor ya no sé
+
+ni cuando tomé esta foto se me va a
+
+salir los años pero por ejemplo algunas
+
+de las cosas que podemos hacer vamos a
+
+hablar de color sí
+
+a mí me encanta jugar con los colores y
+
+de hecho en mi trabajo me toca cambiar
+
+los colores de las cosas pero imagino la
+
+cantidad de veces que uno de los
+
+clientes más grandes trabajan en el
+
+sector automotriz y entonces el rejón
+
+rojo el rojo tiene que ser más oscurito
+
+que él no tengo carro no sino lo que era
+
+azul y se podrán imaginar el desastre
+
+que pasa allí
+
+cuando nosotros hablamos de foto
+
+manipulación tenemos que comprender que
+
+las fotografías se dividen realmente en
+
+dos cosas 1 sombras y luces que están
+
+determinados única y exclusivamente por
+
+el blanco y el negro y solo que es la
+
+paleta cromática que serían los colores
+
+que maneja kong y yo puedo hacer cosas
+
+tan divertidas como obviamente cambiando
+
+los colores y me imagino que algunos de
+
+ustedes dentro de la curiosidad habrá
+
+hecho esto
+
+moviéndolo y simplemente cambiando los
+
+colores pero
+
+lo bonito de este es que yo puedo
+
+seleccionar cada canal verdad cada canal
+
+de color que estamos hablando de rege
+
+beige se me llegan juntos
+
+y cambiarlo únicamente
+
+estas cosas me permiten tener cierto
+
+poder y mucho más interesantes sobre lo
+
+que sería la imagen
+
+y bueno aquí obviamente tenemos que
+
+jugar para poder llegar los tonos de
+
+color que queremos pero podemos hacer
+
+cosas para a nivel publicitario que
+
+digamos que el pri rama y adaptar las
+
+imágenes para el propósito que yo quiero
+
+sin estar haciendo clics muy complicados
+
+y se den cuenta sólo levante una una
+
+propiedad una forma de un diálogo para
+
+cambiar una sola cosa tela para
+
+esas cosas también me divierte hacer en
+
+inglés
+
+de igual forma mientras más separados
+
+estén más canales de color
+
+mientras más separados en mil canales de
+
+color digamos que si ustedes tienen las
+
+ruedas traumáticas pues lo que tienen
+
+los puestos y si alguien osa verdad
+
+cromática me avisó
+
+mayor poder vamos a tener para hacer
+
+modificaciones de concepto dentro de mis
+
+imágenes y mayor poder voy a tener
+
+dentro de lo que va a ser mi foto
+
+manipulación
+
+cosas tan sencillas como éstas que irán
+
+presas porque están como vengo los
+
+colores cuando vamos al campo práctico
+
+créanme que estas cosas que están ahora
+
+bien
+
+ya sabemos que podemos manipular los
+
+colores ya sabemos que podemos manipular
+
+luces y sombras pero qué pasa cuando yo
+
+quiero manipular formas
+
+entonces
+
+una de las cosas que a mí me divierte
+
+mucho que no esté trabajando con comida
+
+es que nosotros somos mal en la
+
+publicidad aquí pensando tenemos un
+
+poder de persuasión para hacer que todo
+
+el mundo controle lo que uno quiera y a
+
+veces es malo porque es mentira por
+
+ejemplo imagínense si yo quiero resista
+
+hamburguesa no se vea tan grande como la
+
+otra porque está como de lado
+
+pero que esto se vea más grande y le
+
+interesamos
+
+y ya no pasó nada
+
+y son cosas que el cliente final nunca
+
+se entera
+
+porque estamos simplemente manipulando
+
+con algo que se llama iwork burlado de
+
+muerte modificación que la sacan con la
+
+letra w
+
+como se ve en las curso entonces
+
+tener el poder de foto manipulación
+
+dentro de una herramienta como kim le da
+
+mucho mucho
+
+poder sobre lo que puedes hacer y sobre
+
+la percepción de las imágenes como todo
+
+superpoder hay que saber utilizarlo para
+
+bien y para mal
+
+y cuando hablamos de afecto manipulación
+
+si está segura de que este es justamente
+
+el tema del que todo uno quiere
+
+si nos de 100% 29.9 señor que es como yo
+
+mejoro mi propia foto como mejora la
+
+foto
+
+paso bueno tengo que tener una foto de
+
+buena calidad
+
+es más fácil editar una foto de mala
+
+calidad pero tengo peores resultados
+
+y en este caso tenemos dos herramientas
+
+para modificar una fotografía vamos a
+
+hacer lo que es la corrección de piel
+
+que siempre es lo más interesante hay
+
+técnicas más complicadas no las voy a
+
+comentar acá por ejemplo la separación
+
+de frecuencias y otra cosa
+
+pero aunque obtenga unos resultados
+
+mucho más reales y un poquito más
+
+compleja
+
+y trabaja dentro de los canales de luces
+
+y sombra que estaba comentando
+
+anteriormente pero siempre una forma
+
+fácil de hacer las cosas y mejor que
+
+complicarnos la vida
+
+la forma en la que nosotros reparamos la
+
+piel es simplemente cojeando integral
+
+así como se hacen con un documento de la
+
+misma forma exactamente y ya tengo todas
+
+herramientas para hacer eso tengo una
+
+que se llama clonado sin que los
+
+literalmente es una copia exacta de la
+
+porción de que el lugar donde copio
+
+vamos a hacer una demostración acá si yo
+
+quisiera ponerle un tercero en el frente
+
+pero no al frente es una copia fiel y
+
+exacta de lo que es titular 'no y tengo
+
+una herramienta que se llama sanador que
+
+esto es una herramienta que hace por
+
+aproximación todos sabemos que las
+
+fotografías y las imágenes gráficas
+
+están compuestas por píxeles si son
+
+víctimas fotografías de toda cosa por lo
+
+cual cada pixel está relacionado con el
+
+que tiene al lado y por eso es que a la
+
+cena vemos lo que una imagen entonces yo
+
+voy a utilizar la de sanado porque
+
+quiero que la copia sea inteligente y
+
+como hacemos el sanado simplemente
+
+copiamos una sección limpia o una
+
+sección matriz control clic google y ahí
+
+ven que se queda como un circulito
+
+mercado porque esa es mi zona
+
+maestra presión alguna forma y
+
+supongamos que yo quiero quitar esto que
+
+toque tener cuidado con la sombra pero
+
+como esto es municipio inteligente el
+
+agarra un poquito de la suelta y la
+
+limpia si se dieron cuenta mientras lo
+
+dejó el 3 apretado y lo voy moviendo mi
+
+patrón se va moviendo en conjunto
+
+conmigo así que
+
+la zona que seleccionemos tiene que ser
+
+lo suficientemente amplia y limpia para
+
+poder hacer el trabajo como se llamaba
+
+cannes
+
+de hecho puedo utilizar este mismo
+
+patrón pero vamos a buscar uno que sea
+
+más amarillo
+
+no implique esto para tener el original
+
+los rapids para poder comparar porque si
+
+nos comparamos la imagen limpiamos un
+
+poquito acá va a seguir limpiando hasta
+
+confiado no tocar el cabello las arrugas
+
+no es porque limpiarlos no tengan drama
+
+con su edad por favor y mientras le voy
+
+a estar haciendo esto me pueden ir
+
+haciendo preguntas
+
+que por cierto les adelanto antes de que
+
+se lanzan de cabeza a no hacer ninguna
+
+pregunta como de costumbre
+
+y yo estuve un poquito de problemas en
+
+escoger jugar
+
+charla darles porque uno digamos que
+
+tengo muchos años haciendo esto en
+
+diseño gráfico y sé que no todos los que
+
+están viendo la charla a mí son
+
+diseñadores y es trabajan en el mundo
+
+del marketing y la mayoría de ustedes de
+
+hecho son ex programadores
+
+entonces si tienen cualquier otra
+
+pregunta que no sea relacionada con la
+
+foto manipulación prótesis relacionada
+
+con el diseño en esos dos libre vectores
+
+diseño de utilizando herramientas de
+
+diseño
+
+para pepe y para todo lo demás este
+
+este hagan las con confianza porque esta
+
+es la oportunidad en hoteles para
+
+refundarlo
+
+simplemente control clic para copiar y
+
+dejar mi punto maestro lo va a ser
+
+quizás hit clic para ir
+
+si hace protección de las ballenas no
+
+hacerlo si se tiene chato las copian y
+
+las las pasas y tienes buscar las de
+
+telecom
+
+por cierto el trabajo de la cena es el
+
+trabajo de la foto de manipulación cómo
+
+se dan cuenta es un trabajo de paciencia
+
+y mucha paciencia
+
+este
+
+así que hay que esperar
+
+[Música]
+
+[Música]
+
+no sé si se escucha a mí me mouse
+
+[Música]
+
+y una parece que no hubiese hecho nada
+
+porque los cambios son muy sutiles
+
+[Música]
+
+y otra haciéndoles una serenata con la
+
+frase los clichés
+
+y aunque parece que no se hizo nada yo
+
+no sé si la calidad sea buena pero aquí
+
+vemos
+
+antes
+
+antes
+
+bueno está tica voy a hacer las
+
+preguntas que van apareciendo del
+
+auditorio que aquí hay una que dice cómo
+
+se automatizan cosas en jean digamos
+
+hacer cambios en múltiples capas en un
+
+solo movimiento
+
+según éste y después de la explicación
+
+tiene que ver con que en muchas capas y
+
+poder digamos darle un atributo general
+
+y que se establezcan todas las capas sin
+
+explicaban que era como si tienes así
+
+estás haciendo un ir y en el gif
+
+necesitadas digamos
+
+cambiar el color alfa de los fondos cómo
+
+hacerlo antes fotograma por fotograma
+
+cuando subes las capas sino que puedas
+
+hacerlo digamos en bloque
+
+ahí no hay una respuesta sencilla ahí la
+
+respuesta es que
+
+tienes que utilizar info para hacer la
+
+programación de lo que creas que fue el
+
+motor que está por detrás de todo ping o
+
+utilizar otra cosa para tu que de hecho
+
+no sé por qué están haciendo porque
+
+están usando útil si pueden utilizar la
+
+animación sbg ese sería la pregunta
+
+no sigan haciendo animaciones el ritmo
+
+con utilizar svg ciudad para una web no
+
+pierden calidad
+
+si quieres forma pero no es no es un
+
+tema de cómo hacerlo es un tema de que
+
+quizás estás utilizando la herramienta
+
+equivocada para
+
+para ello bueno aquí hay media
+
+explicación que interpretó como que a
+
+pesar de que el formato ying ya es
+
+ineficiente en algunos casos se sientan
+
+y en esos casos en particular
+
+se entiende que hay una opción muy
+
+ineficiente y luego tasas que tenemos la
+
+tendencia tenemos una tendencia de
+
+querer utilizar
+
+ciertas aplicaciones para todo y no
+
+comprender que esta aplicación tiene su
+
+curso
+
+es como el voy a nombrar un mini meses
+
+pero es como por ejemplo cuando hablamos
+
+de que todo se hace en photoshop yo no
+
+sé cuántos diseñadores web ahora entre
+
+ustedes haya
+
+pero un error es un error de envase
+
+querer diseñar algo que tiene que ser
+
+responsive que tiene que ser
+
+redimensionables una aplicación de visma
+
+porque porque uno para modificarlo
+
+tendría que tener 400.000 capas y el
+
+tamaño del archivo se me va a disparar
+
+segundo si uno diseño lo que sea que
+
+esté diseñando al máximo tamaño no voy a
+
+poder re resbalar hacia arriba sino
+
+hacer 11 skate y tercero el bit max
+
+sigue siendo algo estático para que
+
+poder hacer una animación en un pit ma
+
+el problema es que tienes que generar
+
+capa sobre capa como que si fuese
+
+fotograma que está haciendo una película
+
+eso está muy bien si estoy trabajando
+
+con fotos pero si estás trabajando con
+
+otro tipo de animaciones si voy a otro
+
+nivel tengo que trabajar en vectores en
+
+las web tengo que trabajar espectadores
+
+en todo creo que trabajar en vectores
+
+entonces yo creo que lo que tenemos que
+
+tratar de trabajar
+
+es el darle el curso correcto a cada
+
+aplicación y no tratar de que de que
+
+cada aplicación sea un apodera de que
+
+con quién puede solucionar todo de que
+
+con es que pueda solucionar todo porque
+
+si los suyos les puedo decir que ni es
+
+que yo puedo hacer edición fotográfica
+
+porque me ha tocado hacer ciertas partes
+
+y así pero realmente ustedes no van a
+
+poder hacer foto manipulación con jeans
+
+si no obtienen una fotografía de buena
+
+calidad por ejemplo contarte si no hacen
+
+un revelado correcto entonces
+
+sí sé que puede es como lo del flash o
+
+se dice que podría hacer uso pero no
+
+deberían hacerse entonces si no tratamos
+
+de mejorar y optimizar los procesos con
+
+los que hacemos ciertas cosas
+
+seguimos prolongando un problema y
+
+buscando una solución que ni siquiera
+
+está ahí son animaciones por favor
+
+vectores a menos que estén haciendo la
+
+película
+
+aquí dice que el formato en cuestión no
+
+es un cvg sino una secuencia de fotos
+
+creo que lo que es la banca está acá se
+
+verá un gif con un trozo de vídeo
+
+porque
+
+en ese entonces
+
+que quieren hacer oír que un toque
+
+pero de hecho porque entienden que se
+
+puede
+
+ok si están escuchando a
+
+la fuente exportar directamente aquí
+
+aunque ese equipo no el alta no es en
+
+alta realmente yo también he probado esa
+
+herramienta y no es que voy a sacar un
+
+gif de más de 800 megapíxeles con una
+
+buena resolución de
+
+las preguntas que son cosas que uno en
+
+el día a día
+
+no se pregunta a sí mismo
+
+aquí estoy haciendo corrección de color
+
+utilizando la misma la misma herramienta
+
+es
+
+simplemente lo que voy a
+
+difuminar un poquito los bordes
+
+y como ella
+
+vamos aquí a la saturación pero eso lo
+
+logró
+
+y vamos a tirar un poquito que hoy está
+
+haciendo cosas
+
+por qué
+
+y ya no solamente tiene la cara sin
+
+pepitas sino un color más normalizado
+
+y los dientes blancos
+
+el plan que menos me dejó pensando lo
+
+debe estar haciendo la animación en ti
+
+dice que con tiempo si no han probado
+
+info y sabes hacer la herramienta que
+
+necesite pero pero que interesantes
+
+estas son formas distintas a hacer las
+
+cosas de utilizar las herramientas como
+
+yo no soy muy buena animación
+
+pero
+
+porque le he oído a la animación es como
+
+le voy a el 3d
+
+pero son cosas muy interesantes
+
+con 'la fábrica'
+
+aquí solamente me dejé los ojos que no
+
+quiero gritar el resto y sombras y luces
+
+de la planta
+
+es que tengo muchos podemos hacer las
+
+demás cosas
+
+y
+
+h
+
+después iban a ponerse todas las cosas
+
+confesión influencia
+
+por favor
+
+los famosos ojos
+
+claros son tan tóxicos
+
+y
+
+y ya tenemos aquí lo que sería una foto
+
+editada
+
+si cambian los cambios
+
+un poquito
+
+ahora bien
+
+otra de las cosas que digamos que son
+
+divertidos
+
+es una de las fotos que más me gusta
+
+es la que podemos hacer fotos
+
+manipulaciones que son un poquito más
+
+complejas y este en este caso vamos a
+
+ver si me sale mucho tienen sin hacer
+
+esto
+
+que más vieja te vuelve que miren la
+
+cara de desastre que tengo yo ahí
+
+a ver a ver
+
+vamos a ver cuáles son las fotos
+
+originales
+
+principal
+
+a mí
+
+esto
+
+3 cada foto y colocando una capa
+
+esta vamos a meter varios otros ahí
+
+tenemos 20.000 casas de miren la cara de
+
+desastres
+
+si serían los más duros
+
+vamos a colocar esta de primera porque
+
+esta va a ser mi foto base y porque va a
+
+ser mi foto base porque encima de esto
+
+lo único que voy a hacer es ir
+
+eliminando todo lo otro que está en esa
+
+capa
+
+simplemente fijando
+
+mucho
+
+mucho memoria
+
+y lo que quiero tratar de hacer es una
+
+foto manipulación donde voy a agregar
+
+varias fotografías las voy a poner cada
+
+una es capaz de borrar lo que no
+
+necesito y esta forma en teoría debería
+
+de obtener una fotografía nueva
+
+que no parezca tan editada
+
+esto lo voy a colocar acá
+
+pero haciendo bien un poquito nada más
+
+voy con la siguiente capa
+
+igual que la anterior
+
+si agregamos el canal alpha que
+
+simplemente agregarle la transparencia
+
+es
+
+por eso que necesitamos
+
+pero para hacer esto lo más rápido
+
+posible y estás también
+
+[Música]
+
+y listo
+
+entonces vamos a agarrar la primera capa
+
+en este caso lo que quiero hacer primero
+
+es colocarla para que se me facilite
+
+la edición porque no quiero estar
+
+borrando todo ese sentido estar borrando
+
+todo si lo que queremos que parezca que
+
+se mantiene él
+
+el fondo simplemente borramos lo que se
+
+sobrepone y después el cielo como todo
+
+esto da igual se va a mantener
+
+se acerca para ver esto con más
+
+necesitamos
+
+y si es que podríamos hacer una forma
+
+más optimizada con las cosas pero
+
+satán
+
+matías
+
+no pasó nada
+
+foto1
+
+foto 2 esto está muy arriba vamos a ver
+
+dónde lo colocamos
+
+esta razón colocar
+
+por aquí
+
+éxito
+
+y de nuevo lo único que hace es borrar
+
+lo que necesitamos
+
+de nuevo pero esta vez con las curvas
+
+hay formas distintas formas de hacer lo
+
+mismo
+
+él
+
+necesitamos todo este premio
+
+los demás
+
+de esta forma también puedo hacer una
+
+limpieza mucho más
+
+precisa sin que se me miren los bordes
+
+porque recuerden que las brochas aunque
+
+no puede tener rocha personalizadas la
+
+mayoría de las brochas que utilizamos
+
+tienen los los bordes y con algunos
+
+gradientes con alguna
+
+entonces este
+
+nunca tenemos los bordes limpios y
+
+nítidos lisos para eso utilizan dos
+
+formas veces porque podemos tener un
+
+corte mucho más
+
+listo y todo lo que está alrededor lo
+
+work
+
+y estas ramas
+
+y
+
+si tienen preguntas aprovechen de
+
+hacerlas todos los momentos ante yo casi
+
+que me concepto y
+
+desaparezco
+
+por qué
+
+soy muy rápido
+
+por eso es que los diseñadores
+
+suscribimos el tortícolis más que los
+
+programadores
+
+aquí ya tenemos otras podemos agarrar
+
+esto
+
+para
+
+poner
+
+y colocarla
+
+ahora
+
+y vamos a tratarlo un poquito
+
+sólo queremos un pedacito chiquito
+
+[Música]
+
+y vamos a ver qué es lo que necesitamos
+
+yo creo que necesitamos solamente estas
+
+acciones y que el resto lo voy a borrar
+
+y
+
+en esta sección nada más
+
+está ya en este punto con más veces para
+
+todos porque porque quiero unos cortes
+
+limpios más limpias posibles
+
+los perfectos
+
+la falta manipulación como cualquier
+
+otra
+
+otro arte es un arte de percepción es un
+
+arte que va al gusto de cada persona que
+
+lo está haciendo hay gente que le gusta
+
+el hiperrealismo
+
+gente que le gusta que las fotos no
+
+parezcan editadas
+
+y
+
+todo depende de cuál es el objetivo que
+
+quiero tener con la fotografía es lo que
+
+quiero lograr que de la persona que la
+
+va a ver y cuánto tiempo le quiero
+
+dedicar yo creo que principalmente el
+
+tiempo le dedicamos a estas cosas
+
+con esta capa que nunca
+
+pero sigue evidentemente todo lo que es
+
+la foto manipulación
+
+es un tema de percepción y de ese cuenta
+
+qué
+
+estoy tratando de colocar los nodos
+
+curva que está trabajando dentro de
+
+este sector
+
+dentro de lo que yo considero los nodos
+
+hoy están como estamos de tiempo
+
+aproximaciones teniendo el reloj
+
+este para poder hacer las curvas que son
+
+los intermedios mayores
+
+vamos bien
+
+bien
+
+y esta vuelta
+
+de eso lo que hacemos
+
+[Música]
+
+al revés
+
+vamos a invertir s
+
+cuando aquí está la danza de las pompas
+
+y de aquí
+
+solamente voy a agarrar
+
+y esta sección predicación
+
+además
+
+y refrito me compré mis curvas bs
+
+en ellas confío y creo son mi señora en
+
+salvadora
+
+e
+
+cortamos registro
+
+y esto está hecho después le enseñó la
+
+foto de verdad
+
+yo las carreras como por demostrarles
+
+que existen algunos pero para esto está
+
+como 14 fotos bien
+
+eso lo que se llama estar en los inicios
+
+del cómic y no tener absolutamente vas a
+
+pensar con tu vida
+
+en nuestros días salía casi que todos
+
+los días de más fotos
+
+y esto lo vamos a colocar como yo sé que
+
+está esta forma aquí
+
+tengo que
+
+borrar esta sección de lo que no pero
+
+qué hacemos con las espaldas
+
+para sanz
+
+aquí
+
+bien
+
+y las patas planas
+
+y bueno hay una última pregunta plática
+
+desde el auditorio la comparto qué
+
+configuración tiene el equipo en el que
+
+edita
+
+porque va muy rápido
+
+para mostrarles
+
+ahí están ustedes por tate
+
+pantalla grande la portátil es un ante
+
+450
+
+s/n
+
+y un cerro
+
+12 de ramón serra tiene 15 no tengo un
+
+tacón no tengo un 7 espero tener un 7 y
+
+tengo un monitor adicional que es un hp
+
+que es de los que son no reflexivos los
+
+puebles muy importante para los
+
+diseñadores cómo saber si una pantalla
+
+le va a servir para ser diseñador
+
+gráfico si usted se mueve para los lados
+
+y no cambia de color ya saben que
+
+ciertas portátiles y pantallas que
+
+cuando ustedes se mueven es el nombre
+
+técnico de eso este pero ya se ponen más
+
+oscuras y si hace eso definitivamente es
+
+una pantalla que no les va a servir para
+
+diseñar de hecho me importan ti lo
+
+anterior era así y la cambió con mi
+
+esposo y entonces
+
+mejor que nadie lo que está haciendo
+
+pero este
+
+positivo el que más tiene está allá
+
+tiene doble doble disco duro tiene un
+
+disco duro de estado sólido donde está
+
+el sistema operativo lo cual apoya
+
+muchísimo más el
+
+procesador y tiene un disco adicional
+
+donde está
+
+lo máximo para dormitorio cual es el
+
+requerimiento mínimo para poder usar
+
+estas estas herramientas que estás
+
+usando no la debe ser la de corrección
+
+como para que sea óptima en un equipo
+
+que es y que la herramienta la
+
+herramienta no tiene requerimientos lo
+
+que tiene requerimiento es cuántas ram
+
+le vamos a poner a la máquina para que
+
+aguante el tamaño de la foto grande date
+
+cuenta que yo comencé con una foto de
+
+casi 6000 píxeles y la baje a 3000 para
+
+que fuese mucho más rápido entonces todo
+
+depende del tamaño de la foto y la
+
+calidad de la foto no es lo mismo por
+
+ejemplo una imagen de dos mil píxeles
+
+96 es el tamaño 100 de lo que tú ves a
+
+una imagen de 2000 píxeles a 300 dpi el
+
+peso
+
+el peso de la imagen bashar
+
+agrandado dependiendo de la cantidad de
+
+píxeles que enriquezcan los detalles
+
+alemán o sea no es lo mismo ahorita esto
+
+que este método borroso
+
+así por ejemplo lo agarro
+
+miles de sesiones ahí hacia una foto de
+
+esas que tiene 6.000 píxeles y de hacer
+
+la cantidad de detalles que voy a ver va
+
+a ser diferente aquí le voy a estar las
+
+rayitas de pelo y rizado de lo entonces
+
+esta es una foto que por ejemplo tiene
+
+con esto es un mega nada más que ya la
+
+vía de la había comprimido pero éste
+
+la mínima cantidad de rne que tienes y
+
+vas a trabajar con fotos grandes tiene
+
+que ser entre cuatro y seis días de
+
+rápido y creo que ya la mayoría de las
+
+portátiles hoy en día tienen eso sí por
+
+el contrario quieres utilizar otro tipo
+
+de herramientas
+
+y otro tipo de cosas digamos por ejemplo
+
+que quiero rente quiero revelar la foto
+
+que no utiliza artear tego y para los
+
+que no conocen es algo como lightroom
+
+parecido pero no es lo mismo mucho más
+
+potente necesitas un poco más de de ram
+
+o de paciencia tú decides si quieres
+
+hacer la inversión de dinero o si
+
+quieres hacer la inversión de paciencia
+
+y recordemos que no es lo mismo el
+
+procesamiento que se utiliza mientras
+
+estoy editando la foto al procesamiento
+
+que se utiliza conducir renderizando la
+
+fuerza ahí no importa lo máquina buena
+
+que sea siempre va a tardar
+
+todas esas cosas estarán todos en
+
+espacio
+
+pero se quiere la lluvia positivo con el
+
+otro lado es un vacilón este tienes que
+
+agarrar todos esos pequeños componentes
+
+acuerdos que al principio las corrientes
+
+sobre los filtros entonces cada vez que
+
+tú hagas algo todo eso se va abordando
+
+son lo que llamamos el historial y eso
+
+sucede con todos las herramientas
+
+este mientras más cosas tengas en el
+
+historial más tiene que procesar tu
+
+computadora entonces es un tema de
+
+balance entre los recursos y unas
+
+técnicas adecuadas de edición
+
+fotográfica o de edición gráfica para
+
+que no sobrecargas con un pasos
+
+innecesarios lo que es el procesamiento
+
+incluso no sé si saben las cosas que
+
+hacen y luego deshace si ustedes no la
+
+admiten del histórico de acciones se
+
+siguen procesando entonces todas esas
+
+cositas cuentos pero bueno me quedo no
+
+quedó tan bonito las fotos pero les voy
+
+a enseñar la próxima gente y en menos de
+
+10 minutos lo voy a enseñar la original
+
+sala que sigue fue la serie de series
+
+series serie
+
+y si yo le digo que esto utilizó para
+
+cual se acuerdan que aquí estaba la casa
+
+y los pinos todo esto es una foto
+
+de esta foto
+
+que estas otras fotos y los pies porque
+
+yo sí
+
+obviamente el fondo otra foto y corte la
+
+casa y por tanto pocos y estas fotos y
+
+no hubiesen visto el proceso de cómo
+
+pegar capa ponga a limpiar cada una yo
+
+lo hubiese dicho esto es una sola foto
+
+si ustedes no lo cree pero realmente nos
+
+de dicho en esta esto hace que ésta sea
+
+la de a laxe dimensionada pero la texas
+
+por ahí original la tengo en algunos
+
+archivos éste se ven hasta las hasta las
+
+fibras
+
+hasta las fibras de la tela
+
+pregunta destaca
+
+estamos en la hora
+
+pero más que preguntas creo que te están
+
+diciendo que más rápido
+
+igual que dicen que se está quedando
+
+grabado lo pueden consultar en las redes
+
+sociales que tenemos disponible para
+
+digerirlo
+
+más limpiamente entendemos que hay
+
+padres herramientas muy útiles la
+
+división me parece que es súper potente
+
+y le ha replicado porque esas son las
+
+que más han quedado como atónitos y el
+
+flujo de trabajo que tiene hoy manejo
+
+lo peor y no procesar nada pero lo que
+
+pasa es que es muy en la foto
+
+manipulación es un mundo muy grande ya
+
+si vamos a hablar de foto manipulación y
+
+wii solamente esto es como para que vean
+
+que hay más allá de esto sí
+
+cuando hablamos de foto manipulación lo
+
+ideal
+
+interesante aquí que no sea muy
+
+comprometedora este es hablar de la
+
+parte de la fotografía tenemos que
+
+entender
+
+no tengo no los tengo limpios en otro
+
+lado
+
+yo creo que
+
+es un mundo muy grande y para poder
+
+obtener una buena foto tenemos que
+
+obtener una buena
+
+bueno original
+
+si no tendría que ir de la máquina
+
+lo que pasa
+
+es
+
+que
+
+si no he bajado las fotos que en estos
+
+días pero importa
+
+si nosotros podemos hacer buenas buenas
+
+edición tenemos que
+
+tenemos que tomar fotos buenas o tenemos
+
+que sacar una base buena
+
+esta foto fueron unas fotos fatales
+
+y digo fatales porque no me llevé luces
+
+no me llegue nada pero miren todo lo que
+
+tarda tengo dos seguidas de ram pero un
+
+buen procesador está bien todo lo que
+
+tardó porque porque estamos hablando una
+
+fotografía que está como en un negativo
+
+de busque procesando y esto es lo que
+
+les decía con el historial tan importa
+
+si yo veo esto son pasos que están
+
+apagadas si yo cuando voy a exportar no
+
+no los eliminó igual el procesamiento va
+
+a ir paso por paso y lo que va a decir
+
+pero aquí lo apago todo ese todas estas
+
+emisiones que yo hice anteriormente van
+
+a quedar guardadas en el historial
+
+especialmente en aplicaciones como darte
+
+ver que no tienen votante guardado no sé
+
+si sabían eso es uno de los grandes
+
+avances que creo que se van implementar
+
+pronto en tiempo que no tienes que
+
+guardar yo no se va a cambiar como vemos
+
+el mundo del diseño gráfico proceso el
+
+dolor de cabeza no guarde no guarden o
+
+muerte aquí literalmente sitio llegó y
+
+hago cualquier cosa prendo no sé vamos a
+
+ver qué
+
+vamos a aprender
+
+[Música]
+
+esto vamos a agregarle aquí un billete
+
+para que sea fácil si yo lo aprendo
+
+automáticamente aquí se agregó y yo
+
+puedo agregarle bajar la saturación a
+
+los bordes cambiar del centro
+
+todas esas cosas se están guardando en
+
+un blog de actividad y clics si aprietan
+
+y sintió un aprieto no desaparece
+
+simplemente este botón citó que está
+
+aquí dijo que no está pero sigue quedan
+
+entonces
+
+trabajar de una forma más óptima
+
+y más organizada y sabiendo exactamente
+
+qué es lo que estamos haciendo nos va a
+
+permitir tener un poder de procesamiento
+
+mejor sobre todo porque existe siempre
+
+ese tabú de que el diseñador no es
+
+programador no pero un buen diseñador
+
+sabe cómo se comporta su aplicación sabe
+
+lo que está haciendo por detrás y sabe
+
+formas de manejar esa aplicación no
+
+solamente para obtener un resultado
+
+óptimo a nivel gráfico sino para que los
+
+tiempos de entrega y los formatos y las
+
+calidades sean las adecuadas entonces
+
+diseño gráfico es mucho más que
+
+dibujitos eso siempre es la moraleja de
+
+la historia
+
+no sé si alguna otra pregunta
+
+bueno entonces ya podemos entrar a la
+
+ronda de preguntas de comentarios los
+
+invitamos a que lo hagan en las cajas de
+
+las correspondientes transmisiones en
+
+facebook twitter y youtube recordemos
+
+que esta es la forma en que el piso de
+
+bogotá llega hasta a las comunidades que
+
+no a las personas usuarias de
+
+tecnologías de programas digitales que
+
+no conocen estas alternativas entonces
+
+estamos usando estos canales
+
+precisamente para poder contactar con
+
+ustedes y darles a conocer
+
+otras formas de hacer
+
+comunicación si desde el diseño desde la
+
+formación desde las tecnologías de las
+
+conexiones las redes las plataformas los
+
+servidores bueno hoy ha sido un día para
+
+recordar el tema de la soberanía la
+
+autonomía y la comunidad porque no puede
+
+existir comunidad sino no puede existir
+
+soberanía sin comunidad y eso estamos
+
+haciendo perdiendo no estoy compartiendo
+
+todo esta abundancia de cognitiva
+
+y bueno los invito a que conozcan y lo
+
+descarguen es multiplataforma no pueden
+
+usar tanto
+
+las que tienen windows mac
+
+y también o desde cualquier versión de
+
+linux y es un usuario que está iniciando
+
+y para los que no
+
+aquí hay un muy buen manual creo que
+
+estas dos se van estas son básicas y
+
+prácticas para que sus necesidades ya
+
+sea para publicar la portada de un
+
+artículo blog a otro en una red social
+
+bueno esto ya me va a poner también de
+
+analizar el asunto de compartirles
+
+resultados básicas para ver si
+
+analizamos este caso en particular que
+
+también media cuando como inciertos y es
+
+que por eso a mí me encantan las
+
+preguntas porque siempre siempre pasa
+
+algo que es un caso donde no está eso es
+
+como el tabú del profesor y entran mucho
+
+dentro de lo que es la forma de ser de
+
+la persona de software libres
+
+cuando les hacen preguntas porque les
+
+preguntan cosas tener sabios y eso es lo
+
+más divertido y eso es justamente lo que
+
+ha hecho crecer esos bolillos hacerse
+
+las preguntas incómodas que las personas
+
+que nos andan la rampa te pregunte que
+
+las personas que se sienta en la cama te
+
+pregunten porque si no no va a haber
+
+forma efectiva de crecer a la
+
+comparación es una comparación sana
+
+basada en el crecimiento en una
+
+comparación en tu eres mejor yo soy peor
+
+y para los que estaban preguntando les
+
+aseguro que en youtube hay
+
+infinidad de tutoriales de hecho y tengo
+
+muchos hay montado si no saben inglés
+
+también en infinidad de tutoriales que
+
+están en español el manual de usuario de
+
+todas las aplicaciones está en español y
+
+si usan irc se usan telegram lo que sea
+
+que utilice siempre muchos canales de
+
+apoyo y de soporte donde pueden
+
+incorporar dentro del mundo del diseño
+
+gráfico hay una camaradería especial
+
+justo porque siempre somos el punto de
+
+quiebre en la gente que usa adobe y los
+
+demás que no saben qué utilizar y si les
+
+puedo decir que con 20 años de
+
+trayectoria profesional jamás ha
+
+utilizado una herramienta
+
+propietaria la de los días que la
+
+utilizaba ha sido por mera curiosidad y
+
+porque literalmente tenía otra persona
+
+porque no uso windows desde hace muchos
+
+años y se me de la aladi
+
+así que si se puede y yo no trabajo para
+
+empresas pequeñas precisamente yo
+
+trabajo para transnacionales y trabajo
+
+en compañías de vehículos tipo ford
+
+nissan y llegar a un punto donde
+
+simplemente no me preguntan que utilizo
+
+sino que puede entregar si lo que
+
+entrega funciona sí y entonces darle esa
+
+visualización a las herramientas
+
+gráficas libres es muy importante porque
+
+siempre quedan en el olvido siempre se
+
+asume que se está utilizando a doble y
+
+no es así entonces nos vamos a
+
+herramientas como blender que son muy
+
+potentes y que ya la gente digamos que
+
+sabe que son potentes pero no las asocia
+
+con su hombro libre porque se les olvida
+
+que si son software libre
+
+vamos con herramientas como dar tv que
+
+está digamos que no tiene mucho tiempo
+
+en el mercado tendrán apenas 10 años
+
+pero que son más potentes que el iphone
+
+porque porque me permiten hacer
+
+modificaciones en el robo me permite
+
+hacer una edición sin guardar su ser lo
+
+potente que es eso
+
+tengo herramientas como kim donde con un
+
+script puedo hacer infinidad de cosas y
+
+ahorita vienen otras cosas nuevas en
+
+tinte es un poco más complejas teniendo
+
+me meto en ese mundo pero las conozco y
+
+de último pero no más importante que
+
+para mí es más importante tengo el sbg
+
+inscrip trabajo trajo consigo el formato
+
+más importante que va a contener los
+
+próximos 50 años es el ese eje que es un
+
+formato que me permite no solamente
+
+tener un vector de alta calidad sino que
+
+me permite utilizar ese vector
+
+directamente en la web sin tener que
+
+vender y sami png y bajando los tiempos
+
+de carga increíblemente de las páginas
+
+tengo adicionalmente un sbg que me
+
+permite hacer animaciones
+
+si nos ponemos a pensar en todo lo que
+
+le ha otorgado el software libre al
+
+mundo tecnológico en los últimos 20 30
+
+años
+
+realmente el solo ante auto se halla
+
+todo está basado en algo que se hizo en
+
+software libre o en una idea que vino
+
+del superior ya nosotros no navegamos en
+
+servidores que estén prácticamente en
+
+windows todas las páginas que estamos
+
+realizando dónde están los libros la
+
+mayoría de las tecnologías que
+
+utilizamos que están en la nube donde
+
+están sanos son un libro entonces él es
+
+yo creo que es un momento muy importante
+
+donde tenemos que aprovechar de
+
+visualizar que las cosas que utilizamos
+
+cotidianamente en nuestros teléfonos
+
+nuestras computadoras y todo esto están
+
+hechas eso es posible y darle la
+
+relevancia que se requiere porque no es
+
+una relevancia a la app es una
+
+relevancia a la comunidad que está
+
+detrás de eso que muchas veces lo hace
+
+sin una remuneración económica entonces
+
+es esa visualización tan importante como
+
+todas las otras minorías este es una que
+
+tenemos que aprovechar en el mundo
+
+tecnológico porque literalmente el mundo
+
+se mueve gracias a personas como las que
+
+estamos viendo esto y como las que
+
+estamos en nuestras charlas personas que
+
+quedan en el olvido que hacen
+
+tecnologías que la mayoría de las veces
+
+son a don oren o que vienen por
+
+donaciones que no son tan frecuentes
+
+como las personas y que es lo que
+
+realmente mueve el mundo
+
+perfecto aquí tenemos un comentario de
+
+carlos en la red luego variable ya como
+
+cerrando varias
+
+pero voy a demostrar porque si no
+
+demuestra que no es verdad
+
+qué es esto fedora rectora
+
+se dora feliz usuaria de este ahora
+
+desde el 2000
+
+5
+
+bueno
+
+la distribución en libres no son sólo
+
+las tiene un link hay bastantes
+
+proyectos
+
+que ofrecen sistemas operativos
+
+diferentes también entonces los
+
+invitamos a que entren a la página de
+
+piso y se acerquen a las charlas y
+
+descubran dan más de 200 distribuciones
+
+que pueden formar tener activada la voz
+
+porque en cada una hay una intención y
+
+hay un propósito porque porque ese pollo
+
+porque realizará de eso hay una
+
+comunidad que tiene un propósito común y
+
+se organiza para hacer entonces
+
+distribuciones que están para diseñar
+
+que tienen toda la suite de herramientas
+
+que puede que ha mencionado tácticas
+
+tenemos que pasar ocho horas instalando
+
+una máquina ya es cosa del pasado
+
+y eso estamos de acuerdo antes tocaba
+
+puedes descargar el paquete ahora
+
+ya tiene todo lo necesario para que las
+
+funciones no sea funcional
+
+bueno aquí ya cerrando hay 3 comentarios
+
+una sobre los script que creo que se
+
+vuelve a preguntar de otra manera y es
+
+donde pueden conseguir información de
+
+hacer un script para
+
+algo
+
+así
+
+más
+
+info
+
+aquí están los tutoriales pero en
+
+realidad ellos tienen una
+
+aquí están los tutoriales beijing
+
+que digamos que es la parte
+
+una parte con una capa por debajo de lo
+
+que conocemos del game
+
+es lo que me permite utilizar la consola
+
+y aplicar scripting yo no soy
+
+especialista en scripting como dije la
+
+programación díaz murió hace añales pero
+
+eso es también lo que tienen que buscar
+
+hay otras cositas un poquito más más
+
+complejas pero todo eso si quieren estar
+
+al tanto de cómo van los desarrollos
+
+entren a la página de kim punto eje
+
+todas las aplicaciones son un punto eres
+
+institutores starter y cultores así
+
+tiene mucho donde ir y entrar en los
+
+canales tanto de irc como los los
+
+enlazados que están integrados porque el
+
+desarrollo de kim bueno quinta tiene
+
+como que 25 años 30 de momento es un
+
+desarrollo muy sólido una comunidad muy
+
+sólida y muy bonita y estoy seguro de
+
+que cualquier pregunta que tengan les
+
+van a contestar ahí pero comience por 15
+
+después de egipcio que se pueden
+
+instalar algunas scripting a algunos
+
+módulos scripting en que lee que son
+
+simplemente clics si saben algo de
+
+programación o de script en se puede
+
+venir por ahí y hacer cosas maravillosas
+
+ok perfecto entonces
+
+ya cerrando
+
+pero bueno tienes algún blog donde la
+
+gente pueda seguir te me pregunta por
+
+acá
+
+[Risas]
+
+vídeos que llaman los 100 podcast pero
+
+lo dejé como la mitad porque tenemos
+
+organza mamá solo pero hay recursos muy
+
+buenos hay vídeos muy interesantes allí
+
+de visitas que se trató de condensar el
+
+mix muy típico por ejemplo cómo quitarle
+
+el fondo común algo muy popular
+
+resuelven cosas eventuales sin necesidad
+
+de adentrarse mucho pero de una forma
+
+muy sencilla
+
+bueno listo entonces ya no se cierre a
+
+esta charla muchísimas gracias práctica
+
+por tu participación a todos gracias por
+
+estar aquí vamos a dar inicio en la
+
+siguiente a la siguiente charla
+
+continuamos con la última de ilustración
+
+electoral en genuinas
+
+hernández entonces ya nos vemos allí
+
+continuamos con nuestra charla gracias
+
+por estar acá
+
+[Música]
+
+[Música]
+
+ah
+
+[Música]
+
+[Música]
+

@@ -1,0 +1,2192 @@
+[Música]
+
+i
+
+[Música]
+
+i i
+
+[Música]
+
+y
+
+y
+
+[Música]
+
+más
+
+ahora
+
+[Música]
+
+i
+
+ah
+
+[Música]
+
+i
+
+ah
+
+[Música]
+
+y
+
+ah
+
+[Música]
+
+sí
+
+[Música]
+
+i
+
+[Música]
+
+[Música]
+
+[Música]
+
+y
+
+[Música]
+
+i
+
+ah
+
+[Música]
+
+ah
+
+[Música]
+
+ah
+
+[Música]
+
+ah
+
+[Música]
+
+él
+
+[Música]
+
+[Música]
+
+ah ah
+
+[Música]
+
+i
+
+[Música]
+
+y
+
+ah
+
+[Música]
+
+a
+
+ahora
+
+[Música]
+
+i
+
+ah
+
+[Música]
+
+y
+
+ah
+
+[Música]
+
+y
+
+i y
+
+[Música]
+
+a
+
+[Música]
+
+ah
+
+[Música]
+
+[Música]
+
+y
+
+[Música]
+
+i
+
+i
+
+bueno y en esta tarde volvemos con la
+
+con las conferencias que tenemos dentro
+
+del pri son en este caso tenemos a mario
+
+garcía hola mario cómodas
+
+gracias por el espacio y realmente
+
+emocionado de poder estar acá
+
+compartiendo con la comunidad vale con
+
+muchísimo gusto semana examen debe tener
+
+en este espacio hoy vamos a ver una
+
+conferencia supremamente interesante que
+
+es despliegue de aplicaciones con apps y
+
+si hay nosotros a lo largo del tiempo
+
+hemos habido baby lab que sirve para
+
+manejar etcétera etcétera etcétera que
+
+podemos alojar nuestro código pero no
+
+tal vez algunas personas no conozcan
+
+este esta profundidad esto del kit de
+
+apps y entonces hoy vamos a descubrirlo
+
+junto con mario garcía entonces si
+
+quieres mario el auditorio ya es tuyo
+
+entonces si quieres dar
+
+ya comparto con 30
+
+ya está bien bueno primero muchas
+
+gracias por el espacio y es un gusto
+
+estar compartiendo con la comunidad
+
+me estoy uniendo desde méxico de manera
+
+virtual y bueno como ya lo comentaron a
+
+carla va a ser hablar de una de las
+
+herramientas de hitler y quizás con la
+
+que tengo más experiencia que el blog si
+
+hay y justo el cómo podemos usar esta
+
+herramienta para hacer despliegue la
+
+aplicación les voy a hablar de manera
+
+general de algunas velas
+
+y funcionalidades que
+
+nos brinda esta herramienta y de un caso
+
+de uso en específico pero también los
+
+voy a dejar algunos recursos y sobre
+
+todo algo los amigos artículos que he
+
+escrito a lo largo de los últimos tres
+
+años sobre cómo servirla y en específico
+
+islas y hay en diferentes escenarios
+
+se parte de un programa de git lo que se
+
+llama disla libros empezó a servirla en
+
+2018 y al siguiente año la plaza un
+
+programa
+
+que se llama águila perros y por mis
+
+contribuciones a la comunidad desde
+
+generar contenido escrito hasta
+
+participar
+
+en conferencias como lo estoy haciendo
+
+justo ahora por lo cual quiero este
+
+programa desde hace tres años y eso me
+
+ha dado la oportunidad de compartir mi
+
+experiencia usando el vínculo con
+
+diferentes comunidades a lo largo del
+
+mundo y bueno me pueden encontrar en
+
+twitter como marín gmt y también me di
+
+cuenta de que están varios de los de los
+
+demos que he preparado para las
+
+diferentes charlas en las que he
+
+participado a lo largo de los últimos
+
+tres años y bueno también pueden
+
+contactar
+
+y si quieren conocer un poco más de
+
+explosivos y de otros programas que
+
+tienen isla pueden consultar el enlace
+
+en la
+
+que está la presentación la presentación
+
+la compartida hace un momento en twitter
+
+lo resistió la cuenta de bogotá por lo
+
+que pueden seguir siguiendo la
+
+presentación y también
+
+consultar los enlaces y recursos que voy
+
+a compartir con ustedes más adelante
+
+bueno comencemos
+
+y de manera general se trata de una
+
+plataforma de the box vamos a hablar un
+
+poco más de esto pero
+
+por sobre todo el por qué usar guita
+
+como plataforma tenemos los proporciona
+
+diferentes herramientas que podemos usar
+
+en cada una de las diferentes etapas y
+
+no podemos encontrar un poco más de
+
+información de esto en la documentación
+
+de git la
+
+y bueno algo que
+
+que me interesa bastante sobre qué es
+
+esta idea de que nos proporciona
+
+diferentes herramientas y
+
+funcionalidades que podemos usar en cada
+
+una de las etapas pero también la idea
+
+de que podemos
+
+conectar con otras herramientas y
+
+plataformas es decir la integración que
+
+tiene con herramientas de terceros voy a
+
+mencionar algunas sobretodo algunas con
+
+las que tengo experiencia y de uso en
+
+algunos de mis proyectos
+
+porque hitler bueno nos comentaban
+
+empezó a servirla en 2018 después de
+
+participar en el laboratorio de
+
+innovación ciudadana que se realizó en
+
+rosario argentina y antes de eso yo
+
+usaba hip hop principalmente para mis
+
+proyectos personales y también en esa
+
+época me empecé a interesar por todo lo
+
+relacionado a the box y en específico
+
+todo lo que tiene que ver con
+
+integración continua y despliegue
+
+continua
+
+bueno usaba hip hop principalmente pero
+
+entonces no existía
+
+actions sino que lo que hacía era
+
+conectar una herramienta externa en este
+
+caso otra oficial y era la herramienta
+
+que con la que empezaba a aprender sobre
+
+este tema
+
+pero tras empezar a usar un poco más de
+
+plata descubro que la misma plataforma
+
+que poseen una herramienta que se llama
+
+galaxia y que puedes usar para
+
+las diferentes tareas relacionadas a la
+
+integración continua en despliegue
+
+continuo además de que yingluck como tal
+
+se desarrolla con un proyecto de código
+
+abierto es decir tú puedes tomar el
+
+código y configurar tu propia instancia
+
+de hitler y tener acceso a las
+
+diferentes herramientas
+
+qué vas a encontrar cuando creas una
+
+cuenta gratuita
+
+en youtube.com
+
+y bueno para los que no conocen sobre
+
+integración continua y despliegue
+
+continuo de manera general esto es lo
+
+que nos permite con esto garantizamos
+
+que la aplicación que estemos
+
+desarrollando no va a tener ningún error
+
+y que cualquier cambio que realicemos al
+
+código se garantice que esto no va a
+
+hacer que la aplicación deje de
+
+funcionar o que funcione de una manera
+
+inesperada no además de que podemos
+
+preparar
+
+usando una herramienta como de la pcia
+
+pero para nuestro proyecto para hacer el
+
+despliegue o publicar nuestra aplicación
+
+en una plataforma en la nube como heroku
+
+como google cloud platform como amazon
+
+web services y bueno de manera general
+
+es a lo que se refiere
+
+seguramente ya conocen y vamos a la vida
+
+pero él
+
+en los últimos
+
+hace un mes aproximadamente me di cuenta
+
+de algunos cambios que hubieron en sobre
+
+todo en las cuentas gratuitas algo que
+
+cambió
+
+[Música]
+
+respecto a la fecha en que me cuenta mi
+
+cuenta la cree en 2018 a finales de ese
+
+año y bueno
+
+para empezar los artículos tenemos que
+
+crear una cuenta en la puntocom en el
+
+enlace que ven que vemos en la
+
+presentación
+
+tenemos que validar la cuenta y nos
+
+envía un correo para hacer la validación
+
+de la cuenta después iniciar sesión pero
+
+si queremos usar iglesia y en específico
+
+el rol del que es la herramienta que nos
+
+va a permitir ejecutar todos los
+
+trabajos que hayamos configurado en los
+
+pipelines link de berlín de integración
+
+continua
+
+bueno qué pasa con las cuentas gratuitas
+
+nos da acceso cuando creamos una cuenta
+
+nos da acceso a un periodo de prueba de
+
+30 días para que podamos probar lo que
+
+nos
+
+brinda la plataforma en la última que es
+
+uno de los planes comerciales que el
+
+club tiene
+
+para poder hacer uso de la pcia y de los
+
+minutos gratuitos de git runner tenemos
+
+que configurar o agregar a la
+
+configuración de nuestra cuenta una
+
+tarjeta de crédito para hacer la
+
+validación de la cuenta sin embargo esto
+
+no es necesario y también podemos
+
+configurar una instancia propia de
+
+hitler esto
+
+configurando black roller desde un
+
+contenedor que es lo que podemos
+
+encontrar en la documentación así mismo
+
+hace poco publique en inglés una un
+
+artículo en el que explicó cómo podemos
+
+configurar nuestro propio bit longer y
+
+este artículo lo acabo de traducir hace
+
+unos días también lo pueden encontrar en
+
+mi blog
+
+ahí voy a estar publicando el contenido
+
+en español sobre el islam y sobre otros
+
+temas lo acabó de crear ya que la
+
+mayoría de los artículos que he escrito
+
+sobre hitler están en inglés pero con la
+
+idea de compartir esto también con la
+
+comunidad en español estoy empezando a
+
+traducir todo ese contenido que ya había
+
+creado y además voy a estar creando
+
+contenidos profes de nuevo al respecto
+
+y bueno en el ejemplo que quiero
+
+mostrarles hoy desde python
+
+podemos usar git la pcia con diferentes
+
+lenguajes y tecnologías podemos usar la
+
+pcia y también con una funcionalidad que
+
+he aprovechado la persona le ha
+
+aprovechado bastante que las pages para
+
+quienes tienen más experiencia con hip
+
+hop
+
+funciona de manera similar active pages
+
+con algunas características que en lo
+
+personal
+
+me parecen bastante útiles sobre todo en
+
+esta idea de que podemos
+
+configurar un dominio propio y además
+
+podemos porque podemos crear
+
+los certificados de ls correspondientes
+
+para poder configurar https sobre los
+
+sitios que publiquemos usando git la
+
+pages a través de leds increíbles en
+
+crepé es una herramienta de código
+
+abierto que podemos usar para crear
+
+certificados de seguridad para para
+
+sitios web y para otro tipo de
+
+aplicaciones entonces con hitler pages
+
+tenemos acceso a esto
+
+en mi sitio
+
+bueno igual
+
+se los voy a compartir al final está
+
+configurado sobre
+
+sobre la pages y también es para poderlo
+
+publicar estoy usando git la pcia
+
+para poder publicar mi sitio a través de
+
+esta funcionalidad decirlo pero bueno
+
+vamos a hablar de un pequeño ejemplo de
+
+payton para empezar a ver cómo podemos
+
+usar diplomacia
+
+en diferentes proyectos
+
+podemos también
+
+consultar las plantillas que tenemos
+
+disponibles hay plantillas para
+
+diferentes tecnologías para diferentes
+
+plataformas pero vamos a hablar de ello
+
+en un momento
+
+entonces pueden
+
+tengo ya un demo preparado pueden hacer
+
+por el proyecto en la url que queremos
+
+básicamente es una aplicación bastante
+
+sencilla que dará con flash que lo único
+
+que va a hacer es mostrar todos los
+
+artículos que he publicado hasta la
+
+fecha en el deck
+
+esto lo hace a través de la vía de forem
+
+que es la plataforma sobre la que está
+
+construida
+
+iba a desplegar esto en una aplicación
+
+web es básicamente es lo que lo que hace
+
+sobre la idea es que vean cómo podemos
+
+configurar kit la pcia es para todo este
+
+proceso
+
+también pueden crear proyectos propios y
+
+la configuración va a cambiar
+
+ligeramente dependiendo de las
+
+características del proyecto pero en
+
+general se trata de una aplicación
+
+desarrollada con flash que está o con
+
+algún otro framework de payton la
+
+configuración sería muy similar
+
+entonces después de que ya sea que
+
+hayamos hecho forma al proyecto que
+
+tengo pública de mi cuenta o que hayamos
+
+creado un proyecto propio nos dirigimos
+
+a la ruta del proyecto que va a ser
+
+similar a lo que vemos en
+
+esta parte de la presentación unir la
+
+puntocom de nuestro usuario y el nombre
+
+del proyecto
+
+en seguida el código es bastante
+
+sencillo tenemos una
+
+en función index en este script de
+
+payton que es donde se realiza la donde
+
+se obtiene la lista de artículos y se
+
+realiza el renderizado del sitio así
+
+mismo tenemos un módulo que tiene una
+
+función definida que se llama que
+
+tácticos que es la que realiza la
+
+petición get a través de la epia y de
+
+bpd forest para obtener la lista de
+
+artículos y básicamente lo que va a
+
+hacer en este módulo es después de
+
+obtener la lista de artículos lo que
+
+hace la ley de forem es devolverlos un
+
+jason con toda la respuesta convertimos
+
+a este jason al
+
+formato de payton para qué
+
+después podamos hacer la conversión a un
+
+formato que ya ves que pueda
+
+interpretar de manera correcta y bueno y
+
+esto
+
+lo que es la impresión en él
+
+en la aplicación web y la paginación
+
+como sabemos que hay no sé cuántos
+
+artículos he publicado hasta la fecha
+
+pero sabemos que hay diferentes
+
+artículos entonces va a mostrar por cada
+
+página me parece que cinco artículos y
+
+entonces todo esto se hace a través de
+
+un script
+
+de javascript que vamos a encontrar en
+
+el directorio static de él
+
+del proyecto que estamos analizando en
+
+este momento
+
+bueno es una de las primeras etapas que
+
+se configuran en un plan de integración
+
+continua es la que corresponde a la
+
+ejecución de pruebas unitarias sobre el
+
+código de nuestro proyecto y dependiendo
+
+de la tecnología que estemos usando
+
+vamos vamos a ocupar una u otra
+
+herramienta en el caso de payton por
+
+ejemplo podemos usar partes y con otras
+
+tecnologías como javascript como temas
+
+más popular la herramienta que nos
+
+brinda por defecto o la herramienta
+
+y podemos usar a través de un módulo oa
+
+través de una herramienta de terceros
+
+según sea el caso
+
+y bueno
+
+y esto lo vamos a encontrar
+
+las pruebas que en realidad lo único que
+
+hace en realidad que el sitio esté
+
+funcionando correctamente lo vamos a
+
+encontrar en el directorio test donde
+
+hay dos script python que son los que se
+
+van a ejecutar cuando dentro de la
+
+configuración de nuestro país plan de
+
+integración continua se ejecute está
+
+esta etapa que es la de
+
+no
+
+algo importante referente a la
+
+configuración del proyecto además de
+
+especificar
+
+el servidor que vamos a usar para poder
+
+[Música]
+
+mostrar correctamente la aplicación y
+
+poderla publicar en la plataforma que
+
+hayamos elegido este ejemplo en
+
+particular
+
+está publicado en el género q pero
+
+podemos usar el ciclo social con otras
+
+plataformas como lo mencioné al
+
+principio entonces tenemos primero que
+
+asegurarnos de que el archivo de
+
+dependencias se encuentra en el
+
+repositorio si vamos a usar heroku
+
+debemos recordar que hero q tiene
+
+soporte para ti
+
+así que pueden identificar las
+
+características del proyecto y en
+
+específico las dependencias del proyecto
+
+si dentro de los dentro de nuestro
+
+repositorio encontramos un pip file o
+
+bien tenemos un recuadro - punto txt y
+
+para este proyecto específico esas son
+
+las únicas dependencias que vamos a usar
+
+vamos a usar juni core para que se va a
+
+hacer el servidor que vamos a usar para
+
+poder desplegar correctamente la
+
+aplicación
+
+y sabemos que por ejemplo en un
+
+framework como flash tenemos un
+
+el servidor de pruebas sin embargo
+
+cuando queremos llevar esto a producción
+
+tenemos que configurar un servidor
+
+que esté preparado para producción en
+
+este caso vamos a the unicorn y en el
+
+bueno y usamos request porque es la
+
+biblioteca que estamos usando para poder
+
+hacer la petición bien al
+
+aire de forem para obtener la lista de
+
+artículos
+
+hay otro ejemplo que está publicado
+
+también en mi cuenta del api asimismo
+
+hay un artículo que espero tener lista
+
+la traducción la próxima semana en el
+
+que me explico cómo podemos usar un gif
+
+la pcia en conjunto con otros otras
+
+herramientas en específico la epi de
+
+forem para poder publicar artículos
+
+desde hitler desde un repositorio de
+
+equipo pero no es el tema ahora entonces
+
+tenemos que asegurarnos de que
+
+cualquiera de estos dos archivos estén
+
+presentes en el repositorio de nuestra
+
+aplicación
+
+pero q también tiene soporte para para
+
+poder y sin embargo esto es otra vez un
+
+pack de la comunidad el vivac oficial el
+
+desarrollado por heroku no tiene soporte
+
+para poetry únicamente tiene soporte
+
+para para pib en por lo que estos dos
+
+pues si está presente en cualquiera de
+
+estos dos archivos va a poder detectar
+
+correctamente cuáles son las
+
+dependencias del proyecto
+
+enseguida tenemos que crear dos archivos
+
+más el primero que es el de profiles en
+
+donde vamos a indicar cómo se va a
+
+ejecutar la aplicación
+
+es decir cuál es la instrucción que se
+
+tiene que ejecutar para que la la
+
+aplicación pueda visualizarse
+
+[Música]
+
+pero esta es la línea que vamos a
+
+encontrar dentro del dentro de este
+
+archivo y además también debemos de
+
+especificar cuál es la versión de payton
+
+que estamos usando del proyecto y eso lo
+
+hacemos creando un archivo llamado road
+
+time punto txt en el que vamos a
+
+especificar la versión de python que
+
+heroku tiene que instalar algo muy
+
+importante respecto a esto es que por
+
+ejemplo si necesitamos que las
+
+bibliotecas
+
+la característica de bibliotecas
+
+compartidas que esté habilitada en
+
+python
+
+tenemos que
+
+generar una imagen de docker de nuestra
+
+aplicación
+
+y en este caso la configuración va a
+
+cambiar pero tendríamos que generar que
+
+agregar además de los archivos que ya
+
+mencioné
+
+el archivo correspondiente a lo que
+
+sería el doctor file donde especificamos
+
+cómo se tiene que generar la imagen de
+
+docker
+
+pero tiene un registro en el que podemos
+
+agregar imágenes de docker que nos van a
+
+servir para a partir de ahí a ejecutar
+
+las aplicaciones que estamos publicando
+
+en la plataforma
+
+bueno
+
+ahora después de que nos aseguramos de
+
+que estos archivos están presentes en
+
+nuestro repositorio vamos a crear el
+
+archivo de configuración de git la pcia
+
+que se llama de esta manera entonces
+
+vamos a añadir un nuevo archivo y lo
+
+vamos a nombrar git la cia e iba a ser
+
+de tipo jack y este va a contener la
+
+configuración de las diferentes etapas y
+
+de que cuáles son las instrucciones que
+
+se van a ejecutar en cada etapa
+
+y además cuáles son las imágenes de dos
+
+que vamos a usar
+
+para cada una de ellas
+
+de acuerdo a la configuración de la pcia
+
+en git la puntocom
+
+está definida una en la imagen por
+
+defecto por lo que si esa imagen que
+
+generalmente es la de rubí si esa imagen
+
+nos proporciona las herramientas que
+
+nosotros necesitamos entonces esta línea
+
+no es necesario especificar la en la
+
+configuración de nuestros trabajos
+
+dentro del timeline de de integración
+
+continua
+
+a menos que necesitamos necesitemos una
+
+imagen de docker específica
+
+algo muy importante es que no sólo las
+
+imágenes publicadas en doctor hopp
+
+podemos hacer acá pero voy a hablar de
+
+sólo un momento más entonces definimos
+
+las etapas en este caso vamos a definir
+
+primero la correspondiente ala
+
+a la ejecución de pruebas que va a ser
+
+test vamos a indicar cuál es la imagen
+
+que vamos a usar
+
+la etapa a la que corresponde en el
+
+trabajo que estamos definiendo en este
+
+momento ese es el nombre que vamos al
+
+trabajo y es el que se va a visualizar
+
+en la
+
+en el registro de git lab donde podemos
+
+ver en tiempo real cómo se van
+
+ejecutando cada una de las instrucciones
+
+que definimos acá para poder ver también
+
+en donde se donde ocurrieron errores
+
+poder solucionarlo bueno entonces luego
+
+definimos acá las instrucciones que se
+
+van a ejecutar en este caso necesitamos
+
+que
+
+bueno necesitamos partes para poder
+
+ejecutar las pruebas vamos a hacer una
+
+actualización del paquete de
+
+repositorios vamos a instalar
+
+[Aplausos]
+
+vamos a instalar estos estos paquetes y
+
+vamos a instalar las dependencias que
+
+obtiene de él
+
+el archivo requerimentos punto txt que
+
+son destruye esas son las que va a
+
+instalar para después ejecutar partes y
+
+que se ejecuten los scripts almacenados
+
+en el directorio
+
+notes dentro de nuestro repositorio
+
+hasta este momento hemos configurado la
+
+etapa de pruebas y se ve que esas son
+
+las instrucciones que se van a ejecutar
+
+y algo muy importante pero esto también
+
+puede cambiar dependiendo de la
+
+configuración es que dentro de un plan
+
+de integración continua si una etapa
+
+over stage la falla los demás trabajos
+
+se van a detener es decir si un primer
+
+el primer trabajo correspondiente a la
+
+ejecución de pruebas hay algún error el
+
+resto de trabajos dentro de la
+
+configuración de nuestro plan no se van
+
+a ejecutar a menos que especificamos que
+
+no importa si hay algún error
+
+en este caso si se ejecutarían el resto
+
+d
+
+pero por defecto
+
+si uno de los de las diferentes etapas
+
+falla los demás trabajos o los trabajos
+
+que se van a ejecutar a continuación se
+
+van a detener
+
+ahora y claro si un trabajo
+
+correspondiente a la parte de
+
+integración continua es exitoso los
+
+siguientes trabajos que corresponden a
+
+el despliegue continuo se van a ejecutar
+
+ahora
+
+de acuerdo a la configuración
+
+de blade runner
+
+en goal.com
+
+hay una imagen por defecto podemos
+
+modificar que cual imagen de dos que
+
+vamos a usar
+
+cambiando la configuración en nuestro
+
+archivo de blogs y hay punto punto ya
+
+especificando que la imagen
+
+ya sea con el nombre o con la ruta es
+
+decir la url donde está publicada la
+
+imagen que vamos a usar
+
+y podemos usar imágenes publicados en
+
+doctor hopp
+
+podemos crear imágenes propias podemos
+
+crear una imagen de docker podemos usar
+
+la pcia y para para hacer esto y por
+
+ejemplo yo tengo una imagen de docker
+
+que estoy usando para
+
+pruebas y despliegue de aplicaciones
+
+desarrolladas con python y con ross
+
+y yo tengo el plan configurado para que
+
+se ejecute cada domingo para que si hay
+
+alguna actualización de los paquetes la
+
+imagen se actualice entonces yo puede
+
+usar biopsias para esto para generar una
+
+imagen de toque personalizada que me
+
+sirva en mis planes de integración
+
+continua
+
+el huila
+
+para eso usamos podemos usar broker
+
+dentro de la configuración de nuestro
+
+país perdón de la pcia o bien podemos
+
+usar parker que también es una
+
+herramienta muy interesante y de la que
+
+he hablado en algunos eventos aquel es
+
+una herramienta de hardcore
+
+que podemos usar para generar imágenes
+
+para diferentes plataformas a partir de
+
+un único archivo de configuración sin
+
+tener que crear muchos archivos de
+
+configuración
+
+lo que hace para que el que lee un
+
+archivo y en donde especificamos cuál va
+
+a ser
+
+la configuración para crear una imagen
+
+por ejemplo para tocar una imagen para w
+
+ser una imagen para bailar que también
+
+es una herramienta de hardcore
+
+y así nos evitamos de tener diferentes
+
+repositorios con la configuración
+
+correspondiente para cada plataforma
+
+podemos crear imágenes de docker con
+
+cualquiera de estas dos herramientas
+
+con los comandos que obtenemos cuando
+
+instalamos docker en nuestro sistema o
+
+que obtenemos cuando por ejemplo usamos
+
+una imagen de docker para ejecutar este
+
+proceso desde desde hitler
+
+ahora aquí también tiene un registro
+
+podemos generar imágenes de bakker y
+
+publicar y publicarlas en el registro de
+
+beat la
+
+podemos encontrar un poco más de
+
+información acá que es también lo que
+
+pasa con hero agujero que tiene un
+
+registro pero la diferencia está en que
+
+las imágenes que publicamos en hero q
+
+son las imágenes
+
+correspondientes a la aplicación y a
+
+partir de dónde se va a ejecutar la
+
+aplicación bueno entonces esas son las
+
+opciones que tenemos para el uso de
+
+imágenes de docker para ejecutar los
+
+trabajos correspondientes de nuestro
+
+país line de integración continua
+
+ahora bien
+
+este ejemplo está enfocado heroku pero
+
+podemos
+
+podemos también publicar en otras
+
+plataformas desde islandia
+
+hay un artículo él
+
+[Música]
+
+en mi cuenta de eder en donde explico
+
+cómo podemos configurar cómo podemos
+
+publicar desde el club si hay una
+
+aplicación desarrollada con
+
+rost python si no mal recuerdo
+
+y entonces también pueden consultar allí
+
+cómo podrían configurar biopsias para
+
+otras
+
+plataformas pero bueno vamos a hero
+
+creamos una aplicación nueva que es
+
+donde se va a publicar la aplicación que
+
+estamos desplegando de regla vamos a
+
+agregar el virbac dependiendo de las
+
+características de nuestro proyecto si
+
+estamos usando pib en o si estamos
+
+usando pib como tal vamos a usar el
+
+input acto oficial que es este y en caso
+
+de que estemos en que nuestro proyecto
+
+esté configurado para usar para
+
+poetry hay un vil pub de la comunidad
+
+que podemos usar para ello que en este
+
+caso va a detectar el archivo de
+
+configuración de poetry desde donde va a
+
+obtener las dependencias
+
+después de
+
+agregar el viewpad a la configuración de
+
+la aplicación nos vamos a las board de
+
+nuestra cuenta y vamos a copiarla
+
+white que nos proporciona y que nos va a
+
+servir para que tenga acceso a nuestra
+
+cuenta de hero puch y pueda publicar la
+
+aplicación correctamente
+
+ahora bien
+
+en la configuración de nuestro
+
+repositorio los vamos a
+
+configuración si alcidi y vamos a
+
+expandir la sección variables y ahí
+
+vamos a agregar una variable nueva que
+
+vamos a llamar de esta manera pero puede
+
+aquí y vamos a pegar la epia que
+
+copiamos anteriormente que es la que
+
+obtenemos desde nuestro
+
+dashboard de nuestra cuenta de tejero
+
+entonces vamos a tener algo como esto
+
+algo importante es que
+
+dependiendo de la configuración de la
+
+variable
+
+el valor
+
+nunca se va a visualizar en los logs de
+
+git la pcia
+
+y para ello seleccionamos hasta esta
+
+opción
+
+para que el valor que nunca se visualice
+
+en los logs de eclampsia y así no
+
+tenemos que preocuparnos por qué
+
+ese valor pueda
+
+lo pueda visualizar cualquier persona
+
+sin nuestro repositorio es público
+
+porque se pueden ver
+
+todos los logs de de de git la pcia
+
+si el repositorio de glee clapés público
+
+entonces lo siguiente es configurar la
+
+etapa de despliegue vamos a agregar un
+
+este una etapa más a la configuración de
+
+nuestro archivo gris la pcia de punto
+
+llamó
+
+vamos a usarla una imagen de rubí
+
+i
+
+[Música]
+
+y vamos a usar esta herramienta
+
+para poder realizar el despliegue hacia
+
+europa pero tenemos que especificar cuál
+
+es el proveedor en este caso espero q
+
+tenemos que especificar el nombre de la
+
+aplicación el nombre que le hayamos
+
+asignado en hero puch cuando realizamos
+
+este paso el de crear una nueva
+
+aplicación el xerez
+
+y la variable que contiene
+
+valor de la epia x de nuestra cuenta de
+
+hero
+
+entonces después de esto se puede
+
+configurar esta etapa dentro de nuestro
+
+país bloomberg se cultiva
+
+se va a realizar el despliegue de la
+
+aplicación
+
+y podemos visualizar esta aplicación
+
+ejecutándose en esta url puede mirar esa
+
+url y puede ver
+
+nadal
+
+la aplicación ejecutarlos
+
+y en esta manera es como usamos el git
+
+la pcia para desplegar aplicaciones es
+
+una aplicación bastante sencilla es el
+
+ejemplo que quería mostrarnos mostrarles
+
+pero podemos usar la pcia para
+
+diferentes cesionarios como les dije
+
+podemos servir la opacidad también para
+
+crear imágenes de lo que podemos usar
+
+para publicar hacia otras plataformas
+
+por ejemplo
+
+hacia google app engine que era lo que
+
+los comentamos al momento puede mirar en
+
+cuenta de de donde hay un artículo donde
+
+explico cómo es el proceso y cuál es la
+
+configuración que tenemos que hacer
+
+podemos usar jin luxian para publicar
+
+sitios web creados con generadores de
+
+sitios web estáticos como como hugo como
+
+jekyll y aquí por ejemplo es el que usa
+
+el hip hop pero también tiene soporte
+
+para elegir mi sitio por ejemplo está
+
+publicado con hugo
+
+entonces puede venir el repositorio
+
+verdad bueno me parece que es el
+
+repositorio no es público pero tengo
+
+otro repositorio que es el de mi blog
+
+que si es público donde pueden ver la
+
+configuración de equipos y hay para
+
+publicar
+
+un sitio web creado con él con un
+
+generador de sitios web estáticos
+
+desarrollado en el go
+
+pero
+
+y antes de hablarles de la documentación
+
+que quiero compartirles de mostrarles el
+
+repositorio dónde está la aplicación de
+
+la que estaba hablando cómo ven aquí
+
+todos los archivos que estuve
+
+mencionando
+
+originalmente para este proyecto estaba
+
+usando poetry sin embargo para qué
+
+no tener que realizar ninguna
+
+configuración adicional opté por por
+
+exportar las dependencias hacia el
+
+archivo de recordarme en punto txt y si
+
+nos vamos a la a las opciones de
+
+del menú de nuestro
+
+repositorio vamos hacia el city pipeline
+
+y vamos a ver todos los países los
+
+partners
+
+que se han ejecutado
+
+[Música]
+
+y bueno y
+
+[Música]
+
+si ven varios para el plan familias
+
+porque estuve realizando varias pruebas
+
+haciendo cambios al ejemplo
+
+el primero
+
+bueno yo
+
+pero podemos ver acá
+
+el último
+
+los dos trabajos que están configurados
+
+en este en el archivo de configuración
+
+legislativa ya está en de test podemos
+
+ver todas las instrucciones que se
+
+ejecutaron
+
+al principio por ejemplo
+
+[Música]
+
+nos dice que la imagen de lo que se va a
+
+usar es esta y entonces se obtiene la
+
+imagen de docker y luego ejecutar las
+
+siguientes líneas dentro de él
+
+[Música]
+
+archivo de configuración
+
+lo entonces
+
+bien
+
+no sé de qué podemos ver la salida
+
+de las
+
+instrucciones que se ejecutaron podemos
+
+y usted hay algún error cuál fue el
+
+error que ocurrió para que podamos hacer
+
+la corrección por ejemplo step
+
+de repositorio
+
+archivo pero tiene un plan que falló que
+
+fue el primero
+
+eso fue porque no encontraba en el
+
+archivo recuadro txt aunque ya estaba
+
+especificado a esa línea en la
+
+configuración de hitler si hay en el
+
+repositorio no se encontraba ese ese
+
+archivo por lo que tuve que crearlo para
+
+poder solucionar este error
+
+en la configuración del país
+
+para bien águila tiene integración con
+
+diferentes plataformas
+
+con diferentes herramientas por ejemplo
+
+en el tema de seguridad si queremos
+
+garantizar que las dependencias de
+
+nuestros proyectos estén actualizadas
+
+podemos usar una herramienta como como
+
+dependa voto como
+
+[Música]
+
+white sólo se desarrolla también una
+
+herramienta
+
+no recordaba el nombre pero también ha
+
+usado que nos sirve para hacer un
+
+análisis de las dependencias y generar
+
+de los meses correspondientes con los
+
+cambios que se tienen que hacer
+
+en el archivo de el cuaderno txt en el
+
+caso de payton o en el cargo punto como
+
+en el caso de la voz entonces podemos
+
+usar herramientas de este tipo tener
+
+islam nos proporciona
+
+para
+
+nos proporciona herramientas para hacer
+
+escaneos de seguridad podemos tener usar
+
+herramientas de terceros como la de zinc
+
+es lo que hace su escaneo a nivel de
+
+html analiza las cabeceras
+
+detecta si hay alguna
+
+alguna este posible error de seguridad o
+
+los las sugerencias de que cambios
+
+podemos realizar para mejorar la
+
+seguridad de nuestro sitio entre otras
+
+cosas
+
+también podemos usar herramientas para
+
+monitorear nuestros repositorios de por
+
+ejemplo tengo un bot de telegraaf
+
+qué
+
+cada que yo necesito que si estoy
+
+configurando un pipeline de integración
+
+continua en un proyecto si estoy
+
+realizando el despliegue de una
+
+aplicación y uso ese voz para que me
+
+notifique cuando ya se ejecutaron todos
+
+los trabajos me notifique si fallo para
+
+que yo pueda revisar y realizar
+
+correcciones y entonces de esa manera
+
+también podemos integrar el dif lab con
+
+otras plataformas podemos también
+
+ejecutar balance de integración continua
+
+en el repositorios almacenados en otras
+
+plataformas como git hop
+
+y bueno aparte de para qué o cómo
+
+podemos usar de la pcia
+
+y estas son algunas de las
+
+funcionalidades que nos proporciona
+
+hablando a donde podemos encontrar
+
+documentación sobre sobre que clark y
+
+aprender un poco más está al lado
+
+comunicación que es bastante completa
+
+pero para casos muy particulares y si
+
+hay este bueno está en el blog podemos
+
+encontrar algunos artículos en donde se
+
+explican casos muy particulares
+
+sobre cómo usar la pcia de cómo usar
+
+otras herramientas que nos proporciona
+
+la plataforma hay un canal de youtube en
+
+youtube donde se publican los vídeos de
+
+las charlas que se que
+
+que se han dado en eventos como los 1000
+
+virtuales los que se organizan en inglés
+
+como tanto los protagonistas como en
+
+inglés como los que se organizan en
+
+español virla cómic es un evento que
+
+tengan la oportunidad de participar
+
+desde la primera edición que se realiza
+
+en 2019
+
+participado en las últimas tres
+
+ediciones y este año aún no se ha
+
+anunciado
+
+qué fecha se va a realizar el evento
+
+pero por ejemplo pueden ir al sitio de
+
+la edición del año pasado y consultar
+
+los vídeos de cada una de las charlas
+
+cayeron en ese entonces la información
+
+sobre los nidos virtuales de git lab
+
+pueden venir a mí 2 punto com y en las
+
+cuentas
+
+en los próximos eventos
+
+ahora también organizamos meadows en
+
+español y aquí quiero dejar la
+
+invitación abierta para que si alguien
+
+quiere participar y compartir si tiene
+
+experiencia usando git lab y quiere
+
+compartir esta experiencia con la
+
+comunidad es un evento que organizamos
+
+para toda la región para américa latina
+
+y estos se realizan cada mes el próximo
+
+ya está
+
+agendado para el próximo
+
+viernes 29 pueden encontrar la
+
+información en las contables del nido de
+
+las colombianos le publicamos todos los
+
+eventos
+
+que se organiza en español
+
+en mi blog en español que lo acabo de
+
+publicar recientemente aquí pueden
+
+encontrar el primer artículo que sobre
+
+cómo configurar un banner propio sobre
+
+todo si
+
+si acaban de crear su cuenta de la que
+
+quieren usar vehículos ya ahora
+
+participación en nuestra participación
+
+en eventos participaciones en este nido
+
+virtuales y demás actividades todo eso
+
+la etiquetamos con este hashtag que es
+
+el de heathrow se pueden ver todas las
+
+actividades en las que estamos
+
+participando
+
+y bueno
+
+esto es lo que quería
+
+compartirles y no sé si hay alguna
+
+pregunta o algún comentario
+
+ahora sí si me escuchas
+
+vale pues seguir desarrollándolas las
+
+redes en youtube y el resto pues por
+
+ahora no hay comentarios sin embargo sí
+
+me parece como
+
+interesante es esta pues esta
+
+herramienta que nos propone ahora está
+
+me parecen bastante útil me quedaría tal
+
+vez con la duda si yo utilizando isla
+
+bueno 6 bueno seguimos que todo podría
+
+implementar aplicaciones por ejemplo
+
+para una empresa o sea ya de de ventas y
+
+como conoce cómo decirlo
+
+como para
+
+empresas a nivel empresarial claro de
+
+hecho esta idea de que
+
+dependiendo de la de las necesidades de
+
+las empresas puedan configurar sus
+
+propias instancias de kikla también es
+
+algo que
+
+qué bueno otra de las de las ventajas
+
+que tiene
+
+pensemos por ejemplo en proyectos de
+
+código abierto que usan virla y que
+
+aprovechan esta ventaja de poder
+
+configurar instancias propias ya que el
+
+proyecto como cuando la plataforma como
+
+tal se desarrolla como código abierto en
+
+su presupuesto puedes tomar el código y
+
+configurar tu propia instancia de hitler
+
+entonces tenemos el caso de nombre de
+
+cabe y muchos otros proyectos de
+
+software libre y de código abierto que
+
+usan en heatmap para todos
+
+todos
+
+todo su desarrollo
+
+desde aplicaciones sitios y demás
+
+entonces
+
+lo que sería el ejemplo más party porque
+
+podría dar sobre sí que pueda usar para
+
+a nivel comercial y la respuesta a si de
+
+hecho hubo un evento hace un año en
+
+donde
+
+algunas empresas compartieron su
+
+experiencia de cómo están usando vida
+
+y puede compartir en el vídeo lo voy a
+
+buscar y los voy a etiquetar en google
+
+un poco más
+
+perfecto encuentra más preguntas no
+
+sin embargo pues
+
+vengo a recordarles también que tenemos
+
+un 30 de descuento en certificaciones de
+
+la rp en instintos profesiones de linux
+
+recuerden seguir el enlace que está
+
+apareciendo abajo pues para poder
+
+acceder a ese beneficio
+
+pues preguntas preguntas las preguntas
+
+no encontré
+
+entonces no pues muchísimas gracias por
+
+haber participado en esta edición ahora
+
+te haya gustado presentar participar del
+
+3d en te
+
+esperamos para el próximo año como en
+
+semanas links o lo que sea también
+
+pues para que nos compartan saber un
+
+poquito de de bueno te voy a preguntar
+
+una cosa el el el blog blog punto maría
+
+no punto de este blog cierto
+
+vale listo entonces también dentro de
+
+facebook o youtube desde donde están
+
+viendo la la transmisión se encuentra
+
+también los de marian de mario para que
+
+pues lo revisen le pegan una revisada y
+
+pues también está la parte de dvd de lo
+
+que se ve hoy vale lista valientes
+
+muchísimas gracias por haber participado
+
+espero compartir con la comunidad y lo
+
+voy a seguir en contacto
+
+porque tenemos 30 por ciento descuento
+
+en certificaciones de lepe
+
+ya dejamos el indirectos aquí entonces
+
+hasta luego mybyte
+
+[Música]
+
+ah
+
+[Música]
+
+él
+
+[Música]
+
+2
+
+[Música]
+
+ah
+

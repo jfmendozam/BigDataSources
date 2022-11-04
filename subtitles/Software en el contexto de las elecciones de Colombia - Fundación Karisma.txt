@@ -1,0 +1,1870 @@
+[Música]
+
+más
+
+ah
+
+muy buenos días para todos para todos
+
+para todos
+
+mi nombre es pilar science como dice acá
+
+en la pantallita y hoy voy a estar
+
+felizmente de nuevo en el crisol debuta
+
+esta vez hablando sobre el software en
+
+el contexto de las elecciones de
+
+colombia un poco chiquito sobre mi bueno
+
+uno es una alegría poder estar en crisol
+
+crisol es un evento latinoamericano que
+
+tiene ya muchísimas versiones del que yo
+
+hago parte desde no sé como desde 2006
+
+que fue mi primer acercamiento al piso
+
+al segundo crisol entonces pues hagan la
+
+cuenta de cuántos llevamos por acá
+
+es una alegría poder participar así sea
+
+virtualmente y desde la distancia para
+
+este evento
+
+mi nombre es pilar sanz su trabajo con
+
+una fundación que se llama carisma
+
+nosotros trabajamos en temas donde es
+
+importante pensarse lo que pasa con la
+
+tecnología y cómo afecta la tecnología
+
+al ejercicio de derechos humanos y uno
+
+de estos ejercicios fundamentales de
+
+derechos humanos es efectivamente la
+
+idea de las elecciones no sé dios man
+
+que está ahí en el detrás de cámaras y
+
+puedas poner la presentación
+
+perfecto muchísimas gracias entonces de
+
+qué vamos a estar hablando que vamos a
+
+estar hablando hoy colombia
+
+en este momento colombia para nadie es
+
+un secreto que este año hay elecciones
+
+ya fueron las elecciones al congreso
+
+pasaron muchas cosas muy raras todavía
+
+no sabemos cuáles son los resultados de
+
+las elecciones en el congreso y entre
+
+las muchas cosas que pasaron es que
+
+efectivamente en este punto las
+
+tecnologías que se utilizaron para el
+
+proceso electoral han fallado y
+
+particularmente tenemos un problema con
+
+el software de escrutinio porque son no
+
+es solamente uno son dos ahora los vamos
+
+a ver pero de esos softwares no tenemos
+
+plena garantía de su de su
+
+funcionamiento y eso ha generado
+
+muchísimo ruido
+
+en el país
+
+hemos tenido
+
+no sé insinuaciones sobre fraude en los
+
+últimos en los últimos meses muy fuertes
+
+y en las últimas semanas aún más
+
+y por tanto pues parte de lo que está
+
+pasando es que nuestra confianza en la
+
+institución de la registraduría de
+
+nuestra confianza en el proceso
+
+electoral se ha visto bastante minada
+
+este año entonces desde carismas
+
+nosotros hemos estado haciendo
+
+observación del proceso de elecciones ya
+
+desde hace un rato y lo que yo quiero
+
+mostrarles hoy entonces lo que quiero
+
+hablar hoy es efectivamente sobre las
+
+alertas y recomendaciones que nosotros
+
+hemos construido de cara a las
+
+elecciones presidenciales de 2022 esto
+
+se basa en un informe que hicimos que
+
+ahorita se los más lo primero así muy
+
+muy muy muy brevemente aunque ya lo dije
+
+fundación carisma es una organización de
+
+sociedad civil que gusta proteger y
+
+promover los derechos humanos y la
+
+justicia social el diseño de uso de las
+
+tecnologías digitales carismas una
+
+organización que nació en el 2003 y bien
+
+al comienzo estaba enfocada
+
+mayoritariamente en proyectos de
+
+educación y de tecnología desde 2011
+
+2012 empezamos a hacer incidencia en
+
+política pública y darnos cuenta que
+
+efectivamente las tecnologías digitales
+
+tienen y afectan el ejercicio de
+
+derechos de todos y de todas y por tanto
+
+tratar de pensar en mejores mecanismos
+
+por los cuales la tecnología ayude a
+
+avanzar en esta proteger a promover los
+
+derechos humanos y avanzar hacia la
+
+justicia social pues se volvió nuestro
+
+norte
+
+parte de estas ideas sobre los derechos
+
+humanos también tienen que ver con temas
+
+de seguridad digital y privacidad
+
+entonces en 2017 creamos dentro de
+
+carisma un laboratorio que es el qalat
+
+que es el laboratorio de seguridad
+
+digital y privacidad que yo tengo la
+
+fortuna de dirigir este laboratorio está
+
+pensado como un espacio desde la
+
+sociedad civil y para la sociedad civil
+
+para realizar análisis técnicos
+
+investigaciones que apoyan el trabajo de
+
+incidencia que tiene carisma y además
+
+dar divulgar sensibilizar y educar en
+
+temas relacionados con seguridad digital
+
+y privacidad y es en ese contexto en el
+
+cual nosotros estamos realizando la idea
+
+del seguimiento a la tecnología en los
+
+procesos electorales
+
+en ese proceso de mirar tecnología en
+
+procesos electorales lo empezamos en
+
+2017 en 2017 la misión de observación
+
+electoral nos pidió que les ayudáramos
+
+planteando una propuesta de protocolo
+
+para hacer la auditoría del software de
+
+escrutinio de las elecciones de colombia
+
+en 2018
+
+y si ustedes dan cuenta pues esto ya es
+
+hace cuatro años para las elecciones
+
+anteriores y para las elecciones
+
+anteriores efectivamente sacamos esta
+
+propuesta de protocolo
+
+entonces hace cuatro años empezamos a
+
+mirar cuál era el marco en el cual se
+
+estaban moviendo las elecciones en
+
+colombia y cuáles eran los usos de la
+
+tecnología particularmente para el
+
+escrutinio y acá creo que aún cuando
+
+esto ya ha pasado mediáticamente un
+
+montón a medios de comunicación es
+
+importante decir un par de cosas sobre
+
+las elecciones en colombia y es que
+
+en colombia nosotros tenemos el día de
+
+elecciones un proceso que es no
+
+vinculante que es el de preconteo el
+
+preconteo es simplemente un proceso
+
+donde se hace una cuenta preliminar de
+
+los votos y en esa cuenta preliminar de
+
+los votos se da unos resultados pero
+
+esos resultados no son los resultados
+
+oficiales no son los resultados
+
+vinculantes
+
+son los resultados de verdad ese día
+
+esos resultados que nos dicen es para
+
+que nos vayamos a dormir tranquilos para
+
+que nadie
+
+se mate por este tema y para qué
+
+queremos un tanto tranquilo sobre la
+
+situación pero realmente esos resultados
+
+no son ni los definitivos ni los ni los
+
+hilos finales los resultados finales y
+
+definitivos se crean realmente durante
+
+el proceso de escrutinio que arranca el
+
+día de las elecciones
+
+después de que te quedes con la cuenta
+
+que hacen los jurados pero que realmente
+
+por ejemplo en el caso de este congreso
+
+puede terminar incluso meses después
+
+cuando ya es el consejo nacional
+
+electoral el que puede dar las
+
+acreditaciones finales para los
+
+congresistas ese proceso que va a tomar
+
+meses está acompañado de la utilización
+
+de tecnología permanentemente
+
+y por tanto pensarse cuáles son las
+
+garantías que nos digan que esa
+
+tecnología que se utiliza para este
+
+proceso es la adecuada es una pregunta
+
+de fondo del proceso electoral y la
+
+respuesta a esa necesidad de garantía es
+
+o son las auditorías entonces si se
+
+tiene una auditoría del proceso si se
+
+tiene una auditoría de este software se
+
+tienen garantías de que el software por
+
+una parte está siendo desarrollado de
+
+forma adecuada y además funciona de la
+
+manera como se prevee que funciona y que
+
+si hay algún tipo de fallas que se hayan
+
+reportado encontrado se solucionaron en
+
+el tiempo esa es la idea de lo que debe
+
+hacer una garante una auditoría entonces
+
+en nuestro caso empezamos a plantear
+
+cuáles eran esos escenarios posibles
+
+para las auditorías
+
+el software de escrutinio en colombia
+
+desde las elecciones de 2018
+
+con esto aprendimos un montón del marco
+
+sobre esa sobre esas elecciones y nos
+
+dimos cuenta muy muy rápidamente de que
+
+habían problemas qué tipo de problemas
+
+encontramos en 2018 nuestro hallazgo
+
+principal y esta es la principal
+
+conclusión que está en el informe sobre
+
+toda la observación que hicimos en 2018
+
+sobre la utilización de software en el
+
+proceso electoral colombiano era que el
+
+software es vulnerable que no ha sido
+
+diseñado para ser controlado que no se
+
+ha hecho nunca una auditoría
+
+independiente del sistema de escrutinio
+
+y que existen muchas oportunidades de
+
+mejora en materia de transparencia y
+
+acceso a la información generada en el
+
+proceso electoral estas fueron nuestras
+
+conclusiones en 2018 y muy muy
+
+tristemente tengo que decir que cuatro
+
+años después estamos básicamente en el
+
+mismo escenario
+
+qué es lo que está pasando en este año
+
+entonces para 2022
+
+parte de lo que nosotros empezamos a
+
+hacer fue participar en el proceso de
+
+observación que abrió la registraduría y
+
+quiero ser clara la registraduría habla
+
+de que los partidos tienen auditores y
+
+de que la misión de observación y
+
+nosotros hacemos auditoría pero eso es
+
+carreta y los observadores
+
+internacionales que hacen también
+
+supuestamente
+
+auditoría técnica es carreta nadie ha
+
+hecho auditoría parte de lo que nosotros
+
+dijimos en este proceso es esto no es
+
+una auditoría es un proceso de
+
+observación y de nuestro proceso de
+
+observación tenemos varios hallazgos lo
+
+primero y es algo que está en este
+
+informe que les mostraba antes de el
+
+informe mirar de la observación técnica
+
+de las elecciones legislativas de 2022
+
+en colombia ese es un informe que
+
+nosotros sacamos hace ya cerca de un mes
+
+sobre lo que logramos observar
+
+técnicamente de las elecciones
+
+legislativas y del uso de los softwares
+
+de los diferentes softwares de
+
+escrutinios y
+
+de ese informe es del que les quiero
+
+hablar
+
+qué fue lo primero que logramos hacer
+
+para durante desde finales del año
+
+pasado para este año y fue la primera
+
+parte es tratar de entender cómo
+
+funcionan los softwares escrutinios en
+
+el ix y por qué es importante tratar de
+
+entender cómo funcionan porque de nuevo
+
+la falta de transparencia que tiene la
+
+registraduría al respecto hace que no
+
+haya mucha información pública y clara
+
+sobre cómo funcionan los software de
+
+escrutinios en el país
+
+hay información básica sobre cuál cómo
+
+es el mecanismo del escrutinio o sea
+
+cómo funcionan las comisiones de dónde a
+
+dónde se manda información pero nada de
+
+eso alerta sobre la forma cómo funcionan
+
+los software y esa es una primera falla
+
+entonces cómo funciona en este momento
+
+el escrutinio el conteo si lo pensamos
+
+desde el punto de vista de la tecnología
+
+entonces lo primero es que tenemos que
+
+pensar que el proceso de escrutinio es
+
+uno tiene una forma piramidal tiene una
+
+estructura un modelo que es piramidal
+
+que significa este modelo piramidal que
+
+tenemos una serie de comisiones
+
+escrutadoras que van a estar en las
+
+zonas en las veredas que van a estar en
+
+lugares específicos dentro de los
+
+municipios a lo largo de todo el país
+
+son más o menos unas 1.700 comisiones
+
+auxiliares o zonales que son las de más
+
+bajo nivel
+
+estas comisiones escrutadoras van a
+
+recibir los formularios e-14 que llenan
+
+los
+
+los jurados de votación porque cuando se
+
+cierran las votaciones al final del día
+
+de las elecciones los jurados llenan
+
+estos formularios que ahora son el
+
+centro del ojo de muchas discusiones
+
+porque en estos formularios pues estaban
+
+puestos los votos
+
+y además muchos jurados de este año
+
+pusieron porque no tienen confianza de
+
+nuevo en lo que estaba pasando con la
+
+registraduría pusieron asteriscos en
+
+todas las casillas que estaban vacías
+
+para que no pudieran ser llenadas de
+
+otras formas entonces esos formularios
+
+e-14 los llenan los jurados y
+
+hay 314 es diferentes de eso no voy a
+
+detenerme mucho uno va a ser el que
+
+sirve para la transmisión del preconteo
+
+ese día que lo transmiten por teléfono y
+
+que lo procesa también la empresa
+
+disproel hay otro de 14 que se lo llevan
+
+y lo escanean también dispone el para
+
+subirlo a la página web de la
+
+registraduría y que uno pueda ir y mirar
+
+el 14 y saber si o más o menos
+
+determinar si aparecen votos por las
+
+opciones que uno votó en
+
+en la mesa donde uno botón y hay otro de
+
+14 el tercer el 14 es el 14 de clavero
+
+que es realmente el que llega a la
+
+comisión escrutadora junto con otros
+
+formularios que llenan los jurados de
+
+votación el día de las elecciones y los
+
+votos físicamente eso es un azul donde
+
+están todos los votos y donde están
+
+todos estos formularios
+
+las comisiones escrutadoras lo que van a
+
+hacer es tomar estos votos y tomar estos
+
+formularios y empezar los a transcribir
+
+en un software que les provee la empresa
+
+disproel disproel es la empresa que
+
+tiene el contrato con la registraduría
+
+la registraduría pago a disco el 1.2
+
+billones de pesos porque disproel armar
+
+a toda la logística de el uso de toda la
+
+logística de las elecciones desde el
+
+software del que estamos hablando pero
+
+también por ejemplo la inscripción de
+
+cédulas info votantes la información
+
+para jurados las cartillas la impresión
+
+de todas las de todos los votos todas
+
+esas cosas absolutamente todas las
+
+elecciones realmente las organiza
+
+disproel para la registraduría ese
+
+contrato vale 1.2 millones de pesos
+
+qué hace disproel en términos del
+
+escrutinio entonces pone un computador
+
+en cada una de las comisiones
+
+escrutadoras ya les dije que las
+
+auxiliares a todos les son cerca de 1600
+
+y esas comisiones escrutadoras van a
+
+tener que colocar a mano los resultados
+
+que van a tener del formulario de 14 en
+
+el software que está que están
+
+utilizando
+
+y ahí es donde están estas audiencias
+
+públicas donde están los jueces que
+
+hacen parte de las comisiones
+
+escrutadoras y que están efectivamente
+
+cantando cada uno de los votos que se
+
+ven en los formularios e-14 entonces
+
+ellos tienen físicamente el formulario
+
+e-14 iban diciendo por tal partido tal
+
+candidato tanto es voz y se los van
+
+colocando en el software
+
+amarillo hay un digital porque hace está
+
+digital que digita estos valores una vez
+
+que esto sucede y que tienen los
+
+resultados de la mesa pues entonces
+
+pasan a la siguiente mesa y entonces
+
+puedes ver a tomar otro formulario de 14
+
+y pueden hacer lo mismo y otra mesa y
+
+otra mesa y otra vez hasta que suman la
+
+totalidad de las mesas que están
+
+asignadas a esa comisión escrutadora y
+
+el software totaliza y entonces ahí
+
+tenemos una generación de nuevas actas
+
+el 24 que le dice a uno todos los
+
+resultados el 26 que le dice a uno la
+
+totalidad la totalización de los
+
+resultados y el acta general de
+
+escrutinio que simplemente como la
+
+bitácora de lo que pasó en la comisión
+
+ese proceso puede tomar no toma horas de
+
+ese proceso puede tomar 10
+
+las comisiones escrutadoras auxiliares
+
+opcionales lo que hacen a su vez cuando
+
+ya terminan su proceso y dicen como
+
+estos son los resultados de esta
+
+comisión y después de que los testigos
+
+electorales que están en la comisión
+
+escrutadora dicen como no hay que
+
+recortar esta mesa no usted contó mal
+
+vuelvo a contar no hay un error vuelvan
+
+a revisar
+
+después de que se hace todo ese proceso
+
+en la comisión auxiliar o zonal y lo
+
+cierran entonces en ese momento las
+
+comisiones lo que hacen es generar una
+
+serie decidís que se envían físicamente
+
+hacia las siguientes comisiones
+
+escrutadoras que son de orden municipal
+
+que están acá arriba
+
+la comisión municipal ya no va a recibir
+
+el 14 de claveros ya no va a recibir los
+
+votos sino que lo que va a recibir son
+
+las actas de 24 las actas de 26 el acta
+
+general de escrutinio y el cid y par
+
+decidís que generan las comisiones
+
+anteriores y con esa información con los
+
+cds y con las actas vuelven a pasar
+
+información de las comisiones anteriores
+
+a los resultados de nuevo en el software
+
+de la condición municipal
+
+y de nuevo este proceso puede tomar
+
+otros tantos días y comisiones
+
+municipales también son unas 1300
+
+una vez que las comisiones municipales
+
+terminan entonces esas comisiones
+
+municipales a su vez generan nuevas
+
+actas de 24-26 nuevo civil nuevas actas
+
+generales de escrutinio y se la pasan a
+
+la siguiente comisión que es la comisión
+
+departamental
+
+y las comisiones departamentales que
+
+también son las llamadas comisiones
+
+generales son las que por ejemplo ya van
+
+a dar resultados más o menos finales de
+
+cámaras de representantes porque las
+
+cámaras de representantes
+
+tienen carácter departamental
+
+pues estas comisiones pues ya son más
+
+poquitas comisiones departamentales para
+
+las elecciones de este año fueron
+
+solamente 50
+
+32 de los departamentos una para bogotá
+
+16 para las y 3 para las comisiones
+
+transitorias de paz y una para los
+
+consulados esas comisiones
+
+departamentales
+
+cuando terminan porque están de hecho
+
+están terminando esta semana
+
+hasta esta semana 23 de abril ya mucho
+
+más de un mes después de las elecciones
+
+esas comisiones departamentales de nuevo
+
+van a generar si ya no son 32 acá perdón
+
+por el error son 50 en este caso que van
+
+a la comisión nacional y la comisión
+
+nacional
+
+ya no va a usar el software de disproel
+
+que han estado utilizando todas las
+
+demás comisiones sino que va a usar un
+
+solo un nuevo software que es el de
+
+indra el software e indra hasta ahora va
+
+a ser utilizado no se ha utilizado antes
+
+en todo el proceso electoral con todo el
+
+ruido que han dicho de fraude nunca se
+
+usado el software de indra mientras
+
+solamente se va a empezar a usar ahora
+
+cuando termine la comida infiltración al
+
+electoral el concepto herrón cuando
+
+termine el consejo nacional electoral de
+
+realizar esta este escrutinio nacional
+
+el de arriba es que vamos a tener
+
+resultados de publicación finales y esta
+
+es la forma como funciona el escrutinio
+
+de forma piramidal en colombia
+
+dijimos que parte de lo que nosotros
+
+estábamos haciendo era mirar cómo
+
+funcionaba ahora si el software porque
+
+hasta acá solamente les he dicho cómo
+
+funciona el proceso
+
+cómo funciona el software entonces vamos
+
+a tener les dije dos tipos de software
+
+uno que es el que está a cargo de disco
+
+el otro que es el que está a cargo de
+
+indra el de israel está en este extremo
+
+ese es lo que vamos a llamar escrutinio
+
+base y todos los componentes adicionales
+
+de control y seguimiento
+
+y control control y seguimiento a este
+
+proceso
+
+de los seguimiento y divulgación de los
+
+resultados
+
+qué es lo que pasa se acuerdan de esta
+
+pirámide era la que habíamos hablado
+
+ahorita pero en el momento en el que
+
+tenemos esta pirámide todos estos
+
+comisiones escrutadoras de abajo están
+
+utilizando el software de display
+
+esta comisión este software de dis por
+
+él funciona
+
+haciendo un programa que va a estar
+
+instalado en todos y cada uno de los
+
+computadores de las comisiones
+
+de las comisiones escrutadoras
+
+físicamente se instala en cada uno de
+
+estos de estos
+
+computadores
+
+y
+
+este software que está instalado en las
+
+comisiones envía información a el
+
+software de control y seguimiento web
+
+qué quiere decir esto se instala
+
+localmente el software en 2700
+
+computadores y además de eso se colocan
+
+impresoras y se colocan escáneres y
+
+desde cada uno de estos computadores que
+
+está en estas comisiones
+
+auxiliares zonales municipales
+
+departamentales se envía información a
+
+él software web de control y seguimiento
+
+este software de control y seguimiento
+
+tiene está en manos de disproel que esto
+
+es básicamente la firma thomas
+
+procesionan sistema
+
+y
+
+tenemos de nuevo el esquema usual que
+
+tendríamos para este tipo de
+
+aplicaciones iphone en ahí bajen
+
+entonces se puede hacer un seguimiento
+
+en el front ente de cómo van de cuáles
+
+son las comisiones que están funcionando
+
+cuáles no
+
+cómo va el avance de cada una de estas
+
+comisiones pero esta información esta
+
+aplicación de front-end solamente está
+
+disponible para la registraduría y por
+
+algunos de los órganos de control y si
+
+acaso para partidos yo nunca he podido
+
+entrar ahí por ejemplo
+
+toda la información del back-end base de
+
+datos sistemas operativos incluso los
+
+servidores donde está montada esta
+
+aplicación están en el en él están en
+
+manos de disfrute
+
+ahora esta información la información
+
+que tenemos en la base de datos que es
+
+una base de datos oracle
+
+básicamente se replica para tener un
+
+software fuerte divulgas que es el que
+
+nosotros como usuarios y usuarias
+
+podemos ver de resultados de escrutinio
+
+y esos resultados que se ven realmente
+
+son bastante pobres
+
+solamente se ve la estadística de
+
+cuántas
+
+el número de los catorce de claveros que
+
+que ya se han digitalizado
+
+en los catorce es que ya se
+
+digitalizaron de claveros
+
+y el porcentaje de las comisiones
+
+escrutadoras que ya han entregado
+
+resultados y cuántas faltan por entregar
+
+resultados esto es lo que hay en el
+
+software de divulgación que es
+
+completamente insuficiente para poder
+
+hacer seguimiento dicho sea de paso y
+
+que no tiene información que uno pueda
+
+descargar fácilmente en bloque o que
+
+está dispuesta en formatos que sean
+
+abiertos como para que uno pueda hacer
+
+investigaciones o para que uno pueda
+
+hacer seguimiento y mucho más vicioso
+
+el software web de control y
+
+seguimientos y facilita a los partidos
+
+ya las organizaciones que estamos
+
+haciendo observación formas de hacer
+
+descargas masivas de datos en formatos
+
+por gente de seve y en esos casos esas
+
+descargas que se hacen directamente a
+
+través de un servidor ftp
+
+esto da alguna información de nuevo para
+
+los órganos de control para los partidos
+
+y para las misiones de observación pero
+
+no es
+
+absolutamente suficiente porque estos
+
+datos solamente están disponibles y se
+
+actualizan al final de cada día eso
+
+quiere decir que uno no sabe lo que está
+
+pasando en las comisiones en el día sino
+
+que solamente va a saber hasta el final
+
+hasta las 10 de la noche cuando suban
+
+los resultados de ese día
+
+finalmente tenemos lo que está pasando
+
+con el software de ingram entonces
+
+indra en la forma como funciona es
+
+completamente diferente a la forma como
+
+funciona el software de destroy dispone
+
+el dijimos que estaba instalado en cada
+
+una el software de disk por él estaba
+
+instalado en cada uno de los
+
+computadores de las comisiones
+
+escrutadoras instalado físicamente
+
+corriendo ahí en el caso de indra el
+
+sistema realmente es un sistema web y
+
+entonces lo que hacen los o lo que van a
+
+hacer que todavía no ha arrancado los
+
+comisionados
+
+del consejo nacional
+
+electoral es los magistrados del consejo
+
+nacional electoral es a
+
+conectarse desde los computadores que
+
+están en corferias asignados a ellos a
+
+este sistema de escrutinio nacional
+
+entonces son los usuarios que serían
+
+mayoritariamente los magistrados pero
+
+también vamos a ver hábitat al final qué
+
+partidos políticos también van a poder
+
+mirar pero no van a poder acceder a toda
+
+la información no no tienen las mismas
+
+funcionalidades y los usuarios finales
+
+que podríamos ser ciudadanía también
+
+vamos a poder ver los resultados pero no
+
+vamos a poder hacer nada más pero
+
+básicamente este sistema funciona como
+
+cualquier sistema web tiene su
+
+froment que en este caso está utilizando
+
+notepad
+
+más http
+
+el html5
+
+tiene una serie de aplicaciones web
+
+juani el estrellado está sprint la base
+
+de datos en la cual se está guardando
+
+toda la información sobre el escrutinio
+
+nacional es una base muy breve por
+
+debajo vamos a tener sistemas operativos
+
+que tenemos entendido son líneas pero no
+
+lo sabemos plenamente y hay una serie de
+
+máquinas virtuales con bmw y
+
+efectivamente hay un o debe haber un
+
+hardware de servidores red y demás que
+
+en este caso esos servidores son dos son
+
+uno y está la zona granja en bogotá a
+
+partir de la empresa vete y tienen un
+
+servidor
+
+y
+
+o
+
+tengo ruido
+
+de pilares que ya estamos haciendo en el
+
+cambio aunque
+
+[Música]
+
+pero estamos como tiempo listo esta es
+
+la forma como está funcionando el
+
+sistema de indra es básicamente cómo
+
+funciona cualquier tipo de aplicación
+
+web
+
+qué es lo que va a pasar que es que es
+
+bastante extraño en todo este proceso
+
+los usuarios que van a ser los
+
+magistrados del consejo nacional
+
+electoral van a recibir los civis
+
+comisiones departamentales y de nuevo
+
+van a ser como ese mismo proceso de
+
+subir cargar la información que están
+
+eso sí dis ahora ya no a los
+
+computadores de ellos sino a este
+
+sistema de escrutinio nacional eso
+
+quiere decir que desde indra se tendrá
+
+que leer
+
+los resultados para poderlos
+
+totalizar y poder tener esta publicación
+
+el software de indra además de permitir
+
+a los magistrados del consejo nacional
+
+electoral poder ir y devolverse a los
+
+documentos que han generado las otras
+
+comisiones escrutadoras
+
+incluso hasta las actas de 14 de
+
+claveros que son las que tienen la
+
+legalidad la
+
+que las que tienen la validez jurídica
+
+para poder mirar el proceso de lesiones
+
+esa es la forma cómo funciona esto
+
+los comisionados en los magistrados en
+
+este momento van a tener un trabajo
+
+supremamente algo que tienen cerca de
+
+150 mil 170 mil reclamaciones sobre todo
+
+el problema sobre todo los problemas que
+
+ha habido en el escrutinio para congreso
+
+de este año y van a tener que estar
+
+resolviendo los en el tiempo de aquí al
+
+19
+
+de julio perdón
+
+es la forma como funciona ahora que haya
+
+habido una auditoría sobre ese sistema
+
+no que hicimos nosotros hacer
+
+observación técnica y pues de lo que
+
+nosotros podemos decir es que hubo
+
+muchos problemas incluso para hacer la
+
+observación
+
+entonces primer problema grande y que
+
+para nosotros es algo bastante
+
+problemático es que bajarte fácil
+
+aviones
+
+[Música]
+
+mucho ruido lo siento
+
+listo el primer problema serio es que
+
+hubo una ausencia de calendario para la
+
+observación electoral entonces no
+
+sabíamos cuándo iban a pasar las los
+
+eventos de observación y nos avisaban
+
+uno o dos días antes incluso cuando se
+
+hizo por ejemplo el simulacro de las
+
+comisiones de las y tres de las de las
+
+circunscripciones de paz que tocaba ir
+
+hasta qué sé yo arauca o que tocaba ir a
+
+algunos de los lugares del urabá o que
+
+tocaba ir a la costa para poder mirarlos
+
+y nos avisaron el día antes a las
+
+2 de la tarde cuando el simulacro iba a
+
+ser al día siguiente a las 9 de la
+
+mañana entonces así es imposible
+
+preparar una logística para ir y hacer
+
+observación allá
+
+hubo un acceso muy limitado al software
+
+de la distro es tan limitado que
+
+básicamente solamente pudimos verlo en
+
+funcionamiento el día del simulacro que
+
+fue una semana antes de las elecciones
+
+el simulacro se hizo el 5 de marzo
+
+y además ahora para el software de indra
+
+pues tuvimos un poco más de apertura
+
+para poder ver partes del código fuente
+
+pero solamente fueron partes y siempre
+
+fueron parciales no el software en pleno
+
+funcionando cosa de que pudiéramos hacer
+
+una observación técnica de él
+
+funcionando
+
+realmente la única vez que lo hemos
+
+visto ya funcionando todavía no mentirás
+
+ni siquiera la última vez que yo lo vi
+
+funcionando fue el día que supuestamente
+
+iban a hacer el simulacro y todavía
+
+habían cosas que no estaban terminadas y
+
+por tanto nunca pudimos verlo terminado
+
+funcionando o sea yo no sé quién lo ha
+
+visto funcionando realmente en este
+
+punto
+
+esperamos verlo funcionando cuando lo
+
+usen lo sé
+
+el consejo nacional electoral pero
+
+pesadilla no es funcionamiento
+
+funcionamiento no es simulacro no son
+
+pruebas previas como para saber que la
+
+cosa estaba andando bien y tenemos una
+
+serie de alertas y recomendaciones
+
+las alertas es que efectivamente la
+
+primera y más grande es que no podemos
+
+decir que hay garantías en estos
+
+softwares que busquen evitar accesos
+
+indebidos sin modificaciones desde los
+
+servidores no hemos encontrado ningún
+
+tipo de garantía que nos permita decir
+
+que esto no puede pasar y eso es grave
+
+ahora el sistema no cuenta con un
+
+sistema que verifique que la información
+
+que sale del nivel departamental del
+
+escrutinio es la misma que entra al
+
+nivel nacional si bien eso sí es van
+
+cifrados el mecanismo con el que van
+
+cifrados
+
+no se termina completamente de verificar
+
+la verificación se hace a mano a partir
+
+de los fast y pues esta es una
+
+verificación que no es suficiente no es
+
+una verificación automática el software
+
+además presentaba vulnerabilidades de
+
+seguridad digital lo siento pero es así
+
+no puedo decirles mucho más de eso
+
+porque necesitamos cuando se tratan de
+
+vulnerabilidades no las podemos divulgar
+
+pero es tiene vulnerabilidades y no hay
+
+garantías si se registran y verifican
+
+versiones que no son finalizadas del
+
+software y esto quizás es la cosa más
+
+grave porque al final del proceso en
+
+algún punto se registran y se verifica
+
+las versiones pero se han hecho los
+
+simulacros sobre las versiones
+
+anteriores no sobre la que se registra y
+
+verifica y por tanto nunca se sabe
+
+realmente del silo si la que está
+
+funcionando final
+
+y si esa como funciona no se era los
+
+últimos ya para terminar son
+
+recomendaciones la primera es reconocer
+
+que lo que se hace en esa fase de odgers
+
+es observación hasta ahora nunca se ha
+
+hecho auditoría hay una auditoría
+
+contratada que tiene la registraduría
+
+para el caso disproel y que después tres
+
+días antes de elecciones se extendió al
+
+software de indra
+
+que la tiene contratada con la empresa
+
+más mejor pero los resultados de esa
+
+auditoría o de ese proceso auditoria que
+
+aún no ha acabado no son públicos
+
+solamente son para los ojos de la
+
+registraduría porque están bajo un
+
+acuerdo de confidencialidad y esto no
+
+genera confianza porque entonces los
+
+únicos que saben qué es lo que va mal en
+
+la registraduría y nadie más sabe qué es
+
+lo que está pasando y eso pues no es
+
+admisible en este momento
+
+y la otra recomendación que nosotros
+
+tenemos es que se debería publicar ya se
+
+debió haber publicado el calendario de
+
+las pruebas de implementación y
+
+ejercicios de observación para los
+
+software que se usarán en el escrutinio
+
+presidencial
+
+a mí me mandaron por otro canal un
+
+memorando donde estaban parte de las
+
+fechas pero no son todas y por tanto el
+
+calendario no es público ese calendario
+
+no se lo han dado a todos los auditores
+
+o no sé si se lo han dado a otros no es
+
+un calendario que uno pueda encontrar en
+
+algún lado y que sepa cuándo van a hacer
+
+los simulacros y por tanto poderse
+
+preparar con tiempo para los metros
+
+ahora algo que para nosotros ha sido
+
+bastante traumático es que en las
+
+reuniones en las que hemos estado con la
+
+registraduría o con los desarrolladores
+
+por ejemplo de indra no siempre estaban
+
+las personas técnicas que pudieran
+
+respondernos las preguntas que teníamos
+
+desde la parte técnica en muchas de las
+
+reuniones en donde estuvimos tenían que
+
+llamar al técnico por teléfono para que
+
+les dijera algo para que nos pudieran
+
+contestar y pues esto es impresentable
+
+en más recomendaciones ya para terminar
+
+nosotros creemos que no se deben separar
+
+los actores interesados durante los
+
+ejercicios de observación perdón que
+
+están haciendo muchísimo ruido acá donde
+
+estoy
+
+[Música]
+
+dios
+
+algo que pasó este año fue que
+
+tuvimos ejercicios de observación
+
+particularmente del software de indra
+
+donde nos separaban y entonces estábamos
+
+solamente en la misión de observación
+
+electoral y carisma mientras ya habían
+
+hecho otras reuniones con los auditores
+
+de los partidos y habían hecho otras
+
+reuniones aparte con los observadores
+
+internacionales y pues este tipo de
+
+reuniones parcializadas hasta que no se
+
+pueda intercambiar información y que no
+
+sea que no se puede hacer un ejercicio
+
+de inteligencia colectiva si ustedes lo
+
+quieren poner así
+
+lo otro que creemos que pasar es que la
+
+reina debe fomentar que el acceso a la
+
+información y eventos de observación sea
+
+de la misma calidad alcance de
+
+oportunidad respecto de los dos
+
+contratistas en este momento para el
+
+proceso
+
+sobre el sobre el software de indra hubo
+
+muchísimo más apertura si bien no total
+
+y completa pero hubo más apertura que el
+
+que hubo para disponer como les dije de
+
+disponer solamente pudimos ver el
+
+software funcionando más o menos en una
+
+versión que no era final el día del
+
+simulacro ocho días antes de lesiones y
+
+antes nunca pudimos verlo y después
+
+tampoco
+
+mientras que el de indra si pudimos ver
+
+algunos de los estadios de elaboración
+
+si bien tampoco pudimos hacer nunca
+
+pruebas sobre un software final y la
+
+última recomendación es necesario que la
+
+observación técnica no se limite a una
+
+observación de funcionalidad pues esa
+
+observación de funcionalidad realmente
+
+no podría haber los problemas de fondo
+
+que se pueden estar presentando y eso es
+
+todo lo que tenía que decir de mi lado
+
+no sé si hay
+
+preguntas yo había dicho que más nos
+
+íbamos a demorar hasta las 45 ahí
+
+estamos como muy apenitas porque
+
+arrancamos un poco tarde y de nuevo por
+
+perdón por el ruido pero no sé si hay
+
+algún otro tipo de preguntas o si hay
+
+comentarios sobre este trabajo les dejo
+
+con los datos de contacto de carisma
+
+quizás decir ya para cerrar que nosotros
+
+vamos a tratar de seguir haciendo este
+
+proceso de observación ahora ya para el
+
+proceso electoral no para el de
+
+presidencial no para el del congreso y
+
+que estamos terminando un informe
+
+completo sobre lo que realiza sobre lo
+
+que vimos en las elecciones de congreso
+
+que incluye también otros aspectos que
+
+tienen que ver con datos
+
+con la parte de la utilización de
+
+biometría y además de esta parte del
+
+software de escrutinio
+
+no sé si hay comentarios preguntas y
+
+osman
+
+hola pilar pues no comentarios e ahí hay
+
+una persona que estaba como hablando
+
+pero pues preguntas como tal no era en
+
+el momento y está perfecto entonces pues
+
+nada muchísimas muchísimas gracias
+
+espero que es que esta información se ha
+
+tenido
+
+y que sea tenida en cuenta que sea
+
+compartida con otros es importante
+
+pensar que realmente necesitamos
+
+que necesitamos hay muchísimo ruido lo
+
+siento
+
+tranquila
+
+y yo espero realmente que
+
+podamos recuperar la confianza en el
+
+sistema electoral que ahora la tenemos
+
+tanto rota
+
+parte de estos ejercicios de observación
+
+también es tratar de poder decir con
+
+claridad así si las cosas están bien o
+
+no están bien pero pues si no están bien
+
+que se puedan solucionar y pues vamos a
+
+tratar de seguir haciendo de seguir
+
+manteniendo estos espacios donde
+
+contemos lo que nosotros hemos podido
+
+ver observar y hacer en relación de esa
+
+observación sobre el proceso electoral
+
+de forma tal que podamos dar garantías
+
+dar alertas tempranas también sobre lo
+
+que está sucediendo con la utilización
+
+de software en las elecciones entonces
+
+nada muchísimas gracias a todos a todos
+
+que ya ha de estar creo que no sé si
+
+denis o jairo de corre libre para la
+
+siguiente charla y pues entonces
+
+muchísimas gracias
+

@@ -1,0 +1,3080 @@
+[Música]
+
+sí
+
+ah
+
+[Música]
+
+ah
+
+[Música]
+
+ah
+
+[Música]
+
+i
+
+a
+
+[Música]
+
+ah
+
+[Música]
+
+ah
+
+e
+
+[Música]
+
+[Música]
+
+y
+
+ah
+
+ah
+
+[Música]
+
+y
+
+a más
+
+[Música]
+
+saludos comunidad sexual libre
+
+amante de la libertad y de la cultura
+
+nos encontramos ya arrancando la segunda
+
+jornada de este evento piso con un 22
+
+que propone para este año la abundancia
+
+centrarnos en dos años volvemos a armar
+
+las prácticas presenciales hoy desde la
+
+universidad digital que viene en bogotá
+
+en las células por intentos de conseguir
+
+antes pueden hacer casi ya acabamos de
+
+abrir las puertas nuevamente únicamente
+
+pueden visitar las salas alternas
+
+en este momento dispone de cinco canales
+
+una pastilla para magnificar nos van a
+
+acompañar hasta el astrid en acción
+
+bueno en esta sala
+
+estamos por empezar la charla liberación
+
+de software y legalidad a cargo de
+
+marisa blanco ella salga adelante
+
+especialista en propiedad intelectual
+
+entonces vamos a hablar
+
+encantadísima de estar aquí muchas
+
+gracias por la invitación
+
+también una alegría que esté en esta
+
+versión de piso 2022
+
+muchas gracias
+
+bueno pues encantado a todas las
+
+personas que me estáis viendo tal como
+
+me han dicho que soy abogada
+
+especializada en propiedad intelectual y
+
+claro este lo primero que vamos a estar
+
+hablando así que si me dais un momentito
+
+voy a ver si esto se ha cargado bien
+
+porque preparado una presentación porque
+
+uno de mis de mis grandes
+
+digamos motors es que es tiene que tener
+
+dibujitos si no si no no vale entonces
+
+saber
+
+para también ir comentando con vosotros
+
+vale sé que tengo un chat pri un chat
+
+donde me van a estar poniendo las
+
+preguntas y demás pero es que a mí
+
+además de poner dibujitos me gusta mucho
+
+preguntarle mi audiencia desde que
+
+estamos en una versión tanto digital
+
+como presencial
+
+entonces yo hay algunas cuantas
+
+preguntas para comer respondáis vale me
+
+lo pueden poner por el chat lo pueden
+
+explicar o me lo pueden comentar vale
+
+pero sí que pesa de súper encantada que
+
+estáis en versión digital me escribáis y
+
+si estamos en versión en persona pues el
+
+moderador tengo que al lado pues por fin
+
+por fin si me pones hay unas cuantas
+
+cositas en planes y todo el mundo dicho
+
+está lo he hecho cuál sería
+
+bueno entonces vamos a cambiar un poco
+
+sólo para esta charla la dinámica la
+
+idea inicial
+
+y posterior una ronda de pekín
+
+mejor que en las preguntas
+
+o sea si son al final concentrados
+
+fantástico pero mi experiencia me dice
+
+que vemos para subir preguntas sobre la
+
+marcha sea que forme encantada pero lo
+
+que sí que va a haber son preguntas mi
+
+parte para todos usted
+
+y para los espectadores que están en
+
+este momento en los canales de youtube
+
+twitter y facebook ya saben está
+
+habilitado los chats para que por favor
+
+hagan sus preguntas sus comentarios yo
+
+los estaría compartiendo en tiempo real
+
+con melissa entonces para que estemos
+
+atentos entonces cuando quieres generar
+
+esta ya es la presentación y estamos
+
+perfecto bien pues entonces esta primera
+
+ronda de preguntas siempre la inicia con
+
+lo mismo no qué es lo que vamos a
+
+aprender vamos a preguntarnos su momento
+
+qué es lo que vamos a ver en esta charla
+
+de 45 minutos les pedimos y si no pues
+
+ya tendremos motivos para que vuelva esa
+
+disculpa encanta de volver a participar
+
+entonces bueno vamos a hablar sobre que
+
+como se protege el software libre que
+
+son las licencias de software libre como
+
+elegimos una licencia de software libre
+
+y cómo se gestiona una comunidad de
+
+software libre y como veis aquí pues
+
+tenemos un poco está esa temática
+
+central y bueno quería establecerlo por
+
+todos estos pues qué es lo que hay pero
+
+lo primero es lo primero y son los
+
+conceptos básicos entonces yo sobre
+
+entiendo que vosotros vais a entender y
+
+sabréis mucho mejor que yo que es un
+
+software porque al fin y al cabo yo pues
+
+soy abogada lo mío son letras números
+
+quito ese tipo de cosillas pues como que
+
+no es una especialidad pero sí que me
+
+gustaría pues ponerlos en ese territorio
+
+común que es el software pues vamos a
+
+llamarlo como lo hace la rae no queda
+
+este conjunto de programas datos
+
+instrucciones procedimientos y reglas
+
+que permiten realizar ciertas tareas a
+
+una computadora entonces vamos para mí
+
+yo lo nuevo con programas de ordenador y
+
+todas estas cosas que permiten que mi
+
+computadora vayan haciendo cosas que
+
+sean medianamente interesantes y no sea
+
+un cacharro en mi salud no entonces
+
+cuando estamos hablando de software como
+
+todo no está vida y como todo lo que nos
+
+gusta hacer los humanos los tenemos
+
+clasificados y hay una clasificación que
+
+usan de importante desde el punto de
+
+vista legal que es el software libre y
+
+el software propietario
+
+eso fue el propietario vamos a empezar
+
+por allí porque es meramente el más el
+
+más fácil de explicar es el que se le
+
+aplica a toda la ley de propiedad
+
+intelectual y permite al autor o al
+
+titular de los derechos tener todas las
+
+facultades que le otorga la ley de
+
+manera exclusiva y excluyente que tiene
+
+decir esto que sólo el titular el ao el
+
+autor puede utilizar el software y todas
+
+las demás personas tendrán que pedirle
+
+permiso o no podrán utilizarlo en cambio
+
+el software libre es una corriente que
+
+nace para que cualquier usuario
+
+cualquier persona tenga la libertad de
+
+utilizar copiar modificar y distribuir
+
+el software y para esto se hace
+
+necesario que se distribuya también lo
+
+que es el código fuente entonces estas
+
+dos corrientes son simplemente una forma
+
+en la que nosotros que estamos aplicando
+
+la propiedad intelectual además para
+
+este éste está charla estuve revisando
+
+vuestras leyes si vuestra y vuestras
+
+sentencias la verdad que me ha divertido
+
+muchísimo así que gracias por esa
+
+aportación desde el otro lado del mundo
+
+y bueno pues aquí está el prima de
+
+ejercicio que yo os voy a preguntar a
+
+las personas que estén por ahí viéndonos
+
+y a las personas que están en directo la
+
+pregunta es está protegido el software
+
+está ya lo he dicho un poco de antes
+
+pero la he puesto súper fácil porque no
+
+se va a decir que no por batería o vale
+
+entonces esa es la prueba de la pregunta
+
+y si dices que sí y la pregunta es cómo
+
+está protegido ese software
+
+bueno nos recordamos a nuestra audiencia
+
+en redes sociales que pueden hacer sus
+
+preguntas ahora mismo
+
+cambiamos la dinámica para estrecharla
+
+en en este momento pueden ustedes
+
+hacerla en paralelo con maría lisa
+
+aquí es una zona de intercambio de ideas
+
+pero bueno vamos a dar como mucho un
+
+minuto más porque tengo el tiempo
+
+contado y tengo muchísimas cosas de las
+
+que hablar porque la verdad es que es un
+
+tema súper apasionante no pero bueno y
+
+luego es ley de mejora en el chat pero
+
+efectivamente eso fuera está protegido y
+
+en este caso en es por vuestra ley de
+
+derechos de autor también tenemos unos
+
+convenios internacionales que se llama
+
+convenio de berna y bueno pues de esto
+
+vamos a hablar un poco en esa primera
+
+parte
+
+vale la protección legal todo el mundo
+
+cuando piensa en lo que son
+
+dibujos pinturas fotografías libros y
+
+películas animaciones piensa
+
+automáticamente que tendrá que estar
+
+protegido no es algo que se en internet
+
+que todo el mundo piensa que es gratis
+
+aunque eso también podríamos discutirlo
+
+un buen rato no pero bueno esto son esto
+
+que es esta que estaba comentando se
+
+llaman creaciones humanas o creaciones
+
+del intelecto
+
+y es lo que protege nuestras leyes de
+
+derechos de autor en este caso en
+
+nuestro caso en colombia es la ley 23 23
+
+de 1982 28 de enero sobre la ley de
+
+derechos de autor y el artículo 2 pues
+
+enumera muchos de estos artículos del
+
+que son las creaciones humanas etcétera
+
+y bueno una cosa que pasa con el
+
+software es que es muy relativamente
+
+nuevo y cuando se estuvo discutiendo si
+
+esto es protegido en un protegible cómo
+
+se podría proteger al final lo
+
+asimilamos en casi todo el mundo a lo
+
+que son las obras literarias por lo que
+
+la protección se extiende por el
+
+software en comparación en españa- así
+
+que tenemos unos
+
+unos artículos específicos para la
+
+protección del software yo en la
+
+investigación que hice no encontré no
+
+encontré alguna previsión pero sí que
+
+estaba viendo que se aplicaba la misma
+
+la misma sanción sobre obras literarias
+
+vale entonces cualquier caso para este
+
+tipo de asuntos es un también muy buena
+
+idea consultar con un abogado
+
+especializado en colombia porque sería
+
+súper interesante pero bueno la cuestión
+
+es que por a o por b esto está protegido
+
+vale entonces hay algún requisito para
+
+esta protección la verdad es que no sé
+
+la protección se da automáticamente por
+
+el hecho de crearlo y esta obra lo único
+
+que tiene que hacer es que esté plasmado
+
+es decir que tengamos podamos sentir lo
+
+que podamos verlas que es como el autor
+
+describió la idea como él plasmó esa
+
+idea vale y que tenga un mínimo de
+
+originalidad entonces ésta está esta ley
+
+y empezaría a ejercitarse o sea
+
+empezaría entrar en acción en el momento
+
+en el que nosotros digáis esta obra ya
+
+está estado esto está creado entonces
+
+una cosa que me gusta mucho es que
+
+muestra el artículo 9 dice
+
+específicamente que sin necesidad de
+
+registro porque es una de las dudas más
+
+comunes la de tengo que registrar mi
+
+obra para que nosotros para que se pueda
+
+proteger no hace falta entonces quién es
+
+el autor el autor de la obra es aquella
+
+persona cuyo nombre deseo o seudónimo un
+
+signo iniciales o lo que sea aparezca en
+
+la obra vale entonces cuando hay más
+
+autores lo que tendremos que ver es como
+
+nosotros nos estamos organizando para
+
+crear esa obra si hay una persona que
+
+esté al mando sino eso lo veremos ahora
+
+de un momento y una cosa que quiero que
+
+diferenciamos muy muy bien
+
+hay una diferencia vital entre lo que es
+
+el autor y el titular de derechos
+
+el autor es la persona natural o sea
+
+como yo como vosotros que estáis allí de
+
+carne y hueso que crea la obra vale y
+
+bueno es esta persona que aparecerá con
+
+su nombre pseudónimo sino que les
+
+represente vale mientras que el titular
+
+de los derechos de autor es la persona a
+
+la que le pertenecen estos derechos es
+
+decir podría ser que
+
+porque estés trabajando dentro de una
+
+empresa tu contrato laboral diga que lo
+
+que tú crees en tu puesto de trabajo en
+
+tus funciones de trabajo son de la
+
+empresa aunque tú como autor retienes
+
+unos derechos que ahora vamos a hablar
+
+de ellos vale entonces mi mejor
+
+recomendación para estas casas es que lo
+
+dejes todo por escrito no no vale con
+
+que tengas un contrato de trabajo que
+
+diga si esta persona se dedica yo que sé
+
+al periodismo o esta persona se dedica a
+
+lo que es el desarrollo de software en
+
+mi empresa no se tendría que para mí
+
+sería específico sería perfecto mejor
+
+dicho tener una cláusula específico que
+
+diga en cuanto a las obras o los los
+
+elementos que vayan a
+
+ser creados por el personal contratado
+
+se dan y se les espera se cederá al
+
+titular o sea la empresa xxxx y por
+
+ejemplo al autor reserva el derecho a
+
+utilizarlo en su portafolio en
+
+publicarlo para ciertos sitios como give
+
+up o para utilizarlo para ciertos
+
+proyectos personales que son por ejemplo
+
+es una de las cosas que se estamos
+
+haciendo lo más importante para mí es la
+
+parte de el portafolio no pero bueno
+
+entonces lo que quiero que tengáis
+
+también en cuenta con esta ley es que
+
+está creada y pensada para apoyar a los
+
+autores dándoles el control absoluto
+
+sobre sus creaciones y por eso estas
+
+leyes esta ley da pues como la visión
+
+general de lo que tiene que pasar
+
+nuestras facultades que le estamos dando
+
+por el hecho de crearlas no entonces en
+
+casi todas estas normas lo que se pone
+
+es salvo convenio estipulación en
+
+contrario esto quiere decir que la ley
+
+te pone un mínimo y te dice se lee se le
+
+da al empresario los derechos no salvo
+
+pacto en contrario porque ese intento de
+
+cláusulas que estén inventando me sobre
+
+la marcha
+
+podría haber decir perfectamente que en
+
+realidad el autor no les hace viendo
+
+nada sino que lo que esté cediendo es
+
+una licencia no exclusiva y que tanto el
+
+autor como al empresario podrán
+
+utilizarlo de manera libre entonces esto
+
+es una cosa de las que podemos ver
+
+porque también si estamos en este
+
+entorno de creación de software muchos
+
+ejemplos están bien tendrían que tener
+
+unas políticas de cómo vamos dar
+
+software o como mojar y voy a hacer dos
+
+documentos utilizando licencias creative
+
+commons o pues una guía de buenas
+
+prácticas entonces todo esto esta ley
+
+que sepáis que es como esta regla de
+
+mínimos pero el autor al final es el que
+
+decide y lo que no decide hay algunas
+
+cosas que son innegociables que vamos a
+
+ello no
+
+varias a ustedes una sola obra y su
+
+titularidad no como decía al principio
+
+cuando somos un creador individual no
+
+hay ningún tipo de digamos duda de quién
+
+es el autor de la obra pero sí que
+
+podría haber por ejemplo dudas y que es
+
+el titular no porque podría ser por
+
+ejemplo una obra creada puede encargo
+
+donde por muchas veces puede ser que ya
+
+está excediendo los derechos sobre la
+
+obra que estás creando en españa'
+
+ingeniería es un contrato para eso pero
+
+según lo que demuestra la legislación
+
+cuando tenéis una obra creada por
+
+encargo así que les ayudéis a los a los
+
+a la persona que encargó el trabajo los
+
+derechos y salvo pacto en contrario
+
+entonces aquí tenemos formar ya formas
+
+de organizarnos trabajando cuando
+
+estamos en equipo no podemos ser una
+
+organización horizontal porque estamos
+
+trabajando en con la votación y bueno
+
+todas las personas estamos participando
+
+y estamos creando juntos una buena
+
+práctica de esto sería establecer como
+
+unas reglas mínimas de cómo va a ser lo
+
+que es lo que vamos a aportar cómo lo
+
+vamos a aportar en qué forma los tiempos
+
+los plazos un roadmap vamos una gestión
+
+de proyectos vale de un project manager
+
+allí sería como las delicias entonces
+
+podemos explotar nuestras obras por
+
+separado no lo podremos hacer salvo que
+
+exista un pacto que sí que nos lo
+
+permita entonces es decir si nosotros
+
+todos los que estáis allí los que estáis
+
+viendo me decidimos crear una una
+
+presentación como ésta en conjunto donde
+
+cada quien escribe un trocito y le
+
+ponemos los colorines y si alguien pueda
+
+ser la parte inferior de los colores los
+
+dibujos etcétera pues entonces luego
+
+diremos oye pero los dibujos nos pueden
+
+explotar aparte los la parte de texto es
+
+escrito yo lo podré utilizar luego todo
+
+este tipo de preguntas las tenemos que
+
+plantear al principio porque incluso una
+
+de las dudas que pueden pasar muchas
+
+pues ejes es un proyecto gratis y voy a
+
+sacar de os vais a sacar dinero con eso
+
+si va a sacar dinero con eso cómo se va
+
+a repartir entonces todas esas normas en
+
+la parte de colaboración es muy
+
+importante que la tengáis claras en el
+
+momento en que vosotros empecéis un
+
+proyecto en colaboración porque también
+
+lo digo porque cuando nos dicen oye mira
+
+es que tengo este proyecto va te va
+
+encantar y efectivamente nos encanta nos
+
+lanzamos y entonces ya es como que nos
+
+ponemos a trabajar sin darnos cuenta de
+
+lo que podría pasar entonces esto es una
+
+una cosa a la que volveremos luego
+
+también porque mis guitarras en los
+
+pocos de clicas vale empezamos por el
+
+principio y el final a la vez una obra
+
+colectiva en cambio tiene como una
+
+organización tiene una persona que está
+
+al mando y luego un montón de personas
+
+que pueden estar trabajando y
+
+colaborando y haciendo trabajos para que
+
+está esta persona que es la que está
+
+coordinando la edite y la divulga bajo
+
+su nombre entonces
+
+está este conjunto de aportaciones
+
+tienen que ser obras originales es decir
+
+tienen que estar creadas y pensadas para
+
+esto y estos autores los de aquí bueno
+
+conservarán sus derechos siempre y
+
+cuando se puedan reproducir
+
+separadamente es lo que estaba diciendo
+
+por ejemplo antes si yo fuese en este
+
+caso la que va ahora el trabajo y lo va
+
+a editar y lo voy a divulgar con mi
+
+nombre los que hicieron los textos los
+
+que hicieron en alguna parte de los
+
+dibujos los que se dan alguna parte pues
+
+te como es el diseño lo podrían utilizar
+
+luego porque se podrían separar algunos
+
+de los elementos el texto lo podríamos
+
+dejar solamente en un word por ejemplo o
+
+las imágenes las podríamos poner en un
+
+banco de imágenes para que cualquier
+
+persona pudiese utilizarlas siempre que
+
+tengo hombre entonces ese tipo de
+
+elementos y se hace pero si por ejemplo
+
+imaginemos que estamos todos en una gran
+
+sala y decimos bueno pues con éste cacho
+
+de arcilla vamos a hacer un muñeco pero
+
+nadie sabe quién ha hecho ni el brazo ni
+
+los ojos ya porque todo el mundo metido
+
+mano en todos lados en ese caso que no
+
+se puede identificar para la parte en la
+
+aportación individual de cada uno de
+
+nosotros yo me quedaría los hechos sobre
+
+ese muñeco que hemos realizado porque
+
+soy la que ha asumido el riesgo porque
+
+soy la que coordenada en la que lo que
+
+ha hecho posible que esta obra exista no
+
+y bueno sí que me parece interesante la
+
+parte de obras independientes porque es
+
+una mezcla de la forma en la que digamos
+
+se mezclan los autores porque podemos
+
+tener un lo que es una obra originaria
+
+es decir una obra que yo estaba pensando
+
+delante de mi escritorio y de repente
+
+dibuje a una chica rubia con colectas y
+
+es monísimo y la subo a twitter y
+
+entonces en twitter o en mastodon o en
+
+cualquier red social pongo una llamada a
+
+otros usuarios que digan oye pues
+
+podríais dibujar este dibujo en vuestro
+
+propio estilo que es un chal en se
+
+dibuja antes bastante famoso
+
+entonces si esto ocurriese las obras que
+
+las personas dibujas en mi dibujo con su
+
+estilo serían estas obras independientes
+
+porque transforma en una obra
+
+preexistente lo que me parece
+
+interesante de aquí es que aunque no
+
+estamos trabajando totalmente juntos sí
+
+que se va a tener que mezclar en un
+
+momento y es que la persona que haga la
+
+derivada va a tener que pedirle permiso
+
+a la persona de la obra originaria para
+
+poder hacerlo o sea me explico yo
+
+tendría que autorizar en este caso lo he
+
+hecho diciendo dibuja esto con tu estilo
+
+para que estas otras personas que van a
+
+crear la siguiente obra van a convertir
+
+mi dibujo en un dibujo con su estilo
+
+puedan realizarlo
+
+entonces esto me parece bastante
+
+importante porque es uno de los
+
+conceptos que vamos a estar manejando si
+
+tenéis dudas preguntas en el chat
+
+recuerdo que está abierto para ellas me
+
+interesa mucho saber vuestra opinión y
+
+escucharlos porque esta charla pues es
+
+colaborativa para no tenga después todos
+
+en cuenta pero yo mientras tanto voy
+
+siguiendo vale entonces la protección de
+
+la ley entonces que habíamos hecho antes
+
+de los requisitos pues que no hay unos
+
+requisitos específicos algo que la que
+
+la idea del autor está expresada que la
+
+haya descrito que la haya puesto como es
+
+que lo haya extraído pues como en ese
+
+mundo de las ideas que tenemos en
+
+nuestra cabeza a una forma de decir en
+
+vida pues he hecho un dibujo o emir ha
+
+hecho un cómic hecho una película es un
+
+programa vida que bien funciona mira
+
+esta página web vale este tipo de
+
+expresiones es lo que protege la ley y
+
+eso es lo que permite que muchas
+
+personas puedan hacer
+
+personajes o películas o elementos
+
+interesantes pensamos por ejemplo en la
+
+premisa de dos familias se odian pero
+
+sus hijos
+
+un hijo de cada uno de las familias se
+
+enamoran y están luchando por su amor
+
+prohibido cuando se salieron tenemos de
+
+ese estilo cuando en realidad es una
+
+premisa común pero cuando la ejecutan es
+
+cuando esta idea cambia entre todas las
+
+personas mi historia de dos familias que
+
+se odian y dos y una pareja de
+
+enamorados de cada uno de esas miembros
+
+de la familia va a ser seguramente muy
+
+distinta a la que vosotros podáis hacer
+
+incluso puede ser que intente pues
+
+reescribir shakespeare con zombies como
+
+ha ocurrido por ejemplo con orgullo y
+
+prejuicio y zombies podría haber muchas
+
+de estas acciones pero lo importante es
+
+que estas ideas al final se expresen y
+
+que éstas sean diferenciables y aquí
+
+está el punto de originalidad la
+
+originalidad al final es la
+
+individualización de la obra lo que
+
+permite pensar que es una obra que la
+
+hace distinta a las demás y seguramente
+
+si dad por ejemplo el estilo del autor
+
+cómo está describiendo la la forma de
+
+escribir no o sea hay autores que tienen
+
+una forma
+
+muy personal de escribir hay una que los
+
+reconoce difícil es que eso me suena
+
+sana de duda por ejemplo o yo me suena a
+
+el quijote
+
+dice granos anderson es como si es que
+
+se lee su forma de escribir y la
+
+reconozco entendiendo los ritmos
+
+entonces las formas en las que hace dijo
+
+cosa con las películas con los dibujos
+
+lo mismo pasa con mucho con la expresión
+
+del arte de que al final es como que los
+
+autores ponemos ese sello personal en la
+
+en la obra y también pasa con eso fue no
+
+todo el mundo lo escribe igual hay
+
+algunas personas que bueno pues tienen
+
+una un amor por la tabulación pero hay
+
+gente que pone espacios es incluso una
+
+coña de algunas en algunas series de
+
+programadores entonces cada quien tiene
+
+su forma de hacerlo y lo importante es
+
+que deje ese sello una imprenta personal
+
+no entonces esta originalidad es el
+
+único presupuesto para que se proteja la
+
+actividad creativa y porque es el único
+
+presupuesto para que se que se proteja
+
+está esta actividad creativa porque si
+
+no si lo es es una mera copia si lo
+
+estuviese copiando pues no estás
+
+trabajando con la mente no está casi en
+
+una obra del intelecto simplemente estás
+
+reproduciendo y quiero que os creáis que
+
+nuestra idea si no estáis trabajando con
+
+nuestra mente estáis reproduciendo y
+
+vais a ver porque lo estoy diciendo
+
+antes o se hablaba de estas obras
+
+independientes que pueden cuando hay una
+
+obra original la de dibujar este dibujo
+
+con tu propio estilo vale unas personas
+
+que trabajaban pues eso en este dibujo
+
+previo para convertirlo en su propio
+
+estilo y hacer su versión ado etcétera
+
+entonces
+
+esto es una transformación de una obra y
+
+es lo que os decía antes necesita lo que
+
+es la colección expresa del autor y en
+
+vuestro caso en el caso debe debe
+
+mencionarse al autor entonces para
+
+nosotros reconocer lo que son estas
+
+transformaciones de obras previas
+
+podemos decir que hay un nexo entre la
+
+obra primigenia
+
+dibujarlo en tu propio estilo y con lo
+
+que salió al final esto además tiene que
+
+tener una suficiente una originalidad
+
+suficiente es decir no te pido que sea
+
+una obra distinta porque tiene que tener
+
+un nexo de unión por a lo mejor pues yo
+
+que sea en vez de ser una chica rubia
+
+con coletitas la he hecho una chica
+
+rubia con orejas de gato pero la puse es
+
+la misma los ojos son los mismos
+
+etcétera y el tipo de línea de colores
+
+os aseguro que va a cambiar mucho entre
+
+un dibujante y otro no hay dos que
+
+dibujen muy igual
+
+entonces
+
+estas obras derivadas tienen que
+
+diferenciarse de otras que es de las que
+
+derivan entonces puedes poner razón al
+
+lado de otra y aunque sea en la misma
+
+idea todas se ven tan distintas y para
+
+que os hagáis una idea podemos pensar
+
+por ejemplo en spider man spiderman
+
+siempre es el mismo pero según quien lo
+
+dibujo es un un estilo u otro no se ve
+
+así como muy distinto entre entre ellos
+
+y bueno aquí también quisiera hacer una
+
+especial mención hemos hablado de
+
+originalidad que todo está protegida en
+
+cuanto yo lo creo simplemente porque sea
+
+original y está expresado que lo haya
+
+traído ese mundo de las ideas sin
+
+embargo también es importante saber lo
+
+que no está protegido las ideas en sí no
+
+están protegidas o sea un superior de
+
+que lleven mallas no está protegido pero
+
+sí que está protegido la versión de
+
+superman la de batman con la que sea que
+
+sea vale tampoco será protegible aquello
+
+que tenga nulidad creativa por ejemplo
+
+ahí hay algunas personas que a lo mejor
+
+se les cayó un bote de pintura su
+
+alfombra y dice esta marca es que me
+
+inspira algo es arte haberes es una de
+
+esas cosas es una cosa así como que no
+
+nos ha encontrado los encontrado por
+
+allí y luego pues hay las obras no
+
+originales que eso sería pues ya las
+
+obras originales serían las que puedes
+
+cualquier persona puede utilizarlo así
+
+no tiene ningún tipo de calidad
+
+inventiva ni protegido es ni la pausa se
+
+es que no has pensado en ella ni has
+
+intentado hacer algo en especial
+
+y bueno pues disposiciones legales
+
+reglamentarias etcétera vale porque me
+
+presenta es importante saber lo que no
+
+está protegido porque al final o sea
+
+cosas como los estilos los métodos las
+
+las ideas por ejemplo también lo que son
+
+algunas formas de realizar ciertas
+
+funcionalidades en el software o llegar
+
+a ciertos puntos vale que por ejemplo
+
+esto se abra o sea que los ves en los
+
+videojuegos los personajes salten estas
+
+funcionalidades esas cosas que son como
+
+comunes que se tienen que mantener en el
+
+patrimonio común porque si no los
+
+cerraríamos lo haríamos privativo y
+
+evitaríamos que otras personas lo
+
+utilicen o sea es bastante peligroso
+
+pensar que absolutamente todo está
+
+permitido y bueno así como apunte creo
+
+que esto no lo puse en la presentación
+
+tanto en vuestra ley como casi todas las
+
+de latinoamérica y la de españa tenemos
+
+una lista bastante extensa de límites a
+
+la propiedad intelectual que son
+
+supuestos en los que nosotros podemos
+
+utilizar las obras de terceros sin que a
+
+nosotros nos tengamos que pedirnos
+
+permiso entonces es una buena idea
+
+echarles un ojo porque por ejemplo están
+
+las parodias las citas las copias
+
+privadas etcétera y bueno aquí está la
+
+parte de dibujo aquí tenemos varios
+
+presupuestos donde el primero donde
+
+vemos que son dos personajes exactamente
+
+iguales salíamos entre una reproducción
+
+la reproducción ya lo tiene un poco más
+
+adelante pero me voy adelantando es uno
+
+de esos derechos económicos uno de hecho
+
+de explotación que te da la ley solo el
+
+autor tiene permiso para reproducir la
+
+obra o permitir que otras personas los
+
+reproduzcan entonces si yo tercero
+
+reproduzco esa obra y además me quiero
+
+hacer pasar por el autor estaríamos ante
+
+un plagio entonces ya empezaríamos todos
+
+ahí a estar super enfadados es que eso
+
+es un plagio se lo copiado fulanito o
+
+menganito no sé cuántos porque bueno
+
+pues porque es exactamente igual y noche
+
+ningún tipo de trabajo aquí está ese
+
+punto sí
+
+si queremos seguir hablando del próximo
+
+voy a ir ramón así que voy a pasar al
+
+siguiente supuesto el siguiente supuesto
+
+es la idea de la derivada no esto que
+
+decía de dibujar ese dibujo en vuestro
+
+propio estilo si veis cuando son
+
+personajes presentes distintos tienen
+
+elementos que son comunes el personaje
+
+tiene que señalar hacia un lado una mano
+
+está en el bolsillo y uno tiene unas
+
+puso un poco más estática donde la
+
+chaqueta le está colgando de los hombros
+
+y cae en la otra sal como más dinámica
+
+no en plan de wow que tal como está es
+
+no y bueno son algunos puntos que
+
+también las unan porque son pues un poco
+
+más sutiles en este caso intenta hacerlo
+
+pero se puede verlo
+
+esto aunque tenga esos elementos comunes
+
+y se pueda pensar que es una derivada yo
+
+la pongo más como inspiración porque
+
+porque el de al lado creo que ya todos
+
+podéis reconocer a rapunzel vale porque
+
+está este cambio de poses dinámicas este
+
+cambio de colores este cambio de efectos
+
+y que se ve que son diferenciables
+
+entonces yo casi las pondría más en el
+
+punto de inspiración porque la tercera
+
+esta parte derivada y eso nosotros
+
+podemos ver el nexo que hay entre las
+
+dos obras la otra es demasiado sutil
+
+para entenderla mal entonces aquí
+
+estamos derechos que otorgan la ley y la
+
+ley o se otorgan dos tipos de derechos
+
+no unos que son los personales juntos
+
+unidos a lo que sería la persona del
+
+autor o sea a su capacidad creativa ésta
+
+está digamos que de hecho fundamental ha
+
+creado obras y luego está la parte de
+
+dichos patrimoniales con lo que nosotros
+
+podemos hacer dinero si eso sí que
+
+pueden cederse por radio que sí que
+
+pueden cederse por los hechos morales
+
+son perpetuos irrenunciables e
+
+inalienables vale esto qué significa que
+
+no puedes conversar con ellos que no
+
+pueden decir oye madre yo te escribo un
+
+libro y lo firmas con tu nombre
+
+es algo te lo podría imprimir de poder
+
+editar y divulgar como una persona que
+
+intenta mantener todo anonimato pero no
+
+lo podría hacer para hacer es pasar por
+
+el autor porque entonces estaríamos
+
+seguidamente pues ante un plagio estaría
+
+haciendo una una un uso no aunque esté
+
+con sentido no sería un no sería un buen
+
+eso respete los derechos morales porque
+
+el plagio al final lo que se fundamenta
+
+en el hecho de que yo me quiera ser por
+
+medios a pasar por el autor vale
+
+entonces los derechos forales que es lo
+
+que te permiten toda tu vida y
+
+reivindicar o pedir solicitar hacer
+
+notar que tú eres el autor de la obra en
+
+especial pedir que sé que si te nombre
+
+que 77 que 7 tribu ya esa obra vale
+
+podemos pedirles que nos mantengan la
+
+integridad de la obra es decir que no
+
+les deforme en la sutil en la rumba que
+
+no vayan en contra de lo que sería su
+
+honor que no terminen diciendo es que he
+
+decidido ese dibujo tan mono que
+
+tenías antes y luego yo que se lo voy a
+
+sexualizar por qué pues porque apetece
+
+pues no yo te diría no puedes no puedes
+
+hacerlo porque si lo haces es hayas
+
+encontrado en mis derechos huacales
+
+porque va a encontrar un orden la obra
+
+me lo estás deformando entonces también
+
+puedo elegir mantener esa obra inédita o
+
+y/o anónimo es lo que decía antes yo
+
+puedo hacer decir imprime esto por mí
+
+pero di que es de una persona anónima y
+
+que tú eres la persona que lo está
+
+gestionando vale básicamente sería como
+
+los bancos que nadie sabe quiénes van sí
+
+pero todo el mundo pues lo escucha es
+
+una parte de anónima seudónimo o persona
+
+que esté por ahí entonces también
+
+podemos elegir no divulgará estado
+
+brasil que se quede en un cajón y que ya
+
+veremos qué es lo que ocurre con ella y
+
+también podemos dedicar entre tierra de
+
+circulación o modificarla entonces
+
+aunque nosotros sabemos los derechos
+
+patrimoniales que son los que tenemos al
+
+lado esos de ellos siempre los
+
+conservamos es decir que si yo soy
+
+trabajador de 3 13 10 esos derechos
+
+patrimoniales yo seguiría manteniendo de
+
+estos derechos morales seguiría teniendo
+
+lo he dicho de reivindicar la autoría o
+
+poner nuestra información existen los
+
+derechos patrimoniales por otro lado y
+
+esto me parece bastante importante que
+
+también lo tengamos muy en cuenta son
+
+aquellos que sí que puedes comerciar
+
+reproducir la obra es lo que decíamos
+
+antes no fijamos esto y es como hacer
+
+copiar control control v tal cual la
+
+distribución es cuando nosotros ponemos
+
+a la venta o en la circulación copias
+
+físicas para que la gente lo adquiera me
+
+deje comunicación pública pues sería
+
+básicamente esto que estamos en la red
+
+yo pongo esta obra que en este caso es
+
+mi presentación a disposición de
+
+vosotros y que se puede observar no la
+
+transformación además sería esto que
+
+estábamos hablando antes yo he hecho
+
+aquí una rapunzel aquí es un tipo de
+
+derivados aunque bueno pero todas de los
+
+mismos así que estoy allí y bueno pues
+
+aquí estaríamos toda esta parte de
+
+dibujos esto es viene de un cómic que y
+
+sean desde entonces por eso digo que es
+
+una transformación también y bueno estos
+
+accesos son independientes entre sí
+
+porque son importantes estos porque son
+
+con los que vamos a ir trabajando con
+
+los que nosotros vamos a estar digamos
+
+comerciando con el que hacemos dinero
+
+y esos son los derechos que nos da la
+
+ley la ley nos permite además hacer la
+
+gestión de lo que nosotros queramos con
+
+ellos vale nosotros tenemos la plena
+
+libertad de decir es que yo solamente
+
+quiero que lo use mi tía filipina porque
+
+es que es súper maja conmigo y si me
+
+apetece que sólo ella y nada más que
+
+ella utilizó esa presentación no puedo
+
+decir bueno pues cualquier persona que
+
+tenga esta está una licencia podrá
+
+utilizar no esta capacidad de gestionar
+
+del autor implica que os cedemos
+
+derechos o hacemos un licenciamiento no
+
+vamos a ver la primera parte de software
+
+privativo para hacer la contraposición
+
+no de qué es lo que pasa con un software
+
+está cerrado y de qué pasa cuando el
+
+software está libre entonces
+
+para que otras personas puedan utilizar
+
+estos derechos nosotros habíamos dicho
+
+que necesitan nuestra autorización y
+
+nuestro permiso porque tenemos uno de
+
+ellos exclusivos y excluyentes para con
+
+el resto de los mortales pero está esta
+
+corriente de software libre o de
+
+comunidad libre o de código abierto que
+
+queremos permitir que otras personas
+
+utilicen libremente las obras pero claro
+
+si nosotros decimos lo subimos a la red
+
+y decimos no es que como está en la red
+
+esto está permitido estamos equivocados
+
+progresar y amos también el permiso del
+
+autor entonces como sufrimos esto pues o
+
+cediendo derechos o haciendo licencias
+
+cuál es la diferencia bueno pues que las
+
+licencias en sí no son contratos hasta
+
+que la otra persona acepta sino que son
+
+como una disposición de qué es lo que
+
+tienes que hacer y por eso la gpl y me
+
+gusta mucho en ese sentido porque tiene
+
+muy claro que es un contrato que se
+
+entrara a aplicar en su totalidad cuando
+
+tú modifique y se distribuya el software
+
+hasta que si tú lo tienes allí pues
+
+tiene el derecho a usar lo que te
+
+permite la licencia no que son
+
+simplemente la aplicación de los
+
+derechos de autor pero para todos los
+
+demás condiciones que te ponen las
+
+limitaciones lo que tienes que hacer
+
+tienes que haber hacer toda la licencia
+
+y la licencia se entiende aceptada
+
+cuando tú modifica o distribuye -ha de
+
+software vale entonces el software
+
+privativo si pensamos en un microsoft
+
+vale un teams con lo que sea eso es
+
+tienen lo que es una licencia de usuario
+
+final pero eso ya es un contrato pues
+
+que tendrá varias cosas pero muchos de
+
+aquí espero que se han desarrollado
+
+desde entonces y son desarrolladores por
+
+libre en plan de yo me lo guiso yo me lo
+
+como vale que necesitaría un contrato
+
+para vosotros podéis tener ese ese
+
+software o por lo menos para nosotros
+
+cubrirnos las espaldas explicar
+
+exactamente qué es lo que estamos dando
+
+o cómo lo estamos dando vale entonces
+
+que nuestros contratos mínimo cuando
+
+dijo mínimo es lo esencial que tenemos
+
+que tener es identificar a las partes
+
+porque alguna vez existe alguna cosa
+
+como si bueno el desarrollador y la
+
+empresa pero no decimos que es la
+
+persona que firma por la empresa si está
+
+autorizado o no es autorizado eso en
+
+legal es bastante importante la
+
+descripción de la obra está me parece
+
+bastante importante porque estamos
+
+limitando a esta obra y estamos ya
+
+acotando aquí la cuestión es que tenemos
+
+una idea genera de qué es lo que tenemos
+
+que hacer y cada vez vamos haciendo más
+
+a lo particular no sólo particular
+
+entonces los derechos que estamos
+
+cediendo porque sino por ejemplo si nos
+
+decimos que debe suceder hemos aquí en
+
+españa son los derechos que mínimamente
+
+pongan en vuestra ley no encontré una
+
+especificación al respecto supongo y
+
+entiendo que será lo mismo que serán los
+
+derechos que sean meses para cumplir el
+
+contrato
+
+lo mejor son todos pero esto hay que
+
+cortarlo al final es opcional es como
+
+dejar muy muy libre muy muy difuso esto
+
+entonces a mí yo no me siento segura el
+
+tiempo de sesión de la obra porque
+
+porque si nosotros nos especificamos que
+
+tiempo de sesión tanto en españa como en
+
+colombia son cinco años y el ámbito
+
+territorial es el país donde lo haya
+
+cedido en este mundo global limitarlo al
+
+país no lo hayamos cedido es un problema
+
+porque por ejemplo yo entonces justicia
+
+que solamente el programa en españa pero
+
+si lo ha subido un bit y está a nivel
+
+mundial y cualquier persona puede
+
+utilizarlo pues entonces hi tendré que
+
+poner algo no en caso de ser software
+
+privativo y en en ser software libre se
+
+permite la remuneración así que es
+
+importante que los paguen porque el
+
+trabajo hay que pagarlo y en caso de que
+
+el país lo permite la posibilidad
+
+provisión de casos se registran como
+
+propiedad industrial como las patentes
+
+son las marcas
+
+también es importante decir si la sesión
+
+se hace de manera exclusiva o no
+
+exclusiva que significa la exclusividad
+
+una exclusividad la exclusividad
+
+significa que solamente la persona a la
+
+que yo le he decidido los derechos puede
+
+utilizarlo por eso en esa cláusula que
+
+intenté inventarme sobre la marcha para
+
+ponerles una
+
+decía pues una sesión en exclusiva o no
+
+exclusiva porque cuando es en exclusiva
+
+eso quiere decir que la persona la que
+
+lo creó no podrá utilizarlo y como mucho
+
+tendrá los derechos a ser reconocidos
+
+como autor y los derechos morales no
+
+bueno pues ya no se especifica nada eso
+
+ya lo comenté el ejercicio también si
+
+estáis por la labor y que de suscribirse
+
+por allí
+
+yo os pregunto cuántas licencias de
+
+software hay cuáles conocéis y cómo
+
+sabemos una licencia de software es
+
+libre o no
+
+son preguntas bastante importantes para
+
+lo que viene a continuación así que si
+
+alguien se anima estaría súper encantado
+
+de escuchar vuestras respuestas y
+
+comentar
+
+30 segundos más por si acaso ya voy a
+
+responderlo
+
+vale la gpl está por allí muchas gracias
+
+a buscar fabián
+
+bueno la gpl es una de las más famosas
+
+de todas y con una de las que más
+
+trabajamos pero aquí tengo mis libres de
+
+proyectos y en el último proyecto en la
+
+que estuvimos trabajando tuve que
+
+analizar nada más y nada menos que 27
+
+licencias que tenían que relacionarse
+
+con la gpl pero es que si vosotros vais
+
+a la página de la free software
+
+foundation puedes que haya un listado
+
+maravilloso además bastante útil para
+
+cuando estamos buscando haciendo la
+
+compatibilidad de licencias juntas hoy
+
+hay 49 licencias libres compatibles con
+
+qué pl 45 licencias libres no
+
+compatibles con gpl y 34 no es libre o
+
+sea que al final estamos ante la
+
+friolera de siento y muchas licencias
+
+entonces de repente nos encontramos en
+
+un mundo donde yo quiero crear una obra
+
+y permitir que otras personas lo usan y
+
+para permitirlo tengo una amplia
+
+variedad de licencias que puedo elegir
+
+es una locura pensar que tengo la
+
+capacidad de elegir entre más de 100
+
+licencias
+
+porque digo que es una locura porque eso
+
+implica que tendría que saber qué es lo
+
+que puedo hacer con ellas cuáles son las
+
+limitaciones cuáles son sus condiciones
+
+y es lo que tengo que realizar
+
+deja la hora de elegir licencia creo que
+
+nos quedamos como como paralizados por
+
+la alta capacidad que tenemos de
+
+elección no entonces como se suple esto
+
+bueno pues es muy fácil dentro de lo que
+
+cabe se suple utilizando las más
+
+conocidas y cuáles están entonces oscar
+
+nos comentó que estaba la gpl hay
+
+algunas que son las más conocidas no y
+
+bueno estas licencias eran libros en los
+
+libres dependiendo de si coinciden o no
+
+con la filosofía del software libre
+
+vamos allá vamos a entrar en el mundo de
+
+licencias libres
+
+que es un software libre el software
+
+libre es como dijimos está este estos
+
+programas ordenador que permiten a los
+
+usuarios y su comunidad ejecutar copiar
+
+distribuir estudiar modificar estudiar
+
+el programa lo que estoy a repuso
+
+entonces y bueno y que le pueden
+
+utilizar vale esta licencia se la pueden
+
+haber cobrado o no porque puedes
+
+utilizarla como quieras entonces
+
+el software libre para poder ser libre
+
+tiene que pasar una serie de pasos en un
+
+principio la gente puede pensar que es
+
+tan sencillo como
+
+yo cojo lo que haya hecho y le pongo una
+
+licencia y lo subo a un repositorio pues
+
+en este caso la venta deciros que no va
+
+tanto por allí porque porque el software
+
+muchas veces que está creado entre
+
+muchas personas y esas muchas personas
+
+tienen que elegir cuándo van a liberarlo
+
+si lo eligen al principio es mucho más
+
+sencillo luego decir vale los
+
+componentes las librerías que vaya a
+
+utilizar tienen que utilizar una
+
+licencia parecida a una licencia
+
+compatible tengo que saber qué es la
+
+personal que lo ha traído sé si hay
+
+personas que han contribuido esta
+
+persona tiene que saber cuáles son los
+
+códigos de conducta la forma de trabajar
+
+etcétera entonces yo lo he puesto aquí
+
+en cinco
+
+puntos en realidad aunque hay una
+
+derrota disculpar en cinco partes vale
+
+el estudio de análisis agrade eso porque
+
+es tal
+
+vamos a ponerlo en cuatro pasos y porque
+
+tenemos aquí cuatro pasos y el último
+
+que está en la siguiente en la siguiente
+
+positiva el primer paso de todos el paso
+
+cero en realidad tendría que ser elegir
+
+el aumento de la idea del software
+
+porque porque eso que decía al principio
+
+de siglo al principio es mucho más
+
+sencillo es porque si estamos a mitad y
+
+estamos trabajando y decimos que esto
+
+podría ser en realidad muy guapo para
+
+ponerlo a la comunidad y que la gente lo
+
+utilice que podamos trabajar con ellos y
+
+pues buena idea vamos a volver un
+
+software libre pues tendríamos la
+
+dificultad de uno es un software
+
+privativo es decir nosotros que somos
+
+los creadores elegimos quién lo utiliza
+
+y tenemos que ver cuáles son los
+
+derechos que se hacen nuestra empresa o
+
+que hayan estado vale tenemos que ver si
+
+es posible utilizarlo qué componente más
+
+utilizado y si pueden y verdad si por
+
+ejemplo hay una persona que ha
+
+contribuido y no ha dado todos los
+
+derechos eso no se pueden liberar
+
+tenemos que ver pues un montón de
+
+acciones por ejemplo si hay una
+
+incompatibilidad de licencias entre las
+
+que hemos utilizado o la modificamos o
+
+lo tenemos que escribir de nuevo buscar
+
+una en una librería que nos haga el
+
+favor de suplir esa falta y esa carencia
+
+que hemos tenido ese momento ahí tenemos
+
+ese primero esa primera dificultad por
+
+esa parte de de contras lo bueno de
+
+liberar el software después de que esté
+
+utilizado después de que esté un poco
+
+como desarrollado un poco más adelante
+
+es que nos permite controlar mejor el
+
+proyecto y el roadmap de lo que estamos
+
+haciendo esos hitos será mucho más fácil
+
+controlarlos de ver cómo se ha hecho
+
+etcétera pero aquí es donde entonces
+
+tengo que poner una de esas frases
+
+bastantes famosa g de mundo el software
+
+libre que es irrealizable release of
+
+temp porque porque lo que nos interesa
+
+es tener algo con lo que la gente pueda
+
+trastear con la que pueda tocar no
+
+porque conforme antes esté y la gente se
+
+puede involucrar más podremos tener a
+
+personas que lo que estén que busquen
+
+los errores que busquen los los type o
+
+sea las faltas de ortografía que de
+
+repente como yo digan guau es que muere
+
+que ahí tienes una doble mente el paso 4
+
+y yo hay verdad se me olvidó borrarlo al
+
+pasar por punto 5 las siguientes sabes
+
+tienes un montón de personas que tendrán
+
+muchos más ojos y muchas más ganas de
+
+trabajar con vosotros se crea comunidad
+
+y es allí cuando de verdad podemos
+
+entender que el software es libre porque
+
+no lo estamos utilizando no lo estoy
+
+utilizando yo y mis cuatro colegas que
+
+lo hemos hecho o solamente mi empresa
+
+sino que un gran número de personas
+
+quieren trabajar y contribuir de e-mail
+
+no lo dejan así vamos al paso uno es
+
+estudiar y analizar lo que estamos
+
+teniendo hay unas fichas muy
+
+interesantes donde podemos explicar el
+
+proyecto de tipo de proyecto la licencia
+
+que pensamos que le va a venir bien e
+
+identificar los componentes estos
+
+componentes pues verlos por su
+
+fiabilidad número de usos como lo
+
+utilice la actitud en fondos y bueno
+
+pues un poco la reputación de estos
+
+componentes y estas librerías esto lo
+
+dejamos todo en una ficha bien
+
+organizada documentada vale para que
+
+además nosotros a la hora de preparar
+
+todo lo que es el código para liberarlo
+
+lo podamos ver no entonces luego si hay
+
+por ejemplo colaboradores como decía
+
+estamos en medio un proyecto cerrado y
+
+lo queremos abrir y uno de los
+
+colaboradores no nos ha cedido sus
+
+derechos para hacerlo es el momento
+
+ideal para decirle oye vamos a liberarlo
+
+con esta licencia necesitamos que nos
+
+cedan los derechos y hacemos un contrato
+
+de decisión
+
+licencia y que sea ésta compatible con
+
+la del proyecto no
+
+la selección de licencia yo muchas veces
+
+la ligó a lo que es el modelo de negocio
+
+y las finalidades perseguidas con el
+
+software que es lo que quieres hacer con
+
+él porque porque entre ese vasto
+
+universo de licencias a lo mejor que
+
+decidir por uno que no tiene ningún tipo
+
+de problemas de dolores de cabeza porque
+
+lo único que vas a pedir a cambio de que
+
+usen el software es simplemente que
+
+mantengan lo que son las las los
+
+ficheros de notice no los de
+
+aviso legal quién es el autor etcétera
+
+no entonces a lo mejor que deja elegir
+
+esa porque no te quieres romper la
+
+cabeza pero a lo mejor dice el hombre es
+
+que está está este software lo va a
+
+liberar mi empresa es parte de nuestra
+
+marca pues a lo mejor lo que no me
+
+apetece es que utilicen nuestra marca
+
+sin permiso o utilicen nuestra fama sin
+
+permiso entonces a lo mejor te vas a un
+
+apache entonces aquí tenemos este tipo
+
+de momento de selección de para que lo
+
+vamos a hacer que libertad es un motor
+
+cars esta es irrevocable o no o sea es
+
+irrevocable o no lo es o sea puedo de
+
+repente decir bueno pues os pasáis
+
+mañana que os la quito no
+
+es apta para cuando se acceden de forma
+
+remota o si s
+
+es el propio texto de la licencia es si
+
+el texto oral de esencia tiene copyright
+
+entonces no se puede modificar no si
+
+está sometida derecho extranjero porque
+
+por ejemplo la utilizamos en audio va
+
+por lo menos desde el punto de vista de
+
+funciones públicas que las suelen
+
+recomendar mucho y algunos proyectos
+
+empiezan a utilizarla es la ley dice que
+
+el derecho estatal del país es quizás de
+
+europa entonces la ley aplicable te lo
+
+tienen que comentar y si es apta o no
+
+apta para las siguientes privatizaciones
+
+no la mit por ejemplo que es la que
+
+estaba diciendo antes sí que te permite
+
+privatizar entonces tenemos que ver qué
+
+es lo que queremos que hacer un poco con
+
+con esta con este software luego la
+
+preparación del código es la
+
+documentación de las cabeceras los
+
+ficheros toda esta documentación previa
+
+que hemos cogido en el paso 1 y 2
+
+prepararlo para luego subirlo y
+
+publicarlo en un directorio y que así
+
+estemos bien no sé si vamos en tiempo si
+
+me lo podéis decir por allí sería guay
+
+los paras y entonces ya dados un poco
+
+más en pinceladas porque se me es casi
+
+se nos compadecidos que cuando nosotros
+
+vayamos a liberar el código incluso
+
+podemos elegir un licenciamiento dual
+
+podemos elegir dos licencias que nos
+
+permitan trabajar porque porque hay
+
+veces
+
+hay veces que los proyectos nos vienen
+
+bien poder tener una licencia pues yo
+
+que se una más restringida para las
+
+empresas pero si eres usuario en tu casa
+
+tienes muchas más posibilidades de poder
+
+utilizarlos no sé eso estoy iniciando
+
+como un ejemplo por el hacia todas las
+
+licencias y los licenciamientos que
+
+estamos haciendo es entre el apache
+
+pl últimamente vale entonces
+
+porque les decimos lo de la licencia
+
+dual porque no tienes que elegir
+
+solamente una también puedes elegir
+
+segmentación por ejemplo pues para
+
+empresas pequeñas está para la parte de
+
+desarrolladores a que ya sabes puedes
+
+elegir cuáles puedes hacer donde si baja
+
+comercializarla bueno ya no sería muy de
+
+software libre eso para otras cosas en
+
+fin en la historia es que me me deja en
+
+el modelo de negocio y puedas trabajar
+
+con ella vale entonces
+
+licencias más comunes está para nosotros
+
+es una idea he puesto tres ejemplos
+
+donde hay pues más o menos condiciones
+
+para que podamos verla gplv3 es una de
+
+las más famosas que hay y bueno es
+
+extensísima pero creo que está bastante
+
+trabajada
+
+porque por conocida nos puede ayudar
+
+bastante entonces está con esta licencia
+
+nos pide a cambio de prestarle todas las
+
+libertades del software libre que
+
+pongamos a disposición el código fuente
+
+de la obra licenciada y de las
+
+modificaciones que se incluyen en una
+
+obra más grande licenciada con gpv gplv3
+
+también lo que os decía no esta licencia
+
+se considera un contrato ya cuando la
+
+otra parte pues ya distribuyó
+
+modificados del software entonces deben
+
+conservarse los avisos del copyright de
+
+la licencia los colaboradores
+
+proporcionan una concesión expresa
+
+derechos de patentes esto es porque
+
+bueno eso de eeuu que sí que el software
+
+es patentable y tenían pues una
+
+presunción de de posibilidades de
+
+utilizar una patente pero aquí en este
+
+caso dijeron para la versión 3 vamos a
+
+ponerlo una versión una una mención
+
+expresa que si tú distribuyen este
+
+software y tengas un derecho de patentes
+
+sobre este a toda la persona que lo
+
+distribuye lo utilice y demos a todos
+
+los usuarios y deje él permite utilizar
+
+esta patente no deben documentarse los
+
+cambios realizados en la obra licenciada
+
+y las modificaciones deben ser liberadas
+
+con la misma licencia esto es lo que se
+
+llama copyleft que yo te obligué a que
+
+las siguientes liberalizaciones de
+
+software utilizan esta misma está misma
+
+licencia luego tenemos la base que es
+
+una licencia permisiva este son
+
+conceptos distintos porque no es
+
+exactamente copyleft porque no te obliga
+
+a utilizar esta misma
+
+licencia o una parece una distinta sino
+
+que sí que te permite cambiar de
+
+licencia mientras que sean compatibles
+
+no lo es las obras y modificación de los
+
+trabajos más amplios pueden ser
+
+distribuidos sin poner a disposición el
+
+código y permite el cambio de licencia
+
+por eso digo son son distintas este tipo
+
+de filosofías y luego las condiciones
+
+que te pide el apache es conservar los
+
+avisos de licencia de copyright
+
+documentar los cambios y bueno aquí está
+
+mente prohíbe utilizar las marcas
+
+restricciones etcétera porque aquí pues
+
+te está diciendo que tienes que ser un
+
+poco más respetuoso no solamente posee
+
+las condiciones de licencia le faltan
+
+las restricciones pero bueno para que os
+
+hagáis una idea pues están en la parte
+
+de garantías
+
+de responsabilidades y en el caso del
+
+apache para la parte de los de las
+
+marcas y bueno el mit
+
+es la más pequeñita y la más corta de
+
+todas porque bueno de las primeras que
+
+existió y bueno está esta licencia
+
+podría reutilizarse pues para ser libre
+
+no libre como tú quieras porque en
+
+realidad es un parrafito lo único que te
+
+pide es que conserves lo que son los
+
+avisos de copyright y de licencia no los
+
+modifique estos son las esencias más más
+
+comunes de las que además no suelen
+
+salirse mucho también tenemos la upel
+
+que decía que es aquí europea la tenemos
+
+en varios idiomas ciertamente es
+
+disponible en otros elementos y bueno
+
+aprovechando que esté aquí al lado en lo
+
+elegante que es empresa donde yo trabajo
+
+hicimos este cómic de conejitos de
+
+licencias de software y está disponible
+
+en nuestra página web vale así que por
+
+si acaso luego les comentaré que lo
+
+dejan por allí se llama la jungla del
+
+software por si queréis saber un poco
+
+más estas licencias y bueno por último
+
+gestionar comunidad
+
+y ahora voy a
+
+gestionar comunidad es una de esas
+
+partes más importantes al final que
+
+tenemos por qué porque la comunidad al
+
+final lo es todo si tú tienes un
+
+software ahí tienes utilizando tierra
+
+con poco las ganas que lo mejor es muy
+
+por amor al arte por el que lo sacas no
+
+entonces
+
+se entenderá que es libre de verdad como
+
+había dicho varias veces qué
+
+el software libre de verdad cuando
+
+existe esta comunidad pero esta
+
+comunidad tiene que tener un tipo de
+
+gestión no posición estaríamos en un
+
+sistema poco anárquico me parece
+
+entonces aquí hay muchas veces que la
+
+gente quiere cómo participar en algunas
+
+participaciones que no van a hacer pues
+
+como necesitas para que dejamos con una
+
+sesión de derechos o que la licencia de
+
+software que hemos elegido nos cubra
+
+sino que estaremos ante más por ejemplo
+
+ya que tienes una rata oye que te has
+
+dejado hay el punto 4 aunque este es el
+
+punto 5 que quería hablar vale entonces
+
+estas esas no lo van a necesitar pero a
+
+lo mejor siguiente vendría bien si
+
+estamos solamente en un sistema un poco
+
+más cerrado y un poco más antiguo dos no
+
+teníamos kit y demás qué bueno que sí de
+
+soja una aportación y lo haces por email
+
+pues entonces que tengas no sé cuántos
+
+vale que tengas en cuenta eso
+
+como se estructura esta comunidad cuáles
+
+son los códigos de conducta cuáles son
+
+normas morales por así decirlo que
+
+nosotros queremos que respete esto como
+
+igualdad no discriminación que seas pues
+
+buena onda que seas participativo que si
+
+vas a escuchar que tengas pues un poco
+
+de mimo y cuidado para las otras
+
+personas con es que estás trabajando no
+
+hagas spam etcétera no
+
+también es importante saber cómo son la
+
+toma de decisiones porque muchas veces
+
+que estamos trabajando pues en un
+
+entorno colaborativo donde estamos
+
+bastante horizontal no tenemos un jefe
+
+que nos haga no de aquí de coordinador
+
+porque porque esta figura al final lo
+
+que tiene que aprender es dejar ir
+
+porque eso es en la comunidad al final
+
+eso es para todos entonces todos tenemos
+
+que trabajar juntos y entonces tenemos
+
+que establecer muy bien cómo tomamos
+
+estas decisiones cuáles son los
+
+procedimientos de trabajo y cuál es la
+
+infraestructura de la comunidad en mi
+
+mejor recomendación de todas es que lo
+
+dejes todo bien escrito bien escrito en
+
+el valor de la comunidad y bueno las
+
+buenas prácticas para la gestión es que
+
+minimizamos las barreras de entrada que
+
+utilicemos herramientas que sean
+
+conocidas que sean fáciles de usar que
+
+si no saben pues que tengan una buena
+
+documentación a la que podamos actuar
+
+para saber cómo vamos a hacer
+
+simplificar los procesos de gestión y
+
+que dediquemos unos recursos específicos
+
+para esta gestión que tenga una persona
+
+por ejemplo asignada a que estemos
+
+haciendo estos tipos de trabajos a ver
+
+quién es la persona que los anime que
+
+los que los coordine un poco que sea por
+
+ejemplo una persona que diga oye esto
+
+como sabes o o incluso en ese manual
+
+cuando digas pues ya que he actualizado
+
+esto más que decir simplemente he
+
+actualizado esto diga algo así como oye
+
+tengo esto he subido esto me lo revisa y
+
+me decís está bien o sea os parece bien
+
+este cambio y entonces así empieza ese
+
+feedback también sería bastante
+
+interesante poner ese roadmap del
+
+proyecto esos hitos para que tanto
+
+personas se fuera como de dentro podemos
+
+saber por dónde vamos y sobre todo que
+
+seamos flexibles porque no hay nada
+
+escrito en piedra y ni siquiera la ley
+
+pues muchísimas gracias creo que ya
+
+estamos en tiempo
+
+muchísimas gracias
+
+veo qué
+
+bueno quedó pendiente una pregunta por
+
+responder de la actitud
+
+entonces te la vuelvo a compartir
+
+la experiencia entre una licencia de
+
+copyleft y una open surge pues la
+
+licencia de lo que sería copy left lo
+
+que sería software libre en realidad se
+
+tendría mejor o mejor la diferenciación
+
+con el ofensor no porque copyleft deje
+
+esta clausulita que digo yo que te
+
+obliga a utilizar mantener siempre
+
+abierto en la comunidad lo que tú crees
+
+no la diferencia sobre todo está en lo
+
+que es free software en lo que es open
+
+source porque el free software es una
+
+filosofía personal tienes una parte un
+
+poco de pensamiento detrás una forma una
+
+forma de vida es más creo que fue en la
+
+flisol de tenerife el año pasado donde
+
+estaban hablando de cómo compartir
+
+porque está esta filosofía y además cada
+
+maestro tenía su librillo y lo vemos
+
+todos un poco de ciertas maneras él
+
+opensource puede lo que hace es
+
+ser práctico
+
+yo no quiero pensar yo no quiero un
+
+pensamiento y una filosofía y solamente
+
+quiero usarlo sabes normalmente es aquí
+
+si quiero
+
+estar reivindicando ser un luchador por
+
+las libertades de los usuarios en
+
+realidad son me da igual yo quiero
+
+usarlo para el proyecto porque estoy
+
+haciendo algo entonces tienen tienen esa
+
+diferencia que es simplemente filosófico
+
+entonces lo que sí que podemos ver son
+
+las diferencias entre lo que es copyleft
+
+o fuerte un poco más débil las licencias
+
+permisivas y luego ya las que son
+
+cerradas las permisivas son distintas
+
+porque sí que lo que hacen es permitir
+
+de ciertas cosas pero no tienen esa
+
+necesidad de que siempre te mantengas
+
+dentro de lo que sería el software libre
+
+sino que es como bueno pues en algún
+
+momento quiere cerrarlo y volverte lo
+
+privado pues puedes hacerlo
+
+algunos te preguntan es un momento ideal
+
+bueno ok por el momento estas y por
+
+tiempo que ya cerramos la sesión un
+
+agradece a todas las personas que
+
+estuvieron compartiendo
+
+esta esta charla muy importante haría un
+
+comentario también tenía un montón de
+
+preguntas pero para dar inicio a la otra
+
+yo resumiría como que las personas
+
+amigos colegas independientes que han
+
+tenido malas experiencias por no saber
+
+gestionar el código sus proyectos a
+
+pesar de que muy
+
+de buena fe y no entregar en código
+
+abierto o en licencias de tipo más
+
+recurrente fraca
+
+siempre digamos hay que dejar un
+
+contrato con todo eso que nos acababa de
+
+compartir mark ellis
+
+también trae conocidos que muchas de
+
+estas personas hoy en día han logrado
+
+por ser independientes y por decir
+
+recursos digamos que exigen digamos una
+
+persona no jurídica se ven en libros a
+
+la hora de digamos de gestionar sus
+
+propios propios proyectos entonces creo
+
+que esto es importantísimo
+
+aprender de la norma entender los
+
+contextos siempre hay la buena fe pero
+
+la buena fe también en este contexto no
+
+por nada existen todas estas licencias y
+
+esto todos estos mecanismos jurídicos
+
+que de alguna manera u otra lo que son
+
+es son herramientas para fortalecer lo
+
+que es la intención del movimiento de
+
+software libre y la cultura libre
+
+marelisa me encantaría seguir
+
+conversando contigo igualó a seguir
+
+haciendo nuestros contactos nos acabas
+
+de compartirla y en tu barro que está en
+
+la tarjeta de presentación que ustedes
+
+pueden ver y bueno ya tenemos que dar
+
+inicio a la siguiente charla te
+
+agradecemos mucho mente
+
+digo gracias a vosotros y cualquier otra
+
+duda o cuestión pues ahí tenéis un
+
+usuario hasta luego
+
+bueno esto es solo bogotá el 22 todas
+
+somos todos somos llaves a continuación
+
+seguimos con la charla foto manipulación
+
+con jim entonces nos vemos en la ficción
+

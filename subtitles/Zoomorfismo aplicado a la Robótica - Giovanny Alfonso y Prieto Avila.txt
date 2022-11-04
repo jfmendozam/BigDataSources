@@ -1,0 +1,2572 @@
+y son
+
+bastante
+
+lleno
+
+pero espero que vayan a disfrutar muy
+
+bien en esta parte de la charla vamos a
+
+conocer a joan y alfonso habla y
+
+nos va a hablar sobre el somocismo
+
+avisaban arroz así que por favor
+
+recibamos a otro
+
+[Música]
+
+estoy escuchando como
+
+[Música]
+
+d
+
+[Música]
+
+sí
+
+[Música]
+
+me gustó la verdad me podrías explicar
+
+un poco más que actividades o sea la
+
+gente
+
+[Música]
+
+sí pero que sí bueno me alegra mucho
+
+estar aquí de boyacá
+
+[Música]
+
+escucha
+
+[Música]
+
+también tengo
+
+[Música]
+
+debe ser
+
+muy bien visto perfecto ya no hay más
+
+problemas
+
+me gusta bastante
+
+como toda tu carrera que has hecho en la
+
+edad es bastante extensa respecto a los
+
+de estas charlas
+
+a
+
+ok bueno
+
+pues tengo bastante experiencia en el
+
+tema de desarrollo de tecnologías y me
+
+tenido especializando
+
+[Música]
+
+en
+
+buscar el voto que a nivel educativo
+
+como desarrollar robots como aportarle
+
+mucho la parte educativa desde la
+
+robótica y todo lo demás
+
+qué más te puedo decir bueno yo tengo
+
+estudios en tecnología industrial en un
+
+mínimo industrial y también tenemos
+
+informática
+
+bien hecho ese camino cierto de ir
+
+aprendiendo que es un tipo de temas como
+
+te digo el de la pedagogía en la
+
+aplicación de la robótica pero hay
+
+proyectos más como dg de innovación
+
+tecnológicamente
+
+bien perfecto creo que ha sido estupendo
+
+como tras presentar entonces si tienes
+
+algo y unnim alguna pantalla vargas y
+
+para presentarnos ante inter o con tu
+
+charlie y
+
+ok muchas gracias entonces pues vamos a
+
+iniciar aquí de una vez con la
+
+presentación
+
+de darle la bienvenida a todos los que
+
+se están conectando
+
+bueno vamos entonces a iniciar con la
+
+calle tengo todo listo
+
+dando
+
+bien mano compartir la parte y entonces
+
+aquí vamos
+
+llegado a compartir la parte de arriba
+
+ok pero quisiera saber si se está viendo
+
+mi pantalla a través de mí
+
+como
+
+[Música]
+
+ok si también se ha hundido acá listo
+
+ay qué tal estamos de audio
+
+bien perfecto se te escucha muy bien
+
+bueno creo que
+
+creo que ya estamos bien de audio no sé
+
+no estamos bien
+
+bueno
+
+entonces pues bienvenidos a esta
+
+conferencia sobre el software firme
+
+aplicado a la robótica
+
+que básicamente que es poder tener la
+
+posibilidad de
+
+hacer estos desarrollos tecnológicos
+
+robóticos que simulan las formas
+
+animales cierto pero la importancia
+
+realmente y la utilidad que tiene todo
+
+esto estaba dirigido principalmente
+
+hacia que ese tipo de patologías puedan
+
+ayudar a la exploración espacial al
+
+reconocimiento análisis de terrenos
+
+además de la búsqueda y rescate en
+
+diferentes entornos ecosistémicos
+
+historia
+
+bueno acá por este lamento es la
+
+conferencia a estar
+
+organizada en cuatro grandes momentos el
+
+primero de ellos pues tiene que ver con
+
+las generalidades de la robótica que va
+
+a ser algo así como un brochazo un
+
+rápido cierto una vista muy rápida
+
+acerca de la robótica la segunda parte
+
+sería ya todo el tema de su amor firma
+
+la tercera parte acerca de cómo
+
+actualmente se está desarrollando
+
+tecnología desde del samur fino y lo
+
+cuarto quiero compartirles los
+
+desarrollos de somos firmó que he venido
+
+realizando en los últimos años pues bien
+
+vamos entonces con la primera parte que
+
+pues tiene que ver precisamente con las
+
+generalidades de la robótica
+
+bueno acá entonces quiero compartirles
+
+un videito mientras que vamos mirando
+
+acá lo del audio también
+
+qué tal se escucha
+
+no se escucha tanto el vídeo qué tal si
+
+lo haré será una ventana de
+
+del sector de estos navegadores y el
+
+audio del vídeo
+
+que hicieran por favor confirmar
+
+no tengo nada
+
+ok vamos aquí
+
+[Música]
+
+y
+
+[Música]
+
+[Música]
+
+[Música]
+
+como para ir viendo la robótica puede
+
+llegar a ser muy divertida
+
+inclusive con este tipo de desarrollo
+
+como están tan avanzados no dicen
+
+algunos como boston dynamics y vamos a
+
+estar hablando más adelante de ellos
+
+bueno vamos a proceder para que el
+
+tiempo no se nos acorta mucho
+
+bien entonces como les decía vamos a
+
+iniciar como con las generalidades de la
+
+robótica listo entonces vamos allí bueno
+
+de dónde proviene todo esto la robótica
+
+de pronto para los que sean neófitos en
+
+el tema de pronto que no ven tenido la
+
+oportunidad de hablar acerca de este
+
+tema anteriormente pues la palabra
+
+original es la palabra rota que es una
+
+palabra hk que significa trabajo
+
+obligatorio es una palabra que se
+
+utilizaba
+
+anteriormente en las lenguas eslavas
+
+para poder hablar del trabajo duro sí y
+
+la palabra rota pues eran más o menos
+
+así como el periodo de trabajo que un
+
+siervo de vida otorgará swan bien luego
+
+la palabra tuvo un cambio cuando un
+
+escritor era un dramaturgo checo
+
+precisamente karel capek y en 1921
+
+escribí un libro donde
+
+nombre a la palabra robotnik a lo que se
+
+refería precisamente ya con una máquina
+
+para que posteriormente isaac asimov
+
+para como en 1942 sin utilizar a la
+
+palabra ya robot ya la cuñada dentro del
+
+todo este tema digámoslo ya de ciencia
+
+ficción porque pues a pesar de que isaac
+
+asimov pues era un escritor y profesor
+
+de bioquímica se interesó mucho en la
+
+escritura de ciencia ficción y la
+
+divulgación científica de allí que
+
+utilizó la palabra robot bueno bien
+
+entonces
+
+quizá haga señor plantea las tres leyes
+
+de la robótica que son las que estamos
+
+viendo en pantalla donde dentro de la
+
+ciencia ficción se habla de que esa
+
+máquina si tuviera que cumplir como con
+
+unos parámetros específicos frente a lo
+
+que debería hacer con relación a los
+
+seres humanos después que el robot no
+
+puede dañar un ser humano en ok por
+
+inacción permita que un ser humano sufra
+
+algún daño la segunda dice que el robot
+
+debe obedecer las órdenes de los seres
+
+humanos excepto si esas órdenes entran
+
+en conflicto con la primera ley y lo
+
+tercero que el robot debe proteger su
+
+propia existencia sin entrar en
+
+conflicto con la primera y segunda
+
+bueno eso sería así como como lo que
+
+planteaba y salga sin muchos sin embargo
+
+en cuatro cosas que hoy día nos llevan a
+
+identificar un rol lo primero es que es
+
+una máquina usada para realizar un
+
+trabajo de manera automática y puede ser
+
+controlado también por computador el
+
+robot puede ser una entidad virtual o
+
+mecánica también el robot tiene un
+
+sistema electromecánico que normalmente
+
+está conducido por un programa de
+
+computadora oa través de un circuito
+
+electrónico o eléctrico y finalmente que
+
+es una máquina automática programable
+
+capaz de realizar determinadas
+
+operaciones de manera autónoma listo
+
+bueno otras características para
+
+identificar un robot cierto es que no
+
+hay natural ha sido creado
+
+artificialmente puede llegar a sentir su
+
+entorno si lo programamos de esa manera
+
+pueden manipular cosas de su entorno que
+
+es la la otra situación que se presenta
+
+tiene cierta inteligencia o habilidad
+
+para tomar decisiones si es programable
+
+puede moverse en una o más ejes de
+
+rotación y puede realizar un movimientos
+
+coordinados básicamente eso es lo que
+
+nos daría que es un robot ahora los
+
+rótulos podemos clasificar por
+
+generación por font por formaron por
+
+funciones por generación pues
+
+básicamente tenemos cuatro generaciones
+
+de robots que son los manipuladores
+
+mecánicos que son los primeros que se
+
+originaron los programables que pues han
+
+venido siendo los que se han utilizado
+
+desde hace varias décadas los de control
+
+sensor izado que son a presidentes y los
+
+de inteligencia artificial que son los
+
+que comúnmente además hoy día como
+
+androides por ejemplo en cuanto a la
+
+forma pues básicamente tenemos los polis
+
+articulados que allí entraron todos los
+
+robots industriales también es cierto
+
+que tienen varios ejes
+
+en varios grados de libertad para hacer
+
+sus movimientos y problemas
+
+los robots móviles como los que vemos en
+
+la imagen que son los de amazon que son
+
+robots que se pueden desplazar de un
+
+punto a otro siendo programados o de
+
+manera autónoma los robots son órficos
+
+que son los de la conferencia del día de
+
+hoy que tienen apariencia animal y los
+
+robots androides que tienen una
+
+apariencia
+
+antropomórfica es decir que simulan está
+
+forma humana
+
+luego por función podríamos clasificar
+
+los robots en búsqueda y rescate como
+
+vemos en la parte superior de
+
+entretenimiento porque esto también
+
+tenemos un montón de robots hoy día
+
+navegación reconocimiento y paisajismo
+
+como por ejemplo los drones que vivían
+
+nos pueden ayudar a hacer
+
+fotogrametría nos pueden ayudar a
+
+controlar cultivos bueno en fin un
+
+sinnúmero de cosas de relaciones humanas
+
+y servicios como los androides que se
+
+alcanzan a ver allí esto es en un hotel
+
+donde ya los encargados del servicio son
+
+androides la que tenemos robots para
+
+asistencia quirúrgica ya los robots
+
+médicos que permiten que el cirujano
+
+puede hacer que la cirugía es todavía
+
+mucho más perfectas más específicas y
+
+finalmente robots exploradores que
+
+también vamos a hablar más adelante de
+
+ellos
+
+bueno quisiera saber aquí por el chat y
+
+de pronto me pudieran escribir qué tal
+
+se está escuchando qué tal se ve si se
+
+está entendiendo el tema y yo estoy acá
+
+pendiente del chat entonces para que por
+
+favor me le regalen a esa información
+
+ustedes como lo escuchan cómo lo ven
+
+bueno y aquí estoy pendiente y mientras
+
+tanto vamos a empezar a hablar del tema
+
+del somocismo qué es esto pues
+
+básicamente es imitar la apariencia en
+
+movimiento animal si el som orfismo no
+
+solamente está ligado a los robots que
+
+ya vamos a hablar de eso mientras tanto
+
+vamos a ver otro vídeo
+
+a ver si echamos el audio por acá
+
+debemos unos robots que han sido
+
+programados para bailar cierto ya como
+
+les digo pues simulan esa apariencia
+
+simulan esa apariencia
+
+bueno entonces de ahí lo que vemos son
+
+robots que están siendo programados
+
+estos sondeos son dinámicos y como nos
+
+damos cuenta tienen esa apariencia
+
+cierto como de cuatro patas como como
+
+cuadrúpedo cierto
+
+y allí entonces que estamos viendo pues
+
+básicamente que están siendo coordinados
+
+programados para que coordinen entre
+
+ellos y demás pues todo esto en
+
+interesante es cómo
+
+no lo pensábamos hace un par de décadas
+
+en que un robot pudiera moverse de esa
+
+manera cierto que estuviera poli
+
+articulado y pudiera tener esas
+
+características bien está la parte
+
+divertida de la de la robótica digo yo
+
+bueno vamos a continuar ya voy a que
+
+hacer una cosa ahorita más adelante
+
+bueno pues continuemos y vamos mirando
+
+bien cuando hablamos del software firma
+
+vamos a tener en cuenta cinco principios
+
+básicos del somocismo el primero de
+
+ellos es que el sumar firmó la acción de
+
+dar forma o apariencia animal algo que
+
+por naturaleza no lo tiene si hay algo
+
+muy interesante es que anuncias culturas
+
+antiguas
+
+inclusive a quien en américa latina en
+
+toda la parte centro américa con los
+
+aztecas y los mayas y pues para el caso
+
+del ejemplo para los egipcios allí en en
+
+asia encontramos que sus deidades tenían
+
+forma animal entonces era común ver que
+
+sus dioses tenían esa apariencia animal
+
+también cierto aplicaban el somocismo
+
+desde sus religiones
+
+una palabra su amor mismo pues
+
+básicamente pre viene del griego sum de
+
+animal y morfe de forma que tiene por
+
+vanina es lo que estamos diciendo lo
+
+tercero es que imita la apariencia y
+
+funciona en una la cualquier escala es
+
+decir podemos tener algo muy pequeñito
+
+como un insecto a un robot su amor fue
+
+muy grande utilizar como fundamento de
+
+diseño la forma animales es uno de los
+
+principios también cierto es decir yo no
+
+puedo diseñar en dentro de las o morfina
+
+o dentro del som orfismo diseñar que
+
+tenga forma animal pero que tenga ruedas
+
+por ejemplo si es eso y quinto
+
+implementar los principios biológicos es
+
+la tecnología es decir que según a esa
+
+parte biológica también ok bien entonces
+
+sigamos
+
+luego acá tenemos entonces el proceso de
+
+cómo llegar al sum orfismo cómo llegar a
+
+un artefacto xo morpho dentro de todo
+
+esto desde el desarrollo robótico
+
+entonces lo primero es que tenga un
+
+enfoque son morpho sí es decir que lo
+
+que estamos viendo efectivamente es que
+
+se esté desarrollando desde el software
+
+film o que se haga un estudio en ese
+
+proceso un estudio de taxonómica
+
+biológica o sea que ya le ponemos
+
+también es el toque biológico porque
+
+como vamos a hacer son more film hemos
+
+de entender al animal lo otro es la
+
+investigación biológica entonces qué
+
+diferencia entre la taxonomía biológica
+
+en la investigación biológica en la
+
+taxonomía es básicamente clasificar cuál
+
+es el animal que yo voy a utilizar como
+
+excusa para mi desarrollo oso mórfico
+
+pero en la investigación biológica ya
+
+investigó a profundidad cómo es ese
+
+animal que eso lo vamos a ver más
+
+adelante luego vamos a un análisis
+
+biológico para comprender el movimiento
+
+del animal sus estructuras en fin
+
+para posteriormente pasar al estudio
+
+biomecánico aquí es donde ya empiezo yo
+
+a unir la parte animal con la parte
+
+mecánica la electrónica y demás donde
+
+terminaría siendo la adaptación
+
+tecnológica entonces yo ya empiezo a
+
+mirar si quiero que mi robot song for
+
+fico tenga por ejemplo sensores sí sí
+
+pues le voy a poner la electrónica a los
+
+motores todo lo que haga que el robot
+
+por ejemplo se mueva que es porque
+
+podría ser un robot simplemente que se
+
+quite citó pero que tenga forma animal
+
+también pues para terminar entonces en
+
+el proceso de éste el paso número 7
+
+final que sería ya desarrollar ese
+
+artefacto zoomórficos bien bueno
+
+entonces en ese orden de ideas
+
+continuamos
+
+que ese proyecto podríamos plantear los
+
+cuatro grandes fases primero pues tener
+
+una idea plantearse cómo hacer ese robot
+
+qué forma va a tener qué animal fue el
+
+que escogí luego pasar a diseñarlo
+
+entonces siempre suelo comentar la mejor
+
+manera de diseñar es hacer bocetos hacer
+
+bocetos ilustraciones para terminar de
+
+pronto en un modelo tridimensional con
+
+algún software que me permita visualizar
+
+cómo me puede llegar a quedar bien mi
+
+prototipo para pues obviamente pasar
+
+después al prototipado hacerlo en
+
+impresión 3d en madera aluminio cartón
+
+mf acrílico en el material que se
+
+prefiera y al cerrar este proceso de mi
+
+proyecto podría ser un análisis haciendo
+
+pruebas de su funcionamiento a ver si
+
+existe pronto si se mueve como el animal
+
+que escogí si de frontón o fin como de
+
+esas y esas cosas bueno dentro de ese
+
+proyecto podríamos plantear también
+
+preguntas
+
+el que el porque el para que entonces
+
+como para ir desarrollando y en ese
+
+proyecto cómo ir planteándonos bien
+
+bueno cuál la funcionalidad que yo le
+
+quiero dar a ese robot él como él como
+
+pues entonces como lo voy a hacer cierto
+
+qué herramientas voy a utilizar equipo y
+
+maquinaria bocetos diseños por otro tipo
+
+de todo lo que necesite para poder
+
+llegar a crear mis robots son mórfico
+
+luego está el prototipo o el artefacto
+
+aquí hay algo muy importante que era lo
+
+que decía hace un momento puede ser
+
+completo contemplativo es decir puede
+
+tener forma animal pero no
+
+necesariamente que se mueva webber haga
+
+un mundo de cosas sino que esté
+
+simplemente allí que tenga de pronto
+
+componentes electrónicos que tengan una
+
+funcionalidad desde ahí pero que no se
+
+mueva por ejemplo sin contemplativo
+
+funcional que ya tenga la posibilidad de
+
+moverse que pronto haga lectura con sus
+
+sensores me la pueda enviar por internet
+
+para muchas cosas que más adelante vamos
+
+a ver y finalmente sí puede llegar a ser
+
+un artefacto comercial porque hay muchos
+
+de estos prototipos que terminan siendo
+
+artículos comerciales hace pocos días
+
+dentro de la investigación encontré que
+
+en disney ya están en la parte que es
+
+todo esto de marvel the avengers y esto
+
+están vendiendo ya un robot araña que el
+
+de spider-man entonces vienen como las
+
+características de que es un robots o
+
+morfi como pero pues es comercial uno
+
+puede ir y comprar
+
+no sé cuánto cuesta pero ya ya ya lo vi
+
+en internet y terminaríamos desde el
+
+proceso del proyecto de su amor fism o
+
+haciendo un análisis y aquí voy a
+
+detenerme un poquitín y es lo siguiente
+
+primero la verificación del cumplimiento
+
+entonces aquí yo puedo pasar a evaluar
+
+dentro del somocismo si el artefacto que
+
+yo creé desde todo este ambiente su
+
+amorfo bering verificó si cumplen si
+
+cumple con el propósito que se planteó
+
+originalmente entonces voy a devolverme
+
+un momento a la anterior diapositiva a
+
+ésta yo estudié aquí todo el animal
+
+estudie su taxonomía hice un análisis
+
+biológico un estudio biomecánico
+
+etcétera etcétera frente aunque pasa a
+
+mirar si efectivamente así como yo lo
+
+planteé en todo el proyecto
+
+si se ve si se cumplió su propósito y
+
+por qué pues la idea de hacer el amor
+
+firmó con la robótica es que tengamos la
+
+posibilidad de ver si se cumple o no por
+
+eso el mismo también lo segundo sería
+
+analizar la función versus el diseño sí
+
+porque aquí también puede pasar que no
+
+tengan que hacer varios prototipos hasta
+
+llegar al prototipo final y que también
+
+pues me ha pasado y ya se los va a
+
+compartir la aplicabilidad que tenga
+
+entonces qué tan aplicable es lo que yo
+
+desde el som orfismo estoy diseñando y
+
+el beneficio costo porque pues esto
+
+obviamente no es económico hacer un
+
+proyecto es amor fism o es un poco más
+
+costoso si que hacerlo cualquier otro
+
+tipo de desarrollo robótico debido a que
+
+hay que estudiar más hay que investigar
+
+más hay que de pronto invertir un
+
+poquito más de dinero en cuanto a las
+
+piezas en cuanto del sensor es bueno en
+
+fin pero pero de verdad hay un beneficio
+
+allí y esa relación beneficio costo
+
+puede ser muy buena
+
+ok vamos entonces a pasar ahora a la
+
+tercera parte de esta conferencia
+
+qué tiene que ver con lo siguiente
+
+dentro de lo que se aplica en el su amor
+
+firmó hoy día y empresas que van muy a
+
+la vanguardia van muy lejos así que ya
+
+ha hecho lo hacen a manera comercial
+
+incluso pero para la industria industria
+
+de exploración petrolera bueno muchas
+
+cosas la verdad que viene hay de todo
+
+entonces quiero compartirles
+
+inicialmente lo que tiene que ver con
+
+algunas compañías pero vamos a ver pues
+
+el videito musical pero no sé si la
+
+vamos a poner el audio que es bien
+
+curioso cómo se relaciona aquí
+
+con lo que hace el robot vamos aquí a
+
+verlo no sé si se está escuchando me
+
+podrían por favor comentar si se
+
+escuchan
+
+[Música]
+
+i
+
+no
+
+[Música]
+
+y no
+
+[Música]
+
+y
+
+[Música]
+
+creo que el audio se está
+
+retroalimentando nuevamente entonces
+
+pero básicamente tenemos aquí los
+
+rolling stones y tenemos algunos robots
+
+de otro dinamics haciendo allí su
+
+bailecito y como les digo la robótica
+
+para llegar a ser muy divertida y bueno
+
+aquí está
+
+y el mamá continuará con la presentación
+
+y continuamos entonces acá bueno como
+
+les decía presionamos una primera
+
+compañía que sería boston dynamics si es
+
+una compañía que está ubicada en eeuu en
+
+la ciudad de boston y ellos van
+
+desarrollando ya a un par de décadas
+
+todo el tema de la robótica y que han
+
+llegado a un punto su amor físico
+
+bastante avanzado por eso lo pego
+
+siempre a la conferencia y es que a mí
+
+me llama mucho la atención la manera en
+
+que ellos han logrado desarrollar el
+
+somocismo si por ejemplo el robot atlas
+
+que es un robot antropomórfico que de
+
+hecho hace hasta parkour es una cosa
+
+impresionante
+
+este robot canal que le sirve para
+
+transportar cosas y ya mezcla la parte
+
+digamos de ruedas con las estructuras o
+
+morfi cast y luego tendríamos algunos
+
+otros como el sampling de ustedes se los
+
+pueden buscar en youtube para decorar
+
+muchos vídeos sobre esto
+
+este san free es un juego que salta a
+
+grandes alturas varios metros podría ser
+
+un robot muy útil en búsqueda y rescate
+
+el robot en argés que es un robot más
+
+adelante vamos a hablar un poquito más
+
+acerca de él y por otra parte entonces
+
+tenemos esta extra y esa que creo que me
+
+interesa mucho en esta diapositiva y es
+
+que estos cinco robots que que ha venido
+
+desarrollando boston dynamics son robots
+
+cuadrúpedos que están elaborados también
+
+con la ayuda de las fuerzas armadas
+
+norteamericanas
+
+aquí también entra el cuento desde cómo
+
+el robot podría no ser reemplazar
+
+soldados y ese tipo de cosas pero bueno
+
+entrar como en esos detalles vamos a
+
+enfocarlo un poquito más es algo que
+
+tiene que ver con la investigación por
+
+ejemplo espacial si el poder es de
+
+pronto llevar este tipo de robots a
+
+hacer exploración en marte por ejemplo
+
+si entonces que sería mucho más valioso
+
+y mucho más práctico y lo vamos a hablar
+
+más adelante que puede tener robots con
+
+ruedas así como ustedes pues lo pueden
+
+ver son de diferentes tamaños pueden
+
+andar en cualquier tipo etc el que
+
+veíamos en los vídeos es que siempre
+
+vamos bailando es el spot min que es el
+
+rebote comercial que tienen en boston
+
+dynamics es bastante costoso por cierto
+
+nuestro mundo podría tener un robot de
+
+estos por todo lo que tiene y es
+
+bastante avanzado pero bueno vamos a
+
+acompañar a otra compañía que es la
+
+compañía festa que de pronto muchos
+
+conocen porque pues desarrollar todo el
+
+tema de automatización pero también de
+
+pronto no lo conocían es desarrollar
+
+muchísimo muchísimo de biotecnología
+
+desde el som orfismo entonces pues
+
+tienen cualquier cantidad de desarrollos
+
+a quien está por ejemplo hemos el smart
+
+ver vemos el bayern y acá en fox que
+
+simula
+
+totalmente igual el vuelo de este tipo
+
+de murciélago no sólo volador como lo
+
+llaman ahí
+
+vaya mi libélula que pues es una
+
+libélula que se ve que tiene sus
+
+mecanismos pero la verdad es muy
+
+pequeñita sí sí la logran ver de pronto
+
+hay algún vídeo en youtube se van a
+
+sorprender del nivel que tiene esto en
+
+el balón y canguro que es el canguro se
+
+han desarrollado también los defectos
+
+el boxing water flight que son este tipo
+
+de maripositas muy pequeñas porque si
+
+son muy pequeñas tienen unos sistemas
+
+que son tan básicos pero que representan
+
+tan también la forma en que en la
+
+naturaleza si se producen estos
+
+movimientos y como aletean las mariposas
+
+es una cosa impresionante
+
+aparten que entre ellas tienen una
+
+conexión en red o sea una cosa bastante
+
+avanzada también tenemos aquí esto que
+
+parece una araña que está basado
+
+precisamente en unas arañas del desierto
+
+que es el barrio nihuil board que es una
+
+especie de de su amor fuera su nido que
+
+iban sus patas pero en algún punto si
+
+quiere avanzar marzo huir de algún
+
+obstáculo o por seguridad empieza a
+
+rodar entonces bien bien interesante si
+
+lo logran ver por ahí bueno tenemos los
+
+bayonés
+
+que son este tipo hormigas bonitas los
+
+penguins que son los pingüinos quedaban
+
+flotando
+
+aguarden y el jailbreak que sería como
+
+decir unas mantarrayas una 4 en la otra
+
+de aire el agua penguin que pues sería
+
+el mismo el paint pero pues en este caso
+
+en el agua teníamos acá este lado en la
+
+parte inferior derecha y el que simula
+
+con nuestras medusas pero que se estaba
+
+explotando es muy impresionante ver los
+
+vídeos yo los invito a que los vean pues
+
+obviamente por tiempo de la conferencia
+
+no nos podemos detener a ver todos estos
+
+vídeos pero pues sería bueno que ustedes
+
+hicieran una captura de pantalla tomar
+
+una foto de esto y ver esos vídeos de lo
+
+que desarrolla tanto en boston dinámicos
+
+como fest y bueno finalmente tendríamos
+
+el aire sharm que es ese brazo que han
+
+desarrollado que utiliza enigmáticas que
+
+utilizan en todos los temas fluidos
+
+también
+
+desde la hidráulica aplicada no
+
+solamente de lo industrial sino también
+
+vean sea por ejemplo generar los
+
+músculos sea realmente aquí este brazo
+
+se mueve es como si tuviera tendones y
+
+músculos es muy impresionante bueno
+
+entonces eso tenían como los ejemplos de
+
+lo que se está desarrollando una
+
+industria ahora quiero compartirles ya
+
+aquí entrando a esta última parte en la
+
+última fase de esta conferencia de los
+
+desarrollos son órficos que yo venía
+
+desarrollando a lo largo de varios años
+
+entonces quiero empezar por hablarles de
+
+algunos pero vamos a ver el videito el
+
+robot bailando
+
+entonces permítanme aquí lo vamos a
+
+pasar a youtube para que lo podamos ver
+
+aquí exactamente hay que escucharlo
+
+a ver si nos da audio
+
+mal
+
+no
+
+[Música]
+
+hasta
+
+i
+
+[Música]
+
+y
+
+[Música]
+
+bueno a mí me preguntaban el otro día un
+
+estudiante
+
+me preguntaba si si el robot lo que está
+
+haciendo es bailando al ritmo de la
+
+música es decir si está escuchando la
+
+música y empieza a bailar no simplemente
+
+está haciendo está programado para que
+
+haga este tipo de movimientos mientras
+
+va sonando la música básicamente es eso
+
+ok pero la verdad si se podría llegar a
+
+programar un robot para que de acuerdo a
+
+ciertas frecuencias de audio pues se
+
+haga cierto tipo de movimientos de eso
+
+se puede hacer
+
+bien entonces quiero empezar por
+
+compartirles el desarrollo su mórfico
+
+que el ine es cara volver o realmente el
+
+nombre este nombre hay que reconocer la
+
+autoría se lo denominó se lo puso mínimo
+
+cuando estaba yo desarrollando este
+
+robot 'da le causó mucha curiosidad y él
+
+fue quien propuso el nombre del robot
+
+héctor es también para que se encuentra
+
+que también puede llegar a hacer algo
+
+familia este es un robot de autor ni
+
+autónomos o mórfico hexápodo entonces
+
+vamos a empezar a hablar un poquito de
+
+cerca de dónde viene todo este cuento
+
+entonces recordemos que hacer algunas
+
+diapositivas veíamos que hay unos pasos
+
+para poder llegar al artefactos o
+
+mórfico lo primero entonces es hacer la
+
+parte taxonómica y estudiar el animal
+
+entonces en este caso los coleópteros
+
+son de esta familia de insectos
+
+proviene su nombre proviene del griego
+
+koleos que es caja o estuche y de theron
+
+que es a la entonces cuando damos cuenta
+
+son como cajas o estuches con alas
+
+básicamente eso es un coleóptero un
+
+escarabajo de estos comúnmente somos son
+
+conocidos como escarabajos y más o menos
+
+tienen unas 3.000 cc
+
+unas 375 mil especies no nos damos
+
+cuenta es una cantidad muy impresionante
+
+y tienen más especies que cualquier otra
+
+en todo el reino animal es una especie
+
+bastante interesante para sus estudios
+
+tiene las piezas bucales tipo masticador
+
+sus bocas están hechas es para masticar
+
+básicamente sus alas delanteras se
+
+llaman el itrio so que son esa parte
+
+como de caparazón que también tiene no
+
+reciben pues precisamente para volar
+
+sino para proteger las áreas que tienen
+
+debajo es a segundo par de alas entonces
+
+desde seguir búsqueda un estar abajo
+
+tiene dos pares de alas básicamente una
+
+es una especie de
+
+de armadura como lo hice acá y las otras
+
+y son las que les sirven para volar esas
+
+alas traseras se guardan debajo
+
+precisamente los de litio tiene tres
+
+partes un escarabajo la cabeza el
+
+abdomen y el tórax si esta parte del
+
+tórax es muy parecido a lo que tienen
+
+muchos insectos precisamente bueno
+
+siempre estuviera el animal aquí vemos
+
+en los lirios los arbitrios acá abiertos
+
+y vemos las alas ahí están de un
+
+escarabajo prácticamente casi todos los
+
+escarabajos pueden volar
+
+hay algunos no de acuerdo pues como se
+
+han venido evolucionando y pues su peso
+
+vemos las partes entonces eso es lo
+
+bonito de la parte del som orfismo y así
+
+investigar el animal antes de llegar al
+
+robot así poder entender cómo está hecho
+
+el animal para poder comprender cómo
+
+hacer arroz listo vamos a proseguir
+
+luego podríamos pensar en mirar que
+
+tiene por dentro del pez del escarabajo
+
+cierto como es su fisionomía interna de
+
+ese animalito para poder empezar a mirar
+
+mano y como vivo puedo
+
+simular eso hacerlo muy similar a la
+
+vida real cierto pues de pronto en el
+
+robot web
+
+acá bueno ya aquí vamos a empezar a
+
+hablar del escalador ya como tal
+
+entonces dentro de la taxonomía dentro
+
+de la clasificación de escarabajos yo
+
+escogí básicamente tres especies de
+
+estas que es el escarabajo de lirio rojo
+
+el escarabajo picudo rojo y el
+
+escarabajo rojo descortezador
+
+básicamente para que el escarabajo fuera
+
+de color rojo entonces decide investigar
+
+qué tipo de escarabajos tenían ciertas
+
+características que nos pudieran servir
+
+y pues finalmente entonces vamos a ir al
+
+desarrollo de escarabote este robot se
+
+desarrolló con fichas de lego sí y pues
+
+utilizando un arduino uno recordemos que
+
+estamos hablando de todo el tema de open
+
+source es decir vamos a trabajar todo
+
+con tecnología es libre es cierto en
+
+bueno un sensor de ultrasonido un módulo
+
+y en este caso un puente h sin para
+
+poder controlar los motores y ya
+
+entonces esta escala voz pues ahí lo
+
+podemos ver en distintas tomas es un
+
+robot esto mórfico político es autónomo
+
+y tiene dos motores cada uno maneja un
+
+eje y cada eje maneja tres patas
+
+recordemos que es un ex apodo o sea que
+
+tiene seis patas bien qué cosas tiene
+
+interés como les decía tiene un sensor
+
+ultrasónico en un circuito lector que
+
+básicamente es de decoración es la parte
+
+estética del robot se para que tenga
+
+unas lucecitas que será interesante el
+
+chasis está totalmente hecho de fichas
+
+del ego técnico tiene dos motores
+
+reductores una batería de polímero de
+
+litio a 1300 miliamperios horas de 7.4
+
+voltios un arduino 1 el interruptor el
+
+driver que es el puente h para los
+
+motores y lo que hemos dicho del sensor
+
+vamos a verlo acá funcionando
+
+en este vídeo cómo nos vamos a poder dar
+
+cuenta el robot es totalmente autónomo
+
+entonces allí vemos su movimiento se ha
+
+moviendo en sus patas local pues
+
+realmente es práctico de acuerdo a
+
+ciertos terrenos si aquí cabe aclarar
+
+que todos los desarrollos somos ricos
+
+pues tienen como ese propósito no que
+
+así como la naturaleza nos ha mostrado
+
+que los robots pueden el perdón que los
+
+animales pueden estar prácticamente
+
+cualquier lugar entonces también los
+
+robots con patas y podrían generar nos
+
+mejores formas de movernos por ejemplo
+
+en el terreno agreste que tiene marte un
+
+ejemplo
+
+listo para ser y así como el ejemplo de
+
+ese robot vamos entonces a hablar de
+
+otro robot en este caso tenemos el
+
+hándbol que es un robot para el
+
+desarrollo agrícola y la exploración
+
+espacial este ambos pues está basado en
+
+las hormigas obviamente podríamos hablar
+
+muchísimo en las hormigas pero
+
+básicamente como para resumir para
+
+agilizar por tiempo las familias hacen
+
+parte de las hormigas hacen parte de la
+
+familia de los himenópteros donde
+
+también están las abejas si más o menos
+
+hay un estimado 22.000 de especies que
+
+pueden estar organizadas entre de
+
+algunas docenas y colonias de varios
+
+millones en bueno una hormiga puede
+
+levantar 20 veces su propio peso en las
+
+colonias se constituyen básicamente en
+
+brasi estériles llamadas trabajadoras o
+
+soldados y algunos machos son algunos
+
+son zánganos y no sólo la hormiga fértil
+
+que es la reina esto es algo muy
+
+interesante cómo funciona eso en el
+
+reino animal bueno básicamente son un
+
+superorganismo esta nota el planeta
+
+aceptó el altar tienen algunas islas
+
+donde no llegaron y
+
+conforman el del 15 al 25 por ciento de
+
+toda la biomasa terrestre y bastantes
+
+hormigas en todos lados hay hormigas y
+
+entonces es algo bien interesante cuando
+
+uno empieza a estudiar el animal bueno
+
+esta es la versión 1.0 que también se
+
+trabajó con fichas de el ego técnico
+
+esa versión 1.0 finalmente no no se pudo
+
+avanzar más de acuerdo al tamaño y el
+
+peso estaba muy grande muy pesado el
+
+robot sin
+
+aquí hay vídeos precisamente de su
+
+funcionamiento ustedes pueden darse
+
+cuenta que estamos viendo en sus seis
+
+patas en la hormiga pero se le empezaba
+
+a dificultar mucho por el peso si aparte
+
+porque la batería que estaba utilizando
+
+era una batería bastante pesada entonces
+
+eso también influyó luego entonces
+
+terminamos en bueno se hizo una versión
+
+2.0 pero personalmente no no no 6 mucho
+
+con ello luego la versión 3.0 que es
+
+ésta que ustedes ven que sí fue la la
+
+que terminó siendo la versión final y
+
+este es el al voto este ambos pues tiene
+
+básicamente
+
+algunas características así como
+
+importantes son las que están viendo la
+
+diapositiva es muy pesado pesa casi 2
+
+kilos y tiene una buena autonomía tiene
+
+bastante autonomía unos 46 minutos en
+
+movimiento con todas sus funciones
+
+activas aquí en unas fotografías de cómo
+
+se ve como usted se dan cuenta tiene
+
+muchísimas cosas cierto
+
+bueno acá hay una parte de lo de los
+
+sistemas que tiene este robot bueno no
+
+me podría detener a explicar cada
+
+sistema pero lo que sí les puedo decir
+
+es que tiene muchísimos sensores tiene
+
+sensor de ultrasonido para distancias
+
+temperatura y humedad ultravioleta tiene
+
+un sensor en el eden para el sensor de
+
+luz y cuatro sensores de gases no es
+
+monóxido de carbono otro de hidrógeno a
+
+otro de de gases de metano butano
+
+propano cierto de gases glp gases
+
+licuados de petróleo e y tiene
+
+finalmente un sensor m 135 de calidad de
+
+aire y de dióxido de carbono entonces
+
+cuál es el propósito de este robot
+
+básicamente hay con usted están viendo
+
+en pantalla tiene ocho pantallas en
+
+total donde va a estar me registrando
+
+todo lo que está pasando en su entorno
+
+sí
+
+porque el desarrollo de este error como
+
+usted lo vieron es un robot para la
+
+aplicación agrícola y espacial es decir
+
+el robot podría estar en la en la
+
+condición de poder analizar el entorno
+
+por ejemplo de un cultivo o de pronto
+
+olvida la exploración espacial y saber
+
+cómo está esa atmósfera más si es
+
+básicamente eso y mirar pues si es
+
+propicio para el cultivo y demás
+
+bueno aquí básicamente las partes que
+
+tiene el robot algo muy interesante que
+
+tiene este rol es que las 840 ellas
+
+están conectadas o multiplexadores
+
+la multiplexación aquí lo que estás
+
+viendo lo siguiente básicamente con una
+
+sola conexión en arduino por protocolo y
+
+12 estamos viendo información en las 8
+
+pantallas
+
+bueno ahí vemos los sensores de gas
+
+un nódulo bluetooth por cierto porque
+
+fue la comunicación la puede hacer por
+
+bluetooth la batería en una batería
+
+bastante potente de 1 punto de 11.1
+
+voltios a 3 celdas con 1600 millán
+
+período horas de duración la batería y
+
+pues con 2 arduino tsunami no mega y un
+
+arduino 1 la pregunta siempre es porque
+
+2 arduino si bueno básicamente los 2
+
+arduino son porque uno está ocupado sólo
+
+de la función motora totalmente y única
+
+y exclusivamente la función motora y el
+
+otro arduino el mega en este caso está
+
+encargado de todo lo que es el proceso
+
+desde esa cantidad e información de los
+
+sensores para ponerlo en las pantallas
+
+listo
+
+bueno aquí vamos a ver algunos videos es
+
+como como uno se mueve aquí vemos
+
+algunas pruebas de movimiento recién
+
+pues estaba organizando el robot ustedes
+
+se pueden dar cuenta se mueve en sus
+
+seis para ticas aquí pues se tuvo que
+
+enseñar el sistema de transmisión motora
+
+porque no es igual al del robot anterior
+
+que nos del escalador si también pues
+
+tiene lucecitas y todo lo demás pues
+
+teniendo en cuenta con la parte también
+
+estética de la exploración espacial
+
+bueno éste así vamos a ver un poco más
+
+completo este vídeo donde nos puede ser
+
+que en diferentes superficies el robot
+
+pues se puede desplazar cierto puede
+
+irse desplazando
+
+en los links o igual vamos a verlo por
+
+aquí más adelante y ccoo ahí estar y ver
+
+los que las pantallas están mostrando la
+
+información que está censando el robot
+
+sí
+
+podríamos inclusive para usarlo y darnos
+
+cuenta que él sabe que está de día que
+
+hay una radiación ultravioleta de 2.8
+
+que hay unos obstáculos a unos tres
+
+metros nivel de co2 y bueno por el otro
+
+lado es tiene más información también no
+
+sé si por aquí adelante en otro terreno
+
+acá pero como lo vemos ya está en otro
+
+tipo de terreno y pues también se va
+
+desplazando
+
+allí sin importar pues el tipo de
+
+terreno en el que esté también vemos
+
+desde la parte ya
+
+nocturna si con la ausencia de luz pues
+
+también aquí se de la información que va
+
+registrando el robot bueno ése sería el
+
+el ambos bueno este ambos se presentó
+
+en el reto de innovación tecnológica del
+
+año 2019 de la ddi triple de la respeta
+
+en la electrólisis en society del
+
+capítulo colombia y pues se obtuvo el
+
+primer lugar ustedes pues lo pueden ver
+
+allí en la imagen es decir que este tipo
+
+de aplicación puede ayudar mucho a la
+
+innovación tecnológica cierto bien vamos
+
+entonces acá por este otro lado a hablar
+
+acerca del spyder bot el spyder bot pues
+
+es un robot autónomo
+
+para la exploración espacial
+
+reconocimiento búsqueda y rescate pues
+
+que obviamente a estar basado en una
+
+araña ya su nombre lo indica y vamos a
+
+ser muy rápido esta parte para poder
+
+tener un espacio de preguntas ok bueno
+
+que hay actualmente en la exploración
+
+espacial bueno pues tenemos los
+
+prototipos de la nasa que pues ya
+
+conocemos pues que se han desarrollado y
+
+se han enviado a marte que todos tienen
+
+ruedas pero hay algunos desarrollos que
+
+se han venido haciendo como por ejemplo
+
+el del german research center for
+
+artificial intelligence que creó este
+
+tipo de robots por mí en el 2017 pues
+
+que era para la exploración en la en la
+
+luna pero bueno no se avanzó lo que les
+
+decía el de boston dynamics el ex que
+
+está desarrollado también con la ayuda
+
+de dar para qué sirve también muchísimo
+
+desde la parte de las fuerzas armadas
+
+como les decía para la exploración es es
+
+un robot que se mueven cualquier
+
+superficie y no importa por donde vaya
+
+el robot avanza
+
+y tenemos en luego los balón y cannes
+
+que pues son los defectos listo eso lo
+
+que hay desarrollado entonces si
+
+fuéramos a hablar del enfoque son
+
+mórfico pues tenemos mucho de lo que se
+
+está realizando a nivel mundial con
+
+respecto al desarrollo de este tipo de
+
+robots conforman arácnida si bien desde
+
+la universidad de osaka en españa en web
+
+en muchos lugares se está desarrollando
+
+este tipo de tecnología en el reino
+
+unido en eeuu la misma nasa tiene
+
+prototipos de robots poli articulados
+
+que se mueven en patas o sea que son
+
+también son órficos
+
+bueno en la taxonomía bueno para este
+
+proyecto yo lo que hizo fue hacer un
+
+estudio taxonómico de las arañas
+
+bastante complejo como ustedes dan
+
+cuenta eso lo hice a mano
+
+y que me pareció muy interesante traerlo
+
+aquí a la conferencia pues para que nos
+
+demos cuenta que sus análisis se pueden
+
+hacer sin que impliquen tanta cosa
+
+cierto acá hay otra parte de la
+
+taxonomía que me llevó a definir cuál
+
+era el tipo de araña con el tejido a
+
+trabajar ok bueno y luego entonces ya
+
+viene la parte de la investigación
+
+biológica de la araña cuáles son sus
+
+partes cuál es la fisionomía externa de
+
+una araña que es un principal porque es
+
+un gel y 0 bueno todo lo que tiene esto
+
+por ejemplo que las patas de las arañas
+
+también tienen fémur tienen tibia tenían
+
+metatarso tarso apretarse todo ese tipo
+
+de elementos que ve pero no es conoce
+
+pero pues que para eso la investigación
+
+tecnológica también y por ejemplo esto
+
+la ficción interna de una araña por
+
+ejemplo saber que el estómago de una
+
+araña está encima de su cerebro por
+
+ejemplo o que toda la parte de la cola
+
+de la araña cierto de lepisto soma está
+
+esta parte de aquí atrás por ejemplo
+
+todo esto de arriba del corazón siente
+
+es muy interesante cuando uno empieza a
+
+darse cuenta que por ejemplo en lo que
+
+en lo que uno es la cabeza de la araña
+
+que es esta parte permítanme yo les
+
+muestro que es esta parte de acá que es
+
+el pro soma si resulta que es que está
+
+el estómago debajo está el cerebro sí y
+
+aparte de eso cada una de las patas
+
+tiene acceso al estómago y acceso al
+
+cerebro entonces eso eso es algo muy
+
+interesante cuando uno es de la
+
+investigación biológica lo ve por
+
+ejemplo los tipos de sistemas del
+
+sistema digestivo respiratorio
+
+circulatorio nervioso de una araña
+
+entonces como ustedes se puede se pueden
+
+dar cuenta
+
+cuando ya se mete un anexo morph ismo
+
+puede trasladar eso también desde la
+
+biología a la parte en robótica cierto
+
+entonces el análisis biológico que se
+
+haría por ejemplo la relación de las
+
+patas
+
+y el poder entender la forma del robot
+
+con respecto al animal
+
+y luego por entender cómo se va a mover
+
+en este caso utilizamos el mecanismo
+
+eckland
+
+que desde la física desde la mecánica
+
+pues nos puede enseñar muchas cosas como
+
+por ejemplo lo que está en esta
+
+ilustración también en todo esto son
+
+cosas que yo he hecho a mano el votado
+
+que hablábamos hace un ratico dentro de
+
+ese proceso y luego dentro de ella
+
+podría empezar a hablar de la adaptación
+
+tecnológica que sensuales le voy a poner
+
+de qué manera voy a organizar el robot
+
+ustedes se dan cuenta pues el
+
+planteamiento es que sea un robot con
+
+muchísimas pruebas incluyendo un módulo
+
+por ejemplo gps para que el robot pueda
+
+navegar autónomamente
+
+digamos como en un diagrama de circuito
+
+de qué tipo de sensores donde los voy a
+
+conectar en el jardín omega 3 el tipo de
+
+cosas acá hay un análisis también de con
+
+respecto a la relación de los motores
+
+que de pronto que que porque me sirve
+
+mejor para mover el robot de acuerdo al
+
+peso y efe bueno entonces el tipo de
+
+cosas nos llevan entonces ya las
+
+versiones del robot
+
+y estoy acá voy a mostrarles está la
+
+versión 1.0 del robot tuvieron en
+
+mostrando las versiones esta primera
+
+versión está basada en un robot sito que
+
+venía para armar en una caja del
+
+instituto smithsoniano y que pues le
+
+regaló le regalaron a mi hijo y lo
+
+armamos y pues fue el punto de partida
+
+de todo este desarrollo ya del
+
+artefactos o mórfico
+
+y por aquí hay una parte del vídeo donde
+
+estamos armando y construyendo el robot
+
+con todas sus pistas y demás y bueno eso
+
+sería entonces en esta versión
+
+haciendo ya unas pruebas de campo pues
+
+demostró que el robot podría moverse en
+
+cualquier superficie de una manera
+
+excelente así que podría trasladarse
+
+bastante bien en sus ocho patas escalar
+
+ya subir una pendiente así como ustedes
+
+lo pueden apreciar y bajar la pista la
+
+pendiente moverse en diferentes
+
+como terrenos incluyendo este tipo de
+
+terrenos con ramas con raíces con hojas
+
+yemas
+
+incluyendo también aquí trasladarse a
+
+través de piedras
+
+johnny escuchen que pues sigamos por
+
+buen camino entonces pasando a la
+
+versión 2.0
+
+para luego imprimir las de aquí vemos
+
+esta versión 2.0 se le extendieron
+
+nuevas las paticas al robot si se tuvo
+
+la posibilidad de pronto de de pronto ya
+
+en el diseño 3d mejorar algunas piezas y
+
+demás bueno eso por ese lado aquí como
+
+lo vemos pues también se mueven
+
+distintas superficies
+
+se hicieron algunos ajustes este ya
+
+tiene dos motores el anterior solo tenía
+
+un motor entonces ver así como para que
+
+ustedes vayan viendo y rápidamente ya
+
+voy terminando luego se hizo la versión
+
+3.0 todas las piezas todo se hizo en
+
+rhinoceros se imprimió todo en 3-d se
+
+armó el prototipo es un prototipo
+
+bastante grande muy pesado que está en
+
+fase de desarrollo precisamente
+
+que se imprimieron todas las piezas se
+
+imprimieron con pelea con un plástico
+
+que es
+
+[Música]
+
+como 6 el fotoluminiscente sí que
+
+reacciona a la luz ultravioleta
+
+precisamente bailo titular de 1mega
+
+tiene una cámara también bueno así
+
+básicamente y llegamos finalmente a la
+
+versión 5.0 que está hecho prolíficas
+
+del ego técnico nuevamente aquí algunas
+
+fotografías de cómo pues en sus ocho
+
+patas los mecanismos utilizamos el
+
+mecanismo de clan aquí pues como se dan
+
+cuenta pues hasta con hacer con
+
+figuritas del ego o para darle también
+
+ese ese aspecto educativo y demás y
+
+tiene un módulo wifi sí para que la
+
+comunicación se haga a través de wifi ya
+
+les voy a explicar aquí al final una
+
+cosita aquí vemos que pues tiene luces y
+
+eso hace que se vea también muy
+
+interesante para la exploración espacial
+
+y aquí tenemos un videíto muy rápido
+
+donde lo vemos funcionando como pues se
+
+desplaza en sus ocho patas el tipo de
+
+mecanismo
+
+y aquí pues ésta se está controlando a
+
+través de wi-fi ahí en ese vídeo se el
+
+robot se está controlando por wifi es
+
+decir pues prácticamente podría moverlo
+
+desde cualquier lugar del mundo
+
+básicamente es eso
+
+y bueno y recibir la información que ya
+
+hoy para esa parte aquí como lo vemos
+
+pues el robot también desde la parte
+
+nocturna y con sus luces
+
+que hace que sea bastante interesante
+
+bien llamativo para la parte espacial y
+
+demás bueno esto por ese lado
+
+ya para cerrar entonces tenemos lo
+
+siguiente
+
+[Música]
+
+utiliza algunos sensores en esta versión
+
+5.2 que utilizando el arduino cloud que
+
+también es open source que yo los invito
+
+a que lo miren porque les va a permitir
+
+hacer todo lo que tiene que ver con
+
+internet de las cosas en este caso pues
+
+desde desarrollo dentro de largo y no a
+
+haití que es el del internet de las
+
+cosas desarrolle un lo denomina una cosa
+
+en un fin para poder hacer la conexión
+
+de esos sensores entonces aquí como
+
+vemos está el sketch de arduino el cual
+
+pues se pasa al robot y él se desarrolla
+
+un dashboard donde él me va a mostrar
+
+por ejemplo temperatura humedad me la va
+
+registrando en un gráfico puedo prender
+
+las luces por registrar todo lo que yo
+
+quiera a través de internet eso esto
+
+también está disponible para lo que
+
+tiene que ver con la aplicación celular
+
+y bueno hasta ahí básicamente es la
+
+conferencia
+
+pues me imagino que hay preguntas
+
+entonces pues voy a tratar aquí de de
+
+habilitar como el audio si es posible
+
+para que podamos de pronto mirar listo
+
+permítame lento de lluvia acá voy a
+
+dejar de de compartir la pantalla
+
+5
+
+[Música]
+
+carlo y mientras estaba compartiendo no
+
+veía que no más tranquilo tranquilo
+
+bueno yo ahora me parece bastante
+
+curiosa más que todo tu presentación la
+
+verdad
+
+bastante
+
+por más
+
+así que
+
+bueno espero que estaba viendo tiene
+
+alguna pregunta
+
+responder
+
+así
+
+sí
+
+el día
+
+ah
+
+parece que no da ninguna pregunta y que
+
+hago una nota
+
+y me pregunta y dice al punto que vamos
+
+con todas las segundas acciones que
+
+hiciste podríamos llegar a hacer robots
+
+lo suficientemente pequeños
+
+con él
+
+creo que alcancé a escucharte le
+
+preguntaban diego acerca de sus afectos
+
+si se pueden hacer lo suficientemente
+
+pequeños y será la pregunta
+
+si en efecto hay desarrollos
+
+de
+
+lo que se ha desarrollado
+
+que se puede llegar a derivar de ahí
+
+pero bueno para resumir si la nasa ha
+
+venido desarrollando
+
+pronto también para esos problemas
+
+responderlas
+
+muy interesante
+
+ni nada nos veremos
+
+no
+

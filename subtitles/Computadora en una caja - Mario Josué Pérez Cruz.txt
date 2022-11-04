@@ -1,0 +1,2434 @@
+[Música]
+
+ah
+
+[Música]
+
+2
+
+[Música]
+
+sí
+
+i
+
+[Música]
+
+ah
+
+[Música]
+
+ah
+
+buenas
+
+[Música]
+
+ah
+
+[Música]
+
+i
+
+ah
+
+[Música]
+
+y
+
+[Música]
+
+y
+
+ah
+
+[Música]
+
+y
+
+[Música]
+
+ah
+
+[Música]
+
+[Música]
+
+[Música]
+
+[Música]
+
+i
+
+[Música]
+
+i
+
+ah
+
+[Música]
+
+ah
+
+ah
+
+[Música]
+
+ah a
+
+[Música]
+
+ah
+
+[Música]
+
+él
+
+[Música]
+
+[Música]
+
+ah
+
+ah
+
+[Música]
+
+y
+
+y
+
+[Música]
+
+[Música]
+
+[Música]
+
+ahora
+
+i
+
+[Música]
+
+y
+
+i
+
+[Música]
+
+pero pérez cruz él está con nosotros
+
+para compartir la natividad
+
+computadora en una cantinera ingeniero
+
+de mecatrónica y entusiastas de la
+
+robótica voz educativas promotores y
+
+usuarios piden del software y el
+
+hardware
+
+aumentar mario porque te da algunos días
+
+saludos a todos los que están viendo
+
+esta transmisión mucho gusto y muchas
+
+gracias también por hacerme parte de
+
+este crisol 2022 bogotá
+
+[Música]
+
+[Música]
+
+le recordamos a toda la audiencia que en
+
+ese momento vamos a iniciar con la
+
+charla y al final
+
+entonces mari
+
+brás bienvenida al fiscal
+
+muchas gracias y disculpe por ahí hay un
+
+audio no sé si sea música de fondo pero
+
+escucho demasiado alfaro
+
+correcto muchas gracias bueno pues como
+
+ya mencionaban en la presentación
+
+mi nombre es mario josué pérez cruz y yo
+
+soy del estado de oaxaca un estado al
+
+sur de la república mexicana y el día de
+
+hoy quiero compartir con ustedes un
+
+proyecto en el que he estado trabajando
+
+entonces bueno por ahí mencionaban en
+
+mis estudios en cuestión de ingeniería
+
+en mecatrónica me gusta también mucho la
+
+robótica y justamente por estas áreas en
+
+las que me he desenvuelto es que nace
+
+esta curiosidad de poder indagar un poco
+
+sobre el sistema que les voy a presentar
+
+a continuación
+
+entonces les voy a compartir mi pantalla
+
+listo que si se está viendo disculpe
+
+se puede apreciar la pantalla perdón
+
+ok vamos a intentarlo de nuevo a ver si
+
+la podemos ver me escucha me puedes
+
+confirmar por favor si si bueno
+
+la he quitado pensé que no se veía pero
+
+ahora la comparto de nuevo
+
+ok entonces aquí
+
+esperamos que las aguas y la volvamos a
+
+compartir claro que sí
+
+tengo
+
+ok se puede apreciar
+
+ok bueno vamos a empezar entonces la
+
+herencia
+
+perdón ya está compartida me estoy
+
+confirmando me escuchas correctos y si
+
+muchas gracias listo ok
+
+bueno vamos a comenzar con esta charla
+
+el título de ella es computadora en una
+
+caja y bueno vamos a empezar poniendo un
+
+poquito el contexto en escenarios como
+
+lo que disculparnos puedes compartir la
+
+pantalla completa porque no se está
+
+visualizando bien
+
+tu presentación tiene que decir
+
+compartir y comparte
+
+deja de compartir y compartimos la
+
+pantalla completa
+
+ok
+
+listo ahora sí está toda la pantalla
+
+completa
+
+ahora si podemos visualizar bien
+
+listo puedes empezar puedes comenzar
+
+ok perfecto la voy a hacer la voy a
+
+ampliar nadamas a toda la pantalla está
+
+bien
+
+sí perfecto
+
+ok bueno entonces como decíamos la
+
+computadora en estos tiempos de pandemia
+
+que hemos estado pasando pues se ha
+
+vuelto bastante importante de hecho en
+
+muchos trabajos así también como en la
+
+parte escolar pues se ha vuelto un
+
+factor determinante
+
+incluso todos los contenidos que
+
+nosotros antes desarrollamos en la
+
+escuela en el trabajo pues se ha tenido
+
+que adaptar a este medio virtual a este
+
+medio de detener de por medio este
+
+sistema de cómputo
+
+tanto en cuestiones laborales esta
+
+cuestión por ejemplo de programas que
+
+tuvimos que aprender a utilizar como el
+
+que estamos utilizando ahora mismo en
+
+esta charla pues tuvimos que aprender
+
+tuvimos que migrar de esto que para
+
+nosotros era quizá algo un poco alejado
+
+que no estábamos acostumbrados pues lo
+
+tuvimos que ir haciendo propio y bueno
+
+también obviamente el uso del internet
+
+que nos permitió conectarnos con
+
+diferentes personas en diferentes
+
+situaciones y poder seguir desarrollando
+
+actividades aún con nuestra limitante de
+
+la pandemia
+
+entonces tocando todos estos puntos pues
+
+nos damos cuenta que la computadora en
+
+estos tiempos se volvió indispensable en
+
+todos lados podríamos estar ocupando
+
+equipos de cómputo que ya lo hacíamos
+
+antes de la pandemia pero ahora con esta
+
+pandemia pues se focalizó aún más su uso
+
+en todas las áreas prácticamente qué
+
+pasa entonces con el mercado de los
+
+equipos de cómputo pues pasó algo
+
+bastante curioso porque las computadoras
+
+se empezaron a escasear y aparte de que
+
+empezaron a escasear
+
+y tener un equipo para poder utilizarlo
+
+ya sea para el tema de home office o en
+
+el caso de los alumnos pues para las
+
+clases virtuales se volvió un requisito
+
+tener un equipo de cómputo y por lo
+
+tanto también podríamos decir que se
+
+volvió un tanto un problema porque en
+
+algunas familias en algunos hogares no
+
+se contaba con un equipo de cómputo que
+
+pudiera cumplir con las necesidades que
+
+nos exigía esta pandemia o en otro caso
+
+teníamos a lo mejor sólo un equipo de
+
+cómputo pero en el hogar necesitaban
+
+utilizar las más de una persona entonces
+
+bueno entonces el mercado empezó a tener
+
+más demanda en cuanto a tablets laptops
+
+e incluso equipos celulares
+
+estadísticamente hablando se dice que
+
+aumentó la demanda en un 50 por ciento
+
+si no es que más y otro dato curioso es
+
+que acá en méxico hay un estado llamado
+
+durango y hubo un tiempo el año pasado
+
+en que no había equipos de cómputo en
+
+ninguna tienda es decir que fue tanta la
+
+demanda de estos equipos que todas estas
+
+tiendas comerciales centros comerciales
+
+agotaron su inventario y bueno esto
+
+también pues con el incremento de esta
+
+demanda también empezó a haber escasez
+
+de chips no escasez de equipos
+
+electrónicos en general en el mundo pero
+
+también por otro lado podemos ver algo
+
+bien curioso a pesar de que la demanda
+
+aumentó podríamos pensar que los costos
+
+disminuiría no a mayor demanda a menor
+
+costo pero esto realmente no ocurrió más
+
+bien pasó lo contrario los costos en
+
+lugar de disminuir en lugar de hacer los
+
+equipos electrónicos más accesibles se
+
+fueron para arriba aumentaron en el caso
+
+particular de méxico de la república
+
+mexicana equipos que encontrábamos
+
+normalmente a cierto precio hablando de
+
+laptops por ejemplo empezamos a
+
+encontrarnos un 50 o 40 por ciento más
+
+caros de lo que ya costaba y obviamente
+
+esto hace que se vuelva también un poco
+
+más complicado poder adquirir un equipo
+
+como les decía en lugar de tener un
+
+equipo a menor costo por el incremento
+
+de demanda
+
+vieron como una oportunidad de estas
+
+tiendas para poder ofrecer esos
+
+productos e incluso empezaron a sacar
+
+productos con algunos procesadores algo
+
+rezagados para que el consumidor las
+
+adquiriera y de esta forma ellos
+
+pudieran deshacerse de su inventario
+
+anterior lo cual pues realmente no es
+
+nada bueno ni económicamente ni en
+
+cuestiones de de utilidad no entonces
+
+bueno existe alguna alternativa a este
+
+tipo de problemática es decir hay algo
+
+que podamos hacer para contrarrestar un
+
+poco este problema de que aún estamos
+
+viviendo a pesar de que la pandemia ha
+
+disminuido un poco aún estamos viviendo
+
+esta situación pues bueno cuál sería la
+
+alternativa
+
+en algunas charlas anteriores escuché
+
+por ahí que empezaron a hablar sobre
+
+estos sistemas llamados comúnmente s
+
+veces s veces hace referencia a las
+
+palabras en inglés single port computer
+
+que sería computadora en una sola placa
+
+o de una sola tarjeta y qué es esto qué
+
+es esto de una computadora de una sola
+
+placa
+
+bueno pues una computadora de una sola
+
+placa es una tarjeta electrónica una
+
+tarjeta electrónica muy pequeña casi
+
+como del tamaño de una identificación
+
+casi del tamaño como de una tarjeta de
+
+crédito pero qué diferencia hay entre
+
+estas tarjetas electrónicas y una pc
+
+bueno que en estas tarjetas podemos
+
+conectar diversos periféricos como puede
+
+ser un teclado un mouse una cámara y
+
+además también nos sirven para
+
+desarrollar algunos prototipos de
+
+electrónica de programación se pueden
+
+utilizar en temas de robótica en temas
+
+de hakim ético y otros temas por ahí
+
+entonces estas pequeñas tarjetas
+
+electrónicas son capaces de ejecutar
+
+como tal un sistema operativo y este
+
+sistema operativo se ejecuta normalmente
+
+dentro de una memoria sd o una micro sd
+
+a lo mejor ya están por ahí cachando la
+
+idea de lo que me estoy refiriendo pero
+
+para que no se quede al aire o a la
+
+imaginación vamos a mostrar algunos
+
+ejemplos de estas computadoras de una
+
+sola placa
+
+algunos ejemplos de ellos vamos a
+
+empezar por la más famosa la más popular
+
+esta tarjeta que nosotros vemos en la
+
+presentación se llama raspberry pi y fue
+
+creada ya hace algunos años por una
+
+fundación en reino unido- tuvo bastante
+
+popularidad que ha sacado muchas
+
+versiones desde la versión 1 hasta la 4
+
+que podemos ver ahora y algunas otras
+
+variantes incluyendo procesadores cada
+
+vez más poderosos más rápidos con
+
+algunos puertos extra en la imagen
+
+podemos observar que tiene puertos usb
+
+también tenemos una entrada de ethernet
+
+tenemos también salidas de hdmi y de
+
+vídeo compuesto es decir es como si
+
+tuviéramos la tarjeta madre de una pc
+
+expuesta pero de tamaño reducido ok y
+
+también podemos observar algunos pines
+
+algunos pines de conexión y esto
+
+precisamente nos sirve para conectar
+
+algunos otros dispositivos como sensores
+
+como también algún otro periférico algún
+
+ventilador y demás porque como decíamos
+
+aparte utilizarse como una pc
+
+convencional también me puede servir
+
+como una tarjeta de desarrollo y así
+
+como surge la raspberry pi pues empiezan
+
+a salir otras tarjetas muy parecidas
+
+podemos observar esta de acá que es una
+
+orange y se parece muchísimo es casi una
+
+copia es idéntica
+
+obviamente cambiando algunos accesorios
+
+pero es muy parecida en cuanto a tamaño
+
+y en cuanto a qué utilidad y así
+
+salieron muchas otras más podemos tener
+
+otra como la big el bone que también
+
+podemos observar ahí claramente el
+
+puerto de ethernet y otros más
+
+apareció también la empresa de intel
+
+haciendo pues presencia en este tema de
+
+las computadoras de una sola placa con
+
+la intel galileo la intel edison también
+
+tenemos por ahí la presencia de otras
+
+marcas de fabricación
+
+oriental no de fabricación oriental como
+
+puede ser esta banana py y también
+
+tenemos empresas como òmnium que
+
+desarrolla la omega en este caso todas
+
+estas placas son lo mismo computado que
+
+pueden correr un sistema operativo
+
+cargado en una micro sd ok entonces
+
+bueno esta podría ser una alternativa y
+
+podría ser una alternativa muy buena
+
+porque estas tarjetas son capaces de
+
+correr muchos sistemas operativos como
+
+cuáles pues por ejemplo devia que es muy
+
+fácil de utilizar es un entorno muy
+
+amigable también pueden utilizar o
+
+correr más bien ejecutar risk o webs
+
+también pueden utilizar un tutor en su
+
+versión de internet de las cosas
+
+podríamos también ejecutar sistemas
+
+operativos como domótica que nos sirve
+
+para hacer automatización en el hogar
+
+podríamos correr opensuse que también es
+
+bastante conocido gente e incluso cali
+
+linux para seguridad informática
+
+entonces con este panorama nos damos
+
+cuenta que estas tarjetas realmente son
+
+una alternativa interesante son una
+
+alternativa buena porque son bastante
+
+versátiles podemos correr bastante
+
+sistemas operativos y por lo tanto
+
+también nos permiten esa flexibilidad en
+
+cuanto a cuestiones de utilidad
+
+también estas tarjetas son capaces de
+
+ejecutar android es decir que cualquier
+
+aplicación que yo puedo correr en algún
+
+celular un android también podría
+
+ejecutarlo en alguna de estas tarjetas y
+
+aquí precisamente empiezan las
+
+coincidencias y es donde yo empiezo a
+
+darme cuenta que se puede hacer algo más
+
+con esto y cuál es esta coincidencia
+
+pues precisamente el procesador
+
+arm11 gando un poco en la constitución
+
+de estas tarjetas me di cuenta que la
+
+mayoría empieza a ocupar procesadores a
+
+rm algunos ocupan broadcom pero la
+
+mayoría ocupa rm y es ahí donde
+
+empezamos a tener pues esa inquietud de
+
+saber qué más puedo hacer o con qué más
+
+puedo trabajar utilizando un procesador
+
+por rm entonces bueno el escritorio se
+
+vería de la siguiente manera tenemos un
+
+monitor tenemos un teclado un mouse y
+
+podemos apreciar justo atrás del teclado
+
+nuestra tarjeta o nuestra computadora de
+
+una sola placa ejecutando el sistema
+
+operativo que vemos en la pantalla hasta
+
+aquí todo suena bastante bien todos
+
+bonito que podemos correr muchos
+
+sistemas operativos podemos ejecutarlos
+
+podemos hacer tareas incluso de
+
+informática de hakim ético de desarrollo
+
+pero hay un pequeño gran problema
+
+estas tarjetas de una sola placa que son
+
+comerciales también se fueron para
+
+arriba es decir que las podíamos
+
+encontrar un precio accesible antes de
+
+la pandemia pero también con este esta
+
+disminución en la producción de
+
+microcontroladores y procesadores hizo
+
+que se fueran también para arriba en
+
+cuanto a costos y volvemos a lo mismo
+
+volvemos a tener una posibilidad que
+
+antes podría ser accesible se vuelve
+
+otra vez un tanto inaccesible
+
+entonces bueno nos dimos cuenta que las
+
+s veces comerciales no eran tan buena
+
+idea al final de cuentas bueno pero
+
+entonces ahí también encontramos una
+
+oportunidad
+
+yo creo que todos conocemos las cajas de
+
+televisión de android vale cuáles son
+
+estas son más o menos como la de la
+
+imagen una pequeña caja de plástico de
+
+hecho de un plástico también no muy
+
+bueno porque la mayoría pues son de
+
+fabricación en serie y no se detienen
+
+mucho en temas de estética y tenemos
+
+muchos modelos de estas cajas de
+
+televisión android para qué sirven
+
+normalmente estas cajas bueno pues estas
+
+cajas me permiten convertir podríamos
+
+decir convertir una televisión
+
+convencional volverla a smart smart tv
+
+es decir dotan a la televisión de
+
+conexión a internet de un sistema
+
+operativo android en este caso para que
+
+yo pueda poder ejecutar programas de
+
+streaming de ver por ejemplo una
+
+plataforma de vídeo una plataforma de
+
+series y demás y estas cajas de
+
+televisión android pues precisamente al
+
+ser de fabricación
+
+pues un tanto más bien en ser de una
+
+gran producción está si son de precios
+
+accesibles y es ahí precisamente donde
+
+nos enfocamos y es ahí precisamente de
+
+donde donde tomó el nombre de la charla
+
+computadora en una caja se refiere a
+
+utilizar una 'tv box de android
+
+es bueno qué pasa con la android civivox
+
+pues hay un montón de marcas si nosotros
+
+empezamos a buscar ahí en el navegador
+
+nos vamos a dar cuenta que hay
+
+muchísimas marcas muchísimos modelos
+
+grandes pequeñas con wifi con bluetooth
+
+con menos ram con un poco más de ram con
+
+almacenamiento interno con o sin
+
+almacenamiento interno con tres puertos
+
+usb con cuatro puertos usb con conexión
+
+de televisión compuesta y también hdmi
+
+es decir son bastante completas bastante
+
+versátiles y con buenas especificaciones
+
+y lo más importante es que son entonces
+
+accesibles vamos a poner un número para
+
+que ustedes se den cuenta que me refiero
+
+con precios accesibles
+
+la tbp box que les voy a mostrar más
+
+adelante me costó 500 pesos mexicanos
+
+que convirtiéndolo a pesos colombianos
+
+estaríamos hablando de unos 95 mil pesos
+
+colombianos que si nosotros lo
+
+comparamos con lo que cuesta una
+
+computadora de una sola placa comercial
+
+como las que vimos anteriormente pues
+
+estamos hablando de que es más o menos
+
+un tercio un tercio de su costo y si
+
+ahora lo comparamos con un equipo de
+
+cómputo convencional como una laptop
+
+como una pc de escritorio pues todavía
+
+estamos hablando que casi casi es como
+
+el 88 veces menos el precio de estas
+
+cajas de tv de android y entonces es ahí
+
+donde decimos bueno estas cajas también
+
+tienen un procesador
+
+arm11 todo empieza a tener sentido nos
+
+damos cuenta de la similitud en el
+
+procesador de estas cajas que son a
+
+precios accesibles
+
+comparado con las que son comerciales y
+
+entonces se nos ocurre precisamente
+
+tratar de ver la manera de ejecutar
+
+alguno de estos sistemas operativos en
+
+estas cajas de televisión de android
+
+aquí puse algunos logotipos de los
+
+sistemas operativos que nosotros
+
+conocemos o que son también populares y
+
+si estos sistemas operativos se pueden
+
+ejecutar en una computadora de una sola
+
+placa comercial también deberían de
+
+poder utilizarse en este tipo de cajas
+
+android
+
+y bueno aquí es donde empieza como tal
+
+la cuestión de investigación y de
+
+experimentación
+
+ahora para que nosotros nos demos cuenta
+
+que realmente es algo rentable que
+
+necesito que necesito para poder
+
+construir o para poder tener una pc de
+
+este tipo bueno de inicio una caja de tv
+
+de android en mi caso estoy ocupando el
+
+modelo m xq pro que como les decía hay
+
+muchísimos este nada más es de ejemplo
+
+que más necesito una tarjeta microsd o
+
+sd de 8 gigabytes pueden ser de muchos
+
+más gigas 32 64 pero bueno con 8 creo
+
+que es más que suficiente y estas
+
+tarjetas pues ahora ya son bastante
+
+comerciales las podemos encontrar en
+
+muchas tiendas a precios también
+
+accesibles hay muchas marcas también oa
+
+lo mejor tenemos por ahí alguna en
+
+desuso de 4 gigabytes que a lo mejor
+
+sacamos de algún celular también nos
+
+puede servir
+
+necesitamos un sistema operativo que se
+
+lo vamos a ver más adelante
+
+también necesitamos un programa software
+
+específico para poder cargar este
+
+sistema a la micro sd y lo que sigue yo
+
+creo que lo tenemos en casa en la
+
+mayoría de los hogares un monitor o
+
+televisor
+
+es decir cualquier televisión aún sea
+
+plana smartphone que a lo mejor incluso
+
+hasta está por ahí arrumbado porque ya
+
+no tiene la conexión hdmi pero tiene be
+
+head o tiene vídeo compuesto también lo
+
+podemos utilizar un teclado un teclado
+
+el que sea un teclado usb genérico
+
+también necesito un mouse de igual
+
+manera cualquier mouse no hay ningún
+
+problema y con esto tendría
+
+prácticamente listo mi equipo el tema
+
+del wifi y del cable de internet
+
+podríamos decir que es hasta opcional
+
+algunas de estas cajas de televisión
+
+android ya incorporan internet y
+
+bluetooth e incluso pero si no tenemos
+
+ese chip incorporado pues podemos
+
+conectar un cable de internet porque
+
+también tienen una entrada de eterna o
+
+podríamos conectar uno de éstos usb es
+
+wifi y con eso tendríamos también acceso
+
+a internet en nuestra caja de televisión
+
+de android que vamos a utilizar como pc
+
+ok entonces bueno como pueden notar
+
+estos requerimientos son muy básicos la
+
+mayoría los
+
+que ya los tenemos en casa
+
+y bueno decíamos que tengo que obtener
+
+un sistema operativo pero para que yo
+
+pueda saber qué sistema operativo va a
+
+correr esta caja android pues debo de
+
+primero identificarlo y es lo que yo
+
+empecé haciendo en mi caso esa es la tv
+
+box de android que estoy utilizando así
+
+venía en esa cajita trae su control un
+
+eliminador de corriente y un cable hdmi
+
+en este caso particular esta caja trae
+
+cuatro conexiones usb es entrada perdón
+
+salida de vídeo compuesto salida de
+
+vídeo hdmi y yo creo que con eso es
+
+suficiente y bueno yo estuve buscando
+
+qué procesador tenía esta caja porque es
+
+la que tengo a la mano y es la que
+
+quería utilizar y haciendo una búsqueda
+
+en internet encontré que el chip el
+
+procesador que tenía esta tarjeta era
+
+uno de tipo rockchip erekat 32 28 esto
+
+es muy importante porque el sistema
+
+operativo debe de poder ser ejecutado
+
+por este procesador
+
+y bueno ahorita vamos a ver cómo hacemos
+
+eso y bueno el procesador se vería más o
+
+menos como sea imagen en la imagen es un
+
+erekat 32-29 pero es muy similar a lo
+
+que yo esperaba a tener en mi tibi box
+
+que pasa entonces que empiezo a buscar
+
+el sistema operativo dónde puedo
+
+encontrar los sistemas operativos si
+
+ustedes se van a la siguiente liga a la
+
+siguiente al siguiente enlace
+
+arian puntocom diagonal download
+
+descargas podemos encontrar un sinnúmero
+
+de sistemas operativos que ya están
+
+probados en diferentes computadoras de
+
+una sola placa y dentro de esas
+
+computadoras de una sola placa también
+
+nos ofrecen sistemas operativos
+
+optimizados para estas cajas android
+
+pues bueno yo estuve buscando que el
+
+sistema le podía poner a mi caja android
+
+sabiendo que el procesador era un road
+
+chip erekat 32 28 pero nada de eso
+
+funcionaba intentando una vez otra vez y
+
+no podía ejecutar nada entonces bueno al
+
+final dije no hay de otra vamos a tener
+
+que abrir la caja android y ver
+
+realmente qué hay en su interior porque
+
+no estaba muy convencido que el
+
+procesador fuera el que me decían las
+
+especificaciones de internet y ni modo
+
+hubo que abrir esta caja y como pueden
+
+notar en la imagen esa fotografía la
+
+tomé justo al destaparla porque para mi
+
+sorpresa no era un procesador rockchip
+
+sino que más bien estábamos teniendo un
+
+procesador allwine rh3 que es otra marca
+
+de procesadores también basado en la rm
+
+y entonces bueno ya tenía con certeza
+
+qué procesador corría mit y box android
+
+que indagando un poco más en el tema me
+
+di cuenta que es el mismo procesador de
+
+una sbs comercial en este caso la orange
+
+y la orange ppc trae el mismo procesador
+
+que una android civivox bueno no todas
+
+al menos la que yo tengo y cuál es ese
+
+el all winner h3 quiere decir entonces
+
+que si existen sistemas operativos
+
+corren en laboran ipc con ese procesador
+
+el winner h3d a rm debería funcionar
+
+también el android civivox y claro que
+
+sí claro que funcionó una vez que
+
+pudimos hacer que el sistema operativo
+
+se ejecutará desde la micro sd
+
+tuvimos listo nuestro escritorio que se
+
+ve de esta manera bueno para no hacer
+
+más prolongada esta charla creo que es
+
+el momento de que empecemos realmente a
+
+ver la demostración de todo esto que les
+
+he estado platicando ok
+
+esta charla tiene un enfoque diferentes
+
+enfoques perdón uno de ellos es el
+
+educativo también el de desarrollo y al
+
+final un recreativo entonces vamos a ir
+
+haciendo las demostraciones de este
+
+escritorio que he conseguido con esta
+
+android civivox empezando por la parte
+
+educativa
+
+entonces bueno
+
+estos usos son solamente algunos
+
+posibles vamos a empezar con el uso en
+
+la educación es decir en las aulas oa lo
+
+mejor en la casa ok
+
+bueno voy a hacer un cambio aquí en la
+
+pantalla para que ustedes puedan ver
+
+otra cámara en donde estoy precisamente
+
+enfocando el monitor de la demostración
+
+que quiero hacerles
+
+ok ahí tenemos mi escritorio ese sería
+
+el escritorio que tengo corriendo de mi
+
+android civivox aquí podemos observar
+
+incluso la 'tv box aquí la tengo y ahí
+
+se ve no que es perfectamente la que
+
+comentaba mx pero hoy algo más ok tiene
+
+conectado a un mouse un teclado y ahí se
+
+ve incluso el adaptador de este micro sd
+
+a sd y ahí tengo un don gol de wifi y
+
+como podemos observar estamos corriendo
+
+sin ningún problema el escritorio de arm
+
+bien ok aquí nosotros podemos ver toda
+
+la versatilidad de este sistema de
+
+escritorio basado en una 'tv box de un
+
+precio muy accesible ok y como empezamos
+
+diciendo que vamos a hacer la
+
+demostración educativa pues podremos
+
+empezar con los problemas con los
+
+programas de ofimática que todo el mundo
+
+utiliza y que obviamente son
+
+indispensables por ejemplo yo podría
+
+estar utilizando esta computadora este
+
+escritorio para realizar alguna tarea
+
+oficina por ejemplo escribieron un
+
+documento en pantalla estamos observando
+
+greater de libreoffice y ahí está la
+
+interfaz fácilmente nosotros podemos
+
+escribir podemos hacer un documento
+
+podemos cargar unimos podemos responder
+
+con un documento un correo cualquier
+
+cosa que nosotros queramos hacer y está
+
+corriendo sin ningún problema en una
+
+cajita que no costó más de 95 mil pesos
+
+colombianos o 500 pesos mexicanos qué
+
+más podemos hacer bueno pues no hay que
+
+olvidarnos también de las hojas de
+
+cálculo que también son importantísimas
+
+e indispensables bueno pues esta cajita
+
+este sistema operativo basado en la rm
+
+en este caso es arabia pues ya trae
+
+estas herramientas no es que tengamos
+
+que hacer un extra de instalación ya las
+
+trae el sistema operativo y haremos sin
+
+ningún problema la interfaz de una hoja
+
+de cálculo corriendo en este caso en
+
+libreoffice ok bueno incluso la
+
+presentación que estaba mostrando hace
+
+rato en pantalla pues también está hecha
+
+con la android civivox porque para eso
+
+para que sea útil y en que la hicimos
+
+pues en impress también de libreoffice
+
+que estamos viendo ahora en pantalla es
+
+pues totalmente útil lo podemos utilizar
+
+en cualquier tarea escolar cualquier
+
+tarea de oficina sin ningún problema de
+
+compatibilidad
+
+bueno independientemente de estos tres
+
+programas también tenemos un montón de
+
+aplicaciones más que podemos observar en
+
+los menús que estoy mostrando ahora
+
+entonces nada más es cuestión de poder
+
+ejecutar el sistema en esta caja y ya lo
+
+demás viene por añadidura ya es cuestión
+
+de ir probando que me sirve que es lo
+
+que necesito para mi trabajo para mi
+
+escuela y con esto lo ocupar sin ningún
+
+problema y ahora viene lo más
+
+interesante y lo que he estado haciendo
+
+últimamente
+
+enfocándolo a mi área de en la que me
+
+desarrollo no bueno me di cuenta que
+
+también podríamos instalar tony esta si
+
+es una instalación aparte pero pues no
+
+es nada difícil ok con un conocimiento
+
+básico con algunos comandos con algunos
+
+comandos de linux lo puede hacer sin
+
+ningún problema y entonces aquí tenemos
+
+por ejemplo que la ejecución de tony
+
+tony es una interfaz de desarrollo que
+
+me permite programar sistemas basadas en
+
+python o en micro paita y justamente
+
+aquí les quise poner un ejemplo de un
+
+programa que me empieza a generar
+
+contraseñas para alguna red o para algún
+
+correo contraseñas aleatorias que son
+
+muy difíciles de replicar ok y funciona
+
+sin ningún problema eso está
+
+desarrollado en python y cada vez que yo
+
+ejecuto el script me va generando una
+
+contraseña en este caso serían
+
+contraseñas aleatorias de 12 dígitos
+
+pero yo podría cambiar aquí incluso la
+
+longitud y por ejemplo ponerle 8
+
+ejecutar de nuevo el script y entonces
+
+voy a tener una contraseña entre
+
+letras minúsculas mayúsculas números y
+
+símbolos para que entonces yo pueda
+
+utilizarla después en alguna
+
+plataforma y tenga una contraseña segura
+
+eso es python pero también yo sé que por
+
+ahí hay muchas personas que están
+
+interesadas en este reducción a la
+
+programación ya sea en el aula ya sea en
+
+sus hogares con sus hijos y vean nada
+
+más podemos ejecutar sin problemas el ya
+
+conocidos que que ese scratch para los
+
+que todavía no están muy familiarizados
+
+pues es también un entorno de desarrollo
+
+en el que yo puedo empezar a enseñar
+
+esta lógica de programación utilizando
+
+bloques y utilizando este simpático
+
+personaje que es un gatito para que se
+
+puedan mover a diferentes puntos y para
+
+que pueda realizar diversas tareas de
+
+acuerdo a lo que yo he programado y de
+
+esa forma ir involucrando a las personas
+
+oa los estudiantes en este mundo de la
+
+programación
+
+entonces cómo podemos observar esta 'tv
+
+box no nada más es para ocuparla como pc
+
+de escritorio y para hacer documentos
+
+también puede ser para hacer desarrollos
+
+e incluso vean podemos ejecutar en esta
+
+en este sistema operativo lo que es bs
+
+codium para aquellos que les gustan los
+
+entornos gráficos podríamos decir que
+
+esta herramienta
+
+una alternativa a lo que vendría siendo
+
+visual studio out no está es ps codium
+
+pero básicamente es un entorno gráfico
+
+parecidísimo si no es que igual al de
+
+visual studio ok y ahí ya estamos
+
+entrando en lo que comentábamos que
+
+sería el tema de desarrollo no nada más
+
+como equipo de home office no nada más
+
+como equipo de cómputo sino también para
+
+poder desarrollar diferentes
+
+plataformas o diferentes sistemas
+
+bueno yo tengo por ejemplo acá esta
+
+interfaz de tony que les mostraba que es
+
+de payton pero también lo podemos
+
+utilizar como micro python ok y micro
+
+python para qué me sirve pues
+
+precisamente para poder programar
+
+algunos microcontroladores como ésta que
+
+es una raspberry pi pico es como si
+
+fuera un arduino nano pero de la
+
+compañía de raspberry pi y precisamente
+
+ese programa en micro python pues si yo
+
+tengo una computadora basada en una
+
+android civivox que puede correr tony
+
+también puede correr micro python para
+
+poder programar estos microcontroladores
+
+y bueno también podríamos entonces
+
+programar con facilidad lo que vendrían
+
+siendo las tarjetas arduino en este caso
+
+la arduino 1 o alguna otra como la
+
+arduino una no ya depende de cuál sea
+
+para usted es más fácil o cuál es la que
+
+tengan a la mano el entorno de
+
+desarrollo de arduino no lo he instalado
+
+pero ya lo tengo listo aquí en el
+
+escritorio lo tengo listo porque al rato
+
+quiero precisamente hacer las pruebas e
+
+instalarlo aquí está y poder empezar a
+
+programar algunas de estas placas
+
+utilizando mi android civivox bueno ya
+
+hemos visto entonces dos enfoques el
+
+enfoque escolar el enfoque educativo
+
+pero también el enfoque de desarrollo
+
+para microcontroladores para estas
+
+cuestiones que va de la mano con el
+
+desarrollo de microcontroladores de
+
+programas de programación basada en
+
+python y demás y demás en lenguajes de
+
+programación
+
+y ahora sí viene una que para mí también
+
+es una de las más
+
+satisfactoria es quizás y yo creo que
+
+también es donde se van a interesar
+
+muchos muchos de ustedes qué vamos a
+
+hacer ahora pues vamos a ver la parte
+
+recreativa cuál es esa parte recreativa
+
+pues bueno lo primero que voy a hacer es
+
+apagar está esta 'tv box es igual que
+
+una pc normal no de escritorio salimos
+
+de la sesión
+
+y en este caso pues apagamos el sistema
+
+porque lo vamos a pagar como decíamos
+
+este sistema de estas computadoras pues
+
+simplemente están ejecutando el sistema
+
+operativo en una micro sd entonces
+
+podríamos decir que yo puedo tener un
+
+montón de micro sd es con diferentes
+
+sistemas operativos y puedo ejecutarlos
+
+aquí tengo otra micro sd vamos a ver qué
+
+es lo que contiene
+
+voy a primero desconectar la corriente
+
+de la caja
+
+voy a quitar el adaptador de sd voy a
+
+cambiar la micro sd por la que les acabo
+
+de mostrar y vamos a ver la parte
+
+recreativa ok vamos a ponerla de esta
+
+manera volvemos a insertar en la ranura
+
+de la tv box
+
+vamos a conectar ahora otra vez la
+
+corriente y vamos a ver que ejecuta yo
+
+creo que esto les va a gustar a muchos
+
+de ustedes
+
+vean ahí está corriendo el sistema
+
+operativo inmediatamente es también que
+
+podría ser la versión de debian pero
+
+ejecutada para rm y bueno vean esto
+
+esta sería la versión recreativa y
+
+cuando digo recreativa me refiero a los
+
+videojuegos estás android civivox
+
+también pueden ser utilizadas como
+
+consolas retro es decir ejecutando
+
+precisamente sistemas
+
+que están optimizados para correr juegos
+
+de algunas consolas retro las que
+
+nosotros queramos muchísimas de ellas y
+
+ahí es donde abre también posibilidades
+
+mucho mayores porque porque a lo mejor a
+
+alguien se le ocurre fabricar un
+
+gabinete que pueda ejecutar todos estos
+
+juegos y después a lo mejor
+
+comercializar los y que tenemos ahí pues
+
+una edad de negocio bastante interesante
+
+en la que estaríamos pues creando estos
+
+gabinetes de juegos con miles de juegos
+
+retro para cualquier persona no bueno
+
+como le vamos a hacer entonces para
+
+poder ejecutar o más bien jugar jugar en
+
+esta consola pues simplemente
+
+necesitamos agregar un control un
+
+control como el que yo tengo acá de
+
+hecho este control es también pues
+
+bastante sencillo es un control usb lo
+
+podemos encontrar también sin ningún
+
+problema cualquier control genérico usb
+
+va a funcionar y solamente tenemos que
+
+esperar a que cargue el sistema para que
+
+podamos notar la versatilidad
+
+android civivox de bajo costo y que
+
+tiene un sinnúmero de aplicaciones
+
+vamos a esperarnos un momentito ahí
+
+vemos que ya está cargando el sistema
+
+operativo se acuerdan que decíamos que
+
+está basado en el mismo procesador que
+
+orange y pues precisamente hemos hallado
+
+una imagen llamada retro orange y que me
+
+permite ejecutar estos juegos sin ningún
+
+problema está cargando la interfaz vamos
+
+a darle un minuto esto solamente lo hace
+
+la primera vez de ahí ya lo hace más
+
+rápido y vean nada más todas las
+
+consolas que podemos emular acá tenemos
+
+también los clásicos dear que podríamos
+
+tener la consola de sega master system
+
+mega drive en el 64 neo geo
+
+nes
+
+psp playstation y todas las
+
+configuraciones para super nintendo
+
+infocomm y demás ok y todo lo estamos
+
+ejecutando pues con nuestro control y
+
+con nuestra tarjeta microsd vamos a dar
+
+una demostración sencilla para que
+
+ustedes vean que es totalmente jugable a
+
+mí me gusta mucho la consola mega drive
+
+no tuve la oportunidad de tenerla cuando
+
+salió pero ahora la puede emular y uno
+
+de mis juegos favoritos es el sony y
+
+vean corre sin ningún problema a los
+
+frames que debe de ser no sea lenta no
+
+tiene el acc no pasa nada lo ejecuta sin
+
+ningún problema
+
+vean ahí está y ahí estamos ejecutando
+
+el sonic en mi android tv box sin ningún
+
+problema vale y está nada más es un
+
+título porque podríamos tener muchísimos
+
+títulos más vamos a poner tantito y el
+
+control un momento para que vean que es
+
+totalmente jugable que lo puedo ejecutar
+
+bueno no soy muy bueno jugando pero la
+
+idea es que ustedes aprecien que este
+
+juego se ejecuta sin ningún problema
+
+vale y así como existe este juego pues
+
+hay muchos otros que solamente tenemos
+
+que descargar que están gratis en la red
+
+y ponerlos en nuestra android civivox
+
+vale listo vamos a salir de acá y ya
+
+está con esto tendríamos la demostración
+
+de lo que podemos hacer con estas cajas
+
+y esto solamente podríamos decir que es
+
+lo que a mí se me ocurrió lo que yo
+
+utilizo y lo que me gusta hacer jugar un
+
+poco de videojuegos retro poder
+
+programar algún microcontrolador poder
+
+hacer un documento de oficina y todo en
+
+mi android civivox que como les decía
+
+esto solamente son algunos usos les voy
+
+a compartir de nuevo
+
+mi presentación
+
+y bueno entonces tendríamos aquí la
+
+demostración
+
+de todos estos usos posibles que yo le
+
+he dado a la tarjeta educación
+
+desarrollo y recreación pero también
+
+podríamos estar hablando de otros usos
+
+como herramientas de testing hakim ético
+
+streaming de vídeos poder utilizar
+
+incluso código para poder tener ahí
+
+nuestro centro de recreación de vídeos
+
+música música perdón audios y demás
+
+temas que nosotros queramos desarrollar
+
+con esto también se puede hacer una
+
+personalización bien interesante y poder
+
+correr incluso cuestiones como twitter o
+
+webs para que nosotros podamos ver
+
+nuestro sistema como si fuera algún otro
+
+no que tenga otro aspecto ok y bueno
+
+aquí viene algo bien interesante y bien
+
+importante con lo que queremos cerrar
+
+esta charla cuáles son los alcances y
+
+beneficios el primero de ellos que yo
+
+creo que es muy importante es reducir la
+
+brecha tecnológica
+
+por quizá
+
+a veces pensamos pues que que todos
+
+tenemos el mismo acercamiento con la
+
+tecnología y no lo es para nada existen
+
+comunidades yo creo que en toda
+
+latinoamérica en que aún es posible
+
+tener pues población que no tiene este
+
+acercamiento y nunca ha tenido un
+
+acercamiento con una pc y obviamente
+
+esto está haciendo que hay una brecha
+
+tecnológica bastante grande pues con
+
+este tipo de sistemas creo que podríamos
+
+reducir un poco está esta brecha
+
+tecnológica obviamente sustentado todo
+
+en el uso de software libre que otro
+
+beneficio alcance tiene esta computadora
+
+ya lo hemos repetido muchas veces yo
+
+creo que podemos armar nos una pc de muy
+
+bajo costo y tener la funcionalidad de
+
+ella sin ningún problema obviamente ese
+
+es un beneficio económico bastante bueno
+
+y realizar tareas escolares y de home
+
+office sin ningún problema como drone
+
+ustedes también podríamos pues adaptar
+
+este tipo de peces a lo que nosotros
+
+queramos utilizar
+
+personalizarla es flexible podemos
+
+nosotros migrar a sistemas como lo
+
+vieron ustedes ahorita son basta con
+
+quitar la micro sd poner otra con otro
+
+sistema operativo y ya vamos a tener una
+
+computadora totalmente diferente
+
+utilizando otro sistema es útil para
+
+otra cuestión y obviamente quiero pensar
+
+que con esto se puede hacer maravillas
+
+en cuestiones de espacios o de áreas
+
+pensadas para el desarrollo de este de
+
+estos temas laboratorios algunas salas
+
+algunas aulas espacios informáticos e
+
+incluso algunos espacios mail que donde
+
+podríamos tener este tipo de sistemas en
+
+donde yo pueda ejecutar por ejemplo
+
+algún software para impresión 13 en
+
+donde pueda estar programando arduino
+
+raspberry pipe y ccoo y entonces pueda
+
+llevar este conocimiento a las aulas a
+
+estos espacios adecuados con todo el
+
+beneficio con todas las características
+
+y con toda la libertad que nos permite
+
+el software libre y bueno básicamente
+
+esto sería todo de mi parte y nada más
+
+quiero terminar precisamente
+
+pues argumentando que como tal la
+
+computadora en una caja era una android
+
+civivox y bueno espero que les haya
+
+gustado espero haya sido de utilidad
+
+esta información que yo les he
+
+proporcionado y cualquier cosa ahí está
+
+mi nombre está mi correo electrónico
+
+créanme que cualquier duda o pregunta
+
+que me hagan la voy a contestar con
+
+mucho gusto me va a dar mucho gusto
+
+saber que alguien más está interesado en
+
+este tipo de sistemas pues muchas
+
+gracias eso sería todo de mi parte
+
+muchas gracias de nuevo por la
+
+invitación a éste flisol bogotá 2022 y
+
+creo que podemos empezar con la ronda de
+
+preguntas
+
+perfecto muchas gracias mario entonces
+
+te invito a que por favor nos compartas
+
+tu cámara para claro que sí gracias
+
+entonces tenemos algunos comentarios y
+
+algunas preguntas de las personas que
+
+nos están siguiendo por facebook o
+
+twitter y por youtube entonces voy aquí
+
+a
+
+comentar bueno hay hubo comentarios
+
+mientras tú estabas
+
+explicando y ya hay uno como estos de
+
+fulvio hay el que nos decía que yo puedo
+
+ver canales internacionales no sé si es
+
+una afirmación o es una pregunta pero
+
+bueno si es una pregunta cómo responder
+
+si de hecho fulvio ariel muchas gracias
+
+por tu comentario por estar atento a
+
+esta charla claro que se puede dentro de
+
+estos sistemas operativos hay una
+
+extensión que se llama cody y cody me
+
+permite precisamente poner complementos
+
+add ons se llama en particular y tú
+
+puedes encontrar estos complementos en
+
+internet que ya te ofrecen estos canales
+
+internacionales e incluso de algunos
+
+programas de paga entonces por ahí
+
+puedes agregar los complementos y tener
+
+una televisión como si fuera con una
+
+antena de cable de televisión por cable
+
+internacional es sin duda cody se llama
+
+la plataforma k o de código
+
+ok perfecto entonces aquí
+
+ese es el nombre de cierto código el que
+
+se está presentando en ese momento lista
+
+entonces
+
+parientes esperamos que puede hacerte
+
+útil también hay otra de oscar fabián
+
+ que vuelve a preguntarnos por el
+
+costo de estas tv box
+
+o qué bueno hay muchísimas marcas
+
+muchísimos modelos depende del
+
+almacenamiento de la ram que tienen
+
+del modelo de la marca la que yo tengo
+
+la que pudimos ver ahora en
+
+funcionamiento es una 'tv box mx y esa
+
+me costó 500 pesos mexicanos yo estuve
+
+buscando por ahí la conversión y si no
+
+me equivoco vendrían siendo
+
+aproximadamente
+
+95 mil pesos colombianos eso me costó a
+
+mí esta 'tv box que hay unas un poquito
+
+más económicas y también un poquito más
+
+elevadas
+
+ok hay otra pregunta y nos pregunta qué
+
+tal es la navegación o el uso de
+
+navegadores dentro de un atril box claro
+
+creo que también hay otra el asunto que
+
+tiene que ver con la reclusión de vídeos
+
+en youtube como en cualquier canal de
+
+vídeo y excelentes preguntas y la
+
+navegación es buena siempre y cuando
+
+consideremos también el uso de un
+
+navegador adecuado sabemos que los
+
+navegadores basan su funcionamiento en
+
+el consumo de la memoria ram entonces
+
+hay que tomarlo en cuenta si nosotros
+
+queremos una 'tv box para poder hacer
+
+esta cuestión de reproducción de vídeos
+
+en alguna plataforma o hacer navegación
+
+en internet como tarea principal tenemos
+
+que enfocarnos en una 'tv box que
+
+precisamente tenga suficiente memoria
+
+ram que si existe no hay desde un giga
+
+de ram 2 4 gigas y obviamente eso va a
+
+hacer que la reproducción sea un poco
+
+más fluida como todo como si fuera una
+
+pc convencional entre menos memoria ram
+
+tengamos va a ser consumida por él
+
+y por ahí podríamos tenerla algún
+
+navegador también recomendado es el
+
+chromium o mozilla que ya viene incluso
+
+en algunas de las de los sistemas
+
+operativos como armyan que ejecuta yo en
+
+este momento y con eso yo creo que no va
+
+a tener ningún problema
+
+listo perfecto
+
+entonces
+
+bueno dentro de los comentarios
+
+ahí también veo que hay como polémica
+
+con el tema todavía de la compra de los
+
+chips y esta problemática que tú nos has
+
+compartido de los microchips como es
+
+escenario maría digamos las pedanías
+
+es un tema bastante interesante bastante
+
+polémico también porque pues podría
+
+entrar en juego muchas cosas cuestiones
+
+económicas políticas
+
+pero bueno la escasez es una realidad de
+
+hecho como comentaba el tema de las
+
+computadoras el tema de incluso plantas
+
+armadoras de autos todo lo referente al
+
+mundo de la electrónica que ocupará como
+
+tal microchip se ve afectado e incluso
+
+he visto que algunos desarrolladores por
+
+ejemplo de placas de circuitos han
+
+estado comprando por ejemplo arduino
+
+simplemente para poder extraer el micro
+
+microcontrolador y poder integrar la
+
+otra placa entonces yo creo que es un
+
+escenario que pues si va a tardar un
+
+poco en estar de nuevo como como era
+
+antes en que podemos encontrar los micro
+
+sin ningún problema pero bueno también
+
+es muchas posibilidades no creo que
+
+siempre pues nosotros somos seres que
+
+siempre podemos adaptarnos a las
+
+situaciones y gracias a este tipo de
+
+problemas nacen soluciones bastante
+
+interesantes creo que también la
+
+pandemia trajo este desarrollo
+
+tecnológico o quizá el hecho de poder
+
+adaptarnos con las tecnologías que
+
+tenemos
+
+pues también quiere decir que podemos
+
+sacar lo mejor de este tipo de
+
+cuestiones y pues yo creo que hay que
+
+seguir haciendo eso buscar alternativas
+
+apostar obviamente al software libre y
+
+seguir trabajando para que esto mejore y
+
+pues día con día
+
+muchísimas gracias mario entonces pues
+
+aquí creo que estamos viendo que el tema
+
+de la computación es un tema político
+
+como lo es el software es un tema que
+
+nos invita a tener conciencia sobre el
+
+mismo vemos que todo este hardware que
+
+usamos para nuestras tareas de
+
+telecomunicaciones debe procesar se debe
+
+extraer zinc inicialmente de algún sitio
+
+de un país y obviamente en el contexto
+
+global todo lo que pase entre los países
+
+pues es algo que afecta a todo el mundo
+
+en todos lados entonces
+
+bueno muchas gracias mario por este
+
+recurso que nos acaba de compartir yo
+
+también que así como wow creo que existe
+
+la tarea de sentar de hacer esa tarea de
+
+hacking duro y puro y necesario de poder
+
+resolver las cosas de la manera también
+
+digamos bien
+
+recursiva en la palabra que encuentro en
+
+este momento para esto entonces bueno ya
+
+saben el costo más o menos 95 mil 100
+
+mil pesos colombianos
+
+android civivox que es el caso que
+
+destaca este recurso que nos diste de la
+
+del canal donde podemos conseguir
+
+digamos las distros para esta tarde m
+
+ahí están están el chat también para que
+
+y están grabadas en este en esta misión
+
+la pueden ver estuvieron estuvimos dando
+
+algunos comentarios que nos compartía
+
+mario importantes para ello y bueno no
+
+que no más los invitamos al
+
+descanso vamos a estar ausentes un rato
+
+mientras organizamos para volver a
+
+nuestro segundo bloque que es el bloque
+
+de la tarde vamos a continuar con la
+
+charla liberación de software y
+
+legalidad por mares marilisa blanco
+
+ella es abogada y dibujante especialista
+
+en propiedad intelectual entonces
+
+volvemos a las 2 de la tarde que en este
+
+canal trisquel a ustedes muchísimas
+
+gracias a mario nuevamente muchas
+
+gracias y un gran saludo aquí desde
+
+colombia gracias saludos desde mexico
+

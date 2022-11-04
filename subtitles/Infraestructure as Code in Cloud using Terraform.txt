@@ -1,0 +1,2460 @@
+es
+
+ingeniero de sistemas
+
+de box en edad
+
+bueno buenos días a todos
+
+bueno vamos a ver si aprendemos un
+
+poquito hoy quiénes de ustedes ya han
+
+escuchado en algún momento que este
+
+reforma han tenido la oportunidad de
+
+cacharrear o jugar con tierra forma en
+
+levanta la mano alguien sabe que es
+
+bueno listo
+
+bueno les voy a contar un poquito de mí
+
+y yo trabajo actualmente como de boxing
+
+ginger trabajo para andaba bogotá en la
+
+base una compañía multinacional digamos
+
+que la cultura que se trabaja dentro de
+
+indap para trabajar lo que es the box es
+
+muy diferente a lo que se conoce como
+
+the box
+
+en empresas colombianas digamos lo digo
+
+es porque la cultura de nosotros en
+
+colombia es como sacar todo muy rápido
+
+hacer las cosas lo más rápido posible
+
+pero perdiendo también el valor de lo
+
+que es la parte técnica entonces digamos
+
+que es un ambiente muy chévere y les voy
+
+a contar un poco cómo como lo que lo que
+
+hacemos
+
+mi background digamos que yo llevo como
+
+tal como de boxing tres meses voy a
+
+cumplir cuatro meses realmente y todo me
+
+va brawn estaba enfocado en
+
+administración como sysadmin como temas
+
+de de administración de servidores linux
+
+windows y he metido como en ese
+
+inframundo de que solamente clic clic
+
+clic y también por la parte de windows
+
+que ustedes y yo creo que lo conocen que
+
+todo es como clic clic y cuando ocurre
+
+algo se va a meter uno por debajo y no
+
+sabes lo que tiene que hacer estas son
+
+mis redes sociales usted me pueden
+
+encontrar por por twitter como google
+
+edwin o si me buscan por linkedin me
+
+pueden encontrar como edwin no lo tengo
+
+y pues cualquier duda que tengan o de
+
+pronto que no lo pueda resolver en esta
+
+sesión pues podemos luego hablar esta va
+
+a ser como es nuestra agenda entonces
+
+vamos a charlar un poco lo que es como
+
+una contextualización el entender cuál
+
+es el problema que va a resolver terraf
+
+o no o qué es lo que nos puede ayudar a
+
+resolver te razón
+
+cuáles son los principios de
+
+infraestructura como código o
+
+infraestructuras con el que esté reform
+
+y que es infraestructura scope cómo
+
+trabaja te razón y vamos a ver si nos
+
+alcanza al tiempo que estamos un poquito
+
+colgados para hacer un un laboratorio
+
+para mostrarles qué hacemos y digamos
+
+que por el tiempo también yo creo que lo
+
+vamos a hacer solamente en mayo
+
+vamos a desplegar una máquina en atxuri
+
+y ver cómo funciona todo desde tierra y
+
+cómo es tan fácil hacerlo desde código
+
+yo sé por lo que ustedes me respondieron
+
+hace un momento que hay algunos que no
+
+saben no tienen ni idea que este razones
+
+están así como otra vuelta pero vamos a
+
+aclarar un poquito eso
+
+entonces la contextualización que
+
+ocurría o que ocurre aún en compañías
+
+que de pronto todavía no han entrado a
+
+la parte de trabajar como como la
+
+agilidad como la las metodologías ágiles
+
+y lo que es de box y lo que es un side
+
+rehabiliten ginger digamos que son son
+
+dos cosas diferentes en la parte de
+
+ebooks es más como la cultura de que las
+
+cosas se hagan bien de que las cosas se
+
+hagan teniendo en cuenta que yo tengo un
+
+equipo de desarrollo de software y tengo
+
+un equipo de infraestructura y que en la
+
+mitad está como esa ese rol de dibbuks
+
+que lo que hace es engranar que todo
+
+funcione bien de lado y lado porque hay
+
+empresas donde todavía está esa barrera
+
+donde no es que la culpa es del
+
+desarrollador no es que la culpa es de
+
+infraestructura entonces ocurre algún
+
+problema en alguna aplicación ese
+
+problema se lo trasladan uno que es el
+
+infraestructura de infraestructura dicen
+
+no pero es que en el servidor todo está
+
+funcionando bien yo creo que el servicio
+
+está arriba eso es un problema de
+
+desarrollo y se lo pasan a desarrollo y
+
+eso es lo que hace que muchas empresas
+
+no puedan hacer continuos si ustedes
+
+miran de pronto netflix a estas
+
+plataformas que hoy están saliendo con
+
+un movimiento muy rápido y crecimiento
+
+muy rápido por ejemplo rápido ellos
+
+pueden hacer despliegues en producción
+
+de alrededor de 100 200 despliegues de
+
+cambios en producción entonces qué es lo
+
+que ocurre antes de que ocurriera de que
+
+existiera la infraestructura como código
+
+y lo que se hacía era ingenieros
+
+necesitamos que ustedes nos ayuden a
+
+montar un servidor nuevo que se hacía
+
+con este servidor nuevo pues tenía que
+
+pasar para hacer un setup del servidor
+
+hacer una configuración a nivel de red
+
+buscar al ingeniero de redes que
+
+necesitamos que tenga passarella
+
+portales puertos para que se pueda
+
+exponer el servicio instalar y
+
+configurar software
+
+pero entonces digamos que luego de que
+
+se desarrolla la infraestructura como
+
+código entonces ya se puede identificar
+
+que es un proceso que se puede
+
+desarrollar donde se puede postear donde
+
+se puede crear diferentes ambientes y
+
+ser repetitivo con el mismo código eso
+
+lo vamos a ver más adelante entonces
+
+digamos que por eso la imagen que
+
+tenemos ahí abajo se alcanzan a ver la
+
+es que antes era como preparar los
+
+servidores era un alto costo de recursos
+
+humanos
+
+y mucho esfuerzo mucho esfuerzo y tiempo
+
+y como mayor posibilidad de errores
+
+humanos ya que pues uno de alguna manera
+
+aunque haga el proceso tres veces en
+
+algún momento puede volver a cometer un
+
+error y con una infraestructura es con
+
+esto se puede llegar a evitar
+
+entonces que esta reforma que es
+
+infraestructura como código tierra forma
+
+es un lenguaje desarrollado por hatch y
+
+cort es un lenguaje desarrollado en
+
+gowland
+
+y básicamente lo que nos permite es
+
+definir infraestructura a través del
+
+código
+
+y la infraestructura como código nos
+
+permite administrar infraestructura
+
+basada en código en lugar de hacerlo de
+
+forma manual
+
+digamos que la infraestructura como
+
+código nos permite precisamente tener
+
+versión a miento de la infraestructura
+
+que si nosotros vamos al modelo
+
+tradicional tú montas un servidor si lo
+
+vamos a hacer como una parte más básica
+
+en los talleres que de pronto ustedes
+
+hacen si es también ingeniería
+
+seguramente tienen un virtual box montan
+
+una maquinita virtual y esa maquinita
+
+virtual tiene que hacer clic
+
+configurarla configurar tarjeta de red
+
+configurar qué es lo que va a hacer esa
+
+maquinita y a la final tienen que
+
+destruirla
+
+y si tienen que volver a montarla antes
+
+tienes que otra vez volver a hacer clic
+
+clic clic volver a configurar tarjeta de
+
+red ya más ese tipo de cosas es lo que
+
+nos resuelve infraestructura como código
+
+y nos permite versionar que si yo tenía
+
+inicialmente esa maquinita virtual con
+
+dos gigas de ram entonces la puedo
+
+cambiar a 4 y solamente cambiando una
+
+línea de poder que nos permite hacer
+
+orquestación y
+
+integración continua y despliegue
+
+continuo que si nos da tiempo lo vamos a
+
+alcanzar a ver alcanza a preparar como
+
+un pequeño taller citó
+
+entonces cuáles son los principios de
+
+infraestructura como código y que es en
+
+realidad lo que nos resuelve esto
+
+digamos que es fácil reproducirla
+
+son sistemas que son desechables o sea
+
+si yo el día de mañana no la quiero la
+
+puedo eliminar con un simplemente con un
+
+simple comando la eliminó y el día de
+
+pasado mañana si la necesito nuevamente
+
+vuelvo y el punto de comando y golpe la
+
+subo sin problemas
+
+el sistema es consistente eso quiere
+
+decir que que lo que yo despliegue una
+
+dos o tres mil veces va a ser
+
+exactamente lo mismo
+
+el proceso puede ser repetido
+
+precisamente por eso porque yo puedo
+
+volver a construirla las veces que sea
+
+necesario
+
+y poder hacer cambios a medida que
+
+estamos en caliente sin perder mucho
+
+tiempo
+
+entonces uno de los conceptos claves es
+
+la ide en potencia
+
+digamos que si se dan cuenta en el gif
+
+si no alcanzan a ver una infraestructura
+
+y de impotente es aquella que si yo
+
+necesito hacer un cambio o necesitó
+
+desplegar infraestructura nueva me
+
+responde de acuerdo a lo que yo le estoy
+
+enviando entonces qué significa eso
+
+si ustedes se dan cuenta que
+
+si puedo colocar aquí como un
+
+un punto de vito
+
+entonces en la noche en potente si yo
+
+quiero provisionar tres máquinas
+
+virtuales
+
+y yo ya tengo digamos que actualmente
+
+tengo tres máquinas virtuales ya creadas
+
+y esas tres máquinas virtuales quiero
+
+volver a aplicar esa misma configuración
+
+pero como no residen potentes entonces
+
+el resultado hacia lo que yo estoy
+
+esperando tres máquinas virtuales y me
+
+va a resolver seis eso significa que no
+
+es siguen potentes entonces ustedes se
+
+dan cuenta en la idea en potencia es que
+
+yo puedo volver a desplegar esas mismas
+
+tres máquinas y no hay campo puede ser
+
+que necesita eliminarlas y volver a
+
+reconstruir las porque el cambio lo
+
+amerita pero va a darme el mismo
+
+resultado de las tres máquinas que yo
+
+necesito por eso este es este tema
+
+necesita que está aquí es como impotente
+
+es está listo casi listo está listo casi
+
+listo la misma respuesta mientras que él
+
+no la y no vida en potencia es yo le
+
+pregunto a la infraestructura que tengo
+
+esta lista me responde casi lista vuelvo
+
+y le pregunto y me responde con otra
+
+respuesta si está cambiando la
+
+infraestructura y no está haciendo lo
+
+que yo necesito que hago que solamente
+
+lo que yo quiero llegar ahora el cambio
+
+y no me afecte nada más esa es la idea
+
+en potencia
+
+ahora lo otro es infraestructura
+
+inmutable entonces que significa que sea
+
+inmutable
+
+entonces yo tengo una versión 1 de mi
+
+infraestructura que son 3 máquinas
+
+y quiero aplicar un cambio entonces
+
+digamos que estamos en la versión 1 y
+
+ahora voy a aplicar el cambio de la
+
+versión 2 de la infraestructura que
+
+tengo desplegada entonces tengo
+
+provisionados y ustedes se dan cuenta
+
+quién es versión 1 es la que está ahí y
+
+cuando voy a aplicar el cambio no puede
+
+realizarlo
+
+entonces en la infraestructura inmutable
+
+lo que ocurre es que voy aprovisionar
+
+esas tres máquinas nuevamente y es lo
+
+que estábamos viendo ahorita de la idea
+
+en potencia que que va como de la mano
+
+de esto yo tengo la versión 1 voy a
+
+desplegar la versión 2 y el encuentra
+
+que hay un cambio que amerita que la
+
+infraestructura se destruya y vuelva y
+
+se construya pero el resultado va a ser
+
+exactamente las mismas tres máquinas que
+
+yo estoy construyendo entonces esto hace
+
+que cuando lo provisiones de eliminar
+
+las tres primeras máquinas y luego me
+
+construye las otras dos las otras tres
+
+máquinas con la versión 2 esto me quedo
+
+con mis mismas tres máquinas con la
+
+segunda y con la segunda versión de
+
+configuración
+
+listo en la infraestructura como código
+
+digamos que hay algunos algunas
+
+herramientas que utilizan un lenguaje
+
+imperativo y otros que son declarativo
+
+entonces digamos que un tipo de lenguaje
+
+imperativo este razón
+
+y otro lenguaje imperativo podría ser
+
+como cuando uno crea
+
+un contenedor en endo que se utiliza
+
+también lenguaje imperativo si se
+
+quieren aprovisionar un clúster de
+
+cornetes también se utiliza lenguaje
+
+imperativo cuando es declarativo porque
+
+digamos el imperativo es
+
+instrucciones explícitas el sistema es
+
+estúpido tu eres inteligente porque
+
+digamos que es cuando ustedes van a
+
+alguna documentación de algún de
+
+microsoft- de tierra con telesur y de
+
+pronto hay un paso a paso que tú tienes
+
+que seguir para que se ejecute entonces
+
+eso hace que si se comete algún error
+
+pues tú puedes dirigirte a la
+
+documentación y te dice exactamente que
+
+lo que tienes que hacer pero digamos un
+
+lenguaje declarativo podría ser un
+
+script en base
+
+simplemente que tú creas un escrito le
+
+pones un punto de sh pero todo lo que
+
+hay dentro de ese archivo es lo que tú
+
+dices que tiene que hacer entonces
+
+describe la salida el sistema es
+
+inteligente tú eres tanto podría ser
+
+porque porque tienes que tener claro
+
+exactamente qué es lo que quieres que
+
+haga
+
+entonces digamos que
+
+básicamente el sistema imperativo es
+
+algo procedimental que yo tengo que
+
+hacer como un paso a paso y así mismo él
+
+se ejecuta es decir solamente tengo que
+
+decirle cómo hacerlo mientras que en el
+
+lenguaje declarativo yo tengo decirle yo
+
+tengo que decirle a lo que estoy
+
+programando que tiene que hacer
+
+listo entonces cuáles son algunas
+
+ventajas de utilizar infraestructura
+
+como código lo primero bajo costo de
+
+infraestructura
+
+hay un incremento en la velocidad de
+
+despliegues por eso lo que les comentaba
+
+hace un momento rápido
+
+netflix bueno todas las plataformas que
+
+están saliendo que tienen un crecimiento
+
+muy rápido es porque utilizan
+
+precisamente infraestructura como como
+
+tenemos disminución de errores
+
+control de cambios podemos hacer control
+
+de cambios y control de cambios en nivel
+
+de años de código tenemos visibilidad
+
+repetir repetir repetitividad es decir
+
+que yo puedo repetir lo mismo varias
+
+veces de colaboración cuando yo
+
+despliega una infraestructura yo solo
+
+como lo que estaba volvamos al ejemplo
+
+del virtual box yo despliego mi máquina
+
+virtual yo solito yo sólo puedo
+
+lo único que lo puede manipular mientras
+
+que utilizando una estructura como
+
+código yo puedo subir es un repositorio
+
+compartirlo con otros ingenieros y que
+
+ellos también puedan hacer cambios sobre
+
+la misma infraestructura y no dependa
+
+solamente de mí
+
+exportable entonces lo mismo porque yo
+
+tengo el código en un repositorio
+
+simplemente lo tendría que descargar
+
+editarlo volver a subirlo es consistente
+
+y es seguro porque también podemos hacer
+
+verificación de de temas de seguridad de
+
+lo que se ocurriendo en el código si yo
+
+estoy exponiendo alguna llave de
+
+seguridad o algún acceso está también yo
+
+creo que ahorita sí nos podemos ahorrar
+
+hay herramientas que le permiten a uno
+
+es cambiar este repositorio y saber si
+
+ese repositorio de algún problema de
+
+seguridad en el código que yo estoy
+
+subiendo y si es mejor hacer un cambio
+
+antes de pasar la producción
+
+estas son algunas de las herramientas
+
+que existen para la parte de
+
+infraestructura como código no sé si me
+
+peino ior de pronto moverlas las
+
+imágenes de la cámara para que podamos
+
+ver el cuadrito
+
+muchas gracias
+
+y algunas de las más conocidas digamos
+
+como chef o pet sol estar en este club
+
+formation que cloud formation es como
+
+esa suite de infraestructura como código
+
+del propio amazon para su
+
+infraestructura en amos
+
+está el cloud development kit que se
+
+básicamente es como esa up y que le
+
+permite a uno jugar con la
+
+infraestructura que está dentro de
+
+dentro de la w s
+
+esta canción telephone y volumen con el
+
+que vamos a estar jugando vuelva a ser
+
+terra from y si ustedes se dan cuenta
+
+que lo que yo les estaba comentando lo
+
+que es infraestructura mutable inmutable
+
+lo que tienen declarativo imperativo que
+
+si sean venta algunos aquí que son
+
+declarativos e imperativo y el que
+
+estamos mirando kong hsi core para
+
+chicos language es declarativo
+
+si ustedes se dan cuenta que también
+
+dice que la arquitectura es tipo cool o
+
+bus qué significa eso cuando es
+
+infraestructura es arquitectura de tipo
+
+cool
+
+significa que funciona no sé si de
+
+pronto saben cómo funciona una consola
+
+de antivirus
+
+alguien sabe lo bueno básicamente es una
+
+infraestructura como cliente servidor es
+
+decir yo tengo que tener un servidor que
+
+es el que envía las órdenes y tengo que
+
+tener un cliente entonces digamos que
+
+para que funcione ese esa red de
+
+respuesta dentro del servidor destino
+
+tiene que existir un agente
+
+este agente es el que se encarga de
+
+recibir las peticiones que le están
+
+pidiendo el servidor que se actualice
+
+con terra phone tenemos un tipo push es
+
+decir yo solamente le envío las
+
+peticiones y él responde lo que tiene
+
+que responder y ejecutar lo que tiene
+
+que ejecutar sin necesidad de que exista
+
+un agente dentro del servidor
+
+listo entonces ya vamos acercándonos al
+
+hotel
+
+pero es importante que ustedes conozcan
+
+como esto que les estoy contando porque
+
+porque eso les va a permitir en el
+
+momento en el que ustedes estén
+
+trabajando con esto puedes entender cómo
+
+funciona por debajo si no solamente en
+
+contarlo porque eso es eso es importante
+
+entonces como trabaja te razón
+
+básicamente tenemos
+
+1er round provider entonces este razón
+
+tiene alrededor de 1200 providers que
+
+son los providers básicamente esos esas
+
+infraestructuras que yo puedo modificar
+
+utilizando otra razón por ejemplo se
+
+puede utilizar como virtual box se puede
+
+utilizar con bing guard se puede
+
+utilizar con las nubes con las
+
+diferentes no es con la nube de huawei
+
+con la nube de asur una nube de amazon
+
+con google cloud con alibaba cloud con
+
+los diferentes proveedores que ustedes
+
+conocen a nivel de infraestructura y la
+
+mayoría de los proveedores están dentro
+
+de lo que está en terra phone
+
+digamos que sólo lo pueden ver desde el
+
+registro de teléfono desde terra forms
+
+rey street se centra en la terraza
+
+registre déjenme ver si les puedo
+
+compartir el enlace
+
+usted se pueden meter a tierra font
+
+registre
+
+soy
+
+y listo
+
+e intentamos ingresar acá para que
+
+ustedes vean
+
+básicamente aquí es como la base de
+
+todos los probadores y nosotros vamos a
+
+buscar providers se dan cuenta que aquí
+
+está la w s asur google goberné te salió
+
+a
+
+cónsul que es también de tierra forma
+
+funciona perdón también es de hachiko
+
+funciona como una especie de
+
+vernet es que también utilizan con no
+
+más es mira aquí está oracle cloud
+
+bueno hay un montón o sea si se acuesta
+
+aquí tenemos 41 páginas de muchos
+
+proveedores con los que se puede jugar
+
+con terrazo
+
+digamos también yo estuve en un proyecto
+
+donde estábamos trabajando con el mundo
+
+atlas que montó atrás es si conocen la
+
+base de datos mundo entonces mundo atrás
+
+es como la base de datos en cloud
+
+directamente de y también hay un
+
+proveedor para poder administrar esa
+
+infraestructura desde tierra te permite
+
+jugar con todas las configuraciones que
+
+tienen que tienen provider en este caso
+
+era montgó y desde código entonces es
+
+súper su versión para poderlo trabajar
+
+en diferentes equipos
+
+perfecto
+
+listo volvemos acá
+
+entonces básicamente
+
+qué razón tiene tres pasos fundamentales
+
+uno que es escribir el código escribir
+
+lo que usted quiere que hagas
+
+infraestructura
+
+ejecutaron un comando de planificación
+
+que lo que te va a mostrar es qué es lo
+
+que va a hacer o posiblemente va a ser
+
+esa infraestructura y luego si tú es que
+
+todo está bien lo aplicas y cuando
+
+aplicas ese cambio puedes estar en ese
+
+ciclo del plan aplicar plan a plan plan
+
+a plan con anna blight y cuando ya no lo
+
+necesitas más simplemente la destruyes
+
+entonces eso era como lo que les contaba
+
+hace un momento que antes de que
+
+existiera te razón entonces estaba un
+
+team un equipo al que se le hacía el
+
+requerimiento de una nueva
+
+infraestructura y ese equipo era el
+
+equipo de tello es el equipo de té y en
+
+muchas compañías aún que ese que dice
+
+cuáles son los requerimientos que tiene
+
+que tener esa infraestructura que se
+
+crea en el diagrama el diagrama la
+
+infraestructura que se quiere desplegar
+
+eso se lleva a un comité de cambios el
+
+comité de cambio se aprueba y cuando se
+
+aprueba antes se despliega la
+
+infraestructura pero entonces digamos
+
+que con conte razón eso hace que ese
+
+proceso sea mucho más rápido porque yo
+
+ya puedo tener una aprobación a través
+
+de un despliegue continuo
+
+y yo hago una continuos integration que
+
+la integración continua de esa
+
+infraestructura y yo puedo ahí saber si
+
+lo que yo estoy ejecutando está bien
+
+está mal en algún problema si tiene un
+
+problema de seguridad si tengo que
+
+corregir algo y automáticamente
+
+despliego con solamente que le den uno
+
+que la infraestructura césped lo vamos a
+
+ver ahorita
+
+en un momento
+
+digamos que aquí ya comienza lo bueno
+
+vamos a hacer como un pequeño
+
+laboratorio y les voy a contar para
+
+mostrarles cómo proyecto de cómo está
+
+estructurado digamos que es básico
+
+porque te razón tiene muchas cosas y
+
+tiene formas de trabajar con módulos
+
+todos los módulos terminan siendo como
+
+en desarrollo una especie de función que
+
+yo puedo crear un módulo que es para
+
+crear máquinas virtuales otro módulo que
+
+solamente para crear tarjetas de red
+
+otro módulo que es para gestoras y lo
+
+único que yo tengo que hacer con esos
+
+módulos se reutilizamos pues no voy a
+
+crear un nuevo estado entonces voy busco
+
+ese módulo lo re utilizó y
+
+automáticamente me despliega toda la
+
+infraestructura
+
+entonces
+
+no sé si ahí se alcanza a ver bien no
+
+hacemos un zoom
+
+y se alcanza a ver mejor
+
+lista
+
+entonces digamos que aquí
+
+les voy a contar como más o menos como
+
+la estructura del código que
+
+bastante oscuro es terminar si puedo
+
+cambiar el tema
+
+para que no se vea
+
+oscuro
+
+por donde escribir
+
+no
+
+si lees también ya le corregí un poquito
+
+acá
+
+entonces vamos a mirar primero aquí cómo
+
+está la estructura de los de los objetos
+
+que están están creados entonces digamos
+
+que esto estaba entre un proyecto que yo
+
+tengo un archivo main que básicamente es
+
+donde yo puedo llamar los otros módulos
+
+que he construido donde puedo comenzar a
+
+crear los recursos entonces en este caso
+
+vamos a hacer como un análisis pequeñito
+
+de lo que tenemos aquí que tenemos aquí
+
+escrito
+
+a bueno pero espere el mes y los
+
+contextualizó un poquito mejor
+
+yo creo que si vemos este diagrama
+
+podemos entender mejor lo que vamos a
+
+hacer
+
+entonces vamos a hacer esto y se van a
+
+dar cuenta cuánto tiempo nos vamos a
+
+demorar y ustedes digamos que solamente
+
+creando una maquinita virtual en virtual
+
+box van a notar la diferencia y lo estoy
+
+haciendo con un proveedor cloud
+
+entonces digamos que en asur
+
+particularmente se crea un resource
+
+group que es el que agrupa como todos
+
+los recursos que yo voy a crear
+
+dentro de ese resource group hay una
+
+virtual network esa virtual network es
+
+una red privada que utiliza
+
+asur para aislar la infraestructura que
+
+se va a desplegar en cada uno de los de
+
+los de los paquetes dentro de esa
+
+virtual network yo creo subredes
+
+entonces donde yo puedo comenzar a hacer
+
+para la infraestructura vemos que aquí
+
+solamente estoy creando una máquina
+
+virtual pero si yo quiero crear
+
+front-end back-end
+
+y almacenamiento no puedo hacer esto yo
+
+tendría porque podríamos tener una
+
+subred para lustrar para el front end
+
+que podría ser un balanceador de carga
+
+son engine ex que es el que va a estar
+
+expuesto todo el tiempo internet que es
+
+el que va a recibir las peticiones y el
+
+que va a tener como esa parte isla y
+
+solamente se va a comunicar con el back
+
+end y a su vez ese va a quien va a estar
+
+en una subred diferente con unas ips
+
+diferentes y esa subred es el único de
+
+la parte el back en que se va a
+
+comunicar con la base de datos y eso lo
+
+podemos notar en otra subred a parte
+
+aislada que es donde
+
+tiene como mayor seguridad entonces si
+
+ustedes se dan cuenta que puedo tener
+
+eso separado en tres subredes sobre el
+
+front que solamente el único que se
+
+comunica con el cliente digamos que este
+
+puede ser el florent que tiene la
+
+comunicación directa con el cliente
+
+tendríamos un back-end y tendríamos la
+
+base de datos sí pero en este caso pues
+
+digamos que solamente vamos a montar una
+
+máquina virtual dentro de esa subred
+
+tenemos un security club ese security
+
+group actúa como una especie de firewall
+
+entonces ahí es donde yo defino cuáles
+
+son los puertos que va a tener abiertas
+
+a subred para que la máquina pueda
+
+recibir peticiones
+
+cuáles son los puertos que va a tener
+
+abiertos de salida
+
+si tengo que ir pues bueno tiene la
+
+tarjeta de red va a tener su disco donde
+
+va a estar el storage vamos a hacer un
+
+export de una llave ssh para poder hacer
+
+la conexión por sí
+
+y tenemos una historia donde se almacena
+
+que eso sería un buque un almacenamiento
+
+pues bueno en
+
+unasur se llama esto ahora sí en amazon
+
+se llama bucket donde vamos a almacenar
+
+el registro de lo que ocurre cuando la
+
+máquina estaba encendiendo si el
+
+diagnóstico de la máquina entonces ahora
+
+si volvemos acá
+
+si se dan cuenta yo aquí lo único que
+
+está haciendo es risto os
+
+ayudaré m que es como se llama a
+
+provider research group entonces digamos
+
+que es muy fácil seguir seguir el paso
+
+si usted digamos que vamos a hacer aquí
+
+como algo sencillo
+
+yo me voy a ir aquí a tierra firme y
+
+google y buscarte raffo
+
+tierra forma al sur resource group
+
+y aquí está
+
+entonces aquí en la documentación me
+
+dice que yo para usar o crear un recurso
+
+un resource group lo único que tengo que
+
+hacer es declarar el grueso del recurso
+
+utilizar este provider darle un nombre
+
+definir cuál va a ser ese nombre y dónde
+
+va a estar ubicado en qué localización
+
+de las zonas de disponibilidad que tiene
+
+allí
+
+y ya digamos que hay aquí hay otra
+
+información si se dan cuenta 15
+
+atributos reference
+
+dentro de esto pues ya hay otra
+
+información que uno puede utilizar
+
+para llevar información a otros a otros
+
+recursos que uno cree
+
+pero entonces vamos a ir solamente con
+
+esta parte por el momento entonces va a
+
+crear mi resource group que es el rizo
+
+el grup sería este cuadro que está como
+
+agrupando toda la infraestructura
+
+entonces vamos a crear una red virtual y
+
+esa red virtual se vamos a que un
+
+poquito de esto
+
+a esa red virtual le vamos a poner un
+
+nombre y adicional le vamos a dar
+
+un nombre que aquí estamos utilizando
+
+una interpolación
+
+esto que está aquí se llama una
+
+interpolación
+
+básicamente yo creo una variable a la
+
+cual le puedo asignar un nombre y a su
+
+vez se lo puedo asignar al nombre de
+
+esta vinton de esta virtual network lo
+
+digamos que estoy a esas variables las
+
+tenemos aquí en el archivo de variables
+
+digamos este bar prefix eso significa
+
+que en todos los recursos que yo utilicé
+
+este pre fix se va a llenar con un valor
+
+por defecto que yo he declarado que se
+
+llama el tengo
+
+es el tengo y va a quedar delante del
+
+recurso luego va a tener un terra from
+
+workspace ahorita les explico para qué
+
+se utiliza act razón workspace pero
+
+básicamente es como yo puedo separar
+
+infraestructura utilizando el mismo
+
+código
+
+y tenemos aquí
+
+en virtual net name este virtual net
+
+main también lo tenemos por acá
+
+declarado entonces aquí declaramos la
+
+variable importante siempre que se
+
+declaren variable es decir para qué son
+
+al colocar esta descripción que no es
+
+obligatorio es opcional dentro de la
+
+documentación de tarragona ustedes van a
+
+encontrar que dice opcional pero como
+
+buena práctica siempre si lo van a
+
+utilizar dejen un nombre de qué es lo
+
+que hace esa esa variable que están
+
+utilizando y aquí el tipo de dato que va
+
+a recibir
+
+digamos que ese valor que va a recibir
+
+nosotros lo declaramos
+
+dentro de un archivo que se llama 10
+
+barça entonces si se dan cuenta aquí
+
+está entonces volvemos otra vez main
+
+tenemos el la virtual net que tiene un
+
+nombre que sbinet name esa variable la
+
+declaramos dentro del archivo variables
+
+como biden dine name y el valor
+
+definitivo con el que va a quedar cuando
+
+yo despliegue la infraestructura es el
+
+que defino entre barça entonces aquí
+
+está que el nombre va a servir de más
+
+más la información que está acá que
+
+sería el prefijo que sería él tengo
+
+workspace que sería cuál es el trabajo
+
+el espacio de trabajo que estoy
+
+utilizando más el nombre que yo estoy
+
+declarando cuando despegue la
+
+infraestructura
+
+listo y así es también los otros
+
+recursos entonces aquí está la sub net
+
+vamos a necesitar una ip pública
+
+entonces vamos a crear una ip pública
+
+para que ustedes también se encuentra la
+
+granularidad que puede tener yo puedo
+
+declarar una ip pública específica
+
+digamos que hay uno podría manipular las
+
+las ips privadas pero las simples
+
+publicas normalmente cambian entonces
+
+digamos que uno puede declarar cuál
+
+puede ser la ip privada que va a tener
+
+ese recurso y la ip pública
+
+digamos que normalmente se le deja por
+
+eso a un balanceador o algo que está
+
+externo y que puede cambiar pero que por
+
+debajo se resuelve con con un diferente
+
+nombre como por ejemplo si ustedes hacen
+
+un
+
+un de ns a google seguramente les van a
+
+responder 5 o 6 ips eso es porque es un
+
+balanceador de que está recibiendo la
+
+petición porque las empresas públicas
+
+cambian entonces ellas son desechables y
+
+en la que importa es por debajo a dónde
+
+va a apuntar salas y pues también
+
+terminan siendo desechables en una
+
+infraestructura
+
+qué es cómo lo llevamos ahorita de
+
+sesión si ya no se utiliza trabajar la
+
+infraestructura y cuidarla como nos éste
+
+se han dado cuenta o han tenido el
+
+conocimiento hay empresas donde los
+
+servidores se les coloca nombre
+
+específico digamos que hay temáticas
+
+donde dice no vamos a trabajarlo con
+
+todos los los dioses griegos entonces de
+
+poner a uno ares al otro le ponen
+
+afrodita y son servidores que no se
+
+pueden tocar si le pasa algo ese
+
+servidor se cae todo el sistema de la
+
+compañía
+
+entonces es porque en este tipo de
+
+infraestructura ya no nos importa que
+
+tengas sino simplemente la puede
+
+eliminarla por volver a construir no
+
+importa lo que suba
+
+aquí entonces tenemos el network
+
+security group si ustedes se dan cuenta
+
+que ya estoy colocando como las reglas
+
+de lo que va a tener ese security group
+
+entonces es va a ser una petición por
+
+ssh esta prioridad es porque en los
+
+firewall como yo les decía ese criterio
+
+que funciona como firewall entonces
+
+entre la regla tenga un menor valor va a
+
+tener mayor prioridad para recibir el
+
+tráfico si es un maxi es un valor más
+
+alto entonces la prioridad va a ser más
+
+baja y la dirección va a ser de ingreso
+
+el acceso va a ser permitido el
+
+protocolo va a ser tcp desde donde voy a
+
+recibir esa petición desde cualquier
+
+puerto
+
+cuál es el puerto destino va a ser el
+
+puerto 22 porque vamos a conectarnos por
+
+ssh es una máquina linux
+
+cuál es la dirección desde dónde vamos a
+
+permitirlo ahorita voy a dejarla así
+
+como esta parada para ahorita mostrarles
+
+cómo podemos hacer ese cambio de s&p y
+
+que automáticamente me permita acceder
+
+sin destruir toda la infraestructura
+
+y digamos que no hay un pre fix para
+
+poder hacer la conexión
+
+la configuración de nuestra tarjeta de
+
+red entonces llegamos aquí a esta
+
+tarjeta de red está asociada si se dan
+
+cuenta aquí está azul resource group es
+
+el resort group que creamos el cajoncito
+
+grande es el nombre de ese resource
+
+group y el nombre al que va a pertenecer
+
+dentro de ese dentro de ese grupo de
+
+recursos la ubicación donde va a estar
+
+va a ser la misma ubicación que tiene el
+
+resto del grupo entonces le damos la
+
+misma locación y aquí está la ip de
+
+configuración ya es la ip privada que va
+
+a tener ese server entonces eso lo
+
+asignamos de la subred que creamos
+
+entonces a su vez tenemos la subred cuál
+
+es la idea esa sorpresa en la que va a
+
+ser asociado que hacer una ip de tipo
+
+dinámico y que va a estar asociado a la
+
+ip pública que ya creamos
+
+aquí lo que estamos haciendo es conectar
+
+la tarjeta de red al
+
+azul net y entonces aquí la tarjeta de
+
+red la estamos asociando
+
+con el aire al ac crítico perdón yo y el
+
+security group que estamos asociando lo
+
+estamos asociando esta tarjeta de red
+
+que le vamos a asignar a esa máquina
+
+para que quede dentro de esa dentro de
+
+ese espíritu grupo para que tengas esa
+
+autorización
+
+y aquí es donde vamos a crear cómo vamos
+
+a crear como un random que ese random se
+
+lo vamos a asociar al store a chacao
+
+digamos que el storage account a nivel
+
+de cloud tiene que tener un nombre único
+
+entonces por eso lo que estamos haciendo
+
+es crear un random para que cuando cree
+
+ese ese esta hora ya que no se cruce con
+
+otro que ya existe y eso puede pasar
+
+digamos que si ustedes van a crear un
+
+buque no van a crear una una historia ya
+
+acá único lo que antes no les va a dejar
+
+porque seguramente ese nombre ya está
+
+siendo usado en cualquier parte del
+
+mundo porque las nubes pública y se
+
+puede hacer desde cualquier parte
+
+entonces
+
+por eso le colocamos este rango va a ser
+
+una capa estándar
+
+y aquí es donde estamos creando como la
+
+llave privada que vamos a usar con este
+
+recurso con este tipo de recurso que
+
+éste es el primer que vamos a usarla con
+
+rsa con
+
+4.096 de de seguridad
+
+y aquí ya está como la declaración de
+
+nuestra máquina virtual si se ha dado
+
+cuenta vamos de más a menos entonces
+
+estamos en él
+
+parece no ser la palabra
+
+el research group la virtual net la
+
+subred la y la tarjeta de red la ip
+
+privada y la ip pública ahora vamos a
+
+crear la máquina virtual en la máquina
+
+virtual le estoy diciendo que cree una
+
+máquina virtual que la voy a llamar app
+
+que ese nombre vas a dar a igual
+
+asociado a lo que tiene prefix a lo que
+
+tiene el workspace a lo que tiene el
+
+nombre de la máquina virtual
+
+qué cantidad de máquinas quiero que de
+
+este tipo esta es opcional digamos que
+
+esto se utiliza si yo quiero levantar 34
+
+máquinas de las mismas pero pero ya hay
+
+que comenzar a hacer ciclos para que él
+
+pueda identificar dentro de un array qué
+
+cantidad de máquinas es la que va a
+
+crear y qué configuración va a tener
+
+cada máquina como en este caso solamente
+
+vamos a desplegar una
+
+entonces lo mismo el regiones grupo
+
+donde va estar asociado la locación
+
+donde va a ser asociado a planet word
+
+interface donde va estar asociado la
+
+tarjeta de red el tamaño de esa máquina
+
+entonces si ustedes sean no sé si saben
+
+pero en en la nube digamos que uno tiene
+
+como como un paquete de diferentes
+
+máquinas y entonces uno puede utilizar
+
+máquinas que tienen un core de
+
+procesador una giga de ram 2 core de
+
+procesador 2 gigas de ram y así
+
+sucesivamente cada uno de esos tiene un
+
+nombre es digamos en este caso vamos a
+
+utilizar una estándar de ese 1 versión 2
+
+le vamos a asociar un disco que ese
+
+disco pues va a hacer lectura y
+
+escritura de tipo premium y aquí está el
+
+lima la imagen que vamos a utilizar para
+
+que para que esa máquina se despeguen te
+
+lo vamos a desplegar con 1.18 que el
+
+buque que en la pública es canónica y el
+
+nombre es ubuntu server eso como
+
+despegarla con esa en la versión lite es
+
+de esta del
+
+1804
+
+entonces
+
+aquí ya vamos a definir como la llave
+
+privada que le vamos a insertar a esa
+
+máquina para que yo pueda luego
+
+conectarme por ssh
+
+y aquí en el export en lo que vamos a
+
+hacer es que me exporte esa llave con la
+
+que yo me va a conectar por ssh porque
+
+normalmente uno crea la llave y la llave
+
+queda expuesta ya horno la lleva un
+
+repositorio donde uno puede descargarla
+
+pero para hacerlo más rápido entonces
+
+tenemos que lo que hice fue dejarlo acá
+
+entonces si usted desea cuenta que tiene
+
+una carpeta que se llama keys entonces
+
+la idea es que cuando yo aplique la
+
+infraestructura el me despliegue cuál es
+
+la descarga cuál es la llave pública y
+
+cuál es el pen con el que yo me puedo
+
+conectar ese server
+
+aquí está entonces digamos que aquí no
+
+va a desplegar me va a descargar esa
+
+llave localmente que aquí está como la
+
+ruta que sí es diferente a vacío
+
+entonces dígame uno en contra de la
+
+información adicional ustedes aunque una
+
+bueno no sé si si no saben pero la llave
+
+privada tiene que tener unos permisos
+
+específicos para que uno pueda
+
+conectarse se hace uno sí sí la llave
+
+privada que tiene
+
+permisos adicionales a los que tiene
+
+propietario del objeto no se puede
+
+ejecutar entonces aquí lo que estamos
+
+haciéndole es que cuando él la descarga
+
+automáticamente con un provisional que
+
+se llama local excel
+
+ya lo que va a utilizar es curvas para
+
+ejecutar me un comando que le va a hacer
+
+el ch mod a la llave privada que
+
+acabamos de descargar para que me largué
+
+lista para utilizar
+
+listo
+
+este archivo back-end
+
+es muy muy importante
+
+digamos que el archivo más importante
+
+que tenemos entre rafa es el archivo t
+
+efe state el archivo efe state lo que
+
+guarda es el estado de toda la
+
+infraestructura que yo he desplegado es
+
+decir si yo despegue una infraestructura
+
+como digamos en esta máquina esa máquina
+
+se despliega y automáticamente eso lo
+
+que hace es actualizar me un archivo de
+
+estado ese archivo está docente efe
+
+state si yo lo tengo local y algo le
+
+pasa a ese archivo pero de
+
+infraestructura o sea básicamente tengo
+
+que destruirla y no tengo conocimiento
+
+de lo que hay allá a menos de que uno
+
+también puede hacer un importe o sea si
+
+la infraestructura ya fue desplegada
+
+previamente y no tengo un archivo de
+
+estado yo puedo hacer un importe de
+
+infraestructura esto también lo podemos
+
+ver acá en la documentación digamos por
+
+ejemplo esto que estamos viendo ahorita
+
+si ustedes dan cuenta que al final hay
+
+una parte que dice importa dice
+
+y listo
+
+yo creo que alcanzamos a hacer una parte
+
+está el terra from fort y aquí me
+
+permite importar el recurso que vamos a
+
+utilizar listo entonces yo creo que
+
+vamos a ejecutar la que ya me dijeron
+
+que nos queda poco tiempo
+
+entonces en terra form hay varios
+
+comandos que nosotros podemos utilizar
+
+entonces vamos a utilizar un terra forma
+
+in it
+
+st reforma in it
+
+por donde soy una carpeta de mes
+
+este teléfono init lo que va a hacer es
+
+inicializar me el backend que sería
+
+donde yo estoy almacenando el ctf state
+
+en un lugar remoto y me va a traer como
+
+la actualización de los provisiones y
+
+los módulos que yo está utilizando
+
+podemos utilizar el terror fueron
+
+válidas
+
+que ese tierra formalidad lo que va a
+
+hacer es validar que la sintaxis que yo
+
+estoy utilizando es correcta nos dice
+
+esto bien
+
+y podemos utilizar
+
+te razón
+
+[Música]
+
+efe mt
+
+que es para darle formato entonces qué
+
+hace exactamente ese terreno efe mt
+
+pongan cuidado en este archivo que se
+
+llama desde
+
+digamos aquí este si se dan cuenta todos
+
+los iguales están como en la misma
+
+ubicación todo muy bonito y a veces a
+
+uno cuando está modificando le aparece
+
+organizar entonces te razón puede hacer
+
+eso por uno
+
+se dan cuenta identificó que en el
+
+archivo main había un error y
+
+automáticamente me lo corrigió
+
+esto es esto es muy útil
+
+entonces ahora vamos a ejecutar el que
+
+rafa un plan voy a abrir un poquito más
+
+acá
+
+que el té razón plan es para ver qué es
+
+lo que pretende hacer esa discusión
+
+entonces de razón
+
+tierra forma plan
+
+y me va a mostrar la planificación de la
+
+ejecución entonces se va a bueno qué es
+
+lo que ocurre que yo tengo que decirle
+
+cuál es el archivo con el cual va a ser
+
+de ese plan
+
+yo aquí te lo pongo space
+
+qué es lo que yo les mostré hace un
+
+momento que teníamos ahí como también el
+
+workspace esto significa que yo tengo un
+
+ambiente de desarrollo no hay producción
+
+y uno de iwate y yo solamente cambiando
+
+el workspace donde estoy puedes pegar
+
+infraestructura en un ambiente diferente
+
+que esté reform
+
+terra form plan
+
+e
+
+pero fue un plan
+
+[Música]
+
+sí
+
+pero forlán
+
+pinos board
+
+suave esto lo que le voy a decir es que
+
+el archivo que va a utilizar para poder
+
+hacer el despliegue es el de base de
+
+punto de fars
+
+lógicamente para poder hacer esto tienen
+
+que estar conectados al cliente o sea
+
+tienen que descargarse el api client del
+
+proveedor en este caso pues sería el de
+
+ayer lo instalan y una vez lo instalen
+
+entonces simplemente hacen aceptar login
+
+en el caso de de ayer
+
+y se logran con el usuario y contraseña
+
+con el que normalmente se autentica pues
+
+digamos en este caso si se dan cuenta me
+
+está diciendo estoy planificando agregar
+
+14 recursos
+
+de esos 14 recursos entonces aquí ya
+
+está como la información de lo que va a
+
+desplegar les voy a mostrar algo puntual
+
+si se dan cuenta aquí resource group
+
+name lo que yo les había dicho el
+
+prefijo
+
+si se dieron cuenta cuando dice el de
+
+razón workspace nos decía que estábamos
+
+parados en el ambiente de 3d y el nombre
+
+del recurso pues oslo
+
+entonces
+
+para que vean que no hay truco
+
+aquí estoy en la cuenta de de asur y la
+
+suscripción que vamos a utilizar para
+
+este despliegue es esta que dice visual
+
+estudio profesional
+
+y aquí solamente hay dos que están
+
+desplegados con él tengo de otros
+
+proyectos porque es una cuenta
+
+compartida que estoy utilizando
+
+entonces lo que voy a hacer es cerrar un
+
+plan ya no vamos a hacer el plan sino
+
+que vamos a hacer la play de reforma
+
+apply y le vamos a decir que que sea va
+
+a dar
+
+file que es el archivo variables
+
+igualdad de
+
+punto
+
+jeff barça
+
+y ahí él debería volver otra vez a
+
+ejecutar todo
+
+decirme si estoy de acuerdo con lo que
+
+voy a ejecutar
+
+decirle ok he visto
+
+mientras él va haciendo esto porque ya
+
+yo creo que ese no se nos cumplió el
+
+tiempo y quiero mostrarles algo
+
+voy a meterme kit hop
+
+como me termine este
+
+en este
+
+repositorio
+
+aún no se dan cuenta ya me dice
+
+nuevamente que aplicarme 14 que agregar
+
+14 recursos que 0 para cambiar 0 para
+
+destruir que la ip pública me la dice
+
+después de que haga la playa y que la
+
+llave privada tiene un valor sensible
+
+entonces no me lo vamos a arrancar y lo
+
+que hicimos fue que me la descargara
+
+localmente es aquí simplemente le digo
+
+yes para aceptar
+
+ya están terminadas
+
+este enlace de transmisión
+
+ok
+
+vemos que queda creada para que no se
+
+queden con la incertidumbre
+
+yo creo que que finalizaban mientras se
+
+despega se demora como unos dos minutos
+
+digamos que les vamos a dar aquí y hoy
+
+son un proceso con beat hard actions
+
+para acceder si decidí que básicamente
+
+yo creo ese código los hubo un
+
+repositorio el repositorio al día que
+
+todo lo que yo esté haciendo este bien
+
+eso sería el ciaj y el cid y que luego
+
+es que una vez esté todo correcto hace
+
+el despliegue luego de una aprobación
+
+que yo voy a colocar a cualquier
+
+aprobado digamos aquí en archivos y
+
+luego vamos a ver como los que dice pues
+
+no me salió a la primera la la
+
+configuración pero entonces que estamos
+
+en el teléfono se quite line
+
+cuando yo hago un putsch sobre esa rama
+
+él automáticamente desplegado un
+
+pipeline y aquí él hace la verificación
+
+entonces corre el terra forma init
+
+verifica que si esté correctamente el
+
+terra formato se hace en terra for forma
+
+set un check
+
+ejecuta el terra for plan y aquí me
+
+muestra cuál es la planificación de lo
+
+que va a ser pero no aplica nada si se
+
+dan cuenta ahí termina
+
+y en el siguiente este lo que hace es
+
+que queda pendiente de una se hace un
+
+pull request ese público es entra a una
+
+validación y una vez se hace esa
+
+validación entonces se ejecuta el
+
+pipeline del cid y que es donde ya hace
+
+el despliegue la infraestructura en en
+
+este caso pues sería en mayor
+
+y aquí en el la playa básicamente vuelve
+
+y recorrer los mismos para confirmar que
+
+sí esté bien lo que se haya hecho en el
+
+anterior y aquí dice recursos agregados
+
+aquí dice que ya terminó si se dan
+
+cuenta ya aquí está la ip
+
+vamos a mirar aquí en los recursos
+
+y efectivamente
+
+aquí ya está de resource group
+
+y aquí está la infraestructura creada
+
+aquí están las máquinas virtuales y
+
+además una última cosita no ya nos
+
+cansamos quería conectarme a la máquina
+
+y mostrarles pero tenía que cambiar la
+
+ip pública por la que nos estamos
+
+conectando porque aquí no nos va a
+
+permitir por la ip que teníamos ahí
+
+configurada pero ahí ya solamente es un
+
+ssd h - y la llave para hacer la
+
+conexión y listo tenemos maquinaria y lo
+
+lo último ya está arriba ya no la
+
+necesito entonces éste reform
+
+cualquiera
+
+terraf dónde estoy y me destruye la
+
+infraestructura aunque tengo que decirle
+
+cuál es el archivo que tiene que
+
+utilizar
+
+ya ya vamos a terminar
+
+y listo ya es la destrucción de la de la
+
+infraestructura
+
+y pues nada pues espero que esto les
+
+sirva a ustedes estudian lo es algo que
+
+está muy demandado en el mercado y si de
+
+pronto ustedes tienen algún conocido o
+
+alguien que quiera entrar a este mundo
+
+pues simplemente me pueden contactar
+
+pasan la baja de vida en la empresa
+
+están recibiendo bastantes bastantes
+
+personas para la parte de baywatch
+
+application management entonces
+
+desarrolladores ya hay mucho todavía por
+
+hacer entonces simplemente si alguien
+
+está interesado nos puedes decir en la
+
+empresa está creciendo bastante entonces
+
+se recibe el visto bueno muchas gracias
+
+a todos
+
+[Aplausos]
+

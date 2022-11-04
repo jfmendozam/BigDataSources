@@ -1,0 +1,4636 @@
+bueno y empezamos esta nueva charla
+
+estamos otra vez quizás bogotá siendo
+
+las 3 de la tarde empezamos con la
+
+charla de un coach como aprender a
+
+desarrollar en un tutor con web
+
+technologies sin morir en el intento
+
+para eso tenemos a nuestra invitada
+
+línea castro por la línea cobas
+
+esta noche
+
+muy bien gracias por la invitación es
+
+dulce para otra vez en el año pasado
+
+dando como un previo de lo que son de
+
+touch y que en esta charla explorar un
+
+poco más de información respecto al
+
+desarrollo profundizar un poquito 29 y
+
+medio así queráis en profundizar más y
+
+vale perfecto entonces ya sin más vamos
+
+a empezar con nuestras charlas de una
+
+vez entonces si quieres compartir tu
+
+pantalla y ya puedes empezar
+
+para compartir
+
+ella
+
+muchas gracias a todos por estar en la
+
+final a mí me encanta el festival de
+
+software libre y en esta ocasión vamos a
+
+dar una charla sobre cómo aprender a
+
+desarrollar en ubuntu touch con web
+
+technologies es decir con tecnologías
+
+web sin molinelli sin morir en el
+
+intento
+
+este este título me parece bastante
+
+interesante porque
+
+hace un mes y medio más o menos
+
+decidimos desarrollando una aplicación
+
+móvil para ubuntu touch
+
+100% con tecnologías móviles e híbridas
+
+en este caso pues estamos hablando de
+
+technologies y fue bastante interesante
+
+realmente como el proceso entonces
+
+quería como documentario hablar un
+
+poquito de la free shop sobre ese
+
+proceso ya que es un tema bastante
+
+no tan conocido entonces la idea es
+
+darlo a conocer y que más personas se
+
+motiven así como me motive yo en el
+
+desarrollo de aplicaciones moldes
+
+y lo presiento mi nombre es línea yo soy
+
+desarrolladora de software tengo una
+
+especialización en desarrollo
+
+aplicaciones móviles soy entusiasta
+
+linux soy miembro de la fundación de
+
+wars soy miembro de unt city multó
+
+colombia y soy miembro de un tour me
+
+apasiona mucho las nuevas tecnologías lo
+
+que alguna manera para mí pues me
+
+permite trabajar todos los días haciendo
+
+lo que me gusta
+
+como lo comentaba pues alierta con mi
+
+hija y mucho colombia es miembro del
+
+mundo soy miembro de la fundación wars y
+
+su nombre en la funda del port of trust
+
+de la fundación te digo por eso soy
+
+líder también del proyecto de podcast de
+
+la comunidad junto colombia y desarrollo
+
+aplicaciones bajo un multi touch iban en
+
+contra en todas las redes sociales como
+
+arroba libros
+
+y bueno yo en este en esta charla quería
+
+leer un poquito lo que es su cuerpo
+
+porque sé que muchas personas les olvida
+
+el tema o digamos quiero quiero
+
+profundizar más en temas de desarrollo
+
+entonces creo que hay un poquito más
+
+rápido este cambio que las buenas indio
+
+wars lo que es la comunión es lo que la
+
+comunidad de ubuntu y ya después pasamos
+
+a lo que es el desarrollo que al final
+
+es lo que más me interesa pues digamos a
+
+explicar y lo que más me interesa que
+
+las personas realmente conocen entonces
+
+la fundación yo por la fundació pérez es
+
+la comunidad de ubuntu en este caso la
+
+comunidad de linux la la fundación y
+
+oporto se encuentra tiene base en
+
+alemania es decir está pues fundada en
+
+alemania y pues de alguna manera la
+
+misión de la fundación digo pues es en
+
+motivar es apoyar y mantener lo que es
+
+el desarrollo en su momento de lo que
+
+fue el mundo touch que fue obviamente al
+
+inicio desarrollado mantenido por lo que
+
+es la empresa canónica que es la dueña
+
+de la marca de uno
+
+y bueno gracias a los buenos digamos que
+
+la fundació dio por se siguió con el
+
+desarrollo del proyecto pero también
+
+digamos que hay parte de desarrollo
+
+parte de lo que se tuvo el desarrollo
+
+fue con digamos lo que fue la pues
+
+canonical como tal que estuvo en el
+
+desarrollo todo el tiempo y pues eso es
+
+bastante genial porque pues de alguna
+
+manera gracias a ese desarrollo fue que
+
+se continuó con la fundación vigo porque
+
+fue la fundación que tomó ese proyecto
+
+para seguirlo desarrollando hasta lo que
+
+es hoy un touch
+
+y bueno la verdad no quiero como hablar
+
+muchísimo de lo que es un fortín lo que
+
+es digamos cómo ir tanto como a ese tema
+
+porque yo quería profundizar más y como
+
+lo comentaba anteriormente en el
+
+desarrollo es lo que más me interesa
+
+pero pues si vamos a hablar un poquito
+
+lo que son un tutor también yo creo que
+
+muchas personas que me siguen en mis
+
+redes sociales yo creo que bueno me
+
+exigen en twitter en y en instagram ya
+
+no las tengo pero las sucesos que me
+
+salían de ir a esas redes sociales se
+
+dan cuenta que yo todo el tiempo su
+
+información de lo que es un mundo touch
+
+de lo que la fundación digo por si pues
+
+como sin como si parte el poder de usted
+
+entonces digamos que no es como que tú
+
+tienes que subir información en tu touch
+
+no sino que de alguna manera me encanta
+
+promover y difundir lo que es el
+
+software libre y código abierto entonces
+
+al ser parte del cuadro usted pues me
+
+permite digamos de alguna manera hacerle
+
+un poco más cómo enfocar más en ese
+
+aspecto y bueno un touch como le
+
+comentaba pues es un proyecto que está
+
+hecho y mantenido por la comunidad
+
+workforce en ese caso la fundación de
+
+beaufort
+
+prácticamente digamos que es un proyecto
+
+que se ha venido desarrollando por
+
+personas y volumen personas que manejan
+
+el tema del voluntariado en todo el
+
+mundo es decir que hay muchísimas
+
+demasiadas personas desarrollando y
+
+aportando lo que es el proyecto de
+
+multi-touch alrededor del mundo
+
+y como yo comentaba anteriormente sé que
+
+se me olviden también comentar un poco
+
+lo que es un tutor pero un tutor es un
+
+sistema operativo que está basado en
+
+linux jazz no está basado en un monto y
+
+bulto está basado en debian su sdk
+
+estaba son lo que es multi en la versión
+
+de ubuntu 16.04 y
+
+prácticamente tiene algunas herramientas
+
+con las cuales puedes agencia el
+
+desarrollo de aplicaciones móviles es un
+
+sistema 100% libre es un sistema de
+
+código abierto y esto hace que alguna
+
+manera permita también uso en la
+
+convergencia pues se puede utilizar un
+
+tutor tanto como en el dispositivo móvil
+
+la tablet y el texto
+
+y pues prácticamente digamos que es un
+
+tutor prácticamente un tutor es una
+
+versión de lo que es un tú como tal como
+
+distribución más sin embargo un tutor
+
+que tiene en su guay verdad tiene lo que
+
+es lo mío entonces es bastante
+
+interesante ver cómo se agrega es el
+
+2000 y que es el o miles tienen parte un
+
+poco de lo que no sé si muchas personas
+
+lo conocen o se acuerdan porque todavía
+
+incluso existe lo que fue un tocón
+
+en su versión las 14.04 que tenía no me
+
+acuerdo el texto que en estos momentos
+
+pero es totalmente diferente al vicio el
+
+riesgo que tome que maneja ahorita
+
+ubuntu que es el genoma
+
+y en esto está basado lo que sigamos un
+
+tutor yo entonces aparte que está
+
+basando mir y también está basado en esa
+
+ilusión de hasta que entendemos la
+
+verdad es bastante interesante
+
+y bueno como lo comentaba estar diseñado
+
+y desarrollado por muchísimas personas
+
+alrededor del mundo se manejan muchísimo
+
+muchísimo en la idea y leire extenso e
+
+integral hay muchísimos grupos diría que
+
+en los 15 el grupo de terapias punto
+
+tops y lo que es digamos el
+
+digamos ese soporte como tal que las
+
+personas todo el tiempo están haciendo
+
+entonces es bastante interesante en
+
+muchísimos grupos de diseño y de
+
+desarrollo tanto desarrollo de
+
+aplicaciones móviles cierto para esa
+
+para esa distribución como también para
+
+desarrollar las aplicaciones base pero
+
+que es un auto dodge y también del
+
+diseño y blade ibex de lo que es multi
+
+touch es bastante interesante
+
+y bueno no quiero entrar muchísimas las
+
+principales características de lo que es
+
+un touch porque
+
+pues creo que ya he hablado muchísimo lo
+
+que son las características ya en el
+
+piso el del año pasado de una charla con
+
+lo que es un tutor chip esto creo que
+
+era todo lo que necesita saber sobre un
+
+tutor y pues ahí así que muchísimo lo
+
+que son las características entonces no
+
+quiero irme como mucho a ese espacio
+
+porque ya lo toqué y mi idea es
+
+profundizar es en desarrollo porque
+
+quiero contar digamos el proceso que fue
+
+desarrollar que fue algo bastante
+
+interesante todos creo que a poner un
+
+poquito de las características no muy a
+
+fondo entonces más sin embargo si las
+
+personas que me están viendo y las
+
+personas que se encuentran
+
+viendo lo que es el tema de frisón
+
+[Música]
+
+pueden encontrar toda la información que
+
+ustedes necesiten tanto en los
+
+diferentes canales de tele como también
+
+entonces es bastante interesante que
+
+busquen esa información si alguna manera
+
+no se tocan muy muy a profundidad en
+
+esta charla y la idea es que igual yo
+
+voy a dejar digamos
+
+los links y demás para las personas que
+
+quieran ingresar y conocer un poco más
+
+de lo que es el tema de un touch y su
+
+documentación que al final también es
+
+importante tocarlo
+
+entonces como he comentado las
+
+principales características son mucho
+
+profesional es refrescante y es fácil de
+
+trabajar realmente sí es muy fácil de
+
+trabajar yo he utilizado ya mi
+
+dispositivo conjunto touch digamos
+
+100% todo el día para mis tareas
+
+normales del día a día y me ha
+
+funcionado perfectamente es muy fácil de
+
+manejar aparte porque se maneja con
+
+dispositivos móviles touch decir
+
+táctiles entonces es bastante
+
+interesante ver cómo se se acopla lo que
+
+realmente necesites
+
+y las aplicaciones según tu touch
+
+opinión creo que las críticas más
+
+importantes de un tutor es eso es su
+
+open store entonces al haber tantas
+
+aplicaciones pues digamos que montó
+
+touch en estos aumentos ofrece todo lo
+
+que tú necesitas que puede ser el otro
+
+sistema operativo diferente estoy
+
+hablando tanto como de android como de
+
+adiós entonces él ya con ubuntu touch ya
+
+tienes todo lo que necesitas es algo
+
+bastante interesante porque hace un año
+
+no pasaba eso si teníamos las
+
+aplicaciones que normalmente
+
+necesitábamos como lo es obviamente
+
+lectores que son aplicación desarrollada
+
+con cuestiones por 1.8 como tal como las
+
+fundas en lockers y
+
+tenemos el deporte teníamos también si
+
+no estoy mal en
+
+whatsapp y teníamos otro otro tipo de
+
+aplicaciones creo que mercadolibre
+
+también lo tocábamos y demás otras
+
+vuelta applications entonces bastante
+
+interesante ver cómo al día de hoy
+
+porque ya estamos la versión 20 de
+
+windows en su último rally hay
+
+muchísimas aplicaciones el sistema
+
+operativo ha cambiado por completo a lo
+
+que era hace 23 años entonces ver cómo
+
+se desarrolló es decir el proyecto es
+
+bastante interesante y creo que también
+
+comentarlo porque hace parte de sus
+
+características como sistema operativo y
+
+al final hace que sea bastante grandioso
+
+y bastante grande lo que es el un touch
+
+como tal
+
+lo comenté anteriormente las
+
+aplicaciones de las aplicaciones se
+
+pueden encontrar en la open storage
+
+digamos que tiene la versión web y la
+
+versión móvil la versión web pues es la
+
+open estar en de tú subes tu aplicación
+
+con un tutor y percibamos que ahí
+
+encuentras un sinfín de aplicaciones
+
+también pero también está la prevención
+
+para móviles es decir la prensa el
+
+propio en el que según tú touch y
+
+entonces no hay no han de ser que tengas
+
+que besar a un buscador a un navegador
+
+para ingresar la precisión y descargar
+
+esta aplicación o la aplicación de beni
+
+como tal en cuando descargas si instalas
+
+multi touch entonces es bastante
+
+interesante digamos que se deja la web
+
+como pasa lo mismo con google cuando tú
+
+vas al ganso subir en una aplicación
+
+para lo que es el desarrollo
+
+aplicaciones móviles nativas con android
+
+entonces necesitas y blesa la cúpula al
+
+en world console para poder subir
+
+digamos lo que es aplicación y manejar
+
+intimidades de los analytics y demás
+
+configuraciones para tu aplicación lo
+
+mismo pasa con un multi touch es en su
+
+opinión igual que la app store igual que
+
+la playstation y la convergencia que es
+
+prácticamente un touch esto es algo que
+
+es importante porque digamos que se
+
+podría decir que uno de los dilemas de
+
+un tutor es la convergencia entonces con
+
+un todo lo que se busca es manejar el
+
+tema la convergencia ya digamos que
+
+alguna manera se está tratando de
+
+incorporar tanto en el tema
+
+mobile como también el tema tablet y en
+
+el tema también de esta que te echo hace
+
+poco sólo quería comentar también hace
+
+poco estuve en crédit y estoy realizando
+
+unos hilos y también unos fondos que
+
+hicieran las floraciones respecto a lo
+
+que es un botón como tal y a su
+
+convergencia y me pareció bastante
+
+interesante ver cómo incluso no más
+
+solamente con un slider puedo conectar
+
+mi celular en multi touch a un hdmi
+
+monitor o monitor con el hd medio con o
+
+con otro tipo de entrada y puedo
+
+trabajar desde mi celular conectado a mí
+
+pues obviamente conectado el celular al
+
+monitor y trabajar común y corriente o
+
+al televisor sin problema y manejar todo
+
+lo que necesito 'the sun' y celulares es
+
+bastante bastante de santé me parece que
+
+de eso se trata la convergencia y me
+
+apasiona muchísimo como poco a poco sin
+
+nada digamos agregando esas
+
+funcionalidades y esas características
+
+para que más personas pues se animen a
+
+probarlo y realmente
+
+puedes animar a más personas también
+
+para que los van probar
+
+y bueno el top de dispositivos móviles
+
+no está aquí pero para mí el top de
+
+dispositivos disponibles para en estos
+
+momentos con la última reliquia desde la
+
+1
+
+la 20 y un tutor la verdad es que creo
+
+que él para mí el dispositivo top 1 es
+
+los vodafone la sola canción la cosa más
+
+preciosa que existe a mí me encanta
+
+sensibilidad es muy caro es costoso si
+
+es costoso pero es para mí no lo sé yo
+
+creo que el dispositivo más stop con un
+
+tutor ya me aparece aparte tiene
+
+muchísima funcionalidad o sea funciona
+
+el tema la autenticación en el tema de
+
+huella el tema también de reconocimiento
+
+facial o sea está creo que yo diría que
+
+al cien por ciento ese dispositivo
+
+desarrollado con un tutor es costoso
+
+pero creo que es uno de los dispositivos
+
+que para mí es sony top y que vale la
+
+pena en este caso tenemos el one plus
+
+one tenemos la veo aparecemos el
+
+firewall tenemos el nexo 5 que hace que
+
+yo tengo el panel phone y en pola fondo
+
+tenemos el último pero para mí hola
+
+fondeur ya es tarde primero porque es el
+
+mejor dispositivo que existe con un
+
+touch
+
+y ya sacó creo que ya está con su último
+
+creo que el siglo xxi mal un tumor del
+
+israelí los corazones x lo que se llama
+
+no no me acuerdo muy bien pero sé que es
+
+la última red descripción y sigue sobre
+
+la última reliz con un tú touch pues es
+
+bastante interesante es eso un celular
+
+que lo tiene todo y que para mí es como
+
+cuál lo mejor en cuanto a dispositivos y
+
+linux estamos hablando hay muchísimos
+
+más dispositivos de gama alta que son
+
+muchísimo mejores y que cumplen con
+
+otras funcionalidades pero lo que esté
+
+bola con la marca la font creo que
+
+cumple con las funcionalidades
+
+necesarias para el diario nos parece que
+
+es un dispositivo que es muy muy top en
+
+estos números y bueno ahora sí quiero
+
+oír algo que realmente me interesa
+
+ahora sí ya pasar de hablar un poco lo
+
+que es un touch y lo que es la fundación
+
+de vapores quiero adentrarme en lo que
+
+es el desarrollo aplicaciones con web
+
+technologies y quiero dar aquí un como
+
+un espacio realmente para contarles
+
+quién es desarrollar la aplicación con
+
+un tutor fue una o kings odisea o sea
+
+fue
+
+demasiado complicado y creo que ha sido
+
+lo más complicado
+
+y porque lo digo porque realmente
+
+iniciamos con una versión los voy a
+
+cambiar de versión después de esa
+
+versión nos dio error digamos la
+
+comunicación de la interacción del api
+
+con el barco del front después que hubo
+
+problemas con el tema de los iconos de
+
+los estilos de las fuentes entonces fue
+
+bastante interesante es de desarrollo de
+
+esa aplicación pero al final lo más
+
+importante es que no morimos en el
+
+intento que fue lo más importante
+
+entonces quiero comentar un poco de esa
+
+como de ese proceso tan grande que
+
+tuvimos con respecto a las personas que
+
+me estuvieran siguiendo el proyecto
+
+porque hubieron muchísimas personas que
+
+me estaban siguiendo en tweets mientras
+
+yo estaba haciendo like coin de mi
+
+aplicación incluso se nos fue la energía
+
+no es que fue una locura desde
+
+desarrollo de la aplicación por eso
+
+quiero contar porque realmente fue un
+
+proceso bastante enriquecedor y ayudó a
+
+las personas a motivar a que quisieran
+
+desarrollar aplicaciones móviles bajo un
+
+tutor mediante la suerte technologies
+
+entonces es un proceso bastante
+
+interesante
+
+y bueno no puede faltar toque obviamente
+
+un tutor que está 100% utilizado y el
+
+desarrollo y todo está 100% organizado
+
+no hay necesidad de instalar ni sdk ni
+
+variables de entorno ni configuraron
+
+minutos récord en lo absoluto único que
+
+se necesita es un editor de código o un
+
+editor de texto que éste se pueda
+
+compilar
+
+la aplicación mientras estamos
+
+desarrollando es decir un live server
+
+mientras estoy compilando la aplicación
+
+y ahí el criterio y ya es lo único que
+
+necesitamos realmente creo que no
+
+necesita tanta configuración para
+
+desarrollar aplicaciones web con un
+
+multi touch entonces es interesante
+
+porque usamos lo que no pues obviamente
+
+porque un touch está en su ambiente
+
+localizado y es un ambiente de que ese
+
+dato que está de un total que está tocar
+
+izado y el ambiente desarrolle un tutor
+
+también estado utilizado entonces un
+
+total está totalmente actualizado y
+
+utilizado a su última versión de a
+
+cuento a las últimas realice que se han
+
+manejado para el tema del desarrollo
+
+aplicaciones móviles nativas y móviles
+
+web con un tutor qué pasa que yo con el
+
+alto que liza la aplicación y ya
+
+utilizando que lo que pasa es que
+
+nuestra no va a tener que preocuparme
+
+por hacer instalaciones externas y
+
+configuraciones externas de librerías
+
+dependencias ese de casa en el caso para
+
+trabajar lo que es el tema de desarrollo
+
+móvil híbrido con un tutor eso es el
+
+poder de lo que realmente es
+
+se desarrolla súper fácil súper rápido y
+
+creo que lo más importante es que no te
+
+tienes que preocupar por instalar
+
+librerías externas y por instalar
+
+implementaciones de externas sino que lo
+
+único que necesitas es desarrollar y ya
+
+o sea no te tienes que preocupar por
+
+instalaciones básicas de las lecciones
+
+avanzadas para poder trabajar con él con
+
+el desarrollo de las aplicaciones lo
+
+cual es bastante interesante y lo cual
+
+hace que si estamos hablando respecto al
+
+desarrollo como lo es desarrollar
+
+aplicaciones nativas con android o
+
+aplicación matriz nativas con lo que
+
+sigamos xcode es totalmente diferente es
+
+totalmente rápido porque el ambiente
+
+está totalmente localizado es decir yo
+
+no tengo que instalar ni preocuparme por
+
+otro tipo de desarrollo u otro tipo de
+
+configuración de sistemas por eso es que
+
+junto touch para mí está en el top y
+
+para mí sería como el lo primero que yo
+
+utilizaría o la primera herramienta que
+
+yo utilizaría si tendría que desarrollar
+
+con la aplicación para el sistema
+
+operativo linux
+
+y bueno el uso de clave tampoco puede
+
+faltar porque el clic a veces el common
+
+la interface de un touch es decir en la
+
+línea de comandos un tutor que nos
+
+permite desarrollar el proyecto es decir
+
+crea el proyecto con los con las
+
+diferentes configuraciones que se
+
+encuentran de utilizadas cuando están
+
+haciendo la instalación de lo que es un
+
+tutor es decir me explico tenemos a
+
+digamos en lo que es un tutor verdad
+
+como tal como se está operativo como
+
+distribución linux y para poder
+
+desarrollar yo bajo ese sistema
+
+operativo tengo que hacer uso del clic
+
+para poder crear un proyecto que pueda
+
+ser soportado bajo ese bajo ese sistema
+
+operativo o bajo esa distribución linux
+
+que paz que necesito un clic hable o un
+
+clic para ello poder desarrollar y crear
+
+ese proyecto cuando yo ya creó y
+
+desarrolló ese proyecto yo ya puedo
+
+trabajar en el lenguaje que yo necesite
+
+o el que esté soportado con un puesto
+
+para un tutor como tal en este caso pues
+
+los lenguajes soportados por un tutor
+
+son aproximadamente ya ocho lenguajes de
+
+programación soportados lo cual es
+
+bastante interesante porque si vamos a
+
+hablar sobre digamos el tema del
+
+desarrollo como tal nativo se ablandó
+
+nativo web nativo
+
+con android tenemos allá va y cotolí y
+
+con
+
+[Música]
+
+a ellos tenemos es wifi y hoy etc y con
+
+un tutor tenemos
+
+payton tenemos go tenemos q ml y tenemos
+
+richard o sea más más creo que hacemos
+
+más para desarrollar aplicaciones
+
+nativas no híbridas es totalmente
+
+diferente a lo que es híbrido con
+
+nativos entonces es bastante interesante
+
+es decir un tutor soporta cuatro
+
+lenguajes de programación android dos
+
+lenguajes de programación y ellos dos
+
+lenguajes de programación exceptuando lo
+
+que les lleva script como tal entonces
+
+llegamos a nadia macri porque los tres
+
+soportan lleva script pero estamos
+
+hablando de desarrollo como tal nativo
+
+100% nativo sin hacer uso digamos de
+
+tecnologías como tal es bastante
+
+interesante por eso me gusta mucho el
+
+uso de cable creo que en la prueba en la
+
+próxima pieza que creo que va a ser
+
+dentro de 10-15 días vamos a estar
+
+hablando lo que es el clic a profundidad
+
+de un tipo 8 entonces bastante
+
+interesante me encantaría que muchísimas
+
+personas se puedan dar a esa s charla
+
+como está y bueno lo más importante es
+
+descargar el clic y quiero hacer aquí un
+
+paréntesis porque siempre lo hablo y
+
+siempre lo quiero dejar claro y es que
+
+el clic de un tutor solamente funciona
+
+para distribuciones linux
+
+linux 100% en linux es decir sistema
+
+operativo linux no funcionan para
+
+sistemas operativos
+
+digamos mac ni windows como tal no
+
+solamente sistemas linux no funciona
+
+para otro tipo de sistema operativo
+
+porque hago hincapié en esto porque
+
+muchas personas me preguntan la única
+
+forma de poder yo desarrollar bajo el
+
+clic es
+
+instalando una máquina virtual con linux
+
+en los diferentes sistemas operativos
+
+que no son
+
+y el clic está presente en
+
+distribuciones linux obviamente base
+
+linux pero pueden ser distribuciones
+
+tenían march o un montón
+
+y bueno esto es algo que me están
+
+contando muchísimo gente y en los
+
+lenguajes de programación escolares yo
+
+puede desarrollar y puedo trabajar con
+
+ubuntu touch es el html5 javascript
+
+html5 y javascript es para aplicaciones
+
+web híbridas
+
+ml también lo cómo manejar conlleva es
+
+que porque vml hace parte también de lo
+
+que es la interfaz de usuario y la
+
+interfaz de un producto en desarrollo es
+
+decir que vélez como en html5 para en
+
+este caso pueden él está más orientado
+
+al tema del desarrollo computer entonces
+
+tenemos como el html5 python semashko y
+
+ruth también tenemos otro que es el
+
+lenguaje para desarrollar videojuegos
+
+que no me contó el nombre se me perdió
+
+el nombre pero se me olvide o se me pasó
+
+pero es
+
+estable cuando y por estar desarrollando
+
+en la aplicación
+
+no me acuerdo muy bien creo que es
+
+un ecológico que es golden ya elevar
+
+programación el otro lenguaje crea más
+
+inferencia funcional con un tutor es
+
+coll d'en ya que es el lenguaje
+
+grabación de corte con jane es un editor
+
+de vídeo web también se puede
+
+desarrollar videojuegos con un bolso
+
+mediante cómo es bastante interesante
+
+fue como el último reyes que se hizo con
+
+un tutor en el cli entonces el que está
+
+en su versión en la cnte punto cero
+
+entonces bastante interesante ver como
+
+el tema de incluso los videojuegos ya
+
+hacen parte de un tutor che entonces es
+
+algo interesante es que
+
+es un tema que no es conocido y eso es
+
+algo que hay que hablarlo también en
+
+nuestro tema conoce un tutor chino es
+
+tan conocido en todo el mundo y en todas
+
+las comunidades de desarrollo en todas
+
+las comunidades tecnológicas
+
+porque es un es un proyecto de código
+
+abierto entonces no todos los proyectos
+
+de código abierto están en su digamos en
+
+su auge como tal pero son proyectos
+
+importantes y son proyectos que igual de
+
+alguna manera se tienen que hablar se
+
+tienen que conocer y 70 motivar porque
+
+al final lo más importante y creo que
+
+como digamos me refiero al tema de una
+
+carrera ya como tal de desarrollarlo de
+
+programar es importante también digamos
+
+participar en el tema de desarrollo de
+
+proyectos de código abierto apoyar
+
+muchísimo a los proyectos de código
+
+abierto porque al final son los que nos
+
+permiten digamos desarrollar productos y
+
+soluciones en las diferentes compañías o
+
+empresas en las cuales estamos tocando
+
+todo es importante también conocer y
+
+bueno ahorita siempre es el desarrollo
+
+de las aplicaciones móviles yo en este
+
+caso quiero hacer un plus también para
+
+desarrollar la aplicación debe ser
+
+yo utilice
+
+taipei script no utilice javascript pero
+
+igual time escribe es un compilado de
+
+javascript lo cual no es lo cual es
+
+trabajar como javascript pero compilado
+
+entonces qué pasa que han utilizado
+
+script yo utilicé obviamente no utilice
+
+tivo y tampoco utilice fui a que utilice
+
+amplia y en la herramienta son las
+
+herramientas que utiliza para
+
+desarrollar la aplicación de red sea
+
+porque si mi aplicación 40 se encuentra
+
+con 500 descargas en la ope néstor fue
+
+alguien y que en su versión 5 angular en
+
+su versión 11 y te escribe en su versión
+
+5 estas fueron las herramientas que
+
+utiliza para desarrollar aplicación la
+
+aplicación de receta es una aplicación
+
+obviamente en híbrida pero es un tutor
+
+la toma como una aplicación móvil nativa
+
+por la compilación que se realizó cuando
+
+se termina la aplicación y se empaqueta
+
+la aplicación entonces bastante
+
+interesante el paso 1 para desarrollar
+
+las aplicaciones móviles con un multi
+
+touch es obviamente escoger el lenguaje
+
+de programación que tú con el cual tú
+
+vas a desarrollar en este caso yo me fui
+
+con javascript pero tú puedes escoger
+
+cualquiera de los lenguajes de
+
+programación soportados
+
+y en este caso utilice el framework
+
+único con angular hay un angular
+
+entonces igual que puedes utilizar solo
+
+puedes utilizar angular soldado puedes
+
+utilizar el sóleo como tal el framework
+
+solos y sin ningún otro framework para
+
+trabajar móviles que igual de alguna
+
+manera también se va a ampliar como una
+
+aplicación web o híbrida
+
+bueno el segundo paso es que para
+
+desarrollar obviamente la aplicación con
+
+la única angular anteriormente a eso yo
+
+tengo que contar con la instalación de
+
+noiés como tal para poder correr lo que
+
+son los gestores de dependencias y poder
+
+trabajar con esos sensores de
+
+dependencias mediante el cliente el
+
+desarrollo ts pues de ese proyecto de
+
+esa herramienta como tal entonces tuve
+
+que este método que es crear el último
+
+es inestable noyes luego instalar la
+
+versión de digamos el gestor de
+
+dependencias
+
+actualmente con su última versión en
+
+este caso puede ser en enviar muy bien
+
+ex o dar como tal para manejar el gestor
+
+de dependencias que realmente voy a
+
+utilizar para el tema del desarrollo de
+
+la aplicación en este caso no es
+
+necesario instalarlo yo hablo si tú no
+
+estás utilizando amico pero si estás
+
+utilizando el que solamente es instalar
+
+la versión de adn y digamos trabajar
+
+desde el clip de annick para crear el
+
+proyecto pues todo lo que necesitas en
+
+este caso es yo escogí obviamente la
+
+versión 5 para el tema del desarrollo
+
+entonces es pues todo depende la idea es
+
+que si vas a trabajar con alguien y como
+
+tal como herramienta es que trabajes
+
+desde la versión 5 porque solamente es
+
+de la versión 5 ahí soporte nuevo touch
+
+es decir si tú tienes la versión 1 2 3 4
+
+y 5 puedes trabajar proyectos en móviles
+
+para un tutor mediante nicks si no
+
+tienes la versión si tiene la versión 6
+
+que es la última versión actual de
+
+ironic pues no vas a poder trabajar con
+
+un tutor porque es una versión que no se
+
+encuentra soportada hasta el momento con
+
+un multi touch
+
+el paso 3 fue que es obviamente es súper
+
+necesario previamente haber creado
+
+obviamente el proyecto complicarle de
+
+uso hablando mucho porque no es como que
+
+ok ya que la aplicación de nick clegg
+
+i'm with blog y ya o sea ya toda la
+
+aplicación consiste en la aplicación
+
+mobile para android para ayer no para
+
+multi touch para poder trabajar con un
+
+tutor la aplicación necesariamente y es
+
+súper necesario haber creado un proyecto
+
+desde el que clave con el lenguaje de
+
+programación soportado que lleva script
+
+luego yo crear ya el bolso portafolio a
+
+script
+
+que después de crearlo como tal el
+
+proyecto de o eliminar todo lo que se
+
+encuentra en los assets en la carpeta
+
+doble w o que es la carpeta pública y
+
+dejar el proyecto en blanco es decir que
+
+cuando yo vaya a ser ese compilado de la
+
+aplicación la producción la aplicación
+
+se vaya a digamos a empaquetar todo ese
+
+empaquetado de la aplicación a ese a ese
+
+archivo
+
+público del proyecto de mucho touch es
+
+decir yo el proyecto ante un tutor lo
+
+tengo que tener dentro el proyecto base
+
+del proyecto que estoy creando con
+
+maiónica es decir tengo el proyecto
+
+haití con arquitectura que maneja al
+
+micro al desarrollo aplicaciones móviles
+
+y previamente debía haber creado el
+
+proyecto de ubuntu touch sin ningún
+
+archivo html y css
+
+absolutamente nada el proyecto
+
+totalmente vacío que es el que te genera
+
+el clima tops cuando ya lo has creado
+
+entonces al crearlo esa carpeta de la
+
+aplicación le agregó en la base del
+
+proyecto o en el directorio en base del
+
+proyecto y ya cuando yo ya terminó de
+
+generar el proyecto con el trabajo el
+
+proyecto como tal y ya lo hay lo va a
+
+generar a producción para trabajar en
+
+producción de ese proyecto ese ese
+
+desarrollo móvil debo de empaquetar esa
+
+información mediante obviamente el
+
+comando de prop de haining y es
+
+empaquetado
+
+o esa producción de ese proyecto lo
+
+tengo que pasar al proyecto vacío de un
+
+tutor que se encuentra en el directorio
+
+base desde el proyecto de ayer y
+
+entonces es bastante interesante porque
+
+hay que hacer un poquito más de un
+
+poquito más pero
+
+es muy fácil en realidad es muy fácil
+
+y bueno el paso 4 ya es obviamente que
+
+ya al tener obviamente la arquitectura
+
+nes srl para desarrollar la aplicación
+
+es necesariamente contar con los
+
+conocimientos pues yo diría básicos de
+
+html5 css3 y javascript es decir hemos
+
+marco el pretexto la máximos en cascada
+
+y younes script que es el que nos da esa
+
+funcionalidad y es a ese estilo y ese es
+
+que tu computador y tener bases de lo
+
+que deseaba escribir contar conocer un
+
+poco lo que es lo básico el intermedio
+
+ya escribe manejar todo lo que es el
+
+documento o jet modelo que es el de
+
+manejar un poco lo que son digamos las
+
+interfaces manejan un poco lo que
+
+decíamos todo lo básico de lo que es el
+
+desarrollo pues digamos bajo bajo
+
+javascript count y también detecta este
+
+porque es necesario entender un poco
+
+también cómo se maneja teques club y así
+
+que esto si queremos trabajar bajo bajo
+
+nick y bajo angular también pasa lo
+
+mismo si queremos trabajar con angular y
+
+con wii acá junto con tape script pero
+
+si queremos trabajar cuidado con
+
+javascript y view con javascript ningún
+
+problema lo ideal es que se tenga básico
+
+sobre esas herramientas
+
+y es importante obviamente hacer uso de
+
+las buenas prácticas también del
+
+desarrollo de estas herramientas no
+
+digamos es el lobo porque si yo
+
+trabajarlo porque si no es necesario
+
+contar con conocimiento
+
+básico intermedio o avanzado de las
+
+herramientas verdad para no hacer ahí
+
+como que como algo que realmente no
+
+cuente con buenas prácticas y que al
+
+final pues nos termine pues si nos
+
+terminemos como el aumentando lo que es
+
+como estar en desarrollo
+
+y en el paso 5 4 comenta les dirías lo
+
+comenté antes de pasar el 45 y es que es
+
+importante terminar la aplicación y en
+
+esa aplicación la producción es decir
+
+empaquetar toda la aplicación a
+
+producción y es empaquetado lo que lo
+
+que me hace es que se aguanta toda esa
+
+información digamos en la carpeta
+
+pública que hay un link y esa carpeta
+
+pública va a pasar al proyecto
+
+previamente creado con un tutor que es
+
+la base del directorio idea en iquitos
+
+mediante unos comandos y mediante
+
+mediante unos comandos ambiente script
+
+baxter sin scripting en linux
+
+voy a pasar toda esa información de ahí
+
+venir
+
+desempaquetado de la aplicación trabaja
+
+en producción con aire que es lo que me
+
+hace es que me empaquetar el html es es
+
+decir yo escribo de esa aplicación y me
+
+la va a pasar toda esa información a lo
+
+que es el proyecto de ubuntu touch
+
+creado previamente a un lenguaje
+
+programación en javascript
+
+y ya al digamos todas información y amos
+
+ya pasarse al proyecto de de un tutor es
+
+como tal pues lo que hago es correr los
+
+comandos necesarios del chli en este
+
+caso aplicable de esto para adaptarle
+
+full o copiar esa aplicación que
+
+previamente ya creada con el aumento
+
+touch y ahí lo que hacemos es probar
+
+esos pues digamos ese desarrollo en lo
+
+que sería un emulador de un tutor como
+
+tal o digamos una emulación para probar
+
+cómo sería nuestra aplicación en
+
+como tal digamos que en un dispositivo
+
+un touch como está
+
+y yo sé que muchos están preguntando con
+
+la integración del máquina se puede
+
+trabajar la integración el backend yo lo
+
+que se retrase la mente de la gente con
+
+app y mediante un lápiz como tal para no
+
+necesariamente tener que manejar digamos
+
+no una piel sino manejar todo mediante
+
+el parc haciendo uso digamos ya sea
+
+digamos de count de rus como tal verdad
+
+para el tema del ala 11 pues el a un
+
+servidor como tal no siendo también
+
+maneja de bien al lado del cliente o al
+
+lado digamos que con el desarrollo al
+
+lado del cliente pero también hacer uso
+
+también del desarrollo al lado del
+
+servidor en este caso todo se integra
+
+mediante un api es decir que es bastante
+
+interesante porque también se puede
+
+manejar a visitas explica la pieza y
+
+manejar toda la información de esa y
+
+desembarque en desintegración digamos
+
+mediante una integración al cliente y
+
+pues trabajar iglesia con los diferentes
+
+miembros de javascript trabajarlo con
+
+las diferentes lenguas o por todas
+
+fueran trabajar todo el todo el tema de
+
+la interfaz como tal toché en este caso
+
+estoy hablando de pueden ver y html5 que
+
+son los dos lenguajes digamos con los
+
+cuales por trabajar el tema las interfaz
+
+del sistema de la vista para mostrar
+
+información o pintar la información del
+
+puerto al integración que viniese
+
+digamos desde el servidor mediante par
+
+entonces bastante interesante como pollo
+
+manejar para kim informar sin necesidad
+
+de tener
+
+que trabajar los dos al mismo tiempo es
+
+decir en un proyecto estoy hablando que
+
+publicamos la arabel que la ven con
+
+trabajar todo el tema del desarrollo el
+
+aval serbio y el desarrollo al lado del
+
+cliente al mismo tiempo y bueno pasa
+
+también con él conlleva que por trabajar
+
+digamos el tema springbok y también
+
+micro js de pivote de siempre para el
+
+desarrollo de aplicaciones web mediante
+
+servicios de cliente también con html5 y
+
+css3 bastante interesante cómo puedo
+
+trabajar e incluso los dos sigamos en
+
+los dos tipos de trabajo tanto que
+
+digamos como toda esa interacción junta
+
+cierto monolito como tal y también todo
+
+manejarlo mediante microservicios aún
+
+mediante un desarrollo de app y redes
+
+como tal mediante el servidor entonces
+
+bastante interesante ver cómo un tutor
+
+se puede trabajar sin ningún problema y
+
+sin hacer uso de tam la herramienta
+
+instant en formación lo cual hace que
+
+sea de una manera fácil rápido es y hace
+
+también que podamos sacar ese proyecto o
+
+ese producto de la forma más rápida
+
+posible me encanta muchísimo lo que hace
+
+como tal un tutor en el tema del
+
+desarrollo y cómo se trabaja en
+
+desarrollo me encanta muchísimo creo que
+
+eso hace que sea flexible y eso que no
+
+pasa muy bien el intento porque yo no
+
+morir en el intento ya tengo una
+
+aplicación que tiene 500 descargas
+
+entonces así que que te motiva que
+
+desarrollar más aplicaciones ciencias
+
+que realmente quieres enseñar y motivar
+
+a las demás personas para que puedan
+
+desarrollarse cuando en cuenta que no
+
+solamente existe un sistema operativo
+
+móvil con tal android ni tampoco
+
+existentes ha creado como tal algo sino
+
+que existen aunque más como los vídeos y
+
+nos permite desarrollar y trabajar
+
+mediante código abierto mediante
+
+software libre y quienes solamente a
+
+trabajar de la mejor manera posible
+
+integrando las últimas versiones de las
+
+diferentes herramientas que escogemos
+
+para desarrollo en las aplicaciones de
+
+productos necesarios necesitemos esto es
+
+bastante interesante me encanta
+
+muchísimo y ya voy a terminar yo quería
+
+realmente aquí no tengo mi dispositivo
+
+porque todos los clientes
+
+porque no tengo en estos momentos mi
+
+dispositivo con linux pero si quería
+
+mostrarles gracias a en la open store
+
+web porque la opinión de dispositivos no
+
+lo tengo aquí en el momento entonces
+
+sí creo que para la próxima si quiero
+
+dar un taller ojalá podamos dar montar
+
+diarias en la próxima fiesta lugar un
+
+taller en un multi colombia sobre el
+
+desarrollo de aplicaciones y tener una
+
+aplicación básica ya sea una turba o ya
+
+sea una una aplicación digamos ya mañana
+
+todo el tema de la interacción del from
+
+y el back mediante las diferentes
+
+herramientas que puede soportar un touch
+
+pero la idea es que podamos ver un poco
+
+lo que es simple un producto un proyecto
+
+determinado y que se encuentra en
+
+producción como tal entonces voy a irme
+
+para acá y voy a mostrarles aquí
+
+aquí tenemos lo que es mi aplicación se
+
+llama de app que es una aplicación de
+
+recetas cailón lo que permite digamos
+
+alguna manera y poder tú digamos
+
+consultar las diferentes recetas que tú
+
+realmente quiera realizar en este caso
+
+digamos pues puede realizarlos en la
+
+comida súper típica bogotá desde el
+
+ajiaco
+
+me tiró alguna receta en que científica
+
+de nuestra ciudad o digamos del mundo
+
+como tal esto es lo que nosotros miramos
+
+es ver esa receta y pues digamos realiza
+
+de saberse tanto es en tu casa como tal
+
+con los diferentes ingredientes para
+
+realizar entonces te lista lo que son el
+
+tema de ética de los ingredientes solís
+
+al detalle la receta de hacer la epa 6
+
+la consulta la receta también te muestra
+
+el vídeo como tal para desarrollar esa
+
+receta digamos de generar también
+
+digamos como bromas son digamos todo el
+
+ámbito de la cocina y de las recetas
+
+también creo que te lista aún no me
+
+acuerdo creo que aquí aquí lo tenemos en
+
+este mal
+
+el tema del vídeo o sea que yo puedo
+
+darle clic digamos a la receta y
+
+automáticamente me lleva al olvido en la
+
+receta a ver qué más puedo hacer aquí me
+
+genera digamos bromas
+
+brandon sobre recetas y sobre comida
+
+como tal en ese ámbito de la cocina a mí
+
+no
+
+me muestra el detalle en la receta con
+
+sus diferentes ingredientes y también me
+
+muestra los snacks digamos los dulces
+
+como todo ese tema más dulce más rico
+
+más demás no sé qué me refería así como
+
+no sea la comida quien no es buena que
+
+no es sana pero melissa los nutrientes y
+
+la información necesaria para yo escoger
+
+si realmente quiero conversar de esa
+
+comida o si realmente quiero hacer esa
+
+receta de acuerdo a los nutrientes que
+
+tiene esa pues como también la
+
+preparación de esta receta es bastante
+
+interesante me gusta muchísimo porque
+
+hace que de alguna manera
+
+te conviertes en master chef obviamente
+
+para hacer un master chef necesitas
+
+tener un recorrido gigante no pero la
+
+idea es que puedas realizar las
+
+diferentes recetas
+
+desde tu casa sin problemas sin tener
+
+que digamos un restaurante o digamos no
+
+sin desplazarte alguna u otra parte para
+
+poder digamos realizar esa receta
+
+entonces es bastante interesante y la
+
+hice porque yo creo que la gente se va a
+
+preguntar pero porque una aplicación de
+
+recetas y tú puedes hacer una aplicación
+
+de lo que sea si yo puedo ser gráficas
+
+de lo que sea pero decidí crear la
+
+aplicación de recetas porque en ese
+
+momento de mi vida me estaba pasando que
+
+se han cometido súper mi cama los está
+
+comiendo mucha comida chacra dan
+
+demasiada en cantidad lo cual me hizo
+
+enfermar y al enfermarme y al hablar
+
+conmigo y con mi médico me comentaba que
+
+la idea digamos
+
+obvio tú puedes comer digamos comienza
+
+la vez en cuando él no hace mal no está
+
+mal pero comerla en exceso de hace mal
+
+entonces él me decía muchísimo mi médico
+
+que hay que comer sano hay que comer
+
+tiene que preparar tus comidas en tu
+
+casa
+
+y sean muy limpio y muy cuidadoso con tu
+
+comida entonces en eso fue que yo digo
+
+reserva quiero redes de bab y quiero
+
+hacer una aplicación de recetas estoy
+
+buscando muchísimo y tardé mucho en mí
+
+mismo ya digamos mucha mucha como esa
+
+gestión de esa integración que pueda
+
+digamos permitir digamos que la gente
+
+pueda consultar y pámanes mi tracción de
+
+acuerdo a lo que yo quería y encontramos
+
+una piel 100% pues no 100% libre pero al
+
+menos sí tenía digamos
+
+unas llamadas digamos hasta ciertos
+
+demás límites llamadas de lápiz para
+
+consultar información lo cual es
+
+bastante miel porque muchísimas personas
+
+han trabajado le aplicasen y me han
+
+dicho que les ha encantado y es algo
+
+irónico porque la aplicación obviamente
+
+está toda totalmente en inglés todas
+
+nuestras páginas por el exilio porque mi
+
+nicho de mercado en estos momentos
+
+obviamente es
+
+o un tutor pero punto touch tiene su
+
+nicho de mercado y su nicho de usuarios
+
+en europa por lo tanto en europa se
+
+maneja mucho el lenguaje el idioma
+
+inglés 3 me aplicación está en inglés
+
+por lo tanto casi que todas las
+
+repúblicas y que todo digamos la
+
+puntuación de las personas es en inglés
+
+o es en alemán entonces es bastante
+
+interesante ver como mi aplicación pues
+
+está
+
+presente alrededor del mundo y en toda
+
+la parte de europa también central en
+
+europa pues al norte como tal es
+
+bastante interesante me encanta
+
+muchísimo alcohol las personas los en
+
+uso la aplicación y como alguna manera
+
+le suple digamos de esa necesidad de
+
+querer queramos realizar una una receta
+
+sin utilizar tanta condimentación
+
+y la comida de alguna manera estas
+
+recetas nos permite trabajar todo puesto
+
+todo el tema me refiero más ya comer más
+
+sano que tiene lo más importante
+
+entonces
+
+quería comentarles mostrarles un poco de
+
+lo que es 13 es una aplicación que ella
+
+se encuentra yo realmente he hecho ya
+
+siete versiones la aplicación vez he
+
+hecho es decir actual show siete veces
+
+la aplicación porque han tenido errores
+
+normales porque ninguna aplicación es
+
+perfecta nada es perfecto en el mundo
+
+siempre hay cosas que se tienen que
+
+mejorar y con las condiciones que
+
+trabajar y hacer de las cosas que se
+
+tienen que mejorar lo mejor posible
+
+entonces ya tenemos siete
+
+actualizaciones de calidad estante
+
+interesante porque muchas personas me
+
+han dado su punto de vista y me han dado
+
+su feedback con esto para mejorar la
+
+aplicación y en estos momentos nos
+
+encontramos actualmente solamente en la
+
+séptima pero la idea es que vamos a
+
+dejar otros módulos y otra información
+
+otras características más respecto a la
+
+aplicación de aplicación tienen su
+
+propio repositorio de la aplicación
+
+tiene pues obviamente su sub como tal su
+
+espacio en la open start
+
+con esta charla
+
+quise dejarla como tal con el lic con el
+
+título y no morir en el intento porque
+
+cuando me haga cuando tuve ese proceso
+
+al desarrollo para desarrollarla se va
+
+perdiendo mucha adiós no hacer nada esto
+
+está complicado pero
+
+no venimos en el intento y ya la
+
+aplicación tiene más de 400 descargas
+
+hay muchas personas que han descargado
+
+las diferentes actualizaciones de se han
+
+dado cuenta las diferencias del y
+
+nosotros de las actualizaciones que
+
+hemos tenido de acepar y eso es bastante
+
+interesante de alguna manera así que que
+
+te permita crecer y motivar y es eso no
+
+tratar de de motivar a las personas de
+
+que no interesa y no importa porque las
+
+personas que desarrollan este hablando
+
+el nicho de los desarrolladores y los
+
+programadores creen que con solamente
+
+una herramienta podemos desarrollar y
+
+podemos solucionar un problema y no
+
+estación tenemos muchísimas herramientas
+
+que nos permiten desarrollar y les
+
+permiten terminar un producto de la
+
+manera más satisfactoria posible y ese
+
+es el caso está desarrollado como web
+
+technologies está desarrollado con
+
+tecnologías híbridas y luego en
+
+tecnologías nativas por lo tanto hace
+
+que sea una aplicación bastante
+
+interesante porque el desarrollo fue muy
+
+interesante y duro realmente muy
+
+complicado pero se logró
+
+o sea realmente se logró y eso en lograr
+
+un producto que realmente tuviera las
+
+buenas prácticas del desarrollo sin
+
+olvidar lo que son las herramientas de
+
+desarrollo como tal entonces es bastante
+
+interesante me das motivar en las
+
+personas a que realmente
+
+se encuentra de que existen más
+
+hay un mundo más grande hay un mundo más
+
+grande del desarrollo se existen más
+
+herramientas de existen más en sí más
+
+herramientas que nos permiten
+
+desarrollar y cumplir con un objetivo
+
+como tal que al final es entregar un
+
+producto satisfactoriamente a un usuario
+
+final y en este caso pues tenemos lo que
+
+sus redes hspa y lo que es linux como
+
+tal porque la gente tiene mucho
+
+estereotipo con linux pero linux no es
+
+tanto es ese estereotipo que la gente
+
+comenta en linux es más que eso minus
+
+para mí yo valientes como amor pasión y
+
+me encanta si yo puedo aprender
+
+herramientas que tengan base linux muy
+
+fácil ya porque son herramientas
+
+diferentes a lo cotidiano a lo que
+
+normalmente todos los desarrolladores
+
+estamos acostumbrados en un sitio de
+
+trabajo o digamos en un sitio personal
+
+de desarrollo por lo tanto me encanta
+
+conocer este tipo de herramientas y me
+
+fascinó desarrollar con multi-touch
+
+ojalá más personas se motiven con esta
+
+charla ojalá más personas se enfrente a
+
+que existen más herramientas para
+
+desarrollar que nos permiten trabajar
+
+sacar productos satisfactoriamente de
+
+acuerdo a los usuarios finales son nicho
+
+de mercado en el cual quieremos y va
+
+entonces bastante interesante no sé si
+
+ya digamos hay alguna pregunta lo
+
+inquietó respecto a esto también quería
+
+darles habilitar digamos ya para
+
+terminar porque les estoy mostrando la
+
+aplicación en mi sitio web
+
+en el sitio web
+
+en mi sitio web que spears no es count
+
+punto ml tenemos en las diferentes
+
+entradas para en trabajar todo el tema
+
+de lo que es el pues digamos el
+
+desarrollo de ubuntu touch tengo
+
+entradas
+
+de digamos austral hablándose de lo que
+
+es la introducción de alguien en como
+
+tal conociendo un poco de la ramita de
+
+unique hablando un poquito de lo que es
+
+la historia y la introducción y el
+
+desarrollo de un touch también tenemos
+
+otra entrada para las herramientas para
+
+empezar a desarrollar con un tutor
+
+tenemos abrir otra entrada que es un
+
+tutorial de real y la creación de una
+
+aplicación de ambos para junto todos
+
+tenemos un touch clip también es decir
+
+en donde hablamos de lo que es el tweet
+
+de ubuntu touch como tal un poco más de
+
+información más detallada lo que podemos
+
+encontrar en la documentación la
+
+documentación encontramos información un
+
+poco más detallada el tema de la
+
+compilación pero en este caso es más en
+
+el tema del desarrollo
+
+pues como tal y además está mi español
+
+entonces si tuve alguna manera no conoce
+
+no sabes inglés se te complica entre
+
+inglés pues digamos que creo que esta
+
+información enseña nuestra actividad
+
+tenemos digamos en mi experiencia
+
+personal desarrollando reserva pierda la
+
+verdad fue complicada pero no morimos en
+
+el intento y lo podemos solucionar final
+
+sacamos una aplicación bastante
+
+interesante y pues sigamos el desarrollo
+
+y las estadísticas de reserva podemos
+
+ingresar aquí podemos ver
+
+como también cuento un poco digamos de
+
+lo que es la
+
+api que utilice
+
+digamos las diferentes actualizaciones
+
+de la aplicación ya estamos en las 7 en
+
+este caso estamos en las 6 y aquí pues
+
+tenemos digamos la aplicación la pensión
+
+en las pantallas que teníamos
+
+anteriormente pero ya están totalmente
+
+diferentes ya mejoramos un poquito el
+
+tema del diseño
+
+y las estadísticas en este caso teníamos
+
+doscientas descargas y los diferentes
+
+pues
+
+como tal
+
+comentarios y paquetes las personas que
+
+comentaron muchos están en inglés otros
+
+están en alemán y entonces es bastante
+
+interesante leer vamos a hacer como este
+
+cambio de
+
+bastante interesante y preserva la
+
+información tenemos que pues el autor es
+
+la persona que les estás que les está
+
+hablando el empaquetado obviamente soy
+
+yo la licencia de la gn
+
+versión 3 la categoría es en fitness y
+
+salud
+
+la actualización en la última
+
+actualización fue el 23 de marzo y la
+
+fecha de la publicación fue el 12 de
+
+marzo se trabajó en la infraestructura o
+
+un sdk de ubuntu la versión 16.04 que la
+
+versión que los que estaban comentando
+
+anteriormente cuando iniciamos la charla
+
+que es la versión héctor en la cual se
+
+está tramando el sdk y akon se está
+
+trabajando todo el tema del desarrollo
+
+interno del motor y como tal y la
+
+arquitectura de las aplicaciones según
+
+datos siempre terminan en punto al
+
+entonces bastante interesa las
+
+herramientas que utilizamos como lo
+
+comentaba cuando estamos adelante en el
+
+desarrollo fue alguien en que la
+
+integración de la pieza si estábamos con
+
+una pila es en la integración de frank
+
+comeback
+
+con la pide es con expone popular a
+
+pique es una aplicación bueno snap y que
+
+nos permiten también es hay una
+
+aplicación para consultar el tema la
+
+receta si cosa la información quien se
+
+encuentra entonces
+
+tenemos en el diseño utilizamos pickman
+
+utilizamos un prototipo de
+
+la herramienta último son las
+
+herramientas que utilice
+
+la aplicación
+
+en cualquier
+
+participación
+
+no sé si hasta el momento de alguna duda
+
+al respecto
+
+juan felipe creo que si te preguntan que
+
+dónde se bueno como se llama la tienda
+
+donde se publican esas aplicaciones de
+
+supongo que es la
+
+que se mira en la tienda en la tienda de
+
+un reto que se llama o pensar en la
+
+operación encontramos todas las digamos
+
+todas las aplicaciones que necesitemos
+
+de ubuntu touch es decir que están las
+
+aplicaciones ofertadas por un tutor pero
+
+está open estar solamente descarga
+
+aplicaciones para el dispositivo móvil
+
+con un touch es decir nexus que es el
+
+nexo 5 el vodafone el paintball en
+
+firefox tienen la presión
+
+digamos su por default como cuando te
+
+instalas o cuando compres un celular y
+
+te viene con todas las aplicaciones
+
+android incluso viene la play son para
+
+descargar las aplicaciones igual con un
+
+touch
+
+en tu celular cuando el sistema
+
+operativo
+
+de información encontramos todas las
+
+diferentes aplicaciones cada vez que
+
+dice web apps son aplicaciones híbridas
+
+las que dicen apps o aplicaciones
+
+nativas en este caso si nos vamos por
+
+ejemplo
+
+que se aprecia es una aplicación nativa
+
+las que dicen web apps son aplicaciones
+
+híbridas de recibir pues que se trabajan
+
+con miente un cuerpo y pues todas esas
+
+incrementa si entonces información del
+
+desarrollar una aplicación web y vida
+
+pero mi aplicación también está
+
+desarrollado con tecnologías híbridas
+
+pero se combinan bajo de la aplicación
+
+móvil nativa entonces bastante
+
+interesante fue como un punto touch hace
+
+como que como que seleccionan las civil
+
+en los diferentes ámbitos del desarrollo
+
+de una aplicación híbrida nativa o
+
+digamos sí híbrida y nativa
+
+prácticamente todos los que dicen más
+
+son apetecidos web es que dicen app son
+
+aplicaciones nativas es bastante
+
+interesante y aquí encontramos salen
+
+diferentes aplicaciones por ejemplo si
+
+nos vamos aquí
+
+comunicaciones social
+
+aquí podemos encontrar y vamos a las
+
+aplicaciones sociales
+
+de mensajería instantánea frente aquí
+
+tenemos twitch tenemos la aplicación de
+
+este tweet
+
+no sé creo que también tenemos whatsapp
+
+pero creo que basta con estar
+
+100% terminado es la que yo paso fuera
+
+pero en persona salta también termina la
+
+aplicación pues fue la aplicación app
+
+solamente está como una híbrida dt de lo
+
+que es bastante como tal tenemos
+
+electores que en la aplicación frente a
+
+la tenemos al tener en web
+
+y bueno las diferentes aplicaciones para
+
+mesa 500 visitantes bien que utilizamos
+
+y demás aplicaciones también tenemos
+
+creo que videojuegos a ver
+
+pienso
+
+aquí tenemos los videojuegos como tal
+
+toda la cantidad yo como ustedes interés
+
+yo por ejemplo tengo instalado en mí
+
+en mi dispositivo
+
+pero más
+
+jugar juegos de terminal
+
+vale vale
+
+por ahí teníamos unas algunas preguntas
+
+extra primero como eso un touch en
+
+colombia y en américa latina
+
+le falta muchísimo demasiada apoyo del
+
+segundo colombia y desde la flexión
+
+tanto de voluntad medellín cali demás en
+
+las diferentes ciudades de ibaraki y
+
+además
+
+[Música]
+
+digamos que se aporta muchísimo y se
+
+motiva muchísimo a las personas que
+
+trabajan en los diferentes proyectos de
+
+código abierto de ubuntu como tal y de
+
+minutos como tal pero digamos que hace
+
+falta más como más mucho diría que más
+
+información más información al respecto
+
+y más documentación y más introducción
+
+al respecto al proyecto porque lo digo
+
+porque es un proyecto que es tiene su
+
+nicho de mercado y su nicho de de
+
+usuarios en europa por lo tanto en
+
+europa se conoce muchísimo de ubuntu
+
+touch porque en europa digamos que vivió
+
+muchísimo lo que es el tema de la
+
+protección de la data en las personas
+
+digamos en europa 5 un poco más de cómo
+
+que como que se preocupan un poco más
+
+respecto a esa información de esa data
+
+entonces están en continuo digamos
+
+búsqueda de sistemas operativos o
+
+digamos
+
+herramientas que les permitan digamos
+
+protegen su data y proteger su
+
+información no pasa lo mismo con con
+
+latinoamérica porque es mucha gente
+
+utilizada
+
+y mucha gente utiliza también lo que es
+
+adiós pero la gente nunca en cuenta lo
+
+importante que es proteger tu
+
+información y proteger tu datos es muy
+
+importante entonces al no haber tanta
+
+como ese yo diría que educación
+
+respecto a ese tema por lo tanto no se
+
+conoce mucho de la información y no se
+
+conoce mucho de lo que según tú tops
+
+como tal falta un poco más de educación
+
+como educar a las personas de
+
+latinoamérica para que entienden que no
+
+solamente existen estos dos sistemas
+
+operativos android yo sino que existen
+
+otros sistemas operativos linux que nos
+
+ayuden a proteger la data dice que en un
+
+futuro nos vamos a dar cuenta que al
+
+final eso comercial o eso que todo el
+
+mundo tiene no es lo mejor sino que hay
+
+digamos otras alternativas que van a
+
+hacerlo mejor y que nos van a dar una
+
+manera proteger de ataques
+
+nos van a proteger con nuestra data nos
+
+van a proteger de los famosos phishing
+
+entonces es bastante interesante en
+
+europa este tema es muy digamos como muy
+
+relevante y se le da mucha con mucha
+
+visibilidad no pasa lo mismo con ubuntu
+
+touch porque casi que toda la comunidad
+
+está más enfocada en el desarrollo
+
+digamos de los servicios de gusto humano
+
+como tal de alternativas a esos
+
+servicios previamente creados en linux
+
+no entonces creo que hace falta un poco
+
+más como de no educar a las personas
+
+sino generar esa educación para que la
+
+gente conozca este sistema operativo
+
+porque ya eliminar esa educación creo
+
+que ya la gente se educa conoce y se va
+
+a motivar más a desarrollar estaba
+
+motivar más a conocerse a motivar mucho
+
+más de soportar ya mantener este tipo de
+
+proyectos entonces creo que falta
+
+generar esa educación para que más
+
+inversión haciendo que entre aspecto
+
+hacia ese término está un poquito
+
+complicado y si hablamos más en el
+
+ámbito profesional
+
+respecto ya digamos a un tutor yo creo
+
+que hace falta muchísimo
+
+como tal no diría que se falta muchísimo
+
+el apoyo de las comunidades porque las
+
+comunidades del virus en colombia y
+
+américa latina apoyan muchísimo este
+
+tipo de proyectos sino que siento que
+
+les hace falta mucho más visibilidad y
+
+mucho más trabajo a la fundación de
+
+ports e ingresar a este nicho como tal
+
+piensa américa latina que es bastante
+
+grande y que al final es importante
+
+también de trabajar y visibilizar pues
+
+creo que en un whopper fundation hace
+
+falta trabajar más y que tengamos más
+
+usuarios y más miembros del lavoro tras
+
+ser de
+
+aportes para que podamos trabajar y
+
+podamos llegarle no solamente el nicho
+
+de mercado europeo que es un nicho
+
+bastante complicado sino también llegar
+
+al otro nicho que también es más
+
+complicado como lo es américa latina no
+
+como quitar ese chip a la gente de que
+
+no solamente existen dos sistemas
+
+operativos sino algo alterno y hay que
+
+generar esa educación y educar a las
+
+personas mediante esa generación de esa
+
+educación yo creo que hace falta un poco
+
+más de máster por parte de la fundación
+
+visibilizar más este tipo de
+
+de productos y de proyectos en américa
+
+latina pero ya estamos dando un paso de
+
+hecho tenemos a muchas personas de la
+
+comunidad un to colombia que están
+
+apoyando muchísimo este tipo de
+
+proyectos tenemos también a muchas
+
+personas que hacen parte no solamente
+
+junto con la vía sino de las diferentes
+
+comunidades el ix apoyando también al
+
+proyecto entonces la idea es que
+
+continuamos sigamos apoyando y
+
+visibilizando lo que son los proyectos y
+
+las herramientas de código abierto para
+
+que más desarrolladores y más personas
+
+que hacen parte del ámbito tecnológico
+
+pues para conocerlo y sepan educar
+
+respecto a este entonces creo que está
+
+un poquito complicado pero sé que por la
+
+verdad es en dos o tres años y creo que
+
+sí vamos a tener más información y se va
+
+a sacarse un planeta o incluso en este
+
+año pero realmente siento que pelearle a
+
+lo que es android y ios las etiquetas ya
+
+temas de mercado y temas ya uno también
+
+estás es complicado pero no imposible
+
+sin falta que me pongan un touch para
+
+que la gente conmigo
+
+[Música]
+
+pregunta número dos o bueno comentario
+
+número dos sería genial que un título
+
+soportará más mujeres de salud estable
+
+yo creo que también ese podría ser uno
+
+de los aspectos importantes
+
+'el capi' bree la persona que luego creo
+
+que no conoce técnicas y dije soporte de
+
+dispositivos soportados en un tutor yo
+
+creo que es
+
+por qué
+
+creo que es esta
+
+aquí tenemos
+
+[Música]
+
+y
+
+entonces para la persona que pronto en
+
+ese comentario ya tenemos más de 81
+
+bueno más de 70 más de 50 dispositivos
+
+soportados con un tutor creo que eso es
+
+al alza mera pero con generar ya
+
+educación y me depilo como al tema de
+
+trabajar más en ese ámbito verdad porque
+
+hay que que digamos de una manera de
+
+generar esa educación para que más
+
+personas puedan apoyar y puedan que bien
+
+digamos y testear su dispositivo para
+
+poder generar más dispositivos
+
+soportados y más personas familias se
+
+puedan trabajar y pone educas debajo lo
+
+que hacen un tutor y como tal hacen
+
+muchísimo hace falta muchísimos
+
+dispositivos obviamente hay un sinfín de
+
+dispositivos android y un sinfín de
+
+dispositivos con ios verdad pero ya
+
+estamos tratando de cómo darle guerra se
+
+podría decir a estos dos sistemas
+
+operativos y ya tenemos más de 80
+
+dispositivos soportados por lo tanto
+
+pues contamos con dispositivos tanto
+
+como son digamos el aire de su
+
+smartphone
+
+tampico entonces digamos en teléfonos
+
+tenemos 70 dispositivos y en tablets
+
+tenemos 8 dispositivos en este caso
+
+tenemos creo que hace falta muchos más
+
+dispositivos soportados para las tablets
+
+faltan las samsung las tablets samsung
+
+las tablets con digamos huawei de este
+
+tipo de tablets que son muy muy muy
+
+compradas aquí en la américa latina
+
+entonces hace falta eso no hace falta
+
+soportar ese tipo de dispositivos y creo
+
+que para soportar este tipo de
+
+dispositivos se necesitan más personas
+
+que te estén test y tengan esos
+
+dispositivos y se eduquen para poder
+
+testear ese tipo de dispositivos y se
+
+pueda agrandar más los dispositivos
+
+soportados bajo un tutor entonces creo
+
+que eso es realmente es lo que para mí
+
+me hace falta hasta el momento pero creo
+
+que es es genial porque ha sido digamos
+
+ya pasamos de tener digamos 20 10
+
+dispositivos a tener ya 70 dispositivos
+
+y entre esos dispositivos hay
+
+dispositivos que se encuentran con
+
+especificaciones técnicas actuales
+
+entonces es bastante interesante
+
+ver cómo pasamos de un touch que generan
+
+los dispositivos soportados de
+
+especificaciones técnicas del año 2013
+
+2014 2015 apa sancti vamos a soportar
+
+dispositivos que ya tienen
+
+especificaciones técnicas del año 2019 y
+
+2020 2020 21 2020 22 como la última
+
+realice la forma entonces bastante
+
+interesante y enviamos que solamente
+
+hace falta que más personas puedan de
+
+alguna manera en gestión y eso es lo que
+
+hace que a la gente le dé miedo que de
+
+trabajar con un dispositivo con un tutor
+
+se creen que se va a dañar el cerebro y
+
+son la que no se bañan en el dispositivo
+
+pero digamos que hay que educarse para
+
+poder generar ese soporte y pueden
+
+generar digamos
+
+como que ese testeo de ese sistema
+
+operativo como tal
+
+[Música]
+
+si es complicado por ejemplo llegó el
+
+novio la verdad
+
+no está pero sí sería como interesante
+
+ahora preguntan también en cuanto a esto
+
+por ejemplo yo yo tengo un vivo y un
+
+celular vio cómo puedo hacer yo para
+
+hacer tester u2 touch aunque mira para
+
+hacerte estar de ubuntu touch lo primero
+
+obviamente si ingresará a los canales en
+
+telegram
+
+el gran pero yo siento me perdonarán a
+
+ver aquí tenemos tenemos una de las
+
+comunidades en español que superó es
+
+español también tenemos otra que superen
+
+inglés y que después digamos extracto
+
+mente más deseo que pasa que digamos en
+
+las comunidades se escribe o se se abren
+
+los ecos mente que se tiene tal
+
+dispositivo digamos mira tengo un
+
+dispositivo por ejemplo no sé el
+
+dispositivo vivo que tú tienes en un
+
+dispositivo vivo en el cual quiera
+
+ingresar un total pero no sé cómo
+
+empezar y la misma comunidad la que te
+
+va a generar esa información la que te
+
+va a entregar digamos digamos a la
+
+información para que puedan sin ojos
+
+generar lo que es el tema del sistema
+
+creo que es la misma la misma comunidad
+
+la que te ayuda a generar
+
+el instalador para instalarlo en en tu
+
+dispositivo vivo y poder generar ese
+
+testeo para que más personas que tengan
+
+ese dispositivo puedan generar la
+
+instalación y puedan hacerlo en la forma
+
+fácil y correcta igual digamos que
+
+instalar cualquier digamos de cualquier
+
+dispositivo un tutor que está soportado
+
+no es tan complicado porque para eso si
+
+digamos se encuentra el
+
+software para el software de la instalar
+
+para instalarlo en los diferentes
+
+sistemas operativos windows mac linux
+
+para instalarlo digamos en tu en tu
+
+sistema operativo que no es linux y
+
+poder conectarlo y pues si vamos a hacer
+
+todo el tema de instalación sin
+
+necesidad de tener que hacerlo mediante
+
+lejos entonces es bastante interesante
+
+me parece que es bastante lineal
+
+entonces si digamos tú tienes el
+
+dispositivo que en este caso pues tengo
+
+mi nexus 5 efectivamente es un
+
+dispositivo soportadas de bastante
+
+tiempo pero igual si uno quiere que lo
+
+que otro dispositivo con las
+
+especificaciones más actuales le puede
+
+instalar un tutor todo se hace mediante
+
+los canales en telegraph y mediante el
+
+foro de un touch como tal que es el foro
+
+por ciento que la misma comunidad de
+
+ayuda para que pueda ser digamos su
+
+dispositivo
+
+vale ahora siempre cuando uno pasa en
+
+sistema operativo entre uno dice guys
+
+pero qué miedo en este caso pasaría algo
+
+similar con unos stocks porque por
+
+ejemplo digamos que yo solo tengo mi
+
+celular pero igualmente quiero desear y
+
+quiero recomendaría a esa persona
+
+pero qué te recomendaría que hay que
+
+tener miedo
+
+lo primero es perder el miedo porque no
+
+se baña actividad y se baja y lo vas a
+
+damián y sectorial ni nada por el estilo
+
+touch es amigable con el usuario también
+
+igual como lo de sandro y como los años
+
+que pasa que es diferente el diseño sí
+
+pero es lo mismo maneja casi que la
+
+misma funcionalidad no te vas a perder
+
+lo único aquí que es complicado es el
+
+tema también de las aplicaciones creo
+
+como tal pero hay ciertos dispositivos
+
+que soportan 44 y es un software que nos
+
+permite instalar aplicaciones de android
+
+en un auto dodge entonces es bastante
+
+interesante entonces creo que hay que
+
+perder un poco el ingeniero respecto a
+
+instalar hay un paso ese poquito que
+
+dije no yo tengo mi nex-5 tengo
+
+instalado un touch entonces voy a
+
+generar una reinstalación para hacer un
+
+para hacer un
+
+enlace a un vídeo en youtube que la
+
+gente se dé cuenta que no es tan
+
+complicado instalar si
+
+vamos a morir
+
+entonces lo que hice fue la
+
+reinstalación y pasa que se ve cómo como
+
+lo sé no lo hice sin mira el vídeo
+
+simplemente digamos utilizando la
+
+herramienta
+
+paso que se me hace no diría que daño
+
+porque no sé mi año pero es m
+
+la red wifi entonces yo white knight en
+
+7000 instalar tal yo corté iguales que
+
+corte la instalación entonces fue
+
+bastante interesante ver cómo que igual
+
+se me a ver igual el wifi yo como que yo
+
+sé que hice aquí sirven you sistema fue
+
+lo primero que haría no o sea la carne
+
+entonces que hice yo no voy a ver un
+
+vídeo voy a contarme entonces me vi un
+
+vídeo de una persona que están
+
+instalando otro sistema o sea en otro
+
+sistema en otro dispositivo touch
+
+utilizaban porque no es tan complicado
+
+de toda dieta se instaló perfecto cuando
+
+volví a hacer la instalación ya me
+
+funciona todo perfecto que pasa que no
+
+puedes hacer es no puedes parar la
+
+instalación cuando el sistema operativo
+
+o cuando esos estado cuando ese software
+
+está instalando en tu dispositivo porque
+
+pasa que se puede averiar algo por el
+
+tema de compatibilidad entonces eso fue
+
+lo que me pasó pero ya lo puede ser lo
+
+puede solucionar el mismo día y en el
+
+mismo día estoy trabajando con mi
+
+dispositivo para bastante niña pero pasa
+
+que no a todo el mundo le pasa entonces
+
+es bastante complicado pero igual no se
+
+te va a dañar iguales g digamos seguir
+
+con eso igual es ética o sea ver ver es
+
+como que hay digamos como te comenté que
+
+se me dan el golpe y el celular y micro
+
+celular no es intentar digamos generar
+
+una actualización de la mejor manera en
+
+mi caso yo no lo hice la mejor manera
+
+porque lo pare porque vi que me salió
+
+como algo o algo súper raro yo igual
+
+no para molestar a nadie voy a
+
+documentar nuevos vídeos para ver qué
+
+tal igual pensar a los 6m dañados de
+
+aquí me mate entonces lo que hice fue
+
+hacer la reinstalación por segundo sea
+
+por tercera vez es porque ya había
+
+instalado el nexus en el nexus 5 ya
+
+tenía un touch y se lines la
+
+reinstalación la segunda vez ahí fue
+
+cuando se me abría el wifi tesis la
+
+tercer visita la acción y me funcionó
+
+pasa que fue por el software porque me
+
+salió un error algo súper raro quite la
+
+instalación entonces quitar la
+
+instalación puff o sea se me instalo
+
+todo menos la compatibilidad con el wifi
+
+pero puede ser no te vas a algún motivo
+
+ya mente no te va a pasar porque la idea
+
+es que al contrario esto que pasó es que
+
+no lo cometas tour y lo comentaba las
+
+personas y obviamente la idea no es
+
+cometer ese mismo error pero puede pasar
+
+que en algún momento para pasar algo no
+
+sea algún tema de compatibilidad no
+
+cuando se esté instalando el pse está
+
+operativo o no sino cuando ya estás
+
+deseando el sistema operativo puede que
+
+falte una compatibilidad no sé de tema
+
+de teclado temas de wifi que otro tema
+
+pero no es como que en ese momento se te
+
+va a dañar esas sales operativo el
+
+hardware de tu
+
+no va a pasar cuando ya estés trabajando
+
+tranquilos
+
+vale perfecto tenemos una segunda bueno
+
+comentario 2 de hecho el primero dice
+
+ver y es un friso de la vista pero pues
+
+ya se verá josh homme acosta
+
+su computador prestado verdad
+
+de mi empresa
+
+no es mi computador de trabajo yo
+
+trabajo en linux pero el que tenía
+
+anteriormente en donde estaba trabajando
+
+sea en mi empresa en el que anterior
+
+está trabajando si ya no trabajo con más
+
+cosas pero te dije no como teníamos
+
+descargar mi presente haciendo para
+
+cargar que pase algo que se me anhelas
+
+que sea que se me allí el tema de que
+
+cuando esté trabajando en
+
+algo no utiliza la mac porque
+
+prácticamente estaba cargando
+
+y
+
+bueno más bien comentar algo que me
+
+gusta mucho del proyecto es que se puede
+
+dar una segunda vida a los dispositivos
+
+que ya no soportan las nuevas versiones
+
+de hambre por ejemplo a mi dispositivo
+
+digital o whatsapp
+
+con con
+
+con un taxi le hago jaque mate al
+
+sistema
+
+pues es era como el siguiente comentario
+
+ahora next hay unas preguntas que me
+
+hicieron y era si se puede instalar clic
+
+en él creo que se llama cítrica y bolt
+
+en w cl 2
+
+[Música]
+
+y
+
+su sistema para linux
+
+no
+
+como tal como
+
+el sl no
+
+incluso aquí en el que clave aparece que
+
+solamente está soportado para
+
+distribución de minutos entonces
+
+solamente se ponen links son solamente
+
+se puede en linux como tal mira aquí
+
+aquí está el tema tele como como se
+
+puede instalar hay tres opciones para
+
+instalar un auto es linux
+
+entonces lo primero es instalar vía pib
+
+en linux obviamente y la distribución
+
+linux luego es instalar blogs y tenemos
+
+una distribución ubuntu mediante una
+
+propiedad y esto es si tenemos archi
+
+instalarlo mediante un paquete pack 2
+
+por eso es que
+
+pero es que no creo que se pueda igual
+
+si la persona lo hace y le funciona
+
+perfecto pero sería si es como sls que
+
+se maneja aún tú como tal si no estoy
+
+mal pues creo que circularía pero con el
+
+mundo como tal
+
+ya pp a el mundo pero no creo que y ésta
+
+no la recomendaba porque en fin las
+
+recomendadas bien entonces creo que un
+
+todo depende digamos si la persona que
+
+tancacha de gallup es para eso para
+
+decir para hacer este tipo de cosas pero
+
+pues lo ideal es que se trabaje bajo
+
+distribución linux y bajo digamos
+
+sistemas operativos viejos no lo hacen
+
+porque pueden causar algún error o neal
+
+tema del desarrollo o causar algún
+
+herrán digamos frente a la organización
+
+de el proyecto en su pues con el tema de
+
+la configuración que esas variables de
+
+entorno y que todos los sk y las
+
+dependencias y todo ese tipo de cosas
+
+hoy pasar algún error entonces pues
+
+leyes que siempre nos recomiendan
+
+instalarlo en una distribución en x como
+
+ilusión
+
+en la máquina virtual sí pero no en un
+
+subsistema como después
+
+si usan software
+
+el
+
+siguiente siguiente siguiente pregunta
+
+bueno como ven con whatsapp pero creo
+
+que tú lo había dicho que no estaba
+
+totalmente terminado pero ya he was a
+
+web es más acuerdo o sea te funciona el
+
+whatsapp web y no te funciona la
+
+aplicación whatsapp como tal entonces no
+
+puedes trabajar con pasado pero pero sí
+
+con guasa cuerpo o sea es común
+
+alternativa
+
+vale acá hay dos preguntas chéveres que
+
+rutinas ya navidades contestado ir a
+
+cuáles aplicaciones convencionales están
+
+soportadas ya hay varias pero también
+
+son si no estoy mal
+
+i
+
+[Música]
+
+y la segunda pregunta que estás me
+
+parece súper chévere me gustaría saber
+
+si hay forma de poder probarlo antes de
+
+instalarlo como una máquina virtual o
+
+algo así es posible también preguntar ya
+
+yo se puede poner algo así como un live
+
+usb dentro del celular
+
+forma de probar digamos 1 punto touch
+
+pero sí probarlo en el digamos en un de
+
+esto como tal y creo que la
+
+distribución está
+
+digamos
+
+en
+
+2014
+
+en el este con 27 años y es esta la live
+
+nuestros en ese punto y medio obviamente
+
+es la que se utilizó en el que la 14.04
+
+que eso ya mientras que maneja el
+
+destaque miami que si te des por
+
+recordarme pero creo que está la
+
+distribución sin decimales un tweet in
+
+the mix es la que digamos soporta el de
+
+stock en vario meant que maneja un touch
+
+es decir es como si yo estoy manejando
+
+un tutor pero desde dispositivos digamos
+
+pc o stock o portátil entonces creo creo
+
+que ese estado también es que esta fue
+
+la última distribución que me comentaron
+
+que sí es decir la utility d'amics esa
+
+es la distribución que soporta digamos
+
+que es el mismo texto que es el mismo un
+
+estoque environment que tú estás
+
+utilizando en un tutor pero para esto
+
+cierto es el mismo texto que es la misma
+
+información prácticamente todo el mismo
+
+de esto utilizando no lo utilizas
+
+entonces creo que eso sería una
+
+alternativa no es la convergencia porque
+
+no es la convergencia que se está
+
+buscando para el tema del desarrollo
+
+digamos con un touch como tal que es
+
+digamos la base y tenemos la filosofía y
+
+la misión que se gusta con un tutor pero
+
+es otro tipo digamos de proyecto que
+
+también es de código libre es también
+
+100% libre que nos permite trabajar y
+
+ver digamos cómo se comportaría digamos
+
+si manejará nuestra convergencia en este
+
+caso con un tutor existencia en nuestro
+
+portante y luego el de nuestro pc es un
+
+alternativo verdad es bastante
+
+interesante porque junto inti fue el rey
+
+antes de que llegara y no me pregunto
+
+las distribuciones y los servicios de
+
+junto entonces bastante interesa a mí me
+
+encantó cuando cuando la probé entonces
+
+por eso la recomiendo muchísimo no me
+
+acordaba el nombre pero si yo la conozco
+
+como beat y remix pero se llama un tweet
+
+entonces es bastante interesante en aquí
+
+la dejo para que más personas se atrevan
+
+a probarlas una distribución linux que
+
+tiene como tal en ese campo
+
+el mismo que maneja
+
+ya no se llama yo ni que sea malo min
+
+manejarlo médico este que vaya ver tanto
+
+como esta distribución lips que es multi
+
+la vida como el nuestro que mayormente
+
+un tutor que también está entonces
+
+bastante interesante
+
+vale perfecto perfecto
+
+segunda pregunta segunda pregunta porque
+
+un tutor chino el de plasma
+
+pero si ese
+
+plasma
+
+porque
+
+realmente es algo interesante quiero
+
+comentarlo también porque eso me lo
+
+comentaron así como cuatro veces pero
+
+mis compañeros que se encuentran en el
+
+huerto usted me comentaron que parte del
+
+desarrollo de la samoa y también hay
+
+ingenieros que desarrollan bajo ósea de
+
+un tutor se desarrollar ese mundo los
+
+ingenieros de desarrollo en un tocho
+
+también ayudan y mantienen muchísimo el
+
+proyecto de plasma wayne es decir los
+
+los y vidrios que desarrollan en plasma
+
+mobile también son los ingenieros que
+
+desarrollan en auto touch y no probó
+
+class como ahí no porque no me guste no
+
+porque no me parece que nos dejan
+
+digamos un un sistema operativo
+
+otra alternativa linux no me parece
+
+bastante interesante de cómo ambos
+
+ingenieros que desarrollan en un touch y
+
+plasma mobile generan digamos este tipo
+
+de productos bastante estables y
+
+bastante lineales sino que realmente no
+
+me haga como generado como que me llama
+
+mucho la atención confirmen llama la
+
+atención en un tutor entonces en más sin
+
+embargo digamos que también creo que eso
+
+es un dispositivo que no se encuentra
+
+totalmente
+
+tantos dispositivos si no estoy mal que
+
+fue lo último que supe pero es un
+
+dispositivo plasma móvil está
+
+desarrollado para todas las personas que
+
+son muy adictos o que les encanta son
+
+muy fan de las distribuciones con el
+
+deseo konvalinka de
+
+entonces a mí no me gusta mucho cada día
+
+me gusta más
+
+el trabajo duro que no me gusta más
+
+genial me gusta más civil y tim a mí me
+
+gusta más como ese trabajo duro no no
+
+como las cosas tan bonitas me encantan
+
+si obviamente me encanta muchísimo la
+
+ayuda pero creo que lo mío es como más
+
+no sin más no idea rústico pero más como
+
+orientado más a cómo
+
+exactamente exactamente no es como que
+
+me gusta mucho el tema yo ay me gusta
+
+muchísimo me parece que es un tengamos
+
+un proyecto que está madurando muchísimo
+
+que también el respaldo de los
+
+desarrolladores de multi touch porque
+
+trabajan conjuntamente el ambos teníamos
+
+tipos ingenieros en los diferentes
+
+proyectos entonces es bastante
+
+interesante a mí me parece que es un
+
+bonito es muy realmente es como muy
+
+androides
+
+voy a utilizar tanto androides me gusta
+
+me viene mejor un touch o por la
+
+diferencia de sistemas operativos y por
+
+la diferencia del operativo andré con un
+
+tutor que les viene bien ambos pero
+
+prefiero un touch
+
+[Música]
+
+pero es interesante
+
+vale siguiente pregunta y otra pregunta
+
+que hice acá al tener muchas web apps el
+
+sistema si mejoran rendimiento con
+
+respecto a instalar paquetes como que si
+
+hay muchos mercados sea muchas
+
+aplicaciones aplicaciones web web apps
+
+la pregunta discúlpame al tener muchas
+
+aplicaciones web de esas que dice web
+
+apps web app en open store mejora más el
+
+rendimiento del teléfono del del
+
+asma del teléfono aisha los paquetes y
+
+curiosamente lo hace un poquito más o
+
+sea despertó a mí pues digamos a mí a mi
+
+experiencia personal con la instalación
+
+de aplicaciones en el dispositivo en un
+
+tutor yo prefiero no instalar
+
+aplicaciones web sino aplicaciones
+
+nativas de la única aplicación web que
+
+tengo no es la de whatsapp web esta es
+
+la única que tengo que es pasa o sea que
+
+esta aplicación web para las demás son
+
+aplicasen es nativas y luego por qué
+
+porque las web app no sé qué pasa que me
+
+suelen consumir mucha mucha mucha
+
+información en test
+
+personalmente prefiero más trabajar con
+
+aplicaciones nativas porque sé que van a
+
+utilizar digamos de ganar full full uso
+
+a lo que es digamos las funciones
+
+nativas del dispositivo antes prefiero
+
+al con más nativo que algo bueno
+
+entonces está genial sí pero siento que
+
+consumen mucha sal te consumen mucho
+
+rompe limpio lo que sigamos el lo que es
+
+en youtube en youtube hay hay una
+
+aplicación en la open store que es de
+
+youtube y es una aplicación web una web
+
+app es cuando yo voy a ver un vídeo en
+
+la web app de youtube
+
+la cual no muere pero casi muere y
+
+entonces prefiero no utilizar tanto en
+
+applications porque pasa eso no pasa lo
+
+mismo con las aplicaciones nativas
+
+entonces por eso de alguna manera puede
+
+firmar las aplicaciones nativas porque
+
+sacan la esposa prefiero más las
+
+aplicaciones nativas que las
+
+aplicaciones fue por ese tipo de
+
+cuestiones pero todo todo se refiere más
+
+al tema al desarrollo igual youtube
+
+también consume mucha ram después
+
+digamos que ese es el tema pero pero si
+
+las aplicaciones web se consumen
+
+bastante improbable
+
+vale hablando de aplicaciones tenemos
+
+dos comentarios tres sobre receta uno de
+
+los comentarios dice es que enseñarle a
+
+los animales a ser hay aquí
+
+la segunda es donde puede encontrar el
+
+repositorio del aplicativo ok bueno es
+
+que aquí no tengo la aplicación como tal
+
+y no instalado nada pero el repositorio
+
+a ver una vez
+
+junto con
+
+stands y creo que lo tengo aquí en mi
+
+repositorio sí
+
+sí sí lo tengo de hecho es el primero
+
+que aparece reserva pues es la
+
+aplicación pasada que esta aplicación y
+
+ese proyecto está realizado en la
+
+versión 6 es decir no he hecho la
+
+actualización a la versión 5 por lo
+
+tanto sean encontrar con el proyecto
+
+obviamente
+
+en la versión 6 aquí está todo toda la
+
+información del proyecto y demás como
+
+tal es un buen prototipo que trabajo
+
+bueno yo no trabajé en lo tome
+
+libremente de feedback porque estaba
+
+libre no estaba para no sufrir entonces
+
+tomamos pues este tenemos que en esto
+
+está basado en lo que es reservado pero
+
+digamos que aquí está en la
+
+actualización en la versión seis nuestra
+
+todavía la actualización la versión 5 de
+
+agen y que por lo tanto van a ver muchos
+
+escenarios en el tema de la compilación
+
+para un tutor como tú entonces digamos
+
+que si lo podemos encontrar pero no se
+
+actualiza auto vio hace dos meses que no
+
+lo actualiza fotos
+
+y aquí como les comentaba vitales pues
+
+aceite que estamos hablando de eso aquí
+
+con respecto al desarrollo y cuando
+
+comentaba que necesitamos iniciar
+
+previamente un la carpeta creada
+
+mediante clic de ubuntu touch el
+
+proyecto con el lenguaje soportado en
+
+este caso javascript aquí en la w en la
+
+tv doble o que es el archivo public del
+
+del proyecto aquí se se suben todos los
+
+archivos javascript compilados todos los
+
+archivos que se desee compilados y todos
+
+los archivos aquí también compilados
+
+para correr la aplicación pues digamos
+
+son portada en un tutor es bastante
+
+interesante no porque para eso tengo que
+
+hacer toda esa configuración no es lo
+
+mismo con la androide simplemente a
+
+movimiento el propio digamos well y la
+
+emulación desde el xcode y me genera la
+
+emulación para dispositivos ios y
+
+android
+
+no pasa lo mismo aquí con pasas que se
+
+emula descalificarle de esta que es el
+
+digamos el comando para emular el
+
+dispositivo juntos pero no es la misma
+
+configuración de ser y hacer una
+
+configuración un poco la configuración
+
+extra diría yo para poder correr
+
+para poder correr la aplicación y
+
+digamos para este sistema operativo
+
+entonces es bastante complicado un poco
+
+esa configuración extra es un poquito
+
+complicada pesos es complicado
+
+precisamente es en el script y ya cuando
+
+yo genero el comando bien y poder por
+
+antes ya se me mira todo digamos
+
+automáticamente y simplemente preparo
+
+digamos en la carpeta del proyecto en
+
+este caso es la cpap tiene ese papá es
+
+fijo que cable de esa que es el comando
+
+para ejecutar la aplicación en un tutor
+
+en opción emular de touch y villa así es
+
+como buscar pero pues hay que ser un
+
+poco más de comprensión del mismo cambio
+
+pero es solamente una configuraciones de
+
+estrella
+
+ahora lo como
+
+nada del otro mundo
+
+vale y en cuanto a otro comentario 36
+
+pues nos dice que es una app
+
+desarrollado con amor y más que eso una
+
+app a la colombia
+
+y pues en cuanto a otro tengo que más
+
+que todo habría que pues para el tema
+
+éste de un tutor hay más que tengo que
+
+generar como esa conciencia generar esa
+
+visa y visibilización a las personas
+
+también es otro comentario pues que nos
+
+dos puntos nos pusieron por aquí y
+
+ya no tengo más conocidas es por ahora
+
+por ahora
+
+vale entonces si quieres no sé si tengas
+
+algo que decir ya como para para
+
+cerrarlo y hoy la verdad es que mira la
+
+verdad darle gracias a la feliz al
+
+bogotá por dar el espacio por generar el
+
+espacio y por aceptar a mí la charla
+
+porque también es que ustedes son es en
+
+un proceso para el aceptar pues la
+
+aceptación de las charlas y más es un
+
+gusto como la gente les les encanta este
+
+tipo de
+
+proyectos la idea es poder hacer este
+
+este digamos dar esta visibilidad en las
+
+diferentes comunidades no solamente
+
+linux y de las diferentes comunidades
+
+los diferentes lenguajes el programa
+
+escrito colombia y también en las
+
+diferentes especies de latinoamérica lea
+
+es llegar con más
+
+como más visibilidad ya no estamos lo
+
+hemos hecho conjunto colombia en los
+
+podcast el sitio web en mi sitio web
+
+hemos tratado de visibilizar mucho este
+
+proyecto porque pues digamos un to
+
+colombia hace parte indirectamente lo
+
+que es el cuadro triste del mundo un
+
+tutor personal edition como tal en este
+
+caso que hago parte yo entonces es
+
+bastante interesante ver cómo igual
+
+civil y sus bicis y visibiliza el
+
+desarrollo del proyecto y también el
+
+desarrollo
+
+de aplicaciones más en el digamos el
+
+género femenino entonces es algo
+
+bastante grande ver como más personas y
+
+más mujeres también se interesan por lo
+
+que son las
+
+por lo que es mick como tal y lux como
+
+sistema operativo linux como
+
+herramientas bastante interesante me
+
+encanta muchísimo darle las gracias de
+
+las personas que se agendaron en lápiz
+
+nota yo amo la ffyl sol dan las gracias
+
+a mis compañeros
+
+lina y josh mande un to colombia que
+
+están full detrás de también de apoyando
+
+muchísimo a la philips o en bogotá hace
+
+muchísimos años a las personas a los
+
+sponsors a las cosas que están detrás de
+
+es de los pisos de bogotá darles las
+
+gracias por hacer posible la fiesta en
+
+boga tranquilidad de hoy y gracias a las
+
+personas que se agendaron a ver la
+
+charla para mí es significa muchísimo
+
+ojalá esta charla los motive y ojalá
+
+esta charla les
+
+les ayude también a querer y también
+
+mucho más comunidad les ayude a las
+
+personas que quieran participar en el
+
+desarrollo de las aplicaciones y aportar
+
+muchísimo a lo que este proyecto es nada
+
+yo nada más que agradecerle a todas las
+
+personas que se agendaron a las personas
+
+de la fiesta ya todas las personas que
+
+hacen posible la fiesta muchísimas
+
+gracias y darte las gracias también a ti
+
+en
+
+este ambiente y nada muchas gracias a
+
+todos no termina jamás y
+
+recordamos sus redes sociales por si
+
+algunas personas
+
+miren mis redes sociales aparezco como a
+
+linux igual de rooms code ya no tengo
+
+tantas redes sociales solamente tengo
+
+entonces no pueden seguir a realizarse
+
+no puede hacerte las preguntas o mi
+
+única red social ya que manejó fútbol
+
+para el soporte es él
+
+y telegram aparece como arrojan y se
+
+pueden encontrar entre el 'gran y me
+
+pone a escribir dudas inquietudes que
+
+tengan al respecto a las formas
+
+solucionar entre gran porque ya es una
+
+comunicación tú a tú entonces me encanta
+
+muchísimo apoyar en ese aspecto así tú a
+
+tú uno a uno entonces cualquier duda o
+
+inquietud en mi canal de tele gran está
+
+abierto para todos
+
+y también mi red social como tal
+
+instagram facebook tweets pueden hacerme
+
+todas las preguntas que quieran y en mi
+
+correo electrónico también espero
+
+preguntas dudas inquietudes vale ahí
+
+está el correo electrónico no es el caso
+
+de muy bien pero ahí está
+
+pero bueno
+
+vale
+
+esta línea castro de gmail.com lo mismo
+
+el ritmo y un to colombia vale para que
+
+también tengan las redes sociales debut
+
+vale entonces no siendo más te agradezco
+
+por permitirnos escucharte charlar nos
+
+pareció súper interesante la verdad os
+
+vi actividades a otras redes sociales
+
+que estaban por ahí más que todo
+
+telegram no sé por qué se me activa en
+
+un momentico entonces seré
+
+darte las gracias y esperarte en el
+
+próximo prisión el fiscal del próximo
+
+vale entonces no siendo más nos
+
+despedimos ya terminamos está esta
+
+charla por el día de hoy
+
+gracias a todos los que pudieron estar y
+
+hasta próximo
+
+bye bye
+

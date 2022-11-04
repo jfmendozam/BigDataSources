@@ -1,0 +1,2934 @@
+[Música]
+
+por qué
+
+venga
+
+[Música]
+
+[Música]
+
+[Música]
+
+[Música]
+
+[Música]
+
+[Música]
+
+[Música]
+
+[Música]
+
+2
+
+[Música]
+
+a
+
+políticas inmediatos
+
+[Música]
+
+bienvenidos
+
+d
+
+lograba
+
+daré
+
+de pilar
+
+saludos verdad buenas
+
+rafael me escucha escucha ven
+
+quizás
+
+e rafael lo puedes confirmar que me
+
+escuchas por favor de nuevo y si te
+
+escucho tú a mí
+
+ok tú me escucha yo no te escuché darme
+
+ese múltiple
+
+tipo
+
+bueno vamos a dar inicio a esta primera
+
+[Música]
+
+bueno nos acompañan en este momento
+
+rafael bonifaz fue coordinador nacional
+
+del flisol de ecuador durante los años
+
+2005 y 2007 en un reconocido activista
+
+en favor del shofar libre que ha
+
+participado en procesos para su adopción
+
+en instituciones públicas y privadas
+
+durante su carrera desde el 2012 se ha
+
+especializado en el uso de tecnologías
+
+libres para las comunicaciones seguras
+
+en internet
+
+en lo técnico tiene más de 15 años de
+
+experiencia como administrador de
+
+sistemas género linux actualmente es
+
+coordinador de tecnologías de la
+
+organización derechos digitales rafael
+
+como estas
+
+hola bien muchas gracias saludos desde
+
+siempre
+
+pero de empezar todo esto no seguimos
+
+viviendo tantos tiempos
+
+silenciado o que yunta resolvemos aquí
+
+en interno vamos a dar inicio a su
+
+conferencia entonces con ustedes rafael
+
+bonifaz
+
+[Música]
+
+y esto muchas gracias entonces voy a
+
+compartir un ratito por favor
+
+[Música]
+
+ok entonces
+
+voy a presentar a sacar de boniface hoy
+
+soy de ecuador actualmente trabajo para
+
+derechos digitales que es una ong en
+
+chile que trabaja el tema de derechos
+
+humanos en el ámbito de internet
+
+para derechos digitales del software
+
+libre siempre ha sido como una
+
+herramienta importante y les vamos a
+
+contar la experiencia que tenemos de
+
+haber migrado en derechos digitales de
+
+una herramienta propietaria y cerrada
+
+como slack a una herramienta libre como
+
+matrix entonces y que es segura y
+
+autónoma como dice la presentación
+
+nuestra presentación la hicimos de
+
+conjunto a marín que la de ello somos
+
+las personas que vemos al cabo el
+
+proceso de migración dentro del registro
+
+digital es hacia asia matriz
+
+[Música]
+
+entonces
+
+antes de hablar de esto quisiera
+
+o sea hacer
+
+notar porque tal vez no todo el mundo
+
+sabe pero el ecuador hay un activista
+
+reconocido del software libre que está
+
+siendo perseguido por el estado
+
+ecuatoriano que se le acusó de haber
+
+atacado sistemas para desestabilizar el
+
+gobierno en el 2017 nunca lograron
+
+progreso estuvo preso 370 días nunca lo
+
+lograron digamos
+
+demostrar que haya hecho nada malo sin
+
+embargo
+
+luego lo lograrán desbloquear unos sus
+
+teléfonos y en este teléfono vieron qué
+
+había tomado una foto del 2015 vamos a
+
+mostrar un acceso a una pantalla atender
+
+donde nunca ingresaba
+
+y bueno se le persigue por eso y en 2015
+
+era otro presidente a crear acusaciones
+
+iniciales por la que se detuvo de haber
+
+estado desestabilizando a un gobierno no
+
+tiene sentido y en el caso de olavide
+
+hace dos o tres semanas no recuerdo
+
+exactamente pero hace muy poco las
+
+oficinas del catch fueron allanados es
+
+cerca del centro de autonomía digital es
+
+la organización que fundó la línea de
+
+por qué llegamos de la bondad ahora en
+
+un lujo tener una organización de ese
+
+tipo aquí está yo trabajé ahí antes de
+
+estar en derechos digitales y es una
+
+organización que se dedica al desarrollo
+
+de software libre para comunicaciones
+
+seguras yo pude hacer digamos algunas
+
+pruebas de concepto para hacer
+
+comunicación de boston inglés sobre
+
+tyler luego se convirtió en goa hai que
+
+es un proyecto de software libre que
+
+permite tener conferencias de audio muy
+
+seguras donde son las personas que
+
+participan en la conferencia están
+
+siendo escuchan saben que la misma por
+
+qué está sucediendo y nadie por fuera de
+
+la conversación puede saber que la misma
+
+está sucediendo
+
+el último proyecto que ha publicado y
+
+bueno
+
+la ong que se dedica al desarrollo del
+
+software libre ahí pueden ver
+
+fotos de entrenamiento las computadoras
+
+fueron confiscadas es irónico porque
+
+todas las computadoras están encriptadas
+
+la es una política que hay en el cáncer
+
+que deberíamos tener entre
+
+organizaciones y la información que se
+
+encuentra en los discos duros civil no
+
+va a poder ser accedida por la fiscalía
+
+pero por otro lado toda esa información
+
+es pública porque los desarrolladores
+
+décadas en software libre y el software
+
+libre en el caso del que está complicado
+
+en hip hop entonces no tiene mucho
+
+sentido lo que están haciendo sin
+
+embargo es un punto clave porque el
+
+software libre que hacer cada uno des
+
+cualquier software libre de software
+
+libre hecho para que la gente pueda
+
+proteger sus comunicaciones software
+
+libre pensado en la privacidad y la
+
+privacidad de una herramienta que
+
+la privacidad es un derecho humano al
+
+cual debemos proteger y en el caso de
+
+eso es a lo que se dedica esta
+
+organización
+
+esta imagen es muy fuerte porque muestra
+
+que el estado cuando ya no al menos no
+
+está muy a favor de la privacidad y
+
+cuando se acaba la razón no queda más
+
+que la fuerza y entrega armado hasta los
+
+dientes para atacar siempre
+
+desarrolladores de software libre
+
+entiendo que en este momento es una
+
+conferencia sobre sobre
+
+el caso de la mina está grabada para que
+
+las que vinieron a ver
+
+y bueno entonces una protesta por el
+
+caso de lavinia ahora vamos a lo que
+
+para decidimos participar acá para lo
+
+que aplicamos antes de que pase el
+
+allanamiento de hace pocas semanas para
+
+hablar sobre matrix un nuevo contexto
+
+sobre porque quisimos migrar a matrix o
+
+porque una organización que quiera salir
+
+de una herramienta en la nube o una
+
+herramienta en pasada el software
+
+propietario y moverse a una herramienta
+
+libre para darle algunas alternativas
+
+libres que hacen lo que hace matrix
+
+porque decidimos dimos forma tics y
+
+algunas consideraciones de seguridad que
+
+tiene cuando uno utilice una herramienta
+
+como como un barrido de cosas que se
+
+puede hacer en telemática
+
+el primero el contexto las
+
+comunicaciones son estratégicas para
+
+cualquier organización
+
+tenemos la organización utilizamos
+
+nuestros medios de comunicación y la
+
+seguridad de esos medios de comunicación
+
+son muy importantes porque puede ser que
+
+una organización
+
+tenga adversarios una organización que
+
+esté defendiendo derechos humanos se
+
+encuentre con un estado como actor
+
+poderoso que está en contra de lo que
+
+uno está haciendo dentro de la
+
+organización y acaba dar un ejemplo lo
+
+que pasó con el caso de lavín y entonces
+
+podría ser comunicar de forma segura
+
+poderse comunicar sin saber qué
+
+sabiendo que nadie más está escuchando
+
+las comunicaciones sino que las
+
+comunicaciones solamente las personas es
+
+algo sumamente importante conocer piense
+
+en una organización por otro lado las
+
+herramientas que anualmente son para
+
+comunicarse con whatsapp
+
+digamos es la que en nuestro caso los
+
+chats de gmail alojan grados
+
+skype todo tipo de herramientas son
+
+centralizadas y están en eeuu y para que
+
+recuerden los documentos de snob en que
+
+sufrieron el 2013 muchas de estas
+
+empresas ya se sabe que entregan la
+
+información de las produce ya los
+
+usuarios al gobierno de eeuu
+
+particularmente a las agencias de
+
+necedad a la cia y e incluso al fbi 65
+
+céntimos en que la gente que no sea de
+
+eeuu viviendo fuera de eeuu tenga
+
+conciencia de que esto está pasando
+
+esencial y quieren mis datos del
+
+gobierno a eeuu de gmail por ejemplo va
+
+a tener esos datos sin que yo me entere
+
+que eso está pasando ni siquiera por eso
+
+es importante tener control sobre
+
+nuestras comunicaciones y por eso es
+
+importante el software libre porque el
+
+software libre nos brinde esa autonomía
+
+del software libre nos brinda ese poder
+
+que nos da la posibilidad de
+
+y comunicarnos de forma autónoma
+
+entonces los sistemas centralizados y
+
+contigo centralizados de una empresa y
+
+proveer las comunicaciones a todo el
+
+mundo tiene un tienen varios problemas
+
+no una es que no controlamos nuestros
+
+datos están más guardados de las bases
+
+de datos de estas plataformas
+
+seguramente las explotan y si bien hable
+
+de la necesidad de mover nuestra vida
+
+está crítica también le cae a télérama
+
+porque tener a los chats no son cifrados
+
+es una empresa que hace dinero y nos
+
+brinda un servicio gratuitos esta
+
+empresa que hace dinero y que es una
+
+plataforma súper buena súper cómoda
+
+súper chévere
+
+la luna se está financiando y por ningún
+
+lado la página telegraph dice por dónde
+
+también telegrama ni en 2015
+
+pues cómo se llama
+
+en 2014 ofreció publicado el código
+
+fuente como está hecho a los servidores
+
+no lo ha hecho tenemos un cliente libre
+
+por lo menos entiendo yo que el nivel
+
+que uso es desde
+
+descargado de 0 a 0
+
+cómo se gestionan los datos todo esto es
+
+un servidor que no es libre está
+
+gestionado por una sola empresa y que no
+
+se tiene hacer si maneja las
+
+comunicaciones como de 500 millones de
+
+personas si no me equivoco y eso es un
+
+problema porque esta empresa tiene
+
+acceso a esas comunicaciones y las
+
+comunicaciones de intel eran unos son
+
+cifradas salvo que uno ponga los
+
+secretos que generalmente no usa la
+
+gente esa función como muy poco las
+
+personas que utilizamos la función
+
+entonces es importante tener en cuenta
+
+entonces
+
+destacó el caso de telera porque veo que
+
+lo que se utiliza mucho en la
+
+organización de los nuevos visuales
+
+desde hace varios años pero ya lo que
+
+tiene sus problemas y que hay que
+
+tomarlo en cuenta
+
+hablaba en esta diapositiva duele que
+
+vettel eran pero que era prácticamente
+
+todo lo que se ha hecho en eeuu
+
+particularmente a lo que está en las
+
+empresas de la izquierda microsoft pero
+
+también one drive
+
+office 365 imagínense basta la gente de
+
+oro toda la gente pero mucha gente usa
+
+google docs office 365 para hacer sus
+
+documentos con la forma colaborativa y
+
+esa información queda almacenada en
+
+servidores de en estados unidos de los
+
+cuales nuevos gobiernos unidos puede
+
+acceder sin que nosotros sepamos qué
+
+está pasando esto
+
+y pueden ver a la derecha el tipo de
+
+información que recaban
+
+esto es posible porque la información
+
+está inquieta de porque la información
+
+está manejada en un servidor que una
+
+computadora que es nuestro la
+
+computadora de alguien más
+
+dado ese contexto lo voy a explicar un
+
+poco qué es slack porque es un festival
+
+de software libre no todo el mundo
+
+conoce lo que destaca y es la cta amigos
+
+una plataforma que se usa mucho en el
+
+ambiente empresarial
+
+y es una plataforma que permite
+
+gestionar chats es muy parecido a lo que
+
+el antiguo organizador son usados desde
+
+los canales de irc pero más moderno más
+
+bonito y con otras funcionalidades por
+
+ahí que si en el ámbito empezar
+
+como por ejemplo
+
+la
+
+palabra
+
+existes del año 2013 justo es todos los
+
+documentos probablemente por eso una
+
+pensión esta diapositiva pero porque
+
+está positiva que es presente antes acá
+
+es el año 2013 y bueno a mediados del
+
+año 2013 y esta es día de fin y es la
+
+que salió digamos a finales del 2003
+
+permite crear salas
+
+grupales conversación uno a uno pero no
+
+provee es no provee el cifrado de
+
+extremo a extremo
+
+desde la perspectiva de derechos
+
+digitales de esa manera era nuestra
+
+oficina porque ahora ya no lo es y era
+
+donde generamos toda interacción no hay
+
+esto mauricio no piense en una oficina
+
+tradicional
+
+cuando uno tiene un sistema de chat que
+
+guarda todo es como que todas las
+
+conversaciones todo sucede todo está
+
+siendo grabado y luego ánimas
+
+innecesarias como financiaciones
+
+tuviéramos cámaras micrófonos pero no
+
+solo cámara de micros a los cuales le
+
+gusta realmente mente y se puede hacer
+
+buscar y sabe las buenas quién pertenece
+
+también que puede ser buscar sobre la
+
+sala de no es que pertenezco pero si uno
+
+soy de la organización y hago búsquedas
+
+ansiosa y es la glosa de derechos
+
+digitales llegó búsquedas ahí entonces
+
+puedes mantener conversaciones muy muy
+
+personales los muy propias de la
+
+organización que no debería conocer otra
+
+organización por más que nos terminamos
+
+de fisio gratis porque el caso de la
+
+xxxiv y exprés se ha pagado para ongs
+
+también dan
+
+dada en el servicio gratis entonces el
+
+caso de los lácteos del caso de un
+
+sistema centralizado y ya casi volvemos
+
+a lo que mencionábamos antes esto podría
+
+ser
+
+el caso del ground de whatsapp incluso
+
+designa lo que si bien signar a
+
+diferencia de
+
+telegram la información siempre es
+
+cifrada los chats siempre son
+
+encriptados no puedes tener un chat que
+
+no se encripta d'or pero si está todo
+
+guardado los servidores de alguien más
+
+por de lima dice mismas gestiona todo
+
+entonces acá
+
+todas las comunicaciones que van en los
+
+servicios centralizados son pasan a
+
+través de los mismos y si estás todo
+
+encriptado como se supone que es guardar
+
+por ejemplo los metadatos de las
+
+comunicaciones siguen siendo accesibles
+
+los metadatos es quién está hablando con
+
+quién con qué frecuencia de a qué horas
+
+de qué dirección ip o un montón de
+
+información que igual queda almacenado
+
+en las personas que proveen el servicio
+
+y eso es un problema porque los
+
+metadatos también dicen un montón
+
+y bueno y luego venimos a lo que es el
+
+concepto de un modelo generado porque en
+
+caso de matriz es algo importante y
+
+entonces crear porque decidimos tomar
+
+nuestra matriz y por no por otra
+
+alternativa de software y ver el tema de
+
+la aceleración es muy importante
+
+si pensamos de los chats que estamos
+
+hablando a la nova los probablemente los
+
+idiomas conozco son whatsapp telegram
+
+signal
+
+no podemos chatear de tener asignado
+
+designará whatsapp es como que todos
+
+estamos encerrados en una burbuja
+
+mientras que si pensamos de servicios
+
+federados como por ejemplo correo
+
+electrónico
+
+yo puedo enviar un correo electrónico si
+
+estoy no sé si se ve el mouse pero lo
+
+voy a pasar esto hay una computadora de
+
+acá arriba mi correo electrónico lo
+
+mandó a la otra computadora de arriba
+
+entonces la comunicación es interna
+
+dentro de mi servidor como si
+
+estuviéramos viendo dentro de whatsapp
+
+perfil de abajo a la derecha el último
+
+tema de abajo quiere comunicarse turan
+
+de arriba a la izquierda entonces las
+
+comunicaciones pasan por los dos
+
+servidores y cada cual se comunica y no
+
+dependemos de la información del otro
+
+así si la hay en un servidor luego por
+
+siguen funcionando la comunicación entre
+
+los demás sigue funcionando si se cae
+
+whatsapp por ejemplo es crisis en
+
+américa latina todo el mundo no puede
+
+comunicarse es alta ejerce en twitter
+
+que no funciona whatsapp pero él
+
+es un problema de los servicios
+
+centralizados
+
+servicio federado de largo más utilizado
+
+del correo electrónico y en toda mi
+
+historia usando internet nunca ha habido
+
+un mal y se cayó el correo electrónico y
+
+todo el mundo se quedó sin correcto si
+
+hay servidores de correo electrónico que
+
+se caen pero no afecta a la estructura
+
+de la comunicación de miles de millones
+
+de empresas
+
+de personas digamos como sucede cuando
+
+se cae guardar que hablamos de dos mil
+
+millones de personas el problema
+
+pero ahora no nos volvamos a casa
+
+derechos digitales buscábamos una
+
+alternativa que nos permite comunicarnos
+
+de forma segura que tengamos control
+
+sobre nuestros datos y bueno y para
+
+salir lo de la federación que
+
+es bastante útil porque si otras
+
+organizaciones de que estamos en algo
+
+como matrix entonces vamos a poder
+
+comunicarnos de forma autónoma
+
+descentralizada como un correo
+
+electrónico todas las partes buenas del
+
+correo electrónico entonces vimos
+
+algunas alternativas vimos maternos que
+
+es algo muy parecido slack pero tenía
+
+dos problemas el principal era que no
+
+proveía cifrado extremo a extremo ahora
+
+los datos ya no iban a estar en los
+
+servidores de la imagen no iba a estar
+
+en los servidores puestos
+
+y nosotras nosotros como administradores
+
+de sistemas tenemos la obligación de
+
+proteger las comunicaciones de las
+
+personas que están utilizando nuestra
+
+plataforma y el sistema para que sea
+
+seguro tiene que ser tan seguro que las
+
+personas que administran no pueden ver
+
+los chats de los demás sí y para eso los
+
+chats deben estar citados en un mensaje
+
+cuando maría le manda un mensaje a jose
+
+el mensaje de la como todo de maría sale
+
+encriptado el ribera jose encriptado y
+
+en lo deseen quita pero en el servidor
+
+nunca lo podemos ver los mantenemos no
+
+provee esa seguridad
+
+sabe que es una excelente herramienta
+
+para chatear rockets chart tiene el
+
+mismo problema en los dos casos sirve
+
+para generar burbujas aisladas
+
+me parece que maternos si se podía
+
+instalar un plugin para hacer cifrado
+
+este extremo pero no era tan completo y
+
+en donde interesa mucho que la
+
+plataforma de entrada soportes cifrado
+
+extremo extremo
+
+xm pp es otra alternativa muy
+
+interesante xd vp poder proveer cifrado
+
+extremo extremo pero se deben instalar
+
+plugins salvo que uno utilice una
+
+plataforma como colla y en que es la que
+
+desarrolla el centro de autonomía
+
+digital que les comentaba el vídeo la
+
+mini y que bueno el año pasado capital
+
+de bogotá cuando trabajaba en el
+
+emshi y si están interesados pero en
+
+todo caso
+
+un cliente como co ya llamó como la
+
+mayoría de clientes de xm pp no es tan
+
+completo como el cliente principal de
+
+matrix que es el elemento que permite
+
+crear un grupo súper fácil que permite
+
+que todos los grupos sean citados de
+
+extremo a extremo permite hacer las
+
+búsquedas de entre los chats y tiene
+
+esas cosas que hacen que la gente que va
+
+a usar la plataforma se sienta cómoda
+
+porque no es suficiente que una
+
+plataforma sea segura sino también tiene
+
+que ser usable para la gente si me pongo
+
+a poner algo demasiado seguro
+
+voy a tener mucho rechazo dentro de la
+
+organización y también voy a frenar los
+
+flujos de trabajo entonces es importante
+
+buscar
+
+un equilibrio entre seguridad y
+
+facilidad de uso y conveniencia porque
+
+en el caso de derechos digitales las
+
+personas no somos bueno yo en general
+
+no son personas técnicas son en su
+
+mayoría abogados abogados entonces es
+
+importante que la plataforma sea fácil
+
+de utilizar para ese tipo de gente
+
+y valera otra característica que tiene
+
+madrid es que si genera y que es un
+
+proyecto súper súper vivo entonces
+
+decidimos de unas formativas en lugar de
+
+xmp principalmente por el cliente que
+
+necesitamos algo que está súper útil
+
+para el trabajo que se realiza el caso
+
+de goya y es súper seguro pero es como
+
+para otro tipo de trabajo por ejemplo no
+
+guarda los blogs los chats singh y en
+
+este tipo de organización si no le
+
+interesa tener los blogs de los chats
+
+habrá conversaciones que quisiéramos no
+
+tenerlas pero en general nos gusta poder
+
+volver porque tenemos varias
+
+conversaciones y nuestra oficina y
+
+en cambio el caso de goya
+
+es una plataforma en la cual yo puedo
+
+hacer crear una cuenta de forma anónima
+
+puedo comunicarme con otra gente de
+
+forma anónima y tiene otros otro modelo
+
+de amenaza que va a ser en general más
+
+seguro pero no es necesariamente vamos a
+
+parar
+
+el tipo de trabajo de una organización y
+
+entonces cuando uno busca una
+
+herramienta de software libro tiene que
+
+buscar esa herramienta de software libre
+
+sea la que le sirve a la organización
+
+que bueno sea una herramienta saludable
+
+que tenga una comunidad fuerte que esté
+
+casi ande igual en los informáticos y
+
+matrix no hay una red intentar una vez
+
+con estándar al igual que idn pp o al
+
+lado yo digo correo electrónico en
+
+correr permite varios protocolos como
+
+smtp pop3 e imap si hablamos de
+
+matriculé en cambio tenemos
+
+básicamente el protocolo matrix si es un
+
+solo protocolo cliente servidor hecho
+
+con software libre un protocolo abierto
+
+tiene un cliente que es el elemento que
+
+es la aplicación que nosotros utilizamos
+
+en el día a día pero tiene también
+
+tenemos un servidor que se llama synapse
+
+que estáis john payton y que es bastante
+
+fácil de instalar en buena documentación
+
+y es fácil hacer que servidor cederé una
+
+vez instalado es más fácil hacerlo y
+
+correo electrónico
+
+9500 carlos de meses algo un archivo en
+
+la página web que maneja el dominio
+
+principal y está aunque también se puede
+
+hacer cuando se desee
+
+profe cifrado extremo extremo por
+
+defecto entonces
+
+los datos si bien tienen control a
+
+organización pero es cada persona que
+
+tiene acceso a la luz a todas las salas
+
+de chat etcétera pero los chats se
+
+guardan en los servidores de los en el
+
+servidor pero se guardan encriptados y
+
+cada persona tiene las llaves para
+
+desencriptar sus chats nosotros como
+
+administradores no tenemos una llave
+
+mágica que permite leer los chats de los
+
+demás y está súper súper importante en
+
+un sistema que uno pueda confiar uno no
+
+debería tener que confiar en el
+
+desarrollador o la desarrolladora o no
+
+debería tener el pro en el administrador
+
+de sistemas pero no debería confiar en
+
+la criptografía y el software libre que
+
+ésta quede auditable y que nos permite
+
+comunicarnos de forma segura pero no la
+
+buena voluntad a la persona que
+
+administra el servidor porque además
+
+puede ser que la persona que administra
+
+el servidor sea una persona súper
+
+correcta digamos incapaz de hacer nada
+
+malo pero qué pasa si ese dinero está
+
+jaqueado si una falla de seguridad nos
+
+apartamos del tiempo y de esa falla se
+
+quitan todos los chats si es que llegas
+
+a que el servidor no va a tener acceso a
+
+casi ningún chat porque todo todo en su
+
+mayoría están siendo las inscriptas y
+
+claro eso por libre y tenemos control
+
+sobre nuestros datos en fin así es más o
+
+menos el esquema de trabajo que uno
+
+tiene un con matrix un cierto yo acá a
+
+la izquierda tengo
+
+un servidor de derechos digitales no es
+
+cierto en el cual yo me puedo conectar
+
+desde un celular me puedo conectar desde
+
+una computadora tengo salas de chats
+
+dentro de las salas de chat incluso
+
+tenemos espacios quiere hablar un
+
+poquito más adelante que son espacios
+
+y luego tenemos grupos dentro de la sala
+
+varias personas dentro de un grupo y los
+
+nombres de usuario o los identificadores
+
+son usuario dos puntos dominio aunque
+
+también uno puedes hacer su correo
+
+electrónico es un número que hemos
+
+tratado todavía porque lo que
+
+necesitamos de momento pero hay
+
+servidores propios como derechos
+
+digitales puntos que es nuestro pero
+
+también hay servidores públicos como
+
+matrix punto o hereje una organización
+
+puede tener su propio dominio o mozilla
+
+también tiene un servidor público que
+
+ustedes pueden prestar una cuenta y
+
+pueden echar la entrada trata de matrix
+
+y instalar un servidor y las personas
+
+que tienen un servidor lo podrían hacer
+
+a cada vez como sería matrix y usaríamos
+
+para el friso la que está más enfocado
+
+en el fútbol de ecuador tienen nombre
+
+las ciudades pero podría tener ciudades
+
+de toda américa latina
+
+pero también está uno de los países y
+
+está por país entonces no podía tener un
+
+espacio por ejemplo y un espacio tener
+
+varias salas de chat las salas de chat
+
+digamos tenemos el
+
+matrix del fiscal porque para mí sería
+
+mucho más viendo que el el fistol usada
+
+matrix en lugar de
+
+de telegraaf claro y fácil de hacer y
+
+muy complicado pero cuando yo entré al
+
+primer crisol donde los organizadores
+
+coordine el ecuador
+
+hubo un montón de cosas que aprendí
+
+simplemente por herramientas que
+
+utilizaban yo no sabía que era un wiki
+
+escribir wiki del samu me enseñó que
+
+además de los wikis
+
+y gracias a ese hui kim logré descubrir
+
+lo que es
+
+la wikipedia ha sido mi primer wiki no
+
+fue la wikipedia mi primer wiki wiki del
+
+sisol y luego estaban las listas de
+
+correo eléctronico implementamos
+
+nuestras propias listas de correo
+
+electrónico y hacer ese trabajo nos
+
+permitió tener la posibilidad de
+
+entender cómo funciona la tecnología y
+
+luego de implementar esas herramientas a
+
+muchos no servía de nuestro mundo
+
+profesional en implementar un servidor
+
+de correo electrónico implementado
+
+servidor de chat
+
+o sea más allá de las charlas que uno da
+
+del proceso de organizar un juicio nos
+
+permita apropiarnos de la tecnología y
+
+ojalá algún rato podamos usarlo o matrix
+
+ahora si bien va a haber más trabajo
+
+volver a alguien que tenga que hacer que
+
+funcione el servidor tiene mejores y
+
+verán alguien es que cree en varios
+
+servidores y podamos interactuar dentro
+
+de una red descentralizada y federada
+
+funcionaría muy bien porque las
+
+herramientas que provee matriculé pedido
+
+permiso no le pide favores dar algo como
+
+televen tengo una computadora en el
+
+celular muy buena interfaz etcétera
+
+bueno voy a darle algunas
+
+consideraciones de seguridad que
+
+deberíamos tener sobre matisse
+
+la primera es que se maneja dos
+
+contraseñas y esto es tal vez lo único
+
+que podría llegar a ser molesto para
+
+alguien que sea nuevo en el uso esta
+
+plataforma la primera la contraseña de
+
+usuario o usuaria y en la cual la típica
+
+contraseña 2 que tenemos en cualquier
+
+cuenta esta es digamos es muy importante
+
+porque no quiero que nadie ingresa en mi
+
+cuenta pero si me olvidó esa contraseña
+
+la gente que administra este milagro la
+
+poder hacer llegar puedo pedir un
+
+reseteo de contraseña no pasa nada puedo
+
+volver a entrar
+
+y luego tengo una segunda contraseña que
+
+es generada de forma aleatoria por
+
+matrix y que ya deberá hacer de forma
+
+segura y la deberíamos guardar en algún
+
+lugar seguro
+
+generalmente un gestor de contraseñas y
+
+veremos todo guardar en un gestor de
+
+contraseñas si queremos tener seguridad
+
+informática
+
+y bueno ojalá haya una charla que hable
+
+de esto porque si es como importante ser
+
+gestores de contraseñas
+
+pero bueno esta sala está la segunda
+
+contraseña es la que me permite leer los
+
+chats si alguien me roba la primera
+
+contraseña y entra el servidor no va a
+
+poder los chats va a poder saber con 15
+
+ateo pero no el contenido de los chats
+
+imposible pero la segunda contraseña si
+
+me permite acceder a los chats si yo
+
+pierdo la segunda cosa sentido de la
+
+historia de mis charts
+
+y no hay nada que las personas den
+
+hinchadores sistemas puedan hacer bueno
+
+podrán descargarse los dos los chats en
+
+los que compartan pero todos los chats
+
+que son de la persona digamos que pierde
+
+la con su contraseña son de esta persona
+
+entonces el chiste de cifrado este mouse
+
+pero
+
+al analizar las estrechas públicas
+
+digamos de los cuales se cualquiera se
+
+puede unir a la sal entonces no tiene
+
+sentido tener cita del chama extremo y
+
+son salas mucho más grandes públicas que
+
+bueno si es que hay más de 50 personas
+
+de unas salas acá pasadas ya no estamos
+
+tan seguros por la cantidad de gente
+
+podemos tener mejor cifrado pero alguien
+
+de ahí puede ser infiltrado odense
+
+entonces ahí ya de bueno asumimos que
+
+este es un espacio público mucha
+
+expectativa de privacidad es menor y nos
+
+podemos comunicar además otra
+
+consideración que tiene matrices es que
+
+se puede verificar las cuentas esto es
+
+algo que hace cualquier sistema de chat
+
+se lo puede hacer en signa - se me hace
+
+mucho tener a una parte que no lo
+
+permite si bien tiene cifrado de extremo
+
+a extremo telegram cuando un motivo los
+
+chats secreto de parís y como no puede
+
+verificar
+
+las llaves del otro lado entonces eso
+
+tiene sus problemas también porque no
+
+podemos
+
+cómo se llama
+
+podemos estar siendo vulnerables a un
+
+ataque de personas en medio de omán y
+
+medio y esto es algo que nos defiende
+
+cuando verificamos las llaves públicas
+
+de las personas con las que atacamos
+
+ya nos ha dado el memo
+
+pp para correo electrónico 1 verificar
+
+eso son unos
+
+más cadenas de texto bastante largas ya
+
+que estaba leyendo no te detiene bueno
+
+permite una frase compartida en cambio
+
+matrix permite hacerlo a través de hemos
+
+y entonces si las dos personas y en los
+
+mismos cinco o seis de móviles entonces
+
+estamos hablando con la persona correcta
+
+se verifica por otro canal e idealmente
+
+en persona pero si no por otro canal que
+
+no sea el mismo matriz y listo ya
+
+estamos
+
+autenticado
+
+en ese sentido
+
+salvo la segunda contraseña la
+
+usabilidad de matrices súper súper buena
+
+y no siempre fácil yo lo que estaré en
+
+el 2016 no quise saber nada de matrix y
+
+ahora lo retomé en el
+
+2020 con la pandemia y bueno tenía sus
+
+problemillas pero funciona bastante bien
+
+y ahora que estamos usando en derechos
+
+digitales la verdad es que me ha
+
+sorprendido lo bien que está funcionando
+
+un proyecto bastante maduro
+
+voy a explicar un poco las
+
+características que tiene matrix tiene
+
+sus varios tipos de salas si tiene salas
+
+privadas las salas privadas sólo se
+
+puede acceder por invitación y son
+
+cifrados de extremo a extremo el digamos
+
+lo ideal para trabajar dentro de una
+
+organización por eso digo lo que debemos
+
+a principalmente porque una vez más a
+
+veces me escribió que estoy pensando en
+
+compañeros en el caso de derechos
+
+digitales
+
+luego tenemos las salas públicas de las
+
+salas públicas son salas que pueden
+
+estar publicadas de una página web a las
+
+cuales la gente se suma con un link
+
+puedo compartir el impreso desde
+
+telegram pueden estar pensadas para que
+
+exista mucha gente es no están cifrados
+
+de extremo a extremo sacchi decir que
+
+las personas que administran el servidor
+
+tienen acceso ahora al contenido de
+
+estos chats pero digamos son más
+
+funcionales por ejemplo yo subo un un
+
+link y ya me extrae la imagen del link
+
+tiene problemas de inseguridad
+
+que es por ejemplo que hay que tomarlo
+
+en cuenta es que si uno se ve una imagen
+
+la imagen inaccesible por un link y si
+
+tengo el link de la imagen no existe
+
+ningún tipo de autenticación algo que
+
+las algas privadas no sucede porque
+
+están todos invitados a la mejora y está
+
+porque una sala formas pública que sea
+
+si quisiera que se tienen que autenticar
+
+no para ver una foto de matrix
+
+y luego tenemos los espacios y los
+
+espacios permiten agrupar sala digamos y
+
+una avería que sería súper viendo ojalá
+
+así como tenemos a wikileaks y sólo
+
+tienen algún año
+
+y lo digo así como el viejo que desea
+
+estar acá es como
+
+algo que a mí me encantó cuando tuve la
+
+posibilidad de organizar los primeros
+
+oficiales y viniendo desde un perfil
+
+técnico en un momento en el cual estaba
+
+aprendiendo a ser mi trabajo era muy
+
+novato en este tipo de cosas es poder
+
+manejar nuestra propia infraestructura
+
+recuerdo la primera vez que monté un
+
+servidor de correo electrónico y también
+
+no era popular gmail pero ya que esté
+
+tengo mi propio yo usaba japonés de
+
+momento
+
+en esa posibilidad de tener control
+
+sobre la tecnología que nos da el
+
+software libre y hay muchas plataformas
+
+fáciles de usar pero no nos dan ese
+
+control
+
+entonces los espacios permiten agrupar
+
+salas tenemos espacios públicos
+
+escribíamos sumatra este espacio me sumo
+
+a ese espacio y para dar todo el mundo
+
+tengo días cinco salas de puedo unir las
+
+salas que quiero veo a gente que está en
+
+el espacio puedo comunicar con la gente
+
+en este espacio
+
+entiendo que es muy parecido a lo que se
+
+usa en dischord usado muy poco dischord
+
+pero sé que la gente joven se autor el
+
+vídeo me gustan bastante de disco
+
+entiendo que es bastante percibo
+
+espacios del disco los servidores de los
+
+servidores de disco a los espacios de
+
+matrix
+
+tenemos taxis privados en cambio que
+
+sólo son accesibles por invitación igual
+
+invitó ahí ese espacio y ese alguien
+
+tiene una facilidad de comentar ya toda
+
+la gente dentro del espacio todas las
+
+salas del espacio
+
+etcétera
+
+y bueno es la que nos permite perdonar
+
+matrices nos permite muchas
+
+funcionalidades por ejemplo tenemos la
+
+posibilidad
+
+[Música]
+
+de unirnos a otras redes entonces
+
+entiendo que también domina ve gádor más
+
+que la presentación
+
+entonces yo con los bridges podría desde
+
+mi cuenta the matrix está escuchando con
+
+gente que está usando slack con gente
+
+que está usando telegram o gente que usa
+
+asignar como consigna
+
+un poco pero bueno todo depende del uso
+
+que yo lo voy a dar
+
+en general
+
+pero bueno es muy interesante esta
+
+característica de matrix de poderse
+
+comunicar con otras plataformas
+
+adicionalmente tenemos la posibilidad d
+
+de
+
+establecer comunicación segura como
+
+otras organizaciones
+
+si bien yo he hablado de la federación
+
+en el caso de matrix no ha sido algo
+
+como lo del correo electrónico por el
+
+crónico ha sido federados siempre y es
+
+la primera como medio de comunicación a
+
+cinco amigos que tiene internet correo
+
+electrónico y esperado del inicio tiene
+
+más de 30 años 40 años y así ha
+
+funcionado todo este tiempo pero en el
+
+caso de matriz de darlo nuevo poca gente
+
+usa matrix más usar matriz no es
+
+sinónimo de usar chat como usar correo
+
+electrónico es sinónimo de usar
+
+comunicaciones asincrónicas en internet
+
+pero
+
+para mi sorpresa ya organizaciones con
+
+las que trabaja a derechos digitales que
+
+son organizaciones que trabajan derechos
+
+humanos en el mundo de internet ya por
+
+lo menos dos organizaciones ya usado
+
+matrix antes que nosotros entonces ya
+
+tenemos gente que se comunica con otra
+
+organización de ver a través de matrix y
+
+eso es algo que no me esperaba que
+
+suceda tan rápido y está sucediendo y
+
+recién vamos como tres semanas en
+
+nuestra prueba piloto ya estábamos
+
+comunicándonos con gente de otras
+
+organizaciones y está súper súper
+
+poderosa
+
+de ahí para futuro elementos por ejemplo
+
+está trabajando elementos del cliente
+
+un ratito
+
+es tan importante que lo comparta
+
+bueno acá
+
+estos elementos desde el cliente que
+
+utilizamos lo pueden descargar desde
+
+aquí y demostrar este post de acá de
+
+elements
+
+está muy bueno esto abre el vídeo
+
+posibilidad de llamar a algo que todavía
+
+no usamos mucho nosotros dentro de
+
+matrix pero matrix permite hacer
+
+videollamadas
+
+funciona bien de uno a uno y cuando uno
+
+quiere hacer una llamada a las personas
+
+inicia un hits y embebido dentro del
+
+centro de matrix
+
+y ya está en venta la nueva versión para
+
+hacer las videollamadas utilizando
+
+elementos que es el cliente de matriz
+
+que estamos utilizando y
+
+varias personas soportes y frases que
+
+mostremos la llamada de lo que por
+
+ejemplo no lo hace hit y hovik botón que
+
+es otra buena herramienta para el
+
+videollamada
+
+y también nos está permitiendo la
+
+posibilidad de que yo inicio mi sesión
+
+de matrix o se ha iniciado un chat
+
+dentro de matrix y en ese chat yo
+
+tendría la posibilidad de
+
+compartir un link y a través de ese link
+
+que otra gente se sume y eso creo que es
+
+súper chévere
+
+tendría algo como listing entonces yo te
+
+comparto la lentitud del navegador te
+
+conectas pero yo ya tengo un servidor
+
+propio donde son las personas auténticas
+
+pueden crear las salas de charlize a
+
+todo embebido en mi plataforma de
+
+oficina virtual ahora que se habla de
+
+mentales o la gente de matrix también
+
+habrá que con matices por tener algo
+
+parecido metaverso nuevo instructor
+
+desarrollo es un aprobado nuevo cuando
+
+interés en derechos digitales pero lo
+
+que se puede hacer es digamos matriz que
+
+es una plataforma que va mucho más allá
+
+de lo que es una plataforma de chat no
+
+permite hacer muchísimas más cosas
+
+y de una forma bastante segura eso
+
+también es importante no cuando algo
+
+hace mucho pierde ciertas
+
+características de seguridad pero en el
+
+caso de matriz desde hace un montón de
+
+cosas pero lo tratas en una forma más
+
+segura
+
+bueno acá vemos un ejemplo de cómo se
+
+podría ver un espacio de dentro de
+
+matrix por entonces es un espacio que
+
+tomaría en su vida digital es más como
+
+ilustrativo pero no tiene que digamos
+
+del espacio y luego tiene las alas se de
+
+más al azar como para hablar de otras
+
+cosas y bueno es simula pública sin
+
+cifrado para ver cómo funcionaba en la
+
+sala general y la idea es que la gente
+
+se pueda unir a este espacio es tuyo te
+
+ibas ayuda a colaborar en el fiscal de
+
+colaborador oficial de colombia toma
+
+este link aquí están todas las salas con
+
+las que trabajamos y en las salas es en
+
+esta contaminación con más privacidad
+
+entonces se puede hacer bajo invitación
+
+así es como se va un espacio y bueno
+
+básicamente esto es lo que yo les tenía
+
+preparado están mis datos de contacto
+
+los datos los derechos digitales
+
+y quedó abierto para preguntas
+
+y quiero dejar de compartir la pantalla
+
+de esto
+
+como también muchísimas gracias me
+
+escuchas
+
+listo ya resuelto los problemas técnicos
+
+aquí hay una pregunta de la voy a
+
+mostrar y es hola más que una pregunta
+
+es un comentario que si puedes compartir
+
+la documentación de la herramienta para
+
+hacer nuestras propias implementaciones
+
+dice camilo fuentes
+
+bueno no tengo la mano pero nuestra
+
+matrix punto org y ya uno ya puede
+
+seguir de ahí o propone como instalar
+
+matrix autistas matrix de ahí la
+
+el nombre de la herramienta que se usa
+
+el sim apps synapse
+
+y bueno habrá que buscarse versionados
+
+pero lo sabes no es complicado encontrar
+
+cómo instalar más la documentación está
+
+ahí es bastante extensa lamentablemente
+
+está principalmente en inglés
+
+creo que es algo en lo que podríamos ser
+
+gente que interesa la herramienta de
+
+talgo donde podríamos apoyar desde el
+
+sur también la documentación en español
+
+bueno perfecto y bueno nos están
+
+acompañando personas que hoy por hoy
+
+desean acercarse al mundo alcista del
+
+software libre la cultura libre
+
+entendemos que a veces hay unos temas
+
+que son bien amplios y más hoy por hoy
+
+después de una pandemia que nos dio la
+
+posibilidad de sentarnos y apropiarnos
+
+de la tecnología contamos con un montón
+
+de proyectos de software libre que nos
+
+permiten volver a la soberanía tener
+
+autonomía digital desde proyectos de
+
+nube personal proyectos de vídeo que ya
+
+habíamos tocado en oficiales anteriores
+
+el tema de la federación y este concepto
+
+que está poniendo mucha más fuerza y hoy
+
+por hoy matrix yo la verdad es que ahora
+
+estoy enterando que era más que el tema
+
+de comunicación tipo chat veo que se
+
+puede
+
+compartir muchos de los diferentes tipos
+
+de flujo de datos y bueno es interesante
+
+rafael que nos habíamos compartido esto
+
+desde la organización derechos digitales
+
+entendiendo que hoy por hoy el contexto
+
+de los de nuestros humanos en el
+
+internet es una prioridad
+
+y más que estamos reactivando este 2022
+
+en nuestras prácticas de reencuentro de
+
+cuento bonifaz que este piso no iba a
+
+tener en esta parte presencial y
+
+logramos en una semana articular los
+
+padres para poder volver a juntarnos y
+
+tener acercamiento social y creo que se
+
+ha nutrido ahora con estos dos
+
+escenarios cinco charlas cinco canales
+
+en directo y uno de ellos es presencial
+
+por otro lado te quería preguntar sobre
+
+versos digitales y sus proyectos digamos
+
+allá en ecuador específicamente que
+
+cosas desde aquí colombia podríamos
+
+consultar en qué direcciones url para
+
+ver a más detalles por tanto estos estas
+
+implementaciones que ustedes han
+
+generado y estas experiencias que hoy
+
+podremos comparte para las personas que
+
+quieran de pronto ahondar un poco más en
+
+esta iniciativa
+
+de hecho algunos derechos digitales de
+
+hecho no está en ecuador está en chile
+
+yo estoy en ecuador
+
+y bueno ya antes de la pandemia de
+
+derechos digitales estaba expandiendo
+
+como para tener un área de incidencia en
+
+toda américa latina y ya estamos en este
+
+momento
+
+ya somos a tenemos proyectos que se
+
+pueden trabajar en dentro de colombia y
+
+lo que hacemos nosotros es apoyar a
+
+organizaciones de generar talleres de
+
+seguridad digital por ejemplo entonces
+
+ustedes ven una organización que
+
+necesita apoyo porque está haciendo un
+
+tipo de activismo no sé se me ocurre a
+
+una organización ecologista que está
+
+comunicando y tiene miedo de que sus
+
+comunicaciones o que no están manejando
+
+bien su seguridad informática entonces
+
+podríamos hacer un vínculo con alguna
+
+otra organización en colombia para que
+
+financiar una capacitación y dar
+
+talleres para que se pueden acompañar o
+
+también ayudamos para que se puedan
+
+hacer auditorías tipo 6 estas que son
+
+auditorías de las cuales se ve la
+
+seguridad informática de una
+
+organización y esa organización luego
+
+con eso puede tomar medidas para mejorar
+
+su seguridad informática entonces
+
+estamos más como siendo un vínculo y
+
+ayudando a conectar puntos dentro de los
+
+países entonces sí soy una organización
+
+que sé de seguridad informática de
+
+segura digital porque ese es digamos
+
+redes digitales no es una organización
+
+de software libre derechos digitales no
+
+benefician de derechos humanos y la
+
+privacidad es un derecho humano
+
+y para poder proteger la privacidad el
+
+software libre es un requisito no es
+
+suficiente no necesitamos en el software
+
+libre para tener privacidad pero no es
+
+lo único que necesitamos hay que tener
+
+buenas prácticas de este tipo de cosas
+
+entonces dentro del ámbito de la
+
+seguridad y heetal
+
+nuestro ámbito de acción y ahí podríamos
+
+ayudar a organizaciones que si tienen
+
+este conocimiento que probablemente
+
+están viendo en el crisol apoyar a
+
+organizaciones que trabajan derechos
+
+humanos y un poco también la idea sería
+
+que las personas que trabajamos en el
+
+mundo del software libre que ya tenemos
+
+como una cierta noción política de la
+
+tecnología
+
+hablamos de federación hablamos de
+
+soberanía no de independencia de acceso
+
+al conocimiento
+
+también genera ese vínculo y que se
+
+vayan involucrando más también con el
+
+desarrollo con el apoyo a organizaciones
+
+que no tienen ese conocimiento
+
+tecnológico pero que necesita la
+
+tecnología para funcionar y bueno
+
+entonces desde ese sentido me contacto
+
+antes pero si alguien quisiera conocer
+
+más o quisiera ver la forma en que
+
+podría apoyar estamos ahí a disposición
+
+bueno perfecto muchísimas gracias en
+
+este momento las personas que están
+
+viendo esta transmisión pueden realizar
+
+sus preguntas tenemos una ronda de
+
+preguntas de 15 minutos entonces estamos
+
+esperando desde las redes que ustedes
+
+conocen y bien aquí estábamos caminando
+
+de las otras que tal vez no son tan
+
+conocidas por ustedes en ese momento
+
+estamos haciendo transmisión en youtube
+
+twitter y facebook también estamos muy
+
+interesados rafael de lograr hacer para
+
+el siguiente año una experiencia como
+
+las que hacen en argentina a tus amigos
+
+en la argentina han hecho ji soles
+
+versión de crisol o sea que utilizando
+
+tecnologías libres en todas las áreas de
+
+producción del festival esto es muy
+
+chévere pero también sabemos que no
+
+todos los ejercicios pueden tener
+
+digamos esa capacidad logística porque
+
+entendamos que montar un servidor
+
+gestionarlo requiere mans entonces el
+
+tema no es sólo un tema de desarrollo de
+
+software sino también de voluntades que
+
+están detrás del implementando los en un
+
+servidor
+
+administrando lo configurando y aquí es
+
+donde vemos lo relevante que la
+
+construcción de comunidad porque el
+
+software libre no se sostiene sólo con
+
+desarrolladores de software también es
+
+obviamente sin los usuarios esto sería
+
+imposible las personas que hacen uso de
+
+estas plataformas también las personas
+
+que las promueven las que gestionan
+
+diferentes recursos no sólo económicos
+
+sino gráficos es decir el legislativo
+
+pues para que estas herramientas tomen
+
+fuerza y se vayan volviendo en una
+
+solución para diferentes comunidades
+
+entonces bueno les recuerdo estamos en
+
+la sesión de preguntas y respuestas
+
+estamos con rafael puntas en un pionero
+
+de este festival en latinoamérica
+
+también con la versión en ecuador
+
+estamos en la 18 versión de este
+
+festival y cada día hemos visto cómo ha
+
+crecido no sé de rafael si tú recuerdas
+
+el primer crisol podemos ver como un
+
+paralelo de todo lo que ha pasado empezó
+
+como un festival de instalación de
+
+software libre donde las personas se
+
+acercaban con sus máquinas a que se les
+
+hiciera una instalación en sus equipos
+
+operativo el gen en linux y hoy por hoy
+
+ahora pues hay múltiples actividades en
+
+este momento más de 12 países tienen
+
+actividad de este episodio
+
+al unísono de manera local en sus
+
+ciudades el año pasado una afluencia muy
+
+bonita que fue interna en cómo articular
+
+los diferentes ejercicios que se estaban
+
+haciendo en la región y esto puede esto
+
+creo que puede gracias al escenario que
+
+tuvimos de poder presentarme las bases
+
+para que las videoconferencias para mí
+
+digamos algo que hoy por hoy es un
+
+recurso más accesible y eso hemos vio la
+
+posibilidad de vernos reconocernos y ver
+
+que hay muchísimas personas detrás de
+
+este movimiento
+
+como movimiento ustedes saben es
+
+propende por las libertades y en el
+
+contexto digital y no sólo en el
+
+contexto digital sino pues también en lo
+
+físico servidores telecomunicaciones
+
+educación salud y lo que nos puedes
+
+compartir la afa el de de cuadrar su
+
+experiencia como has visto el desarrollo
+
+del crisol gente de implementación de
+
+software y los canales que tú nos has
+
+comentado que se están usando y las
+
+herramientas que estás proponiendo este
+
+primero son 18 ediciones son 18 años
+
+entonces yo estaba pensando que muchos
+
+incluso en el xxi si está escribiendo un
+
+artículo para el fiscal que se publicó
+
+ayer sobre el visor y una de las cosas
+
+es que muchas de las personas que tengo
+
+organizando el piso ahora eran niños o
+
+niñas cuando se organizó el primer piso
+
+yo no tenía esta barba blanca y en ese
+
+momento no entonces si ha pasado un
+
+montón de cosas
+
+cuando yo organicé o cuando participé de
+
+la organización de los primeros frijoles
+
+dos años un año de usar software libre
+
+está aprendido administrar sistemas
+
+porque eso nos enseñaron la universidad
+
+no aprendí luego y
+
+pero fue esa capacidad de hacerlo
+
+nosotros el evento y me acuerdo que
+
+teníamos nuestra wiki y siempre tener la
+
+wiki fue como hubo como
+
+[Música]
+
+si nunca pudimos saber la wiki de forma
+
+perfecta digamos no nunca todas las
+
+ciudades tuvieron una wiki tal vez del
+
+primer año fue cuando más porque
+
+en el 2006 hubo problema porque
+
+gestionar nuestra propia tecnología es
+
+difícil no es fácil pero eso también lo
+
+hace interesante
+
+recuerdo que primer año se cayó week y
+
+de ahí fue igor tamara de colombia que
+
+recuperó un nuevo week y lo monto y lo
+
+pusimos pero a veces la gente que
+
+manejaba el wiki no estaba pendiente
+
+porque era una persona y tenía otras
+
+cosas de la vida dice que el wiki
+
+y bueno 2006 casi no hubo wiki wiki
+
+pero y ahora ya no se cae y está
+
+funcionando todo el tiempo de cierta
+
+forma aprendimos a organizar los mejores
+
+a trabajar mejor con la tecnología
+
+yo creo que es fundamental que las
+
+nuevas generaciones que se están sumando
+
+al flisol a organizar el crisol
+
+investiguen y aprenden a montar esos
+
+servicios en internet que si bien no es
+
+algo trivial pero tampoco es tan difícil
+
+y una vez que se aprende y bueno hacerlo
+
+es fácil hacerlo bien es un poco más
+
+difícil pero algo como matrices no es
+
+tan complicado levantamos abidal de
+
+correo electrónico eso es bastante más
+
+complicado y
+
+lo otro sobre el impacto del friso de
+
+ecuador es el tacto del sol en ecuador
+
+digamos de lo personal para mí mi primer
+
+trabajo de verdad digamos fue gracias al
+
+freezer
+
+gracias al fisio montamos formamos la
+
+asociación de software libre del ecuador
+
+que antes desde el crisol de comidas a
+
+forma de ecuador incipiente gracias al
+
+crisol
+
+organizado del 2005 organizado del 2006
+
+2006 de trajimos de stallman a finales
+
+de 2006 los reunimos con el presidente
+
+de colores entonces
+
+en 2007 el presidente estaba haciendo un
+
+saludo al crisol y despegándose libre
+
+como política de gobierno en estado para
+
+ecuador
+
+entonces nos permitió tener mucho
+
+impacto cuando queremos un país donde no
+
+éramos nadie comparado
+
+colombia-argentina entonces nosotros no
+
+prácticamente no existía modo y el
+
+trabajo que hicimos fue
+
+gracias a luz y sol fue súper fuerte
+
+porque no nos conocíamos tampoco y eso
+
+de sentarnos a sentarnos correr por
+
+todos lados a organizar un evento dentro
+
+de la ciudad permitió que conozcamos de
+
+la gente de la ciudad integración
+
+vínculos con la gente de la ciudad pero
+
+también contactar a la gente de otras
+
+ciudades permitido tener vínculos como a
+
+nivel nacional conocer a la gente que
+
+está en otras ciudades y el vínculo
+
+latinoamericano también entonces delphi
+
+sol yo creo que es como un catalizador
+
+que permite que todas las comunidades de
+
+software libre américa latina establecer
+
+redes por las cuales nos conocemos y
+
+seguimos funcionando allí y que este
+
+evento que digamos no hay nadie que nos
+
+auspicia como yo que no hay un auspicio
+
+de que hay una empresa que ponen plata
+
+para que organizamos en américa es que
+
+cada país se organiza y cada país lo
+
+hace de forma autónoma y probablemente
+
+hay muchos más usuarios de los que
+
+sabemos que suceden porque hay gente que
+
+veáis el piso y no sabe si existe the
+
+wheel week y del sol por ejemplo
+
+creo que eso básicamente eso para mí es
+
+como los eventos más importantes en
+
+américa
+
+bueno vienen aquí varias preguntas 3 voy
+
+a presentar la sacas a mí lo dice el
+
+cliente que utilizas para matrix es
+
+multiplataforma o sólo para libros 'el
+
+rey' multiplataforma está para windows
+
+para más para linux para
+
+y
+
+nuestra página de the matrix matrix
+
+punto org y buscan los clientes hay
+
+varios clientes pero digamos que
+
+elementos del más completo y también
+
+decidimos utilizar un solo cliente
+
+porque
+
+[Aplausos]
+
+para dar soporte nos convierten en
+
+igualitos con todo el mundo no es
+
+un problema
+
+listo entonces vamos con la siguiente
+
+se pueden hacer integraciones con
+
+plataformas como un ex plomo para
+
+compartir archivos de matrices
+
+la verdad no sé o sea se puede todo se
+
+puede las dos con proyectos de software
+
+libre el uso están pensado en temas como
+
+federación autonomía pero no conozco
+
+caiga algún plugin que está integrado
+
+con eso dice ahí lo conocen mal y esa
+
+propiedad también usamos un éxodo cap
+
+vale vamos con la siguiente
+
+cómo puedo hacer para enviar mensajes
+
+desde el elemento hablar es gratis hacer
+
+eso no sabía que se podía hacer es la
+
+verdad y yo sé que se puede hacer y está
+
+ahí los bridges no es algo que hemos
+
+todavía profundizado no es algo que
+
+estemos utilizando en este momento pero
+
+lo que sabemos que se puede hacer y que
+
+lo dejamos abierto como una posibilidad
+
+de tipo de cosas que podríamos hacer
+
+estoy viendo más o menos el detener a mí
+
+es como como instalado un box que tiene
+
+estar conectado al canal de tele en el
+
+canal de mateo y es el vínculo sólo yo
+
+entiendo todos trabajando tonteras 399
+
+de ese voto debe estar conectado en
+
+algún servidor todo el tiempo es ver en
+
+la casa no se habla
+
+la mejor forma de hacerlo y hay
+
+servicios que ya te proveen el voto eso
+
+no me gusta porque ya pasó por la
+
+computadora de otros lo ideal es tener
+
+una propia infraestructura
+
+y bueno nos vamos con esta última
+
+pregunta ya para dar cierre a esta
+
+intervención de rafael
+
+con la pregunta de dani cómo puedo hacer
+
+para enviar mensajes desde elementos a
+
+pescar a cabo en el parlament a nuez
+
+creo que el repetido necesita tener una
+
+cuenta vas a ver lo que estaba bonito
+
+santo lo último no entiendo
+
+si necesita
+
+y esto
+
+listo entonces bueno hasta aquí
+
+muchísimas a todas ya todos bolitas está
+
+la versión sol bogotá del 2022 todas
+
+somos crisol todos somos libres en este
+
+propósito en esta versión es recomprar
+
+nos reencontrarnos reencauzarlos y
+
+entender que el software libre es en sí
+
+el resultado de un proceso de un proceso
+
+social y aquí en este momento estamos
+
+tejiendo esa red ese proceso y bueno
+
+ahora ahora con esto que nos acaba de
+
+decir 'rafael florido' entender muchos
+
+porque es que no sólo tenemos un canal
+
+para todo el friso de latinoamérica la
+
+verdad eso son procesos locales que se
+
+desarrollan en cada una de las
+
+instancias que lo deciden
+
+voluntariamente
+
+realizar recuerden que difusión es un
+
+formato de viento abierto a cualquiera
+
+puede realizarlo en cualquier sitio
+
+siempre y cuando tengan en los
+
+propósitos comunes muy presentes y
+
+bienvenidos las nuevas ideas
+
+rafael muchísimas gracias por tu
+
+participación
+
+que haziq la línea en el friso digamos
+
+del proceso es muy importante que
+
+resultaron armar estos eventos de
+
+organizar 9 el proveer esta escritura
+
+tecnológica el contacto no dormir a
+
+veces todo esto sirve el paladar para
+
+fortalecernos como comunidad para
+
+fortalecernos como persona todo mi
+
+trabajo
+
+siempre
+
+ha sido muy importante en mi vida de
+
+muchas de las personas del software
+
+libre no sólo en américa
+
+bueno muchísimas gracias a todas ya
+
+todos entonces los esperamos en la
+
+siguiente charla que se va a acabar
+
+formando wedding nuestra amiga ana
+
+guzmán pero sé si en arte digital bueno
+
+con este escritor y lo estamos
+
+acompañando durante el día aquí en esta
+
+sala en sala disque ya más adelante en
+
+la otra sala después les comentamos por
+
+qué triste para los que no conocen las
+
+distribuciones en el vino
+
+el plomo día escolar efe sf la fundación
+
+del software libre
+
+ya nos cuente un poco si quieren saber
+
+más vamos al otro canal de rafael
+
+al modelo que se temía haciendo
+
+el visitante
+

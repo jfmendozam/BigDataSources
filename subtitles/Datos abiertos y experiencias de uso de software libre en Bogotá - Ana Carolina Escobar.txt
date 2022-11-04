@@ -1,0 +1,1806 @@
+leonard si te escuchó perfectamente y
+
+permite un momentico
+
+ok
+
+bueno muy buenas a todos nos encontramos
+
+en otra edición del flisol bogotá año
+
+2022 y nos encontramos con ana carolina
+
+carolina escobar de alta consejería
+
+buenos dias sana hola buenos dias cómo
+
+estás bien por favor si quieres puedes
+
+presentarte visto bueno mi nombre es ana
+
+carolina escobar hago parte de el equipo
+
+de trabajo de la alta consejería
+
+disfruta el tic
+
+en especial y en particular del equipo
+
+de gobierno abierto que es una
+
+estrategia de distrito que busca
+
+permear el modelo de transparencia
+
+colaboración participación entre todas
+
+las entidades con muchas apuestas en las
+
+distintas líneas en la que el tema que
+
+vamos a tratar hoy tenemos 222 apuestas
+
+importantes o dos temas que estamos
+
+manejando que es datos abiertos en la
+
+línea en el componente de transparencia
+
+y por la invitación que nos ha hecho
+
+crisol pues es una indagación de como en
+
+el distrito venimos usando el tema de
+
+software público qué desafíos representa
+
+esto para la entidad para la entidad
+
+como alcaldía mayor de bogotá
+
+y bueno pues nada para fortalecer lazos
+
+con la comunidad para conversar para
+
+abrirles las puertas al diálogo a
+
+conocer lo que están haciendo desde la
+
+academia desde los grupos organizados de
+
+trabajo en software libre
+
+perfecto entonces estamos continuación a
+
+la charla estén atentos en la
+
+programación del día de hoy en el frijol
+
+bogotá año 2022
+
+listo
+
+y bueno entonces arrancó en el día de
+
+hoy vamos a conversar sobre datos
+
+abiertos y experiencias de uso de
+
+software libre en bogotá el segundo
+
+componente de manera muy general y muy
+
+amplia y también planteando lo que son
+
+retos y desafíos que pues también
+
+seguramente para muchos de ustedes
+
+también han sido clientes bien sea que
+
+estén en la administración o hayan
+
+trabajado el tema con lo público
+
+etcétera entonces arrancamos con datos
+
+abiertos datos abiertos pues es un tema
+
+del que venimos hablando en colombia
+
+hace muchos años pues por lo menos unos
+
+10 años y en el que tanto la nación como
+
+el distrito han tenido apuestas en la
+
+materia
+
+en esta administración realmente el tema
+
+es determinante es importante es un
+
+pilar muy grande de lo que es
+
+transparencia y acceso a la información
+
+pública y por eso hay una apuesta y un
+
+trabajo en datos abiertos que involucra
+
+desde el tema de la generación de la
+
+información
+
+y movilización tratar de movilizar las
+
+comunidades de aprovechamiento y al
+
+movilizar me refiero con invitarlos a
+
+que conozcan qué información pública del
+
+distrito tenemos la usen la critiquen
+
+por supuesto si ven que tenemos
+
+deficiencias y desafíos por mejorar esa
+
+información porque quienes usan los
+
+datos para desarrollo son tal vez
+
+nuestros y los que hacen control social
+
+son tal vez nuestros principales actores
+
+del máster en usar esa información y en
+
+darnos feedback de si eso que tenemos y
+
+que estamos publicando está sirviendo
+
+muy bien o merece siempre mejoras
+
+nosotros creemos que siempre podemos
+
+mejorar la calidad completitud
+
+disponibilidad de la información
+
+entonces por eso este componente de
+
+comunidades de aprovechamiento para
+
+nosotros es súper importante
+
+valor público porque consideramos que
+
+definitivamente y seguramente quienes
+
+hayan escuchado el tema de datos
+
+abiertos
+
+coinciden con que es una de las apuestas
+
+y los mecánicos de mecanismos más
+
+importantes para generar el valor
+
+público porque en la medida que abro y
+
+uso datos puedo entender situaciones o
+
+mapear porque crear política pública
+
+puedo tomar mejores decisiones creo que
+
+el hobbit sin duda ya lo vamos a ver un
+
+poco más adelante nos demostró cómo
+
+disponer abrir y usar datos y va a
+
+permitir que hiciéramos decisiones
+
+modelos precisiones etcétera muy
+
+rápidamente 3 definitivamente también
+
+esta es una línea en la que estamos
+
+parados y la que estamos trabajando como
+
+equipo alcaldía mayor no sólo desde la
+
+alta consejería distrital tics sino cada
+
+entidad apertura con propósito porque
+
+retomo donde arranque ahí dije que este
+
+tema de datos pues ya puede ser que
+
+llegue
+
+por lo menos más de seis años y en un
+
+primer momento la invitación era abran
+
+dispongan pero también a medida que ha
+
+ido pasando el tiempo nos hemos dado
+
+cuenta que es muy importante disponer
+
+por supuesto si la mayor completitud la
+
+mayor garantía de acceso a la
+
+información pero también nosotros como
+
+entidades y decirnos hombre qué datos
+
+son los que debemos publicar qué datos
+
+son de la alta consejería a los que le
+
+agregan valor a la gente si es las zonas
+
+wi-fi de las ciudades localizadas con
+
+horarios con necesidades técnicas qué sé
+
+yo
+
+o si es el listado de servidores
+
+públicos de la alta consejería ambos son
+
+datos abiertos ambos están muy bien que
+
+la ciudadanía los conozca pero en razón
+
+a la misión alidad de cantidad de
+
+transporte de salud etcétera es ir
+
+viendo qué es lo que se requiere y qué
+
+es lo que necesita que genera mayor
+
+transparencia
+
+entonces apertura con propósito es un
+
+tema que también estamos trabajando duro
+
+con las entidades y con los ciudadanos
+
+que son también los que nos van diciendo
+
+que se demanda y cómo se demandan y
+
+medición aseguramiento para ir
+
+entendiendo si esta tarea que estamos
+
+haciendo y si este trabajo que estamos
+
+realizando está funcionando y lo estamos
+
+haciendo bien de manera correcta
+
+acertada vamos en la línea porque estar
+
+midiendo y testeando que pasa nos
+
+permite movernos para mejorar o para
+
+seguir y potencial
+
+en la misma ruta
+
+y
+
+en esto entonces tenemos como varias
+
+iniciativas que cuerpos que es bueno
+
+primero nuestros portales transversales
+
+de datos abiertos está el portal de
+
+datos abierto de bogotá lo maneja en
+
+este momento y ellos son quienes
+
+gerencian la plataforma y de acá también
+
+lo veremos más adelante el portal está
+
+desarrollado en una tecnología libre y
+
+esto ha representado unos temas muy
+
+interesantes para la ciudad a nivel de
+
+ventajas pero por supuesto también
+
+desafíos en el tema de talento delante
+
+que desarrolle qué parámetros es que nos
+
+hagan mejor este tipo de soluciones el
+
+año pasado cerramos con mil 683 datos de
+
+62 entidades y 182 mil visitas es una
+
+cifra interesante y como es de suponer
+
+el año pasado pues el tema coidh y todos
+
+los datos que se publicaron en torno a
+
+buses a hospitalización a fallecimientos
+
+etcétera fueron de los datos más
+
+consultados para fines periodísticos
+
+investigativos informativos de
+
+aplicaciones excepto también está
+
+nuestro portal de mapas de bogotá que
+
+es un desarrollo muy hermoso muy
+
+completo y en el que de acá también ha
+
+puesto mucho empeño en ir mejorando cada
+
+vez mejor esta solución irle pegando
+
+mejores servicios entonces la empresa a
+
+todos millón 200 visitas y un servicio
+
+de geo de cecco geo codificador
+
+optimizado que usamos varias entidades
+
+para uno meter una dirección y el y de
+
+acá me devuelve la localidad lópez eta
+
+etcétera entonces es este servicio es
+
+muy bueno y la cifra no la ve acá pero
+
+estábamos por el orden de 89 millones de
+
+consultas de ge de codificación del
+
+distrito lo cual es una cifra muy buena
+
+y muy interesante y sobre todo es un
+
+servicio que aporta mucho pues porque
+
+ellos son los que tienen nuestro mapa de
+
+referencia bogotá y ellos son quienes de
+
+la manera más completa organizada
+
+etcétera en el distrito dan información
+
+al al respecto también tenemos las
+
+estrategias en las que de todas se
+
+derivan datos abiertos y es una
+
+invitación para consultarla para
+
+explorarla para usar esa información así
+
+va el plan que da cuenta de cómo estamos
+
+ejecutando nuestro plan de desarrollo
+
+nuestros propósitos nuestras metas tanto
+
+de manera cualitativa cuanto usamos cada
+
+semestre cuánto
+
+desembolsamos lo ejecutamos cada
+
+semestre en plata y de manera
+
+cuantitativa entonces por ejemplo
+
+ingreso mínimo garantizado a nivel de
+
+metas atendimos 600 mil bogotanos a
+
+nivel de plata desembolsamos tanto
+
+dinero y esto lo actualizamos
+
+trimestralmente conforme se van haciendo
+
+los costos entonces es un ejercicio muy
+
+interesante para nosotros que es la
+
+política pública para quien se hace en
+
+control social y también para que se vea
+
+cómo está haciendo la gestión en la
+
+ciudad muy detalladamente contratación a
+
+la vista es una una vista de los datos
+
+abiertos de la contratación en bogotá
+
+los que ya existen en el seco los que se
+
+actualizan todos los días a través de la
+
+plataforma nacional de datos abiertos
+
+pero se hace un zoom a lo que pasa en
+
+bogotá y este espacio ha sido muy
+
+interesante y ha tenido súper buenos
+
+resultados aparte al público porque nos
+
+permite rápidamente a través de una
+
+cédula de un tema por ejemplo en mi caso
+
+mi contrato está asociado al tema
+
+gobierno abierto saber cómo se usa a
+
+quién contratan cómo es una bebida
+
+entonces es un ejercicio de
+
+transparencia muy interesante de todo lo
+
+que pasa en el distrito a nivel de
+
+contratación con personas naturales
+
+personas jurídicas etcétera
+
+ojo a la obra es un seguimiento que ese
+
+soporte se está sobre mapas y de acá y
+
+el que también lo estamos diciendo que
+
+da cuenta cómo se están ejecutando las
+
+obras en bogotá en qué periodos en qué
+
+tiempo etcétera entonces también
+
+presupuesto ciudadano es no está en
+
+tiempo real es un resumen muy pero
+
+también muy interesante de toda la bolsa
+
+del distrito que sea para educación que
+
+para salud para obras públicas y también
+
+todo esto lo que hemos querido hacer con
+
+estas estrategias es el dato plano
+
+gigante de datos abiertos y mostrarlo al
+
+ciudadano de manera más armónica más
+
+bonita más fácil para que un ciudadano
+
+que no se va a ver los 9 millones de
+
+registros del cecop pueda saber que
+
+contrata el distrito para que más de
+
+gobierno abierto por ejemplo de manera
+
+muy rápida con digitación de palabras
+
+clave y talento no palanca tiene cuenta
+
+también de todos los tableros y en todo
+
+lo que pasa esta estrategia que también
+
+ha sido muy exitosa en la que la
+
+alcaldía estamos invitando a la gente a
+
+que a través de nuestra plataforma de lo
+
+que maneja el servicio civil de pongan
+
+su hoja de vida y se da cuenta y una
+
+rendición de cuentas valga la
+
+redundancia de qué pasa y de qué equipos
+
+y de cliente tienen a través del talento
+
+en la palabra y en el que mandatos con
+
+propósito que les hablaba anteriormente
+
+pues tenemos aquí como todos los
+
+observatorios
+
+temáticos que tenemos en el distrito
+
+entonces está el portal de generosa
+
+yunta está el link la información de
+
+desarrollo económico el portal de datos
+
+abiertos de movilidad el tema de
+
+arborizar bogotá entonces es como hacer
+
+un zoom entendiendo que hay personas que
+
+demandan información más especializada
+
+en datos abiertos en datos planes para
+
+procesar filas y columnas pero a las que
+
+también les damos tableros de cifras
+
+datos claves para que la información
+
+tenga más más y mejor alcance entonces
+
+este es mapas bogotá el que les estaba
+
+hablando acá tenemos las cifras de lo
+
+que se consultó el año pasado y el
+
+dominio que está en las notas de la
+
+presentación yo se la comparto a
+
+leonardo molina por si alguien está
+
+interesado en tenerla pues aquí está la
+
+información y el detalle de lo que pasa
+
+en estos portales
+
+tenemos también saludará que es una de
+
+las plataformas que tiene datos abiertos
+
+más
+
+potentes y actualizadas y de información
+
+que es de todos nosotros independiente
+
+que no seamos médicos que no partes de
+
+descansar el sistema de seguridad social
+
+si un poco saber qué pasa en el tema de
+
+salud de vacunación de enfermedades etc
+
+en la ciudad entonces esto también es un
+
+tema una apuesta grande sobre la que
+
+desde secretaria salud seguir para todos
+
+los días si si ustedes entran a este
+
+sitio cuyo ministra en la parte de abajo
+
+de la foto van a encontrar que los
+
+márgenes de actualización de los datos
+
+son realmente muy buenos muy
+
+interesantes y si permiten su
+
+aprovechamiento desde diversas miradas
+
+igual con los datos sobre la secretaria
+
+de movilidad en este y en el
+
+observatorio de movilidad también se
+
+están haciendo apuestas por mejorar
+
+muchos datos y disponer de manera muy
+
+fácil información que nos han pedido
+
+referente por ejemplo a las rutas de
+
+transmilenio a las frecuencias etcétera
+
+y esto hace parte de demandas de la
+
+ciudadanía que ha dicho hoy necesitamos
+
+esto queremos tenerlo solo tengan unos
+
+pocos entonces en este sentido se están
+
+haciendo desde movilidad también
+
+ejercicios muy interesantes y en este
+
+tema quiero destacar también lo que pasó
+
+en diciembre con el plan de choque para
+
+tapar huecos en la ciudad esa estrategia
+
+distrital que se hizo con varias
+
+entidades secretaria de movilidad o
+
+unidad de mantenimiento vial y guido las
+
+empresas de servicios públicos que
+
+manejan osea que tienen que ver con el
+
+tema infraestructura y en este sentido
+
+nosotros invitamos a los ciudadanos a
+
+recortar sus huecos y a través del
+
+observatorio de movilidad sean tiempo
+
+casi real con marín de un par de días
+
+que está pasando señor reporte un hueco
+
+aquí en mi barrio
+
+qué pasó si fueron y lo visitaron y
+
+dijeron si este hueco está ya lo vimos
+
+ya lo admiramos y está priorizando es
+
+que nuestra priorizados se va a arreglar
+
+en margen muy corto o ya lo vimos ya lo
+
+visitamos y pertenece su incidencia de
+
+golpe por ejemplo la alcaldía local
+
+entonces pues ya sabemos qué está hecha
+
+lo tenemos mapeados ya lo tenemos en
+
+nuestra base y se abordará
+
+en algún momento y así también están
+
+datos abiertos entonces aquí es un
+
+ejercicio interesante en el que nosotros
+
+también hemos trabajado de primer
+
+involucrar la ciudadanía en el reporte
+
+información que pueda ser desplegada en
+
+datos abiertos segundo a partir de esos
+
+datos el distrito usarlos para tomar
+
+mejores decisiones hacer incidencias
+
+identificar algo
+
+con ayuda del ciudadano lo que no quiere
+
+decir que no tengamos identificados sino
+
+que es como todos involucrados en una
+
+causa común y
+
+tomarme 10 y disponer esa información
+
+para el control social de que todo lo
+
+que pasó hizo sentido porque lo tenemos
+
+en datos abiertos o incluso también esos
+
+datos nos permitirían saber hombre cómo
+
+es posible que 25 ciudadanos reportaron
+
+el mismo hueco nadie dice nada nadie
+
+hizo nada nadie nos dé un mensaje
+
+entonces también eso eventualmente se
+
+vuelve una alerta para nosotros como
+
+distrito de que si abrimos un canal
+
+tenemos como desafío siempre que dar
+
+respuesta o dar una mirada de lo que
+
+pasa eso en cuanto a los portales que
+
+les queríamos mencionar hoy pero también
+
+el que tiene el de secretaria de la
+
+mujer con datos de género es muy
+
+interesante y hay información
+
+valiosísima para la toma de decisiones
+
+en política pública
+
+también pues que refleja un poco lo que
+
+pasa en temas de género en el país en la
+
+ciudad y todos los cerros que les
+
+mencioné al principio cuyos enlaces
+
+están en la presentación en la línea de
+
+aprovechamiento información pues no sólo
+
+es necesario disponer los datos sino hay
+
+que tomar como tres caminos adicionales
+
+en los que hemos venido trabajando en
+
+estos tres últimos años
+
+uno que quede con lineamiento y
+
+normativa como para dar más fuerza de
+
+norma a los desarrollos que ya se están
+
+haciendo nosotros en colombia tenemos la
+
+ley de transparencia de acceso a la
+
+información pública que es muy robusta y
+
+en cuanto al tema datos abiertos es muy
+
+clara sobre lo que se debe y sobre cuál
+
+es el ideal las resoluciones y lo que
+
+miden procuraduría respecto a acceso a
+
+la información pública también es muy
+
+interesante pero en el distrito hemos
+
+querido hacer como un zoom y dar
+
+directivas u orientaciones que sirvan a
+
+las entidades para avanzar mejor en este
+
+camino para en el tema de por ejemplo
+
+datos con propósito orientación en las
+
+directivas son las guías que me sirvan a
+
+mí como entidad para decir como hago
+
+para saber qué es lo que a la gente le
+
+interesa entonces puede ser una encuesta
+
+puede ser trabajo comunidades
+
+puede ser análisis de pérez y ver que si
+
+todo el mundo me pide en pérez saber a
+
+qué colegio se ha dado libros proponer
+
+un ejemplo pues aunque pongo un data set
+
+en el que ponga eso y me quito esa tarea
+
+administrativa está respondiendo y
+
+simplemente los datos abiertos entonces
+
+estos decretos que están acá decretos
+
+que también nos invitan a obtener
+
+información nueva que antes del distrito
+
+y de hecho en las normas no no se piden
+
+como el que la apertura agendas de de
+
+los directivos estamos trabajando en ese
+
+proceso esperamos sobre junio más o
+
+menos tener disponibles las agendas
+
+abiertas de los secretarios secretarios
+
+y pues ahí ir avanzando como un gran
+
+ejercicio de transparencia en el que
+
+pues también queremos que la gente se
+
+sienta súper tranquila de conocer con
+
+quién nuestros directivos nuestros
+
+secretarios etcétera de externos están
+
+lolita acciones de aprovechamiento
+
+seguramente ojalá algunos de ustedes
+
+quienes nos escuchan
+
+[Música]
+
+hayan participado de esto tenemos
+
+explorada entonces con grupos de interés
+
+e investigadores en el que los invitamos
+
+y los acompañamos en explorar y conocer
+
+lo que pasa en los portales de datos del
+
+distrito en las iniciativas en la ciudad
+
+el plan en el de la mujer etcétera
+
+le tengo el dato que son actividades que
+
+hacemos con entidades distritales y con
+
+la ciudadanía data gap que tiene que ver
+
+con el plan de acción de open government
+
+partnership en el que varias entidades
+
+del distrito nos hemos comprometido con
+
+acciones que tienen que ver no
+
+necesariamente con datos abiertos pero
+
+sí con gobierno abierto y esto es muy
+
+interesante porque al final nosotros
+
+estamos convencidos y me imagino que
+
+todos también los que están en este
+
+evento en el día de hoy las distintas
+
+áreas de que los datos son el insumo
+
+eto'o y transversalizan todo y yo no
+
+puedo hacer una política pública no
+
+puede ser un desarrollo web no puedo
+
+hacer control social no puedo hacer nada
+
+si no tengo datos entonces más allá de
+
+que por ejemplo en la secretaria de la
+
+mujer una de las compromisos es paridad
+
+eso no se puede hacer si no se parte de
+
+unos datos y de saber con los datos cómo
+
+estamos entonces al final creemos que
+
+todo está transversalizado por los datos
+
+no necesariamente abiertos pero sí por
+
+los datos lo que demanda para las
+
+entidades del distrito hacer unos
+
+ejercicios que van desde la
+
+estructuración hasta la captura y la
+
+divulgación y la almacenamiento a la
+
+protección de la información etcétera y
+
+acciones de formación y apropiación que
+
+las hacemos desde el distrito o también
+
+con aliados y eso pues como por la
+
+necesidad que tenemos y que demandamos
+
+que demandamos lo que requerimos y que
+
+hemos identificado en que muchos sobre
+
+todo quienes generamos la información
+
+estamos formados en este sentido también
+
+desde el ministerio tic se hacen temas
+
+de calidad de datos en automatización
+
+etcétera que son muy importantes sobre
+
+todo para quienes trabajamos en la
+
+estructuración de información pública
+
+en esta línea implementación son como
+
+unos hitos que hemos definido para este
+
+trimestre el próximo
+
+y el último y que tiene que ver por
+
+ejemplo con la publicación de agendas
+
+que le sabemos dicho tiene que ver con
+
+coast que es una
+
+iniciativa en la que colombia hace parte
+
+y tiene que ver con obra pública y
+
+nosotros somos el primer gobierno local
+
+que hace parte de esta iniciativa
+
+generalmente esto tiene un alcance de
+
+gobiernos nacionales en el que se eligen
+
+unas obras y se da información muy
+
+detallada en datos abiertos para hacer
+
+el control social y también el
+
+seguimiento a estas obras y todo el tema
+
+de medición juntado a lo que arrancamos
+
+que es mejorar el portal de datos
+
+abiertos y mejorar lo que teníamos en
+
+mapa de referencia agota y promover y
+
+todas las acciones de promoción de luz
+
+eso ahí cerramos con lo que tiene que
+
+ver con datos abiertos en uso de
+
+tecnologías libres
+
+no sé siempre ante escucharon a nuestro
+
+consejero esta mañana quien hablaba que
+
+todas las semanas desde la alta
+
+consejería estricta al ticket estamos
+
+reuniéndonos con entidades para saber en
+
+qué están trabajando cómo están
+
+trabajando que están usando qué desafíos
+
+tienen que les hace falta bueno como
+
+todo todo todo todo hay que hacer desde
+
+las distintas oficinas del distrito y
+
+entonces quisimos traer como los
+
+ejemplos de temas que se están usando y
+
+que se soportan en tecnologías libres lo
+
+que no quiere decir que solamente usen
+
+tecnologías libres en toda su cadena de
+
+desarrollo pero sí como esa combinación
+
+de talento de la tecnología libre de
+
+golpe tecnologías propietarias lo que
+
+sea nos puede dar resultados muy buenos
+
+para la administración pública y pues
+
+definitivamente muchas de las personas
+
+que están en las facultades que están
+
+desarrollando etcétera pues si están
+
+viendo cómo
+
+estas tecnologías pueden potenciar mejor
+
+soluciones entonces nuestro portal de
+
+datos abiertos que se soporta sobre
+
+sicán es una iniciativa que ya tiene 7
+
+años más o menos y hemos venido
+
+mejorando la en tanto en esta
+
+administración como en la pasada
+
+etcétera ha sido una experiencia muy
+
+interesante también muy desafiante en
+
+muchos temas que de golpe creo que
+
+podríamos hablar al final como el tema
+
+del talento humano por ejemplo para este
+
+desarrollo colombia por ejemplo no
+
+tenemos una base muy muy fuerte de
+
+desarrolladores en tikal entonces los
+
+ajustes y mejoras a estas soluciones se
+
+dan por la gente con la que conocemos
+
+que trabaja el tema también hablamos por
+
+ejemplo méxico tiene está desarrolla
+
+planificada con las comunidades que
+
+sabemos que tiene hay otras plataformas
+
+también de datos en colombia que hace
+
+trabajan sobre sicán entonces digamos
+
+que hay uno empieza a crear comunidad lo
+
+cual es muy interesante pero también
+
+claro es un desafío que
+
+probablemente muy pocas personas sepan
+
+de la parametrización de este tipo de
+
+texas ventaja pues si khan en temas de
+
+apas abiertos y como tecnología libre es
+
+una de las más robustas de las más
+
+completas la usan portales de nueva
+
+york- entonces todo eso nos abre un
+
+mundo de posibilidades de cara a la
+
+mejora de esta solución que ese vídeo
+
+sea que es que evidentemente es
+
+necesaria sobre todo porque hay algunos
+
+temas en
+
+datos abiertos como y automatizar los
+
+datos bueno o un montón de cosas que si
+
+demandan que cada vez nuestro talento
+
+local esté más entrenado para poder
+
+hacer e intervenir estas plataformas y
+
+por qué no para poder crear grupos que
+
+ofrezcan soluciones a la región oa otras
+
+ciudades bueno lo que sea aunque
+
+nosotros pues también tenemos el portal
+
+nacional que para muchas ciudades más
+
+chicas o que no tengan sus propias
+
+plataformas también es una súper
+
+ambiental
+
+tenemos nuestro agente virtual chat y
+
+como es un chat bot del distrito que
+
+lanzamos el mes pasado es un agente
+
+virtual que pues por su misma condición
+
+de ser un robot y un agente virtual
+
+tiene 7 24 horas tiene una
+
+parametrización muy sencilla que nos
+
+permite movernos muy fácilmente conforme
+
+veamos el comportamiento de la
+
+herramienta y lo que vaya pasando
+
+entonces tenemos por ejemplo en este
+
+momento un flujo de la participación
+
+ciudadana y uno del sisbén entonces la
+
+métrica y todo lo que se hace nos
+
+permite identificar que a través de este
+
+tipo herramienta y en el período que
+
+estamos estudiando están más interesados
+
+en sisbén entonces nos podemos meter
+
+rápidamente a intervenir ya mejorar ya
+
+entregar más soluciones a través de ese
+
+flujo de información y este chat se
+
+desarrolla a través de un tema
+
+si de inteligencia artificial que se
+
+llama ramas a través de dice
+
+parametrizar con otras tecnologías
+
+entonces esto para nosotros es un
+
+ejemplo muy interesante de la unión de
+
+tecnología tecnología libre con uso de
+
+talento muy bueno en lograr parametrizar
+
+para tener buenos resultados entonces
+
+creemos y estamos convencidos de que en
+
+esta ruta uno puede empezar a mejorar la
+
+herramienta
+
+también tenemos
+
+nuestro 26 verde gobierno abierto gotas
+
+se soporta en wc2
+
+este es un trabajo también muy
+
+interesante que hemos hecho de parte del
+
+equipo por encontrar todas las
+
+potencialidades de este sistema que
+
+obviamente también tiene algunos
+
+servicios que son agosto que sea pero
+
+también desde el equipo se han entrenado
+
+en manejar este esta tecnología este
+
+mecanismo y hoy estamos integrándonos en
+
+nuestro símbolo sign on con sistemas
+
+como el de la secretaria distrital de
+
+movilidad como el sistema
+
+contravencional la ventanilla única de
+
+servicios etcétera y entonces nos
+
+demuestra cómo estas tecnologías
+
+parametrizados o hechas por una entidad
+
+pues pueden ser aprovechadas por todas y
+
+en estos procesos de transferencia de
+
+conocimiento o de integración pues vamos
+
+aprendiendo todos los equipos de
+
+desarrollo de distintas entidades
+
+entonces este es otro ejemplo que
+
+también queríamos destacar en el tema de
+
+hoy
+
+también en
+
+el tema intercambio con entidades
+
+entonces por ejemplo el ejercicio que
+
+les decíamos de reportar huecos 62 del 5
+
+el frenón de gabo de la alta consejería
+
+se trabajó con dos entidades entonces en
+
+esos temas de intercambio por ejemplo
+
+seleccionar zonas de parqueo un trabajo
+
+sobre el que estamos trabajando pago de
+
+servicios públicos son los intercambios
+
+que tenemos con la tele y usan servicios
+
+web y servicios red es el
+
+aprovechamiento y el uso de estas temas
+
+abiertos funciona muy bien para prestar
+
+servicios eficientes en tres entre dos
+
+entidades y el desarrollo en nuestras
+
+soluciones por ejemplo en el caso de las
+
+de gobierno abierto en el uso de
+
+tecnologías como docker q vernet sprint
+
+boot e independiente que lo despleguemos
+
+sobre tecnologías propietarias si
+
+permite que si llegásemos a cambiar
+
+tecnología la base sobre la cual se
+
+desarrollo pues haga mucho más fácil
+
+la implementación nuevamente de esto a
+
+esto se suma también es justo ayer
+
+estábamos hablando con anteayer para
+
+esta presentación con el equipo del agua
+
+es en la que en el que ellos nos
+
+contaban que por ejemplo sus sistemas
+
+internos de gestión de calidad de
+
+peticiones otros misionales por ejemplo
+
+los que tienen que ver con reporte de
+
+servicios funerarios reportes
+
+recicladores todos estos desarrollos los
+
+están trabajando y le están apostando
+
+hacerlos con tecnología libres entonces
+
+esto también es muy interesante porque
+
+en ese ejercicio que hacemos desde el
+
+distrito de hablar con todas las
+
+entidades vamos identificando y vamos
+
+dándonos cuenta de que por ejemplo lo
+
+que hicieron para el tema de los
+
+recicladores también nos funciona de
+
+pronto para un tema de basura no
+
+temática para el tema de cultura
+
+registrar libreros por ejemplo entonces
+
+este tema de diálogo en el que estamos
+
+súper convencidas y articuladas desde
+
+alta tyc también nos funciona para
+
+aprovechar estas tecnologías y otras
+
+bien por supuesto porque somos unos
+
+convencidos de que la tecnología en
+
+general facilita moviliza y garantiza
+
+una mejor calidad de vida para nuestros
+
+bogotanos y bogotanas y todos los que
+
+habitamos en esta ciudad entonces
+
+también este trabajo de abordar y
+
+conversar con las entidades ha sido es y
+
+seguirá siendo muy valioso
+
+leonardo pues eso a nivel de
+
+resumen era lo que teníamos para contar
+
+hoy es lo que tenemos para contar hoy
+
+desde luego siempre las puertas abiertas
+
+en la alta consejería clic para un
+
+diálogo para una opinión para una
+
+solicitud de información para contar una
+
+experiencia en esto que puede aportar a
+
+la construcción de bogotá territorio
+
+inteligente acá están mis datos de
+
+contacto el correo electrónico nuestro
+
+twitter en la alcaldía
+
+por ahora es hasta ahí vale muchísimas
+
+gracias sana
+
+para todos aquí presentes me podrías
+
+compartir en los links de las páginas
+
+nuestros espectadores
+
+[Música]
+
+los links de que tengo aquí en la
+
+presentación me dices
+
+te perdí
+
+de perdiz leonardo pero si me escuchas
+
+te paso ahora la información y la
+
+dirección esa corriente
+
+dice leonardo vale creo que tú me
+
+escribiste que así es entonces te envío
+
+la información el correo
+
+1
+
+no te necesito una perdiste y yo te
+
+escuché perfectamente si aquí para
+
+nuestro público si me puedes regalar los
+
+enlaces de las páginas yo les compartiré
+
+aquí en nuestras redes sociales para que
+
+nuestros espectadores visiten la página
+
+es un proyecto interesante y
+
+adicionalmente quiero recordarle a todos
+
+nuestros espectadores que estamos en
+
+espacio de preguntas así que pues bueno
+
+tenemos más o menos 15 minutos y 5 pues
+
+es mucho digamos para atender a todas
+
+sus inquietudes
+
+así que invito a los espectadores que
+
+nos están viendo que formule sus
+
+respectivas preguntas aquí en nuestras
+
+redes sociales
+
+pero si quieres me pasas por intermedio
+
+del inah las páginas y yo las pongo aquí
+
+públicas en las redes sociales
+
+no
+
+ahora a mí ya le pasó
+
+e invitamos a todos nuestros
+
+espectadores para formular sus preguntas
+
+formulen
+
+bueno
+
+preguntan podría colocar tus datos de
+
+contacto aquí en las redes sociales
+
+listo para el comienzo a escribir
+
+publicarlas
+
+de confirmase a rúa cáritas desde
+
+twitter de
+
+diseño corporativo
+
+listas de comunicación
+
+y que comparte los links
+
+mit
+
+no han preguntado
+
+exhorto quedan abiertas leonardo para
+
+posteriormente o si éstos me llegan pues
+
+nada les respondemos obviamente desde el
+
+alta con serie es perfecto
+
+a mí
+
+lo mismo
+
+no
+
+ministro
+
+y
+
+ah
+
+lista y
+
+ah
+
+ah
+
+ah
+
+bueno
+
+no olvides a todos que estamos aún en
+
+forma
+
+jornada de preguntas entonces estamos
+
+atentos a cualquier inquietud de la
+
+charla
+
+en este momento es nos quedan
+
+básicamente
+
+cuatro minutos más bien habría cuatro
+
+minutos para seguir para formular
+
+preguntas
+
+bueno aquí nos formulan una pequeña
+
+pregunta en la cual la siguiente
+
+cuáles han sido los principales retos y
+
+que viene con el proyecto
+
+bueno en el tema d
+
+usar tecnologías por ejemplo
+
+quiero destacar si el tema del talento
+
+por ejemplo
+
+encontrar cada vez
+
+encontrar formar o articular redes de
+
+talento en tecnologías libres que
+
+permitan que esto que pasa en el
+
+distrito se pueda potenciar y ampliar y
+
+ampliar y en temas de datos abiertos
+
+desde mirada del tema de
+
+cada vez mejor calidad es cada vez mejor
+
+completitud y empezar a continuar
+
+trabajando en plataformas que estén
+
+creadas bajo la consigna de apertura por
+
+defecto
+
+eso explicó
+
+vale perfecto muchas gracias
+
+esperamos dos minutos más para otra
+
+pregunta y cerraremos el espacio
+
+entonces así que invitamos a los
+
+espectadores a formular la respectiva
+
+pregunta o duda
+
+lina no se está formulando una pregunta
+
+buscando
+
+cómo ha sido la experiencia ya están los
+
+datos abiertos
+
+yo soy una super apasionada este tema
+
+desde hace varios años entonces creo que
+
+cada vez es más interesante más bonita y
+
+más sorprendente en cómo vemos que
+
+distintas comunidades van aprovechando
+
+los datos abiertos recién yo empecé a
+
+trabajar este tema en el dany con mi
+
+grato salinizados el público era muy
+
+específico y muy formado en temas de
+
+manejo de datos
+
+por ejemplo
+
+estadísticos matemáticos economistas y a
+
+medida que hemos ido caminando en este
+
+tema quienes trabajamos vamos viendo que
+
+de nuevo es algo que nos permite a todos
+
+entonces estamos desde quienes
+
+trabajamos en las ramas de ciencias
+
+sociales y aprovechamos los datos los
+
+ingenieros economistas matemáticos por
+
+supuesto los estudiantes desde el
+
+colegio quienes trabajan el uso de datos
+
+no digitales y no análogos pero a partir
+
+de información que está abierta entonces
+
+creo que si fuera
+
+una palabra diría que es como
+
+sorprendente es sorprendente lo que va
+
+pasando cada año entre quieres usar los
+
+datos porque también al mismo tiempo
+
+cada vez tenemos comunidades más
+
+formadas que que nos exigen algo al
+
+público
+
+mejores datos mejores tiempos de
+
+respuesta más información más completito
+
+entonces eso también hace que quienes
+
+estamos en las entidades
+
+trabajemos por tener mejor información
+
+así es muchísimas gracias
+
+en ese momento ha llegado al final de
+
+esta conferencia muchísimas gracias
+
+por tu espacio
+
+y a todos ustedes tengan un cordial
+
+saludo no se despeguen sigan la formal
+
+disuelvo conta 2022 y van a estar súper
+
+buena en las charlas a las dos
+
+entraremos en una recesión y más o menos
+
+sobre la una de la tarde estaremos
+
+nuevamente continuando de nuestros
+
+espacios para mí
+
+igual los indicamos haciendo todas las
+
+pintadas que se han dado a lo largo del
+
+día en nuestras redes sociales
+
+principal de youtube visual bogotá el
+
+estar disponible los vídeos para que
+
+vean para que los casos están en
+
+streaming
+
+cuando ustedes verdad después se
+
+publican estas conferencias es aquí
+
+gracias a todos y que tengan muy buen
+
+día gracias
+

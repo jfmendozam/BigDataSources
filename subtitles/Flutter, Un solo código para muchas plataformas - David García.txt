@@ -1,0 +1,1798 @@
+[Música]
+
+[Música]
+
+i
+
+[Música]
+
+i y
+
+[Música]
+
+ah
+
+[Música]
+
+más
+
+horas
+
+[Música]
+
+y
+
+ah
+
+[Música]
+
+y
+
+ah
+
+[Música]
+
+y
+
+y
+
+i
+
+[Música]
+
+i
+
+[Música]
+
+i
+
+[Música]
+
+[Música]
+
+i
+
+[Música]
+
+y
+
+[Música]
+
+i
+
+ah
+
+[Música]
+
+ah
+
+ah
+
+[Música]
+
+ah
+
+[Música]
+
+ah
+
+[Música]
+
+él
+
+[Música]
+
+[Música]
+
+ah i
+
+[Música]
+
+2
+
+[Música]
+
+ah
+
+[Música]
+
+ah
+
+ahora
+
+[Música]
+
+y
+
+ah
+
+[Música]
+
+y
+
+ah
+
+[Música]
+
+y
+
+ah
+
+[Música]
+
+y
+
+[Música]
+
+i
+
+ah
+
+[Música]
+
+i
+
+a
+
+[Música]
+
+[Música]
+
+[Música]
+
+y
+
+[Música]
+
+ah
+
+buenas tardes hoy nos volvemos a
+
+acompañar en otra nueva charla en este
+
+caso la charla de fluir un solo código
+
+para muchas plataformas en este caso o
+
+en esta oportunidad estamos con el
+
+conferencista david felipe garcía hola a
+
+vico más
+
+buenos días para todos muy bien
+
+sí sí sí ahí salió perfecto y se ve
+
+perfecto ya de hecho se verá ya positiva
+
+entonces si de una vez quieres arrancar
+
+listo para todos
+
+winston el flote realmente es un
+
+framework y el interesante desde google
+
+y soportado por google y por una
+
+comunidad grande es de código abierto
+
+y es bastante rexach
+
+tenemos y es lo que la charla es un solo
+
+código para muchas plataformas porque
+
+fruta ten algo interesante que es que
+
+con una sola base de código podemos
+
+diseñar aplicaciones móviles para
+
+android y ios y así como así también
+
+para aplicativos web para escritorio
+
+windows mac o linux es bastante completo
+
+y de la curva aprendizaje es bastante
+
+rápida es muy interesante ver la
+
+herramientas del framework y es el
+
+lenguaje también es un lenguaje
+
+relativamente nuevo que se llama y
+
+luther corre con ese lenguaje
+
+listos entonces una presentación rápida
+
+mi nombre es la de filipe garcia trabajo
+
+como
+
+desarrollador líder fas y usuario y por
+
+qué desarrollar fragment y pues ezenarro
+
+a instalar
+
+de la ciudad no pasa nada y estoy
+
+entonces
+
+los mensajes por ahí listos
+
+entonces bueno floración algo
+
+interesante
+
+están sumamente
+
+bueno y entre otras cosas recuerden
+
+siempre seguimos en las redes sociales
+
+que tenemos
+
+[Música]
+
+bogotá
+
+suscribirse al canal de youtube estar
+
+pendiente de todas las demás actividades
+
+que se van a realizar el día de hoy y
+
+también para los que están asistiendo a
+
+las instalaciones recuerden que también
+
+tenemos una parte del evento presencial
+
+que se realiza en la universidad
+
+distrital vale ahora si hay
+
+inconveniente
+
+listo muy interesante y yo creo que a
+
+todo el mundo que lo conoce lo ha
+
+escrito y se escribe en cuatro palabras
+
+es bastante rápido bastante rápido
+
+y es que tiene algo interesante porque
+
+él corre en el motor que él corre de los
+
+aplicativos escritorios son a rm y casi
+
+realmente con la máquina y en los
+
+dispositivos móviles que se ejecuta en
+
+base a cada pixel entonces también es
+
+interesante para el desarrollador de
+
+interfaz de usuario porque controla cada
+
+pixel de la pantalla
+
+entonces puede hacer animaciones
+
+increíblemente bonitas
+
+e interesantes
+
+en la parte web que corren javascript
+
+entonces qué opinan de las que
+
+desarrollas en dar tú escribes en
+
+igualdad pero a la hora de exportarlo a
+
+la hora de copiarlo
+
+te
+
+entregas javascript que tenga productos
+
+android
+
+en cuatris y triste que el producto en
+
+él
+
+en sí para para ello es entonces es
+
+bastante bastante interesante el
+
+servicio que tiene
+
+es bastante productivo y productiva en
+
+el sentido de que creará rápidamente el
+
+código tiene lo mejor de lo
+
+entonces claro vas haciendo una pequeña
+
+edición acá línea y él automáticamente
+
+va generando la compilación que vas
+
+viendo el que me quisiste entonces es
+
+bastante también rápido en sentido
+
+porque tú como desarrollador vas viendo
+
+el cambio de facturas directamente y no
+
+tienes que compilar normalmente y
+
+esperar que se se cree todo desde cero
+
+sino que simplemente
+
+recopila en la línea que tú cambias
+
+flexible en el hecho de que lo que les
+
+decía permite
+
+dark ápice de la pantalla y crear
+
+diseños bastante adaptables y
+
+personalizados entonces algo interesante
+
+porque cuando trabajas en una empresa
+
+desarrollo usualmente ellos como hay un
+
+diseñador visual de interfaz de usuario
+
+que te envía lo que quieres que haga y a
+
+veces es bastante complicado llegar a
+
+lograr animaciones o diseños que quiere
+
+comportamientos la aplicación de influir
+
+es muy flexible en eso
+
+aparte de eso que la comunidad que tiene
+
+detrás digamos va desarrollando
+
+aplicaciones y servicios de animaciones
+
+y las van publicando entonces estoy
+
+también son gratuitas y entonces ahora
+
+tú te quitas el tema de reescribir o
+
+todo sino que puedes recurrir a
+
+mal banco que tiene frutería de
+
+animaciones y de cosas y lo implementa
+
+en tu código y pues nada bonito porque
+
+realmente lo que se consigue con
+
+frutales bastante bonito las
+
+aplicaciones que se pueden ver y
+
+desarrollarse un frutero servicios web y
+
+los servicios criterios son bastante
+
+llamativos visualmente y puede ser el
+
+backend de phil 3 con mediante a pires
+
+más que todos él permite muchas cosas
+
+incluso con los comenté que era trabajar
+
+muy bien a simples andar duino con
+
+construya desde realmente es una banda
+
+muy flexible y llamativo es a la vista
+
+el resultado si tiene desarrollando de
+
+ofrecernos
+
+entonces bueno ver mejor a tu
+
+productividad en el hecho de que con un
+
+código base no tienes qué lugar pongamos
+
+el ejemplo desde cero estás en una
+
+reunión de trabajo y tienes que
+
+desarrollar aplicaciones
+
+guantes el cliente tendrá que hagas una
+
+aplicación para android pero espera que
+
+en dos meses la tengas para aire es
+
+entonces tienes que crear los grupos de
+
+trabajo dos metodologías y mantener los
+
+proyectos
+
+con fruta es sólo un proyecto
+
+[Música]
+
+necesitas gente que sepa de los
+
+despliegues pero en un solo proyecto con
+
+una sola raíz de código y simplemente se
+
+evitan algunos comportamientos y diseños
+
+para cada plataforma y enfrentaremos es
+
+muy flexible en esa medida que hagamos
+
+más investigando vas aprendiendo nos
+
+habla lo que se requiera
+
+como entrar ahora pero de la misma
+
+manera para el apartado web del apartado
+
+de escritorio de cualquier sistema
+
+operativo con la misma base y códigos de
+
+apoyo trabajando y se regalan en los
+
+detalles finitos de diseño que tú
+
+quieras para para que no se vea como
+
+fuera de foco una aplicación diseñada
+
+para android que funcionan ayer espero
+
+que se ve como una aplicación de año
+
+entonces es lo que al inicio tiene un
+
+rendimiento nativo entonces utiliza
+
+herramientas y animaciones o pilar
+
+directamente desde el sistema operativo
+
+en el que corre entonces no es nada
+
+lento e incluso en internet puede
+
+encontrar como comparaciones donde
+
+desarrolladoras en la misma aplicación
+
+en tres lenguajes distintos la velocidad
+
+del nativo a flor de red es muy similar
+
+ya no hay desfases en cambio si se hace
+
+con otros font y work que son también
+
+para desarrollar aplicaciones móviles
+
+pero no son nativos
+
+no son bastante lentos entonces en la
+
+afectividad federico necesitamos que
+
+google ha invertido tanto y pueda hacer
+
+conocía el framework y pues estamos en
+
+el festival que lo abierto y está
+
+abierto a todo el mundo abierto y todos
+
+podemos ir apoyar
+
+es que el repositorio principal también
+
+subieron nosotros el diseño de estos
+
+apoyos y dejarlos ahí para la comunidad
+
+disponible para todos en ahora para más
+
+adelante le mostrar la plataforma a una
+
+pista el poder es un repositorio de de
+
+de códigos de clúster entonces ahí te
+
+puedes apoyar si estás aprendiendo
+
+puedes reutilizar bastantes cuellos y la
+
+forma llamarlos de sencillo se crea una
+
+sesión llamada una dependencias de
+
+descarga y la puedes usar es bien
+
+interesante sesión interesante
+
+pues lo que puedes lograr por buenos
+
+utilizando los servicios que alguien ya
+
+desarrollada y disfrutar pues como
+
+pueden buscar en google el repositorio
+
+principal de igual manera escriben
+
+frutero y ahí está la forma de
+
+instalarlo frutero realmente funciona
+
+muy bien en dos entornos de desarrollo
+
+que es android estudio o que es el
+
+estudio code yo en lo personal trabajo
+
+con vista al estudio que llama los
+
+requerimientos y en tres como que es un
+
+poquito más flexible para desarrollar
+
+[Música]
+
+listos
+
+y
+
+esto creo que
+
+sí
+
+entonces estamos en la parte de que
+
+actualmente
+
+el
+
+soporte es ya hasta windows mac os y
+
+linux aún no tiene soporte pero ya se
+
+puede servir para ellos
+
+sus plataformas web también en la
+
+anterior actualización principal a 2.0
+
+lanzó oficialmente su puesto para web
+
+entonces que ya se puede desarrollar
+
+aplicaciones estables para web y para
+
+windows para darle a iones y desde el
+
+inicio desde que se han sufrido 36 se
+
+conocía que eran bastante estables y en
+
+la actualidad son son bastante
+
+funcionales
+
+y bueno
+
+dentro de si quieren ver ejemplos de las
+
+explicaciones que se hacen tiene el
+
+mismo fruto puedes encontrar es
+
+encontrar desarrollos que están subidos
+
+de forma gratuita para enseñar el código
+
+y para recrearlos pero bueno algunas son
+
+desarrollada por empresas y tienen como
+
+ciertos
+
+parámetros legales para reutilizar pero
+
+igual van a encontrar muchos códigos
+
+gratuitos y que van a poder ver que no
+
+se acercan a dar bien pero lo colocan es
+
+un desarrollo pequeño quisieron ahí
+
+donde muestran como
+
+se puede compilar en web y en windows de
+
+una manera bastante bonita y si lo
+
+ejecutan en directamente un escritorio
+
+el cambio su comportamiento el
+
+comportamiento del mouse adaptándose a
+
+windows pero a lo que lo abres el web se
+
+comporta como si estuviese lópez y es el
+
+mismo código así realmente la
+
+compilación a la web y a windows y una
+
+diferencia como el 10 por ciento
+
+entonces el 90% del moco de que entonces
+
+viene interesante fue desarrollar una
+
+aplicación web en un tiempo no sé de
+
+seis meses y en menos de un mes ya tiene
+
+la versión de windows 7 es tan
+
+disfuncional entonces es bastante
+
+bastante el bastante rápido
+
+las aplicaciones web tienen algo
+
+interesante porque pueden ser
+
+progresivas
+
+pero entonces puedes guardar la
+
+aplicación en el ordenador y la ejecuta
+
+desde ahí pero sigue siendo buena
+
+y flutter directamente a penas o pilas
+
+para web water genera la aplicación
+
+pero entonces fruta tiene algo aún no es
+
+muy efectivo para los buscadores en la
+
+cuestión de las búsquedas entonces
+
+recomienda que sean para aterrizajes o
+
+servicios pequeños son muy bien
+
+definidos para ponernos administrativos
+
+porque aún no debe generar una una
+
+búsqueda en
+
+donde me gustaba
+
+entonces bueno ahora después de que las
+
+fábricas móviles
+
+en un lado está
+
+bastante bien para ello es exactamente
+
+igual pero a la hora de digamos
+
+manejamos las aplicaciones y hay
+
+comportamientos distintos
+
+y realmente funciona en la mayoría con
+
+lápices no hay esta documentación de
+
+soporte en cómo hacerlo con bases de
+
+datos directamente pero igual se puede
+
+por cómo que recomendable
+
+como les comentaba es bien bonito es
+
+bastante bonito el diseño es bien
+
+integral y cuando
+
+las empresas y desarrolladores toma la
+
+emisión utilización de redes realmente
+
+porque necesitan diseños bonitos con la
+
+aplicación es un poquito más estática y
+
+eso recurren a los servicios nativos
+
+pues digamos que por por tiempo
+
+civilidad para despertar es más sencillo
+
+porque hay alguien trabajando tiempo
+
+atrás luther es algo relativamente nuevo
+
+hay pero que ya hay mucha gente que lo
+
+conoce que apoya a la comunidad tampoco
+
+es que lo hacen vas a contratar
+
+encontrar gente profesional en cualquier
+
+esquina
+
+entonces es también tomar decisión de
+
+utilizar twitter es un poquito pues como
+
+que no está en el mercado todavía muy
+
+establecido pero digamos en mi caso tuve
+
+la suerte de que la empresa la que te a
+
+trabajar y empezaron a desarrollar un
+
+servicio web un frutero y realmente
+
+visitas técnicas a con el lenguaje y
+
+desarrollo que tienen que ser han sido
+
+con
+
+entonces el listo
+
+y lo que puede hacer
+
+es hacer una pequeña búsqueda en google
+
+y el otro tendría de cómo hacer la
+
+instalación de la primera aplicación si
+
+no estoy mal apenas ha pasado por
+
+primera vez
+
+[Música]
+
+una aplicación pequeña para que puedas
+
+entender de qué se trata
+
+a
+
+ver
+
+y listo
+
+ahí hay unas fotos en las que
+
+actualmente trabajan con google con un
+
+papel y apoya también la comunidad
+
+entonces que han confiado en el lenguaje
+
+de facebook y lo están implementando
+
+entonces vemos que son marcas grandes
+
+e incluso de ser vista en google
+
+funciona totalmente
+
+es interesante estresantes porque en un
+
+nuevo
+
+las empresas están actualmente mudando
+
+de muchos lenguajes porque saben en
+
+lengua de futuro y google tiene adicción
+
+a esto dentro de la intención la función
+
+de esto realmente es que conozcan entre
+
+sí les interesa pongan a aprenderlo
+
+porque en la actualidad ya en muchas
+
+ofertas laborales de computer no están
+
+satisfechas porque realmente no hay
+
+impunidad es con el conocimiento
+
+ganancia
+
+y es una buena elección de lengua en el
+
+cual profundiza un poco especialistas
+
+entonces colabora para compartirles
+
+[Música]
+
+esto
+
+no sé si lo desarrolla
+
+abajo está aquí digo windows para lo
+
+podría copiar en ese momento en windows
+
+por el a colación un 2 demora un poquito
+
+y entonces prefiero mostrarnos en web
+
+para que vamos agregamos un poquito de
+
+lo que se puede hacer acá y explicamos
+
+un poquito los conceptos básicas
+
+entonces bueno como le decía
+
+aunque esté escrito en dar se ejecuta en
+
+en en
+
+javascript
+
+y corre algo similar en las campas en
+
+los diseños de canvas entonces como les
+
+decía cada pixel es habitable cada cosa
+
+que te imagines que puedas hacer una
+
+pantalla lo vas a poder hacer mediante
+
+código
+
+tenemos que ser más de lo que es
+
+esto puede
+
+incluso las aplicaciones que tú
+
+desarrollos para con enfoque agro y
+
+también las puedes correr normalmente en
+
+en web pero como no está en el diseño
+
+enfatizado que se estiran los
+
+componentes y sea un poco más entonces
+
+hay que tener algo muy presente que es
+
+la adaptabilidad y la responsabilidad
+
+porque el listo puede que sea responsivo
+
+en el sentido de que el huevo a grandes
+
+ya pequeñas y los componentes se van a
+
+pequeñas
+
+pero también a la hora de pasar a otras
+
+plataformas las pantallas son mucho más
+
+pequeñas y también en los twa la maneja
+
+igual entonces tienes jugar mucho con
+
+eso realmente incluso acá lo que más
+
+lleva tiempo no es aprender el lenguaje
+
+sino aprender a los conceptos de
+
+habitabilidad
+
+y la publicidad
+
+bueno esto es que el administrativo
+
+plutón
+
+bueno él es responsivo en estos momentos
+
+entonces vemos que hay comportamientos
+
+del menú que se oculta cierto excel y se
+
+se agranda de san miguel en la pantalla
+
+igualmente esta aplicación también se
+
+puede correr en una red mayor
+
+y quedaría algo más o menos así sabemos
+
+cómo cambia todo se reorganiza y sigue
+
+funcionando a eso es a lo que yo que si
+
+vas a iniciar a desarrollar enfermera
+
+algo tienes que considerar es el inicio
+
+hasta que plataforma no quieres llegar
+
+para que todo funcione correctamente
+
+sino digamos que también hace un poco
+
+tedioso del trabajo
+
+vemos que este es un diseño más bastante
+
+estándar a lo que hay actualmente es un
+
+panel de administración y algo que
+
+queramos tal vez era eso que también se
+
+pueden hacer cosas que ya hay y ya lo
+
+puedes realmente puedes mover tu
+
+aplicación una capa es mover su página
+
+web
+
+pero después lo interesante es utilizar
+
+las herramientas nuevas que tienen para
+
+entonces para trabajarlo
+
+digamos que también quede más más con 50
+
+como realmente lenguaje está enfocado
+
+inicial a las aplicaciones móviles
+
+varios comportamientos que tenemos
+
+naturales en la en la web no están con
+
+la parte de comprarlos text
+
+pero no se puede hacer de una manera el
+
+programador tiene que pensar si quiere
+
+que una parte del código de los textos
+
+que están en la web se puedan tomar
+
+tener que también darle esas propiedades
+
+entonces está solo aquí ya que primero
+
+sentarse y decir que hasta que la luz
+
+para pensar en todas las cosas
+
+comportamientos y diseños que se ocupan
+
+del sencillo
+
+el código también es sencillo creo que
+
+es
+
+bastante bastante rápida
+
+y no
+
+hay muchos conceptos nuevos de la
+
+programación que maneja la mayoría son
+
+bastante estándar el que se fue un gran
+
+gol de parte
+
+en google en ese aspecto que no utilizó
+
+un paradigma nuevo para el desarrollo
+
+lenguaje sino que
+
+pero que junto de lo mejor de muchas
+
+ahora vamos a ver una aplicación de
+
+e-commerce también desarrollada
+
+totalmente en fruta
+
+y por eso la vamos a correr vamos a
+
+correr el rincón para no ejecutar un
+
+simulador de han visto otra cosa
+
+importante es que sí claro quieres
+
+desarrollar para para ayudar tienes que
+
+tener sí o sí un mac o un entorno
+
+enfocado a poder quedar en los
+
+dispositivos
+
+en la actualidad también se puede
+
+desarrollar para relojes inteligentes
+
+para carros
+
+incluso he visto que ya han clonado el
+
+sistema
+
+dt es la de los carros en lenguaje fruta
+
+es bastante muy interesante lo que se
+
+puede lograr
+
+con
+
+algo relativamente vivía bastante
+
+bien
+
+ahora yo estoy manejando actualmente la
+
+versión 2 junto a 10.3 la más puntual es
+
+el más estable 2.3 todas unas
+
+correcciones pequeñas
+
+pero son muy relativas entonces ya queda
+
+como especial de cada uno yo asumo
+
+que el siguiente paso
+
+la versión de escritorio pantalla es
+
+porque el menú querido quedar un poco
+
+atrás ahora quizá paredes y los blogs
+
+que tiene el club de tu mente se
+
+trabajan mucho en la parte de web para
+
+que los permisos
+
+los servicios que
+
+mejor más con el sentido de que los
+
+buscadores en el radar de búsqueda para
+
+que la gente pues citó valència de crear
+
+nuevas aplicaciones nada a este lenguaje
+
+y publicar de nuevo
+
+esos momentos
+
+como él
+
+desde constante visible buscamos
+
+explicación pues quería mostrarles con
+
+un comportamiento que brinda a los
+
+objetos y eso sí no
+
+escribe funcionar vamos hombre en laico
+
+lo que puede salir
+
+con éste
+
+las aplicaciones pues para ver cómo el
+
+comportamiento que se puede obtener
+
+bendito
+
+magnéticamente no no
+
+entonces
+
+tenemos el pan y si nos timan antes de
+
+los colores declaró nata
+
+lista este botón está azul y está
+
+corriendo con el color secundario digo
+
+todo el futuro primario entonces ponemos
+
+una rápida pequeña
+
+[Música]
+
+esto acaba de guardar y el
+
+inmediatamente hacerlo
+
+y cambiar los colores pero
+
+esa partecita estaba azul y ahora está
+
+el color que fue el verde
+
+igual que este entonces control z para
+
+volver estar atrás por eso le vamos a
+
+dar pues controles para guardar el de
+
+una ejecuta por un lado y vamos a hacer
+
+cambio la aplicación volvió a ser azul
+
+el digamos bien lo rápido que fue
+
+construirlo no tuvimos que esperar todo
+
+lo que esperamos ahorita
+
+entonces esa es una herramienta brutal
+
+para el desarrollador porque a veces eso
+
+toma tiempo y ya pequeñas pruebas que
+
+obraban una semana ahora pueden durar
+
+tres días
+
+es cuestión de digamos de acostumbrarse
+
+al freno a los servicios y se enamora
+
+mucho lengua
+
+y mucho interés también
+
+estas listas ahora
+
+agregamos un poquito de lo que podemos
+
+encontrar en put
+
+pero
+
+es para hacer hospitales del lenguaje y
+
+del framework entonces acá podemos
+
+encontrar lo que les decía ejemplos
+
+pequeños de ciertas cosas que podemos
+
+reutilizar
+
+tú eres nuevo y no sabes hacer ciertas
+
+animaciones puedes buscar acá en esta si
+
+alguien yaiza alguna que necesites y la
+
+puedes
+
+simplemente copiar el código y ya lo
+
+puedes ejecutar
+
+y muchas veces porque me di cuenta que
+
+estaba escrito y fruterías que hay un
+
+cambio en la forma de las animaciones
+
+con css y varias cosas porque aquí es
+
+relativamente sencillo entonces pasa
+
+algo curioso
+
+qué
+
+hong kong reuters
+
+cosas que son muy difíciles o vuelven
+
+sencillas para cosas que son
+
+muy obvias y muy fáciles que son
+
+complicadas como decía estos que es una
+
+mujer 50 pero aquí sé que voy a tener en
+
+cuenta
+
+ahora en la parte de aplicaciones que
+
+tenemos pistas que hay ciertos menús
+
+bastante interesantes
+
+los diseños son bastante interesantes y
+
+entonces vemos acá este menú este menú
+
+de los damos en aplicaciones de poco
+
+en un principio los diseños incluyen dos
+
+menús pero pues lo contamos lo vimos nos
+
+gustó y lo implementamos tenemos en su
+
+comportamiento sobre que a uno como
+
+usuario le viene cierto recuerdo
+
+entonces es bastante interés eso es
+
+bastante bueno en la parte de interfaz
+
+de usuario de ayuda
+
+porque
+
+usar la aplicación te genera algo
+
+satisfactorio así que es que no como que
+
+no te canses de ella y eso es algo muy
+
+muy implementado en la industria
+
+actualmente
+
+entonces pues igual este este menús
+
+bastante sencillo incluso copiar y pegar
+
+esto
+
+en el mail ya no se ejecutaría este menú
+
+pero antes de
+
+usarlo hay que ser algo pequeño
+
+qué es instalar
+
+de muchas muchas de lo que ustedes ven
+
+acá y ni siquiera tuve que escribirlo
+
+desde cero sino que fue llamar a una
+
+función de las que están en acá
+
+y proyectarla como amigos
+
+también es algo muy brutal porque si
+
+alguien ya hizo lo que tú quieres hacer
+
+no lo puedes usar lo puedes utilizar y
+
+mejorar incluso las mejoras que tú le
+
+hagas las puedes subir y que otra gente
+
+la pueda
+
+la pausa es algo que tener en cuenta es
+
+el pnv dulce para poder usarlas porque
+
+si no tienen cómo llegamos a esta
+
+certificación cita es porque estaban en
+
+prueba el puede tener errores entonces
+
+es malísimo para una aplicación que va a
+
+despegar
+
+sin él si el paquete tiene el sello es
+
+perfecto y éste incluso nos dice que acá
+
+nos dice las plataformas que ya soportan
+
+allí él soporta todas plataformas
+
+actuales entonces yo quiero desarrollar
+
+algo con este pues con este menú lo
+
+puedo implementar en el android dios es
+
+linux marco es en la web y en windows
+
+entonces bien interesante hay muchos
+
+servicios que todavía están sólo para
+
+emprendedores
+
+y hay otros que están ya para todos
+
+realmente y esto ha sido mucho el apoyo
+
+a la comunidad de gente pues que también
+
+le gusta el código abierto que también
+
+está trabajando con el lenguaje y está
+
+subiendo sus aportes y listo actualmente
+
+hay muchas comunidades en facebook del
+
+instalar el twitter que comparten cosas
+
+comparte sus mejoras comparte todo es
+
+una mina con una comunidad muy querida
+
+elenco agencia si quieres y es algo
+
+bastante bastante bastante chévere
+
+digamos formar parte de algo así y vende
+
+usarlo también de aprender a usarlo
+
+me puedes compartir
+
+si voy
+
+creo que ya está bien decía ahora
+
+compatible con google o abierto para
+
+todo el mundo
+
+esto realmente es barato
+
+algunas no formularon preguntas o algo
+
+llorente la charla no pues organizadas
+
+tiamina les puse como gracián hasta ayer
+
+pero pues no sé si tal vez como esto
+
+llega ya con dive
+
+bueno primero por favor si tienes
+
+que ponerlas en buena parte de
+
+comentarios pues para nosotros estamos
+
+pendiente de cualquier pregunta
+
+y pregunto yo qué tan ácido pues tu
+
+experiencia con fluir así pues como para
+
+iniciar
+
+listo para el inicio poco pues como más
+
+que todo fue sorpresa pudiéramos
+
+utilizar el freno porque no lo
+
+conocíamos
+
+digamos que uno conocía era el de ría y
+
+les dio para ponerse hayamos
+
+desarrollado algo porque nunca participé
+
+en el desarrollo de aplicaciones pero
+
+entonces cuando nuestras llenas
+
+es como que vamos a tratar tiempo en
+
+aprender a implementarlo
+
+pero pues bastante pues bastante rápida
+
+la curva aprendizaje incluso ya en seis
+
+meses ya hemos formuladas las como el
+
+archivo principal
+
+en
+
+y nada porque después empezamos a jugar
+
+más con firma y
+
+fácilmente podríamos replicar
+
+las imágenes definen las vistas
+
+entonces fue
+
+fue bien interesante y no ya en vez de
+
+volverse trabajo se volvían una pasión
+
+aprender el lenguaje y aprender el
+
+framework aprender a aprender jugando
+
+por aquí ya hicieron una pregunta daniel
+
+eduardo de la rosa si quiero migrar un
+
+app nativa recomiendas reescribir todo
+
+el código o que recomiendas ok
+
+pero lo personal yo creo que lo mejor es
+
+eso reescribirlo porque bueno si estás
+
+digamos hace mayores
+
+está hecha en wifi y
+
+muchas de las más hay una
+
+se llama al paquete que es el partido
+
+que tiene todos los comportamientos y
+
+diseños de
+
+de ios pero entonces incluso son más
+
+cortos están más resumidos y simplemente
+
+con hacer un llamado ya tienes un
+
+calendario ya tienes un tratan para no
+
+tener que reescribir lo todo como se
+
+hace ahí porque igual funcionaría si hay
+
+alguna manera podrías mirarlo porque he
+
+visto que hay paquetes que te permiten
+
+es que te permiten como copiar una parte
+
+de código ya escritos y ponerlo entre la
+
+aplicación y el lo re entiende a por
+
+entonces también va a ser más lenta la
+
+aplicación te lo ideal sería mirar sería
+
+así como tomarse el tiempo desde
+
+reescribir la magia todo por qué
+
+es más bastante rápido vas a desarrollar
+
+lo mismo aplica la misma aplicación
+
+tiene un tiempo récord
+
+la parte lógica que tiene la aplicación
+
+ya la tienes no sé si hay algo lógico
+
+muy lógico detrás de earl de tu
+
+aplicación nativa ya entiendes cómo
+
+funciona y va a ser más fácil reescribir
+
+la edad y utilizarlo en el freno
+
+vale y así como nosotros desarrollamos
+
+hay cosas buenas y hay cosas malas
+
+siempre que ha sido tu mejor y tu peor
+
+experiencia utilizando este reboot bien
+
+no el tiempo el tiempo es bastante corto
+
+de hacer cosas difíciles usan las
+
+animaciones en los comportamientos uno
+
+recrea cosas súper rápido pero entonces
+
+hay cosas que son sencillas en otros
+
+lenguajes y aquí se vuelven muy tediosas
+
+y digamos la parte de las tablas del
+
+management a las de traer información de
+
+la pieza a unas tablas y que todas todas
+
+puedan manejar bien hay un servicio pero
+
+no está optimizada y entonces tú tenías
+
+que hacer tres maniobras
+
+para que pueda que funcionara como por
+
+el cliente espera y es digamos que era
+
+algo sencillo ya que que hacer es mirar
+
+script era muy fácil pero el router si
+
+tomó bastante tiempo entonces porque
+
+está sus propios contra en ese aspecto
+
+se consiga se vuelven difíciles y cosas
+
+muy complicadas o la música empieza una
+
+mala variar vale algo que el que y ya
+
+pues así en cuanto a los comentarios de
+
+youtube si no no me aparece pues y
+
+bromas pues algunos que es que les gusta
+
+la charla etcétera etcétera
+
+recuerden seguir a nuestro conferencista
+
+sus redes sociales
+
+encontrar como esta
+
+penélope en todas las redes sociales
+
+también
+
+no pero lo
+
+bueno es
+
+que este animalito de aquí estamos con
+
+la oficial de llamadas
+
+esta infografía
+
+vale y preguntan por aquí
+
+un punto ha desarrollado su instalador
+
+influir
+
+recortes jaque mate y consideras la
+
+acción humana la segunda pregunta es
+
+consideras que es mes estrategia quieren
+
+seguir otras distribuciones para que
+
+sí
+
+no pero sí disfruta de esta parada
+
+para manejarlo por qué
+
+tengo un amigo que desarrolla y el
+
+utilizar utiliza un tú como un sistema
+
+operativo principal y el desarrollo de
+
+tratamiento de la verdad no le ha
+
+preguntado en qué
+
+entorno desarrolló esta horrible
+
+pero si funciona y claro de alguna
+
+manera ya
+
+ya se produce en el marco se puede usar
+
+normal también
+
+hay una forma
+
+perfecta y no sé si haya algo más que
+
+decir en cuanto a la parte de o que
+
+quieras que quiero recalcar en cuanto a
+
+los comentarios de esta parte de aquí ya
+
+pues no lo sé no sé a subieron parece
+
+que quien quiero echarle la charla
+
+etcétera
+
+y ya vale
+
+vale lista entonces sí de muchísimas
+
+gracias por permitirnos conocer un
+
+poquito más de este framework aprender
+
+un poquito más de él te esperamos en la
+
+próxima ficción
+
+listo perfecto entonces
+
+ya teniendo esto pues finiquitado ya
+
+pues nos gustaría expertos también de
+
+toda la audiencia recuerda que también
+
+de otras charlas en este mismo canal que
+
+tenemos el canal hipérbola tiene charlas
+
+como despliegue aplicaciones con viendo
+
+así y cómo aprender a desarrollar en
+
+ubuntu touch tecnologías web sin morir
+
+en el intento
+
+entonces porfa para que se queden ahí
+
+pendiente es que trae entren a todas
+
+nuestras redes sociales fisio bogotá a
+
+las de david también quieras público al
+
+final vale entonces no siento más mes
+
+nos despedimos de ustedes que muchísimas
+
+gracias y que ojalá hayan disfrutado de
+
+la charla así como los 30 disfrutamos
+
+haciendo
+
+y ya existentes muchísimas gracias y nos
+
+despedimos
+
+ah
+
+[Música]
+
+y
+
+[Música]
+
+a
+
+[Música]
+
+i
+
+[Música]
+

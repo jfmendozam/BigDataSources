@@ -1,0 +1,2132 @@
+bueno damos bienvenida a nuestro
+
+siguiente conferencista
+
+estamos aquí
+
+[Música]
+
+bien
+
+y
+
+bueno entonces estamos la bienvenida a
+
+nuestro siguiente país
+
+estamos con javier garzón muy buenos
+
+días javier tan bienvenidos atletas
+
+buenos dias para todos como están
+
+arrancó mira asiste
+
+arrancó visto bueno cuántos de ustedes
+
+son ingenieros o están iniciando la
+
+carrera ingeniería o van terminando
+
+levanten la mano
+
+todos donde la distrital
+
+no sabes
+
+es
+
+1
+
+así
+
+listo perfecto y comparte tu pantalla
+
+listo
+
+esto es una charla más sencilla más
+
+básica
+
+pero yo no soy ingeniero yo soy
+
+licenciado entonces esperemos que
+
+aprovechemos esto un poquito también
+
+[Música]
+
+a quitar esto ha caído curación
+
+y listo esta charla se llama software y
+
+hardware libre para una cultura maker no
+
+sé si ustedes han escuchado algunos de
+
+estos términos de pronto en algún
+
+momento bueno hoy vamos a profundizar en
+
+algunos de ellos
+
+[Música]
+
+estos son algunos de los temas que nos
+
+da el tiempo para poder charlar
+
+alrededor de todo esto
+
+entonces para iniciar quisiera recordar
+
+que las cuatro libertades del software
+
+libre es un elemento elemento básico no
+
+la libertad cero el poder utilizar
+
+cualquier programa cierto en cualquier
+
+momento y en cualquier lugar la libertad
+
+uno que es el poder analizarlo estudiar
+
+lo cierto profundizar el programa y
+
+demás
+
+la segunda libertad que es el compartir
+
+este es algo importante y vamos a ver
+
+que no solamente para el software sino
+
+para algunos elementos que vamos a ver a
+
+continuación y la libertad 3 el poder
+
+mejorar visto cosas que no van muchas
+
+otras alternativas o muchos otros y aquí
+
+hablando de software no entonces es
+
+importante tenerlo en cuenta y esto
+
+entre la educación pero así más
+
+importante llamada enfocar mucho en
+
+educación entonces para que lo tengan
+
+implicado hoy en día hay una
+
+de lucha epistemológica filosófica de la
+
+diferencia entre lo libre y lo abierto
+
+pero bueno eso lo va a dejar ahí
+
+solamente lo quería como mencionar un
+
+poco
+
+para profundizar un poco en algunos de
+
+estos programas posiblemente no sé
+
+cuántos de ustedes han trabajado con
+
+este programa levanten la mano a
+
+levanten la mano
+
+desgracia y la mayoría esto es en mi
+
+programa favorito
+
+prácticamente sirve para niños desde 5
+
+la plataforma y 66 años y hay una para
+
+niños desde los 3 años es el scratch
+
+unión y sabemos que hoy en día hay como
+
+tres formas de programar por bloques
+
+cierto programación gráfica y
+
+programación por código y bueno yo la
+
+clasificó como en esas tres es graso y
+
+entra dentro de la programación por
+
+bloques y es como el papá de toda la
+
+programación por bloques que hay hoy en
+
+día hoy en día por bloques hay un montón
+
+de cosas sanz escucha industria 4.0
+
+2b si ustedes profundizan en el tema
+
+cada una esas tecnologías se pueden
+
+desarrollar en base a programación por
+
+bloques y es que ha sido el fundamento
+
+para que todo eso se desarrolle es más
+
+si ustedes profundizan un poquito más se
+
+van a dar cuenta que empresas como
+
+google y microsoft están metidos en esto
+
+u otro de los que más conocemos es
+
+python
+
+cuantos conocen python
+
+también la mayoría bueno aquí todos son
+
+todos le asigna la programación bueno y
+
+hoy en día hay muchísimas más
+
+plataformas que podemos utilizar
+
+basadas en la filosofía del software
+
+libre listo no sé cuántos programas de
+
+ustedes puedan reconocer aquí y hay de
+
+todos no es de sistemas operativos hasta
+
+programas que podemos estar utilizando
+
+en la vida diaria
+
+listo no sé si aquí hay diseñadores o
+
+algo relacionado con arte también
+
+casualidad listo pero
+
+no sé si virtual pero listo
+
+les voy a comentar acerca de esta página
+
+porque posiblemente aquí veamos cierto
+
+veíamos muchos iconos esa es una de las
+
+que yo más recomiendo si libre si
+
+ustedes quieren conocer más desde
+
+programas de software libre hay uno
+
+veamos acá hay un catálogo hay un
+
+boletín que les puede estar llegando
+
+mensual de las actualizaciones de estos
+
+programas y también pues pueden
+
+descargar los programas que ustedes
+
+necesiten aquí esto es bien interesante
+
+aquí vemos una de las y vamos a ver
+
+clasificaciones de estos programas
+
+dependiendo lo que necesitemos si se
+
+encuentra listado es grandísimo a veces
+
+no conocemos todos los programas de
+
+software libre y que podemos llegar a
+
+utilizar pues esto nos ayuda un poco
+
+precisamente este catálogo que está en
+
+orden alfabético ahí ustedes ven unas
+
+categorías y unas subcategorías de lo
+
+que pueden utilizar entonces está
+
+astronomía la cuánto les gusta el tema
+
+de audio o de productos de música de
+
+producción musical listo sin miedo sin
+
+miedo eso es a esto hay para todos bases
+
+de datos de más deportes y desarrollo
+
+web conciertos educativos
+
+gráficos internet juegos matemáticas
+
+ofimática programación hay utilidades en
+
+de cosas generales vídeo y multimedia
+
+y bueno algunas cosas que hay para
+
+windows también dentro de estos
+
+catálogos digamos aquí vamos a ver
+
+mostrarles algunas subcategorías
+
+alrededor de todo esto tenemos los de en
+
+educación hay otras otras sub categorías
+
+más pequeñas digamos de educación
+
+infantil que podemos utilizar con los
+
+niños más pequeños cuántos de ustedes
+
+tienen hermanos primos oídos menores de
+
+8 años
+
+sin miedo sin miedo de jackson están
+
+tímidos
+
+poquitos visto estos son programas que
+
+ustedes pueden utilizar con ellos
+
+yo he utilizado con niños desde
+
+preescolar lo he usado con mis primos
+
+sobrinos algunos de estos son hasta
+
+juegos donde pueden empezar en temas
+
+básicos a chino
+
+visto aquí vamos de mecanografía que a
+
+veces algunos profes preguntan cuántos o
+
+mejor dicho hagamos la pregunta cuántos
+
+de ustedes escriben con uno o dos dedos
+
+cuando están en el computador
+
+y esta vez
+
+eso es importante desarrollar lo es hay
+
+programas de software libre que nos
+
+ayudan también para desarrollar esa
+
+habilidad de escribir mejor más rápido
+
+listo entonces eso es importante
+
+precisamente como programadores les va a
+
+tocar darle al teclado fuertemente
+
+entonces ya aprenden a escribir de mejor
+
+manera se les va a rendir un poquito más
+
+también pues ahí software para eso
+
+también y cuántos de ustedes hacen
+
+modelado 3d
+
+ya sea orgánico ya sea industrial
+
+o mecánico 23
+
+listo
+
+para eso también hay ahí para todos los
+
+gustos y es más hoy con hoy en día con
+
+impresión 3d pues también hay software
+
+libre para hacer precisamente el proceso
+
+para llegar hasta la impresión 3d y
+
+otras cosas que hay allí no arquitectura
+
+bueno no sé si ustedes conocen digamos
+
+vender vender es uno de los más potentes
+
+que tenemos en la actualidad sirve para
+
+hacer desde mi modelado se usa hoy en
+
+día para películas para un montón de
+
+cosas ahí
+
+no he dicho hay harto por hacer no sé si
+
+ustedes conocen frica digamos para todo
+
+el tema d
+
+si de diseño por computador no los que
+
+más se usan ahorita es frica y open es
+
+cut digamos si les gusta programar open
+
+open studies para ustedes programan y
+
+diseñan al tiempo y está áfrica que cada
+
+vez también está cogiendo más más
+
+pueblos
+
+por lópez como un arcón python y también
+
+se puede combinar con tarjetas como
+
+arduino pues esto es bien bien
+
+interesante
+
+suites ofimáticas hay varias la que más
+
+me gusta a mí es la de libreoffice es la
+
+que más
+
+constantemente se está actualizando y
+
+hay una comunidad bien interesante
+
+alrededor y de gestión de proyectos
+
+cuántos de ustedes han llegado en que
+
+quieren desarrollar cosas y no saben por
+
+dónde arrancar o lo dejan
+
+detenido y prácticamente queda muerto
+
+y no sé cuántos de ustedes
+
+utilizan temas de libros electrónicos o
+
+e-books
+
+bueno a los que
+
+a veces más para los que les gusta sobre
+
+todo leer entonces hay plataformas que
+
+ayudan no solamente a la lectura sino a
+
+la creación también de este tipo de
+
+cosas de
+
+artículos
+
+para el tema de desarrollo de
+
+videojuegos una de las plataformas que
+
+está empezando a crecer porque es como
+
+un poco nueva
+
+riesgos
+
+no voy a salir una nueva versión también
+
+y si les gusta digamos también los temas
+
+de cereales y ahí todos también para
+
+para empezar a mirar
+
+temas de reproductores multimedia de
+
+vídeo y música que hay una gran variedad
+
+allí
+
+y algo más avanzado allí en este tema
+
+multi mes
+
+los media centre y hay varios cuánto
+
+gustaría tener un servidor y mismo
+
+de dokic cuando usted lo pueda tener
+
+y eso lo puede crear usted desde su casa
+
+con este tipo de link
+
+si usted
+
+es esencial que tienen esto tener en una
+
+sola plataforma
+
+todo lo que hay ahorita
+
+pekín
+
+en música etcétera etcétera eso lo
+
+pueden
+
+digamos con algún humor
+
+iniciales listo ahora es un poco de
+
+hardware y aquí tenga y luego lo que
+
+como en forma de pregunta hardware libre
+
+y abierto
+
+no tendrá una similitud en hay unos
+
+aspectos filosóficos a tener en cuenta
+
+pero en el que cuando se hablaba o se
+
+empezó a hablar dejar libre
+
+el congreso es hispalinux en 2
+
+nos dice que el hardware libre
+
+o abierto ofrece las mismas con el
+
+software libre pero aplicadas a los
+
+planos de la
+
+cierto los esquemas el ps los ficheros d
+
+los diferentes elementos que podemos
+
+tener en él
+
+liszt
+
+y me genera una hardware libre es solo
+
+electrónica
+
+por allí nos dicen que no
+
+ya no
+
+no se entiende es listo
+
+y en esta rama
+
+en esta rama nos van a aparecer como
+
+varias comunidades alrededor de esto
+
+también desde aquí vemos o vamos a ver
+
+un árbol donde vamos a ver diferentes
+
+logos precisamente de diferentes
+
+comunidades que podemos encontrar
+
+alrededor de todo esto y esto solamente
+
+es una pequeña parte de hoy en día es
+
+más más amplia todavía no es aquí vemos
+
+desde y cosas a cuánto les gusta la
+
+ecología
+
+el medio ambiente
+
+y es tan tímidos porque tan tímidos
+
+listo
+
+en más no sé si ustedes si les gusta la
+
+ecología no sé si han escuchado el food
+
+computing
+
+si les gusta la agricultura urbana lo
+
+más avanzado de estos campos y ahí les
+
+dejo ese tema y esto
+
+de las primeras comunidades en en
+
+hardware libre y abierto apareció el
+
+open technologies donde precisamente
+
+granjeros no podían arreglar sus
+
+máquinas cierto y ellos empezaron a
+
+reconstruir sus propias máquinas y esto
+
+ustedes van a encontrar
+
+información para que puedan replicar por
+
+montones y esta fue una de las primeras
+
+comunidades que existieron allí cuántos
+
+de ustedes reconocen arduino
+
+arduino arduino visto bien
+
+perfecto arduino empezó con una placa
+
+parecía la queremos acá cierto pero
+
+después de eso se desarrollaron muchas
+
+muchas más placas y muchos más productos
+
+alrededor de todo esto no está dado para
+
+montones de cosas
+
+el open rock cuántos de ustedes les
+
+gusta la robótica submarina juanes
+
+cuchara robótica submarina
+
+entonces está el proyecto open rock
+
+donde se han desarrollado varios
+
+proyectos alrededor de todo esto y ahí
+
+elementos allí
+
+abiertos y gratuitos a cuantos de
+
+ustedes les gusta la moda
+
+uno listo no sé si han escuchado este
+
+proyecto máquinas de coser prácticamente
+
+automáticas al estilo impresoras 3d
+
+en el diseño y listo
+
+es esta solamente es parte de lo que
+
+podemos ver para el tema de biónica
+
+una de las varias comunidades que hay
+
+alrededor de este shopping
+
+y precisamente en bogotá hay como dos
+
+comunidades abiertas también alrededor
+
+de este tema
+
+especialmente con impresoras 3d y todo
+
+el desarrollo que se está dando ahorita
+
+y en el tema de drones no sé si ustedes
+
+conocen estos dos estos dos elementos la
+
+comunidad de drones que comenzó en eeuu
+
+y el arduo piloto que empezó con un
+
+mexicano
+
+precisamente le gusta el tema de los
+
+drones y empezó a combinar un drone con
+
+la arduino
+
+esto lo llevó a crear art dubai lot
+
+después de esto no solamente con el
+
+hardware sino también con el software
+
+condron code y empieza la comunidad
+
+alrededor de todo esto hoy en día esto
+
+es una empresa potente alrededor de todo
+
+este tema no los que saben de drones
+
+saben que los drones no solamente son
+
+multi costes sino que hay de ala fija
+
+cierto helicóptero robot sí
+
+y hay en temas educativos
+
+está esta placa que a mí me gusta mucho
+
+que es la maquiné key
+
+esto sirve para trabajar con niños de
+
+desde los más pequeños hasta temas de
+
+arte en universidad se utiliza este tipo
+
+de placas que prácticamente son plug and
+
+play conecta y pagan lo que podemos
+
+hacer con esto y ustedes ven algunas de
+
+esas cosas
+
+digamos en el de la banana que es
+
+posiblemente el que más vemos que es con
+
+el que podemos producir música o
+
+movimiento dependiendo que estemos
+
+haciendo
+
+o hacer la simulación de los controles
+
+de un videojuego en físico
+
+ahora esto lo que utiliza son elementos
+
+conductores y todo lo que conduzca
+
+electricidad lo pueden combinar con
+
+estas tres imágenes y después de que
+
+usted tiene una de estas no quiere
+
+probar con todo en la casa
+
+con todo es con todo bonitas frutas
+
+comida
+
+bueno todo lo que imaginé que sea
+
+conductor lo puede probar
+
+y que producirles depende en el médico a
+
+producir honesta que me gusta mucho
+
+porque es un poco más potente es
+
+parecida pero es más potente porque se
+
+puede unir varias al tiempo
+
+aquí hay como una comparación de pronto
+
+si ustedes saben saben del tema
+
+aquí de sensores
+
+capacitivos y resiste activos les van a
+
+poder ver un poco la diferencia no y la
+
+capacidad que tienen o cuántas entradas
+
+y demás que podemos ver allí no hoy en
+
+día no sólo la mente digamos de la
+
+making x la clásica no solamente está la
+
+origina sino que se consigue la china
+
+para los que saben de arduino es una
+
+puedes comprar original y otra que
+
+comprar chino es precisamente es parte
+
+de él
+
+y que es parte de lo pensó es pero hay
+
+que revisar también nosotros dilemas ahí
+
+si tienen preguntas levantan la mano y
+
+vamos
+
+a la lista entonces nada de volver a ahí
+
+porque es una muy buena pregunta si
+
+tienen preguntas fuerzas conmigo si
+
+levanten la mano y vamos respondiendo
+
+es decir y libre
+
+pues lo pueden usar como sidi libre y
+
+ahí ya leyes les va a salir listo decidí
+
+libre punto hereje
+
+tenemos 15 segundos de la transmisión
+
+antes
+
+esta es la página para que se bueno y si
+
+ustedes creen cada semana van a tener
+
+actualizaciones de lo último que está
+
+saliendo y hasta nuevos programas que
+
+pueden estar saliendo ahí también en las
+
+diferentes ramas
+
+he visto alguna otra pregunta
+
+no vamos bien
+
+5
+
+y vamos
+
+y vamos a casillas
+
+qué es
+
+y esto
+
+i
+
+y ahí se dice algo
+
+para compartir
+
+visto hasta aquí cómo vamos
+
+james más o menos
+
+y listo
+
+aquí empieza
+
+una parte de los chévere para mí
+
+combinar los mundos del software y el
+
+hardware cierto para verlo en el mundo
+
+físico el software es chévere
+
+pero y es mágico cierto para uno lo
+
+llama mejor dicho
+
+y con eso podemos cambiar el mundo prima
+
+en ese siglo podemos conectar con el
+
+mundo real lo hace mucho más potente y
+
+precisamente podemos hacer una
+
+combinación de el mundo de la
+
+programación con el hardware en este
+
+caso programación por bloques y arduino
+
+es de cuatro bajo el primero que hizo
+
+esta combinación
+
+hoy en día hay más de 20 programas y hay
+
+categorías alrededor de todo esto no va
+
+a profundizar en eso sí no
+
+yo podría estar hablando de es que hace
+
+unas dos horas
+
+entonces
+
+imagínese y me siento lo que puede haber
+
+hasta inteligencia artificial puede
+
+estar hablando allí el tema por bloques
+
+para los que les interesan y bien estos
+
+son robots que se pueden hacer con
+
+arduino programados por bloques y vos si
+
+usted quiere por código
+
+es
+
+más avanzado y también
+
+aquí vamos a ver cómo algunos ejercicios
+
+que he desarrollado también en algunas
+
+clases o talleres que he podido dar
+
+desde el famoso blind jaula mundo en
+
+arduino y de ahí para allá un montón de
+
+cosas y demás digamos que parte las
+
+aplicaciones que podemos hacer no sé si
+
+ustedes conocen sobre
+
+satélites artificiales
+
+alguien conozca de satirizar satélites
+
+artificiales
+
+nano satélites cansados
+
+esto eso puede entrar ahí en más ya
+
+existen plataformas dedicadas a temas de
+
+satélites martes con arduino el primero
+
+que salió se llamó arthus a 2 el primero
+
+y ahí para allá nos salió varias varias
+
+cosas aquí micro y que también es una
+
+una placa que parece
+
+demasiado fácil de utilizar viene con
+
+sensores y actuadores
+
+y
+
+mejor dicho
+
+ya viene con temas de comunicación
+
+entonces podemos enlazar dos o más
+
+tarjetas al tiempo es más hasta un drone
+
+podría ser controlado por esto y
+
+controlado por un usuario del otro lado
+
+y ustedes miran la programación hay por
+
+bloques por
+
+javascript por payton y ahí para allá un
+
+montón de cosas más
+
+y algo un poquito más avanzado de pronto
+
+para algunos los hay pga
+
+y de lo que podemos hacer y uno de los
+
+que más me ha llamado la atención es
+
+este lp pg awards es muy español y no sé
+
+si ustedes reconocen el robot foto/juan
+
+escucharlo voto entonces esto combina un
+
+hardware software cierto pero también
+
+temas de diseño y armado entonces aquí
+
+ustedes pueden se tiene todo en internet
+
+lo pueden imprimir si usted quiere no lo
+
+pueden comprar en internet hacia el kit
+
+desarmado voy a armado
+
+y esto se tiene todo también se puede
+
+programar por bloques y se puede
+
+programar por por código
+
+las cosas que se pueden desarrollar aquí
+
+las placas con las que se pueden
+
+combinar hoy en día este es el primero
+
+que salió del básico hoy en día hay unos
+
+con brazos y en la última versión se
+
+llama ninja
+
+camina y rueda
+
+se podrán imaginar lo que hay alrededor
+
+de esto y esto es libre de este 100%
+
+libre
+
+es decir reconocen este la raspberry
+
+de pronto han trabajado con ella es como
+
+una mini computadora que tenemos allí y
+
+pues tener la potencia una computadora
+
+del tamaño una tarjeta de crédito o
+
+menos como la raspberry cero
+
+centro multimedia robótica inteligencia
+
+artificial me ha dicho todo lo que se
+
+quiera hay una mini computadora ahí
+
+nomás no aquí les voy a mostrar
+
+como una de las versiones básicas de
+
+este es una foto guía
+
+pero es más o menos del tamaño de una
+
+tarjeta de crédito
+
+y hay para lo que podemos hacer
+
+ya depende de cada quien a dónde y hasta
+
+donde llegue aquí quisiera mencionar
+
+estos dos conceptos soberanía
+
+tecnológica y patrimonio tecnológico la
+
+de la humanidad que se combinan tanto
+
+con software como con hardware
+
+posiblemente en la universidad nos
+
+escuchen esos temas
+
+y quería mencionar estos dos libros hay
+
+dos libros relacionados con esto ya de
+
+literatura ya no es un cuento no más de
+
+lo que algunos hablan y es bien
+
+interesante no como la tecnología se
+
+puede acercar realmente a nosotros si no
+
+es algo lejano o algo que dependa de
+
+tengo o no dinero sino cómo nos podemos
+
+también acercar a ellos y acercar a
+
+otros alrededor de la tecnología y no
+
+solamente del consumir sino también del
+
+de la acb
+
+y no sé si ustedes han escuchado viste
+
+este personaje y no sé si alguno lo
+
+reconoce de pronto ya es viejo para
+
+algunos
+
+pero tiene un apodo que eso y juan de
+
+pronto la puedo suena un poquito más
+
+bueno para algunos
+
+y el acuñó en una charla este término
+
+patrimonio tecnológico de la humanidad
+
+no hablando iniciando de qué
+
+la tecnología requiere casi todo hoy en
+
+día requiere eso fuera cierto ya aparece
+
+género en eeuu linux aparece el hardware
+
+libre el crea una o hay una comunidad
+
+alrededor de la impresión 3d que es el
+
+rap y con impresión 3d pues se combinan
+
+elementos de mecánica electrónica de
+
+programación de control pero también de
+
+diseño y otros elementos allí y allí
+
+aparecen dentro de esa rama los
+
+springboks que son robots imprimibles
+
+abiertos 100% pues si consiguen del tema
+
+primos y hay un montón de derivados él
+
+creó digamos ahí ustedes ven este es un
+
+h
+
+y
+
+desde 2013 esta charla y este es parte
+
+de los robots que él ha construido desde
+
+robots móviles pero él también ha
+
+trabajado en robots de gusano y eso está
+
+100% gratuita en internet
+
+de quién depende hoy en día el poder
+
+aprender de cada
+
+19
+
+el ir o no a la
+
+preciados después de miles de cosas sin
+
+mirar la universidad y ser un experto
+
+y aquí en 3
+
+voy a la casi última parte y éste le
+
+masa alrededor de todo esto y así
+
+realmente
+
+cuando hablamos de eso y me quiere
+
+entendemos que hay alrededor de todo
+
+esto uno que es la cultura y dos el tema
+
+del ser michael 3 y aquí vemos como haga
+
+algunas aplicaciones de lo que algunos
+
+hablan del diseño del ser maker no
+
+hablando especialmente de impresión 3d
+
+ex como hablado
+
+el tema cumbre dentro de todo esto
+
+no sé si ustedes reconocen algunas de
+
+estas máquinas
+
+no
+
+muy raro muy avanzado
+
+bueno todo esto son impresoras tres de
+
+tres horas tres de comidas impresoras 3d
+
+construcción impresoras tres de metal
+
+con que ya se están construyendo puentes
+
+esto es como lo más avanzado que podemos
+
+hablar alrededor de esto
+
+pero donde inicio o donde sean los
+
+inicios del tema de la cultura mexicana
+
+dentro de lo que ya ha encontrado un
+
+poco recabando la historia hay dos
+
+elementos no sé si de pronto alguno ha
+
+visto esta revista popular mechanics
+
+bueno principalmente en inglés porque
+
+sean eeuu pero también un club de
+
+modelismo en el 'late night' y
+
+posiblemente se establecido el tema de
+
+los de los orígenes del movimiento maker
+
+ahora encontrado temas de fe
+
+ferromodelismo yo me puse a profundizar
+
+en el tema y me encontré con esta este
+
+club
+
+que es bien interesante el
+
+ferromodelismo es algo bien interesante
+
+que en colombia no tenemos ni trenes
+
+entonces
+
+a moralistas casi tampoco hay no
+
+pero
+
+ese es otro tema no
+
+entonces
+
+él ferromodelismo en el 'late night' y
+
+dice que este grupo fue formado en
+
+1946 los que saben de ferromodelismo les
+
+hablan de la escalada h 0 que es como la
+
+más común en este tema
+
+y también importante que se detalla y es
+
+que ellos aparte de los que inician el
+
+tema de la cultura hacker
+
+se han escuchado de los acepte ahorita
+
+vamos a profundizar un poco
+
+y de allí salen algunos para
+
+para el laboratorio que hoy en día
+
+de la barrio de de ciencias de la
+
+computación ya veces como el que estaba
+
+pero si ustedes se dan cuenta en el 2003
+
+nació el laboratorio de zinc la
+
+aplicación
+
+inteligente oficial muchas de las cuales
+
+la mayoría las
+
+entonces que menciona
+
+[Música]
+
+richard rocha o
+
+wee
+
+ellis o prácticamente un hijos o nietos
+
+de richard stallman podríamos
+
+precisamente el se forman una
+
+ustedes han de obstruccionismo limpiaría
+
+de extras precisamente se han escuchado
+
+él
+
+primero la inflamación para niños que
+
+fue
+
+el logo dios
+
+entonces la universidad del país que en
+
+el laboratorio de inteligencia
+
+artificial es allí me quería detener
+
+porque casi nadie habla de esto dentro
+
+del mundo maker no y ahí aparece un logo
+
+de la cultura hacker no sé si de pronto
+
+lo han visto ustedes
+
+de casualidad sean explorar un poco en
+
+la historia de pronto serán encontrado
+
+allí en más si conocen el hacker space
+
+en bogotá también se los habrán
+
+encontrado allí no
+
+y luego aparecen términos como estos que
+
+les vamos a dar aquí él decía pelando tú
+
+mismo o el dibujo cierto el de hazlo con
+
+otros
+
+qué son términos que se van a venir con
+
+jugando cierto combinando y luego va a
+
+aparecer el movimiento maker entonces
+
+empieza la revista am es cierto y otros
+
+elementos allí que se combinan siempre
+
+debe haber un líder para que este tipo
+
+de movimientos puedan se puedan seguir
+
+dando know jack' si ustedes ven algunos
+
+de los elementos que van relacionados
+
+con el tema del movimiento maker no de
+
+los intereses el dt como lo hablábamos
+
+ahorita en temas educativos cierto
+
+algunos elementos allí y también pues se
+
+hablan de algunos enfoques que podemos
+
+combinar aquí si ustedes se dan cuenta
+
+el tema sting es una pequeña
+
+subcategoría del movimiento maker
+
+esto para los que les gusta el tema de
+
+lo social temas es importante que lo
+
+tengan en cuenta no porque el destino es
+
+una pequeña cosa de lo que podemos ver
+
+dentro del movimiento maker o como lo
+
+decía ahorita cultura maker
+
+listo me parece mucho más vital allí y
+
+un elemento que ustedes ven central allí
+
+que les comentaba era conocimiento
+
+abierto compartido y estoy mucho más
+
+amplio de pronto se ve se escucha más en
+
+él en temas educativos pero el
+
+conocimiento abierto hoy en día es
+
+importante y por eso sigamos existe el
+
+diseño abierto no sé si han escuchado el
+
+término de diseño abierto y esto para
+
+diferentes elementos sobre todo en
+
+diseño industrial se utilizan
+
+bueno en unas instancias o instituciones
+
+no en todas no
+
+y precisamente ahí hay dos libros
+
+alrededor de esto como recomendados en
+
+el manifiesto
+
+del movimiento maker y makers ya la
+
+cuarta revolución industrial
+
+como para tener en cuenta y dentro de
+
+este manifiesto vamos a encontrar y
+
+encontrarnos nueve aspectos
+
+no sé si se alcanza a ver bien pero
+
+bueno listo entonces nos habla del hacer
+
+nos habla de compartir del dar de
+
+aprender del equi parte del jugar del
+
+participar de apoyar y el cambiar no hay
+
+elementos que hacen parte de lo que
+
+podríamos llamar la cultura mexica o que
+
+deberían verse dentro de alguien que se
+
+llama maker cierto si quieres ser parte
+
+de esto no esto lo dejo aquí porque yo
+
+me encontraba con dilemas de que todos
+
+somos makers pero cuantos compartimos
+
+cuántos realmente
+
+jugamos cierto participamos de otras
+
+actividades con otros porque todos
+
+podemos hacer cosas en la casa cierto
+
+todos podemos cacharrear pero ahí a
+
+desarrollar
+
+y digo yo desarrollar estas habilidades
+
+estoy hablando de las habilidades del
+
+siglo 21 es otra cosa cierto es otro
+
+paso allí y es parte de lo que se hace
+
+también en flisol
+
+listo hablemos aquí voy a hablar un poco
+
+de comunidades maker que precisamente
+
+preguntaba
+
+surgiendo allí precisamente en el en el
+
+2000
+
+en el 2016
+
+en el 2015 empezamos el primer escalas
+
+de en bogotá y esto lo hemos replicado
+
+durante varios años por la pandemia
+
+también nos pasó algunas de esas
+
+actividades hemos estado
+
+en el primer maker space que en
+
+en bogotá no sé si ustedes lo conocen y
+
+es un cuarto text y ahí hemos estado en
+
+colegios y universidades
+
+precisamente compartiendo lo que se
+
+puede hacer alrededor de scratch cuando
+
+yo comencé la comunidad recuerdo que
+
+algunos decían que
+
+esperamos a que eso era pasajero
+
+y bueno ahí estamos la gente sigue
+
+pidiendo escalas de iu y no solamente
+
+nos quedamos en los poetas sino que
+
+gente de otras ciudades empezaron a dir
+
+queremos que es también llegue a otras
+
+ciudades a otros lugares cierto a otros
+
+colegios
+
+especialmente y ahí surgió la comunidad
+
+es creación colombia y esto sigue
+
+creciendo hoy en día no solamente
+
+estamos en colombia sino que hacemos
+
+parte de la comunidad latinoamericana y
+
+en parte también en la comunidad yo
+
+participar en eventos en otros países
+
+estaban en el mismo y metido
+
+compartiendo un poco lo que se
+
+desarrolla aquí alrededor de este este
+
+tipo de temas que usted dice en
+
+programación por bloques es gradas de
+
+escalar lo relacionamos lo básico pero
+
+si ustedes miran scratch
+
+como les digo yo puedo hablar por horas
+
+acerca de eso
+
+en el 2016 iniciamos también la
+
+comunidad de arduino bogotá
+
+esta ley la iniciamos en la universidad
+
+pedagógica como le decían en 2016 y a
+
+partir de allí pues también hemos estado
+
+desarrollando diferentes artes y no 26
+
+en los diferentes años y luego el del de
+
+bogotá en la pandemia creamos el de
+
+colombia porque habían más comunidades
+
+cierto alrededor a nivel nacional y por
+
+las las que hicimos resaltar allí
+
+también y pues a realizar un evento que
+
+realizamos todos los años en octubre se
+
+dice en octubre por ahí nos van a estar
+
+escuchando hacer que hablar de vino de
+
+colombia y si quieren participar
+
+también aquí importante mencionar en
+
+estas comunidades a veces pensamos que
+
+tiene que ir la persona que más sabe
+
+desde el tema de experiencia tiene pero
+
+algo que nos hemos encontrado es que
+
+siempre va a haber gente nueva
+
+entonces los proyectos pequeños como
+
+encender y apagar un led
+
+son de lo más peculiares dentro de este
+
+tipo de eventos y digo yo de los más
+
+necesitados cliente que quiere iniciarse
+
+porque no sé si ustedes han pero con
+
+arduino hay temas de inteligencia
+
+artificial también hay temas con arduino
+
+sé que empezaron a crear las primeras
+
+impresoras y en 3-d también abierta o
+
+hace parte de esa historia no
+
+hoy en día llegamos si hablamos de
+
+impresión tres de las placas de la
+
+empresa de impresión 3d de impresión 3d
+
+ya son propias ya hemos ya tienen su
+
+propio desarrollo y ahí también hay otra
+
+historia por contar no pues han habido
+
+diferentes eventos a nivel nacional en
+
+diferentes lugares y eso es como una
+
+invitación para que hagan parte de todo
+
+esto si quieren aprender y compartir más
+
+acerca de eso pues allí están imparten
+
+mis redes sociales
+
+integran también tenemos un montón de de
+
+comunidades si les interesan de arduino
+
+6 grados y de otras cosas allí
+
+aproveche que es muy muy buen referente
+
+sobre esta materia puede hacer sus redes
+
+sociales y sigan
+
+preguntas dudas
+
+david
+
+incluso porque recientemente
+
+no no
+
+derecha
+
+también quiero más
+
+en el derecho
+
+positivo
+
+en colombia
+
+no sé de política de nación
+
+el pasivo simplemente
+
+ese es un fenómeno si quieres pero ahora
+
+respondo esa porque es uno de los temas
+
+que a mí me gusta ahorita tratar un poco
+
+y está en colombia que como aquí las
+
+licencias no no no le es tan cierto
+
+cuántos de ustedes tienen windows pirata
+
+cuantos tenemos office piratas y es
+
+artes en eeuu como vaya si los tienen
+
+[Música]
+
+la presión de todo eso y en europa
+
+también en eeuu es donde más está esta
+
+polémica
+
+es más aquí uno puede mandar arreglar
+
+sus cosas cierto y las manda a reparar
+
+normal su televisor su licuadora a veces
+
+hasta uno mismo al cacha rea como
+
+decimos pero en eeuu esas cosas son casi
+
+que prohibidas o digamos hacen parte ya
+
+del de la cultura de eeuu cierto europea
+
+como lo queramos ver entonces eso es
+
+importante que lo tengamos en cuenta por
+
+eso la importancia de temas como la
+
+soberanía tecnológica el patrimonio
+
+tecnológico de la humanidad que
+
+reconozcamos la importancia el hardware
+
+y el software libre si ustedes recuerdan
+
+la historia si nos vamos a la historia
+
+porque empezó
+
+todo esto en el software libre
+
+empezó por
+
+una impresora
+
+que no se podía arreglar
+
+pero listo la historia richard stallman
+
+en la piscina estaba allí ese año la
+
+impresora
+
+pero él no la pudo
+
+bueno la arreglo después pero cuando nos
+
+esas cosas se remontan desde mucho más
+
+atrás no sea prácticamente un resumen de
+
+lo que vimos el día de hoy no sé si te
+
+respondió
+
+por qué
+
+pero lo que digamos
+
+y
+
+gracias
+
+y esto y ahí depende de los gustos
+
+a mí me gusta el tema educativa lo
+
+primero es probarlo como pce mirar hasta
+
+dónde aguanta sistemas operativos para
+
+perry
+
+por montones y sí que es bueno
+
+ride
+
+como ese
+
+así que la versión de debian hoy en día
+
+se llama pepe ribes y sí
+
+pero hay versiones para casi
+
+cuando digo versión
+
+para casi todo interés les vamos a traer
+
+aquí ya que me están preguntando a
+
+compartir toda mi pantalla con mismo
+
+menos
+
+porque sistemas operativos hay para
+
+todos
+
+lo que les habla de sistemas multimedia
+
+se empieza a probar ese tipo de cosas si
+
+les gusta la programación para internet
+
+las cosas para temas ya automatizar su
+
+casa totalmente de raspberry
+
+por eso les quiero mostrar mejores
+
+las posibilidades son tantas que no sé
+
+por dónde decirle que arranque
+
+como les digo va a depender de los
+
+gustos
+
+si le gusta la robótica las
+
+combinaciones con electrónica allí
+
+también son bastantes hay cosas ya hasta
+
+por bloques por código con python cierto
+
+la misma fundación rafto reportear y
+
+está de mi fundación y la empresa como
+
+tal la fundación frax peri e inició
+
+horas pero empezó como algo educativo
+
+entonces esto esto se podría abarcar
+
+muchas cosas pri mis vacas
+
+es
+
+así
+
+digamos y yo voy acá ese es para crear
+
+la imagen que va a ir a la micro sd a
+
+los que conocen de ras perry y aquí
+
+tenemos diferentes sistemas operativos o
+
+clasificación de sistemas operativos
+
+desde el básico cierto más este sistema
+
+operativo y raspberry veces lo podemos
+
+tener una pc hasta debajo de los
+
+recursos tenemos el de para computadores
+
+básicos que miren computador básicamente
+
+es todos todas las guerras perry que hay
+
+que ustedes pueden probar
+
+con y sin entorno gráfico tenemos otros
+
+mire aquí están diferentes que ustedes
+
+han escuchado cierto punto más raro
+
+y aquí están los los media player que
+
+son como de los más recomendados para
+
+iniciar si le gusta a cachear al un poco
+
+y cody cierto volumen para temas de
+
+sonido está para emulación de
+
+videojuegos a cuánto les gustan los
+
+videojuegos hay
+
+sistemas operativos dedicados a emular
+
+plataformas y estos son tres de los de
+
+los que hay hay más claro que sí
+
+aquí hay otros propósitos impresión 3d
+
+cuantos tienen una impresora 3d de casa
+
+vacía
+
+[Música]
+
+por qué se ríen cuántos de ustedes
+
+tienen un computador
+
+es parecido hoy en día se consiguen
+
+impresoras de 600 1850
+
+y depende dónde averigüe y la compren y
+
+esos son los precios de las impresoras
+
+que yo tengo en mi casa está digamos
+
+apto para que se puede conectar es como
+
+si usted tuviera conectada a internet su
+
+impresora y después poner una cámara hay
+
+extensiones para esto donde podría estar
+
+viendo en este momento podría estar
+
+viendo si tengo in imprimiendo mi
+
+máquina en qué estado está la impresión
+
+en temas de inteligencia artificial que
+
+se están desarrollando para este tipo de
+
+cosas bueno de aquí y de ahí para allá
+
+mire sistemas de automatización de la
+
+casa estos son diferentes que hay el más
+
+utilizado ese espejo no asistan si
+
+ustedes quieren averiguar investigar
+
+alrededor del del tema
+
+que más si se dan cuenta lo que hay es
+
+por por explorar y como
+
+la tarjeta de frontón no es libre
+
+pero lo que hay alrededor sistema
+
+operativo y todo lo que se puede hacer
+
+en internet y por montones
+
+si le gustan los temas aeroespaciales
+
+también hay un montón de cosas que se
+
+pueden hacer alrededor de todo esto
+
+robots y carros por eso les digo depende
+
+del ya lo que ustedes qué cosas les
+
+gusta cacharrear a ustedes realmente
+
+pues el potencial depende de cada quien
+
+cierto
+
+aquí les voy a mostrar rápidamente con
+
+los minutos y segundos que me quieran
+
+programas áfrica dopen y scat cierto
+
+aquí tengo real y words pero porque en
+
+algunas instancias toca bueno así que es
+
+uno de los más potentes para dibujo
+
+ahorita un diseño listones que jim para
+
+ver imágenes este me gusta muchísimo
+
+tuxpan es para niños para que empiecen a
+
+hacer cosas de dibujo allí no lo van
+
+para hacer cosas de modelado para
+
+impresión 3d que es bien interesante y
+
+bueno línder
+
+el proceso del laisser que me parece más
+
+potente que el
+
+ultimate earl estaba verifica libre el
+
+escribir si les gusta el tema de ponerse
+
+a escribir un poco o mirar cosas con
+
+menos y les gusta leer me suizo
+
+ofimáticas este sumatra que es bien
+
+interesante también para para leer en
+
+pdf o si tienen que ir haciendo
+
+artículos y éste iba a llegar acá de
+
+computación física la de programación y
+
+algunas cosas de las que hay por bloques
+
+y por código no después estar duino todo
+
+un bloque para otro delito ni se está
+
+empezando a utilizar mucho en para que
+
+niños aprendan python desde lo básico
+
+y puedes crash por bloques entonces hay
+
+hay varios casi todos estos son por
+
+bloques roumain no es abierto bus y
+
+música no es para paita y ahí
+
+desde software hasta temas de
+
+computación física es world como les
+
+mencionaba para hacer videojuegos si les
+
+gusta cacharrear
+
+y digamos en raspberry se puede utilizar
+
+blender y la misma fundación de
+
+raspberry tiene muchos tutoriales en
+
+internet de casi lo que usted quiera si
+
+usted entra a la página en la parte de
+
+educación ahí empieza el de lo básico
+
+hasta de ahí para allá lo que quiera dos
+
+de tres de impresión 3d
+
+preguntas más preguntas dudas
+
+videojuegos interesantes estos tres me
+
+llaman la atención
+
+y eso sería bueno
+
+muchísimas gracias chicos más claro
+

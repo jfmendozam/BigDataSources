@@ -1,0 +1,2366 @@
+muy bien hola a todos amigos y amigas
+
+sean bienvenidos a través de nuevo
+
+conmigo hoy
+
+el día de hoy vamos a hacer una más que
+
+interesante la estaba esperando por esta
+
+charla estamos hablando de kriptón o
+
+monedas ing es increíble
+
+pronuncia les voy a presentar a david
+
+vega y cuando excedan cierra
+
+presencia
+
+ya que todo el cuerpo como estaban
+
+hola a todos me están
+
+bien ahora es por asistir con nosotros
+
+la verdad
+
+ya es el último evento y creo que es el
+
+que más me ha emocionado antes de
+
+comenzar con la conferencia nos gustaría
+
+que nos hicieran del mundo xxi lo que
+
+hacen ustedes
+
+excelente claro que sí pero primero que
+
+todo mucho gusto mi nombre es juan
+
+esteban sierra
+
+yo hago parte del equipo del astro
+
+gaming y en con en compañía de dave
+
+hemos creado una empresa de juegos play
+
+to earn y pues nos hemos enfocado mucho
+
+a entender estas dinámicas de los mp3 y
+
+como ellas tienen la capacidad de
+
+cambiar un montón de dinámicas para
+
+diferentes industrias entonces pues
+
+estamos muy emocionados de estar aquí y
+
+esperamos que les guste mucho está este
+
+conversatorio que vamos a obtener ahora
+
+obviamente digamos como que detrás de
+
+esto todo el tema de digamos como el de
+
+lo que nos ha traído hasta aquí o este
+
+camino expreso de ha tenido más que ver
+
+es con con cripto monedas con el tema de
+
+descentralización con entender cómo
+
+también todos estos retos de el open
+
+tours terminaron creando también
+
+dinámicas financieras descentralizadas y
+
+pues como que la lógica de que todas las
+
+cosas fueran entonces abiertas también
+
+tenía que incluir en algún momento los
+
+años y el dinero y entonces llegamos a
+
+este momento en 2022 que ya tenemos
+
+aunque no a una adopción gigantesca de
+
+las cripto maneras y tenemos unas
+
+capacidades gigantescas de hacer
+
+muchísimas cosas para el futuro y
+
+estamos en ese camino construyendo
+
+nosotros y por eso nos encantaron
+
+resultar este momento con este espacio y
+
+pues les agradecemos a los del equipo de
+
+de flisol por darnos el espacio para
+
+tener esta charla con ustedes no
+
+obstante entonces si tienen dudas
+
+durante la conferencia entonces vamos a
+
+estar atentos también al chat y bueno
+
+muchísimas gracias
+
+y vale si no tranquilo respecto a eso
+
+vamos a tener un espacio de dudas al
+
+final de 15 a 10 y limpios depende
+
+depende de cómo termine la presentación
+
+si es de una vez realizando que en 10 ó
+
+15 minutos al final para realizar
+
+preguntas
+
+para responderlas
+
+si tienen alguna alguna
+
+y la comparto
+
+[Música]
+
+esto perfecto entonces comenzamos y los
+
+dejó con juanmi later
+
+listo perfecto
+
+bueno
+
+como he mencionado nosotros somos astro
+
+gente gay ming somos una empresa
+
+enfocada en la creación de herramientas
+
+para manejo de
+
+juegos en ft o de las personas que
+
+tienen pecados este concepto es de que
+
+tienen que ver mucho con que si yo soy
+
+dueño de un efecto en un juego no
+
+necesariamente yo juan esteban tengo que
+
+ser la personaje que juega con él sino
+
+que yo con subcontratar a alguien para
+
+pues para para que lo utilice y ganen
+
+ingresos para él y para mí como dueño de
+
+la misma manera que alquilaría una
+
+maquinaria solamente que en este caso
+
+pues digamos que el seguimiento es un
+
+poco más complejo manejar si empiezo a
+
+tener muchos jugadores entonces
+
+encontramos como que una oportunidad de
+
+allí interesante y empezamos a construir
+
+soluciones en relación a eso también
+
+pues nosotros mismos hacemos manejo de
+
+nuestros propios
+
+activos y de activos de inversión en
+
+relacionada a toda la dinámica de los
+
+juegos pleitos
+
+particularmente en los que tienen
+
+escenas competitivas y pues lentamente
+
+vamos envolviéndolos también un poco en
+
+la en la
+
+escena de los esports en los juegos nfc
+
+que por ahora es muy pequeña pero pues
+
+vamos digamos como en ese camino
+
+particularmente ahorita nos gustaría
+
+hablar un poco sobre todo el tema de de
+
+la digitalidad y porque digamos estamos
+
+aquí hoy en día
+
+después de hablar un poco de por qué
+
+vimos tanta importancia detrás de la
+
+descentralización y todo el tema en los
+
+ene efe un grupo ojos sobre los ejemplos
+
+de
+
+beneficios que se pueden ver en
+
+diferentes partes del mercado y pues por
+
+último como que un estudio de caso más
+
+profundo que es digamos nuestro fuerte
+
+el de los videojuegos de ene efe text a
+
+mí nos metemos un poquito de lleno a
+
+temas que tienen que ver con acció
+
+infinity y ya después de entonces nos
+
+ponen vamos a hablar un poco más de
+
+temas de desarrollo de software y de
+
+open source como todas estas lógicas
+
+digamos un poco más grandes empiezan a
+
+conectar con unos conceptos que ya
+
+tienen que ver un poco más con con esta
+
+comunidad opensource y con él con el
+
+desarrollo del soft bueno
+
+es esta esa gráfica que es una gráfica
+
+de cuánto tiempo nosotros las personas
+
+entonces estamos gastando de nuestro
+
+tiempo libre en línea versus offline
+
+me parece muy bacana porque perciben en
+
+la parte inferior entonces pues tenemos
+
+pues intervalos de cinco años y pues la
+
+línea de tiempo hasta el 2030 y
+
+lentamente desde desde que empezó esta
+
+era del internet en redes sociales
+
+entonces empezó a ver un aumento muy
+
+interesante sobre todo el tiempo que
+
+nosotros gastamos en línea cierto o sea
+
+ya no pensar que vamos a estar buscando
+
+solamente información sino pasar nuestro
+
+tiempo libre o interactuar de diferentes
+
+maneras
+
+en redes etcétera o consumiendo con
+
+tenientes y pues digamos como que se
+
+puede ver muy claramente que en el
+
+momento de la pandemia pues esto aceleró
+
+muy fuertemente esa tendencia y si bien
+
+entonces para el 2030 básicamente la
+
+mitad de nuestro tiempo libre lo vamos a
+
+estar pasando en línea mientras que en
+
+este momento estamos alrededor de un 30
+
+por ciento entonces ese es un tema súper
+
+grande porque pues aunque probablemente
+
+nosotros los que estamos en esta
+
+conferencia
+
+estemos entonces en un cuartil también
+
+superior en el que gastamos más del 50
+
+60 70 por ciento de nuestro tiempo
+
+también en este mundo digital de todos
+
+modos como que la mayoría de las
+
+personas van a llegar a este punto y van
+
+a hacer van a hacer una transición a
+
+donde efectivamente todo su tiempo lo
+
+van a estaba invirtiendo o gastando en
+
+el mundo virtual y además no solamente
+
+esto sino que también en esta nueva
+
+gráfica tenemos es que las las empresas
+
+a nivel global están empezando a caer en
+
+cuenta de todo esto y pues digamos como
+
+todo el mundo está en redes sociales
+
+como todo el mundo está empezando a
+
+involucrarse a tener interacciones
+
+virtuales pues tiene muchísimo más
+
+sentido hacer inversión en publicidad no
+
+tradicional como la la publicidad
+
+digital la publicidad de retargeting la
+
+publicidad de
+
+audiencias segmentadas que puede ser
+
+muchísimo más acertada que una
+
+publicidad tradicional y volada en una
+
+carretera entonces para el 2030 cerca
+
+del 90 por ciento de la publicidad va a
+
+estar
+
+en la en la zona en el sector digital y
+
+esto es un tema súper drástico porque
+
+entonces vemos que también no solamente
+
+las empresas de tecnología y las cosas
+
+que tengan que ver con tecnologías van a
+
+estar allí sino básicamente todo tipo de
+
+interacciones empiezan a volcar a este a
+
+este mundo y pues son muy bacano pero en
+
+realidad
+
+digamos en atrás de esto hay algunos
+
+algunas cosas que tuvieron que pasar
+
+para que llegáramos ahí
+
+parti particularmente lo que me parece
+
+más interesante digamos como este
+
+gráfico que nuestros amigos de márgenes
+
+lapse desarrollaron explica muy
+
+claramente digamos cómo que cuáles son
+
+las fases que tuvieron tuvieron que
+
+ocurrir para que para que llegáramos a
+
+un punto en donde hoy estamos hablando
+
+de de economías de creadores economías
+
+descentralizadas y bueno pues digamos
+
+como que lo que llaman hoy en día la web
+
+3.0 que es un tema en el que en verdad
+
+digamos como que para poder llegar allí
+
+nos dimos cuenta de todas las falencias
+
+y todos los errores de los anteriores
+
+sistemas
+
+aquí en este entonces tenemos que al
+
+principio del internet la web 1.0 se
+
+enfocaba netamente en solamente
+
+y poder leer la información cuando tú te
+
+metías entonces a una a una página de
+
+noticias oa una página información con
+
+papers educativos o si te metías
+
+entonces a ver a jugar videojuegos en la
+
+página de cartoon network como yo me
+
+acuerdo que lo hacía y esperar infinito
+
+tiempo hasta que hasta que cargarán
+
+todas esas de interacciones son
+
+interacciones en la que yo estoy
+
+solamente leyendo unidireccionalmente la
+
+información y pues éste fue el internet
+
+de esa primera época ya para la web 2.0
+
+cuando entramos en esa web 2.0 incluso
+
+recuerdo mis profesores hablándome de no
+
+entramos a web todos y no sé qué y nunca
+
+supieron explicar que era eso mientras
+
+están pasando las cosas tal vez es mucho
+
+más complejo explicar de qué se tratan y
+
+qué cosas específicas son las que la
+
+componen pero pues entonces nosotros
+
+estamos en este momento en el digamos
+
+que dándonos cuenta ya habiendo pasado
+
+15 años del desarrollo de la web 2.0 que
+
+lo que se trata la web 2.0 es de
+
+crear interacciones en las que las
+
+mismas comunidades empiezan a crear
+
+contenidos o sea que yo yo es yo sola no
+
+solamente interactúa del contenido
+
+leyéndolo sino que también entonces yo
+
+escribo y lo que le da valor a las
+
+plataformas es precisamente que yo pueda
+
+escribir y crear contenido esto en ese
+
+momento entonces tenemos pues las redes
+
+sociales tradicionales pero hay una
+
+particularidad muy importante y es que
+
+yo no soy dueño de el contenido del
+
+contenido dentro de estas plataformas
+
+cierto o sea que como esto se le llama
+
+una una economía del siglo de siglo
+
+cerrado cierto en donde existe en cierta
+
+medida una
+
+economía para los creadores pero en
+
+verdad la economía se mueve muchísimo
+
+más eficientemente hacia los dueños de
+
+las plataformas porque ellos son los que
+
+venden nuestro contenido para poder
+
+entonces ganar dinero de publicidad y
+
+pues nosotros les representamos en
+
+cierta medida pues el valor más sólido
+
+para que ellos puedan efectivamente
+
+vender esa vender esa esta publicidad
+
+tan tan segmentada pero nosotros somos
+
+un margen de ese de esa economía y no
+
+somos dueños de nuestro contenido
+
+entonces si yo creo contenido en twitter
+
+no necesariamente
+
+soy dueño en mí de la ni de los vídeos
+
+que estoy sacando de ahí ni tampoco de
+
+la ni tampoco ni tampoco de la audiencia
+
+yo esa audiencia no me la puedo ayudar
+
+para youtube no me la puedo llevar para
+
+ninguna parte y entonces ahí empiezan a
+
+ver que
+
+empiezan a ver también segundos
+
+bien
+
+discúlpame disculpa entonces entonces
+
+pues efectivamente aquí nosotros lo que
+
+estamos viendo es que la economía y la
+
+economía entonces digamos como que más
+
+colaborativa y en donde nosotros somos
+
+dueños de todas las cosas es algo que
+
+empieza a tener una importancia muy
+
+grande porque entonces ahorita uno dice
+
+no bueno pues hubo youtubers que
+
+entonces eran millonarios y todo el tema
+
+pero pues vi se repite lo mismo de
+
+siempre
+
+que es que o sea nosotros puede que lo
+
+veamos y que veamos muchos ejemplos pero
+
+sigue siendo un 1% de luz de todos los
+
+creadores de contenidos que pueden
+
+llegar a tener una vida digamos como de
+
+ingresos buenos para poder entonces es
+
+tener unos ingresos interesantes y poder
+
+vivir de de la economía de creadores
+
+pero entonces llegamos entonces a este
+
+en este momento al mundo de la web 3.0
+
+donde o sea como que cuando uno habla de
+
+esto es que no es que haya una
+
+definición concreta sino que más bien es
+
+como una tendencia general del mercado
+
+en donde yo puedo leer puedo interactuar
+
+con el contenido y darle feedback pero
+
+también lo puedo poseer o sea como que
+
+ya la data que tenemos detrás de todo
+
+esto es una data que nos pertenece y que
+
+nosotros y decidimos interactuar con
+
+ésta con estas propiedades nuestras
+
+en un mundo que podemos hacer pero
+
+podemos llevarnos los para otro lado
+
+cierto de la misma manera que si yo
+
+tengo un apartamento todos los muebles
+
+que están dentro del apartamento los
+
+puedo los puedo
+
+escoger y llevarme los para mi
+
+apartamento nada
+
+pero entonces en este caso en este caso
+
+pero también pueden ser no es mis
+
+membresías puede ser mi ropa o puede ser
+
+mi todas las cosas que yo en el futuro
+
+digitalmente también tenga y pues es
+
+curioso porque pues hoy en día también
+
+una pensar bueno y con por qué entonces
+
+yo quisiera ser dueño de una imagen de
+
+uno está pg cierto o sea y porque esto
+
+puede valer millones de dólares pues tal
+
+vez detrás de eso hay un montón de valor
+
+que pues que hay que empezar a revisar
+
+de diferente manera como lo hacemos
+
+también convencionalmente porque
+
+entonces aquí empiezan a ver una serie
+
+de espacios en donde nosotros
+
+interactuamos bueno aquí lo podemos ver
+
+el vídeo pero en donde nosotros
+
+interactuamos de una manera muy
+
+interesante y nueva que es qué es lo que
+
+tiene que ver más con
+
+pero que llamamos meta vez cierto porque
+
+nosotros tal vez hoy en día no vayamos a
+
+tener muchas cosas pero en muchas cosas
+
+digitales pero en el futuro dentro de
+
+diez años no nos va a parecer tan raro
+
+ser dueños de esos jpg thumb
+
+la mejor manera de explicar lo que es
+
+este certificado lo que es este ene efe
+
+es la siguiente
+
+imagínense que ustedes bueno ustedes son
+
+dueños de una casa cierto es una propia
+
+tangible y pues este es para probar que
+
+son dueños de esta casa ustedes van a
+
+registros públicos y tienen un
+
+certificado de tradición que dice fulano
+
+pérez es dueño de esta casa y el que la
+
+auténtica es un ente central en el caso
+
+de los activos digitales pues digamos
+
+que esto también que se ve para
+
+cualquier tipo de propiedad y lo que sea
+
+cierto pero pues entonces en el caso de
+
+los archivos activos digitales
+
+pues un archivo en últimas se puede
+
+copiar y pegar infinitas veces siempre
+
+entonces si yo puedo replicar algo
+
+tantas veces
+
+entonces es muy probable que sea que
+
+está que esta cosa pierda su valor
+
+cierto o sea como que no puede mantener
+
+su valor porque hay infinitas
+
+posibilidades de adquirir esta esta cosa
+
+de la que estábamos hablando entonces
+
+por eso pues digamos cuando buscamos el
+
+certificado de tradición de las cosas
+
+virtuales llegamos a un certificado de
+
+propiedad que llamamos entonces todo que
+
+no fungible o nfc por sus siglas en
+
+inglés y éste lo que es es un
+
+certificado o un contrato inteligente
+
+por medio de esta red centralizada del
+
+blog son entonces valida la propiedad de
+
+una determinada cosa en este pues
+
+digamos como en esta hoja contable de s
+
+[Música]
+
+[Música]
+
+bien parece ser que nuestro compañero se
+
+le fue en internet por ahora
+
+[Música]
+
+por abajo por ahora quiero saber si
+
+algunos desean comentarios sobre la
+
+presentación si se ha entendido lo que
+
+han dicho entonces díganme díganme
+
+mientras viene nuestra compañera otra
+
+vez que parece ser que es la cabina
+
+conexión
+
+por cierto me acaba de informar que van
+
+a estar regalando 2000 ene efe en que
+
+conmemora la participación de astro nfc
+
+gaming en flisol bogotá 2022 tienen que
+
+seguirlos en twitter y estar pendientes
+
+de las publicaciones donde van a lanzar
+
+un link para obtener uno de los dos mil
+
+ms que es gratis es para poner en los
+
+comentarios
+
+el ínter twitter para que vayan a
+
+seguirlos y obtengan son nfc gratis
+
+y esas
+
+desde el conector
+
+desde aquí estoy
+
+sí
+
+y nate
+
+no tranquilo está comenzando a los
+
+chicos del regalo que están haciendo por
+
+la inec trascender ese pekín
+
+entonces pues nada sigamos con tu
+
+control
+
+competente excelente
+
+listo continua
+
+vamos a revisar esto
+
+si había en la presentación
+
+si se perfecto
+
+ok bueno entonces
+
+bueno pues sí básicamente ese es el
+
+concepto principal del nfc que yo tengo
+
+entonces una hoja contable donde puedo
+
+ver qué es y comprobar que soy dueño de
+
+cualquier cosa que y pues la primera el
+
+primer caso de un uso que se le dio fue
+
+el de el arte cierto yo siento que bueno
+
+y pues hay mercados secundarios donde
+
+uno los puede comprar y vender como son
+
+ofensivo y magic y den superpoderes
+
+etcétera y cada uno tiene como una
+
+característica diferente
+
+y pues lo interesante también detrás de
+
+esto es que esa carga ética de propiedad
+
+pues se puede usar para todos yo puedo
+
+ser dueño de propiedad de obras de arte
+
+de coleccionables de propiedad
+
+intelectual de cualquier tipo puedo ser
+
+dueño de
+
+tiquetes que no sean
+
+falsificables puedo también tener
+
+ítems dentro de los videojuegos que
+
+efectivamente entonces pues yo pueda
+
+comprar y vender y no solamente puedes
+
+comprar como compró en riesgo como
+
+compro de league of legends cosas así
+
+pues que solamente lo tengo para ese
+
+lugar sino que efectivamente es un
+
+activo que puedo tener y utilizar de
+
+cualquier manera de la misma manera que
+
+yo como mi celular lo compro y lo puedo
+
+vender después cuando lo termine de
+
+utilizar
+
+también puedo ser dueño de acciones de
+
+una empresa o algo por el estilo cierto
+
+entonces empiezan a ver muchas dinámicas
+
+en las que uno todo ese concepto de
+
+propiedad y de iu de
+
+documentos que certifica la propiedad
+
+entonces pueden empezar a funcionar o no
+
+y pues de ahí
+
+de ahí es que entonces empiezan a ver
+
+a ver razones llegamos como que por las
+
+cuales hay hay tantos proyectos que este
+
+último hayan estallado detrás de esta
+
+tecnología y lo más interesante ahorita
+
+no es que todos te vayan a hacer dinero
+
+sino efectivamente que vayan a ver
+
+muchos diferentes casos de uso para
+
+entender creativamente digamos desde el
+
+punto de vista de los desarrolladores de
+
+los financieros de los de marketing de
+
+los de todo el mundo que empiecen a
+
+crear propuestas diferentes para ver
+
+efectivamente de dónde vamos a llegar
+
+con este concepto de los emergentes
+
+pues bien los de repente también
+
+entonces detrás de esto pues como les
+
+decía puedes hacer cualquier cosa y
+
+también ya hay ejemplos de equipos
+
+haciendo cosas increíbles detrás de todo
+
+esto incluso como incidencia hoy se
+
+reveló que un nfc de nike y del estudio
+
+de repente efe acá que tiene que ver con
+
+un ene efe te queman que lanzaron hace
+
+un tiempo que se llaman los clown ex
+
+entonces tú tienes un personaje similar
+
+a yugioh así más o menos de una artista
+
+que se llama takashi murakami y es que
+
+usen efectos terminan valiendo como un
+
+valor mínimo de
+
+20 therion que son alrededor de 90 mil
+
+dólares y tienen unos valores súper
+
+absurdos creo que además entonces los
+
+desarrolladores atrás empiezan a
+
+pensarse mucho cómo hacer el futuro de
+
+la comunicación de la interacción detrás
+
+de todo esto y también te empiezan a dar
+
+valor agregado detrás de tu de la pieza
+
+que obtuviste cierto en este caso
+
+también entonces vieron pues con unos
+
+tenis
+
+virtuales y también y también otro par
+
+de ítems virtuales como que para su
+
+ecosistema
+
+igual que eso pues adidas ayer anuncios
+
+que las personas que eran dueñas de este
+
+nfc que se llama into the met a ver si
+
+fue su primero
+
+y también algunos contenidos
+
+desbloqueables que están utilizando
+
+estos personajes que se aprenden dentro
+
+del centro del inef y que sobre entonces
+
+los outfits diferentes y un gorrito
+
+también uno de los de los terceros
+
+personajes entonces entonces pues
+
+digamos como que detrás de eso cada una
+
+de estas marcas está empezando a
+
+interactuar también con sus audiencias
+
+de una forma diferente y pues utilizando
+
+todo el poder por así decirlo de la
+
+descentralización para darle fuerza
+
+también a los a los pequeños creadores y
+
+también entonces a quitarle
+
+muchísimos mercados a los intermediarios
+
+ahorita con todo este mundo yo como
+
+artista podría crear una obra y buscar y
+
+buscar coleccionistas al
+
+entonces tendría que ir a una galería y
+
+ellos van a entonces un
+
+porcentaje grande y si van a conseguir
+
+entonces unos compradores de muy alto
+
+calibre entonces también me van a quitar
+
+a mí muchísimo capital y yo como artista
+
+que nadie me conocen necesito sí o sí a
+
+una galería que controla todas las
+
+centralizadamente mientras que cuando
+
+entonces son un sistema descentralizado
+
+no solamente puedo yo vender mis obras
+
+de arte en
+
+los valores que quiera
+
+directamente a los halos
+
+a los coleccionistas sino que si ese
+
+coleccionista siente que la obra la
+
+aprecia y la vende en el futuro por un
+
+mayor valor yo en esa segunda
+
+transacción voy a recibir regalías
+
+regalías que yo diseñé en el contrato
+
+fin
+
+elige
+
+porque este certificado propiedad y
+
+puedo entonces
+
+pues entonces vitaliciamente recibir
+
+este esta realidad de mercado secundario
+
+en tres días no aparece fantástico
+
+porque en últimas pues piensan que
+
+básicamente uno como
+
+como coleccionista y pues digamos como
+
+que siempre que tiene un compra una obra
+
+de arte o identidad pues entonces yo la
+
+vendo y yo la vi yo me gano toda la
+
+plata cierto yo ya cuando le pague al
+
+artista para digamos como que para que
+
+hiciera un trabajo para comprar una
+
+pintura que ya hubiese hecho entonces
+
+pues yo ya le pague y ya no tengo
+
+ninguna relación con él pero con este
+
+sistema de los de netflix entonces cada
+
+que haya una transacción sobre estos
+
+activos siempre va a regalías que se le
+
+ponen directamente al artista y pues eso
+
+también es súper súper fuerte porque
+
+efectivamente no solamente artistas y yo
+
+también
+
+sino también empresas pueden empezar a
+
+ofrecer valor a sus marcas también no
+
+necesariamente solamente en esa primera
+
+operación debe entrar en donde le venden
+
+algo a un cliente como que yo compró
+
+unos sneakers nike o adidas lo que sea
+
+yo los compro y pestillos de los quiero
+
+vender a alguien después pues pues había
+
+en cierto pero adidas no va a ganar nada
+
+en esa segunda transacción mientras que
+
+conocen este y si lo pueden hacer
+
+entonces de aquí
+
+vitaliciamente entonces pues es súper
+
+interesante con los empiezan a manejar
+
+esas economías colaborativas y cómo es
+
+que se organiza toda esta esta dinámica
+
+aquí también pues empezamos a hacer una
+
+transición poco más profunda a cómo
+
+funciona toda esta dinámica de estos nf3
+
+y de y de cuál es la utilidad detrás de
+
+ellos
+
+en los juegos play to earn y quiero
+
+aprovechar entonces este momento para
+
+darle la bienvenida de nuevo a adif a mi
+
+socio para que entonces él pues le siga
+
+hablando sobre este tema
+
+y esto vale entonces bueno antes de
+
+continuar quisiera completar un
+
+poquitico lo que estábamos comentando
+
+sobre el tema de los 2000 en efectos que
+
+vamos a regalar
+
+solamente deben seguirnos en nuestra
+
+cuenta de twitter
+
+es astro en el gaming sea twitter
+
+astro en streaming y estar pendientes
+
+ahí vamos a lanzar el polvo link para
+
+poder ver cómo
+
+conseguir pues el uno de los dos mil
+
+yenes el link lo vamos a lanzar
+
+aproximadamente
+
+entre lunes y martes de la próxima
+
+semana y pues va a hacer eso en
+
+mejorando pues en la participación desde
+
+hace un streaming fissore 2022 un poco
+
+sobre los dos
+
+los pleitos
+
+tenemos aquí seguro que es llamada
+
+ahorita y una nueva versión definitiva
+
+origen
+
+y bueno esto es esto fue un boom
+
+necesario en 2018 y esto es un boom a
+
+nivel del videojuego es proyecto hermes
+
+en este momento pues hay una baja como
+
+en todo tipo de activo todo que en esta
+
+moneda donde puesto tienen una subida
+
+súper fuerte el fondo y todo este tema
+
+y ahorita pues esta cosa muy muy muy
+
+bajito pero bueno ahorita sigue siendo
+
+uno de los líderes en cuanto a
+
+desarrollo en cuanto a comunidad tienen
+
+cerca de un millón de
+
+seguidores en twitter y jugadores tienen
+
+más de dos millones de jugadores
+
+y pues que exacto básicamente acción
+
+finity es un juego como como pokemon
+
+algo así participa porque no porque pues
+
+tienen sus propias habilidades tienen
+
+sus partes
+
+tienes tus propios stands donde donde
+
+donde cada uno hace usted stats hacen
+
+parte de algo importante en donde dentro
+
+del pri que vamos a hablar ahorita un
+
+poquito más adelante hablando la
+
+genética o sea los nfts han llegado tan
+
+tan tan
+
+avanzado tanto que en ourense que ya se
+
+puede crear 2 nfts y que cada ente tenga
+
+su propio dna y cuando se cruza
+
+digamos que dentro del juego se llama
+
+breeding pero básicamente es como un
+
+apareamiento que se hace entre los dos
+
+axis entre los dos personajes y esto lo
+
+que hace es que genera un nuevo un nuevo
+
+nfc
+
+tienes el sistema de abril y si se crea
+
+un nuevo nfc pues es nuevo en efecto
+
+tiene unas características únicas dentro
+
+de dentro dentro del juego y dentro de
+
+la blogging y es algo así entonces
+
+vamos a una siguiente positiva
+
+lo que les comentaba respecto a
+
+a todo lo que se ha creado con acción y
+
+que es va más allá mucho más más allá de
+
+una obra de arte tal vez un poeta pg o
+
+un png de lo que ya han creado
+
+personajes personajes como como como los
+
+que pueden haber en contra strike en
+
+cualquier note un pokémon incluso donde
+
+pues ya tiene sus propias clases de axis
+
+hablando de htv tipo bestia tipo o
+
+acuáticos plantas insectos pájaros
+
+reptiles y todos estos se pueden premiar
+
+o se pueden cruzar entre ellos y pueden
+
+obtener pues chiquitos muchos hijitos y
+
+eso es con los sitios tenía una
+
+característica única
+
+y por ende pues bueno eso hay un tema
+
+súper y mucho pero súper fuerte hay de
+
+tema de genética donde adoptan los ojos
+
+del abuelo tomarlas la boca del papá las
+
+orejas de la mamá bueno pues es así
+
+entonces hay un hay un sistema incluso
+
+mucho más avanzado si seguimos en la
+
+experiencia positiva podemos ver que hay
+
+un cruce especial donde se llaman
+
+médicas un mes
+
+y dos que son como las clases super
+
+fuertes con fuera como la revolución de
+
+la genética desde todo de todo el brillo
+
+todo el cruce de sus axis y pues adopta
+
+y toma no adoptarla lo mejor de cada
+
+aplicada de cada clase de edad si eso es
+
+un sistema de brillo el sistema de
+
+brines súper súper conocido y súper
+
+famoso en acción fin y ticos porque se
+
+crean granjas básicamente se quedan
+
+granjas completas donde cruzan muchos
+
+axis y venden esos axis y pues se
+
+enfocan en crear axis que su genética
+
+sea tan buena que se va para el tema
+
+competitivo dentro de la chs infinity
+
+cada temporada se pueden generar miles y
+
+miles y miles de dólares quedando dentro
+
+del top dentro del ranking mundial y
+
+aparte pues de la recompensa de clp que
+
+la otra es cripto que desde recompensa
+
+del juego pero en cada temporada
+
+por ejemplo la última temporada dieron
+
+si no estoy mal 300 mil dólares si no
+
+estoy mal en recompensas a todos los
+
+jugadores a nivel mundial y si quedas en
+
+el top 1 llevas con 15 mil dólares
+
+entonces la importancia y
+
+y todo lo que ha venido a revolucionar
+
+este tema de los videojuegos plate ver
+
+si pasamos a la siguiente diapositiva
+
+podríamos ver que en lo fresco mentado
+
+el tema los estados pues al momento de
+
+que se brinde a cada uno de estos
+
+ataques puedan tener o obtener
+
+cómo se llama esto bueno si de sus
+
+padres se toman dentro de su genética
+
+entre el código genético desde el nfc
+
+toman los ojos del abuelo la boca de
+
+otro y así entonces actualmente esta es
+
+la versión digamos versión 2 de acción
+
+fin y tibor y tapones de imaginación de
+
+activity origen donde en el axis cuenta
+
+con seis partes siempre ha contado con
+
+106 partes por entre la versión 2 de
+
+hacks infinity pero se jugaba con cuatro
+
+cartas bueno acto infinite es un juego
+
+de cartas terminará lluvia y tienes que
+
+usar cartas pensar estrategias tienes un
+
+mazo de cartas que convocan la otra
+
+carta en algo así similar a lluvia
+
+digamos para los que han jugado por
+
+ejemplo yo pero no aquí origin ahorita
+
+yen se usan los ojos se usa la boca y
+
+hay nuevas muchas nuevas mecánicas
+
+y bueno escuálidos apenas como 20 días
+
+entonces la información que ayer muy
+
+poca nosotros estamos dando algunos
+
+cursos gratis pues para aprender a jugar
+
+action felipe hotel en la suficiencia
+
+positiva ya podemos ver el tema la
+
+genética porque lo que estaba comentando
+
+y donde podemos ver todo lo que tiene
+
+que ver con
+
+con la genética los ojos la boca algo de
+
+las orejas
+
+la espalda la cola todas estas partes
+
+con hasta seis partes
+
+brin adoptan en los códigos entre su de
+
+dénia
+
+por una parte pues de su abuelo una
+
+parte de su nicho pues la de sus
+
+antepasados pues por decirlo así y pasa
+
+a estos nuevos hijos y pues llegan aquí
+
+incluso ahorita hay unos hay un tipo de
+
+antes que se llaman místicos
+
+originales algo así hay como unas cuatro
+
+clases y son las y súper caros los atis
+
+pueden costar hasta 200 mil 300 mil
+
+dólares dentro del marketing de hacks
+
+infinity y son axis únicos porque son
+
+ateos que salieron apenas salió el
+
+videojuego y llegaron a cruzar access de
+
+eso sí pues es la genética en el pasado
+
+de axia nanak sikh pues asimismo ha sido
+
+su valor en la siguiente ya positiva
+
+cuando ver lo que les comentaba sobre
+
+las recompensas que hay dentro de este
+
+juego los tokens ahorita hay un tercer
+
+token para el tercer tope no de ordino
+
+no es una cripta moneda cuando tienes
+
+una recompensa para traficar artículos
+
+dentro del videojuego en la xs que es el
+
+el logo azulito que ustedes están viendo
+
+ahí es la x 7 se utiliza para el vídeo
+
+igual que el s&p es para ahorita
+
+aproximadamente en unos 46 dólares cada
+
+token de éstos
+
+estos son los que regalan cuando se
+
+acaba la temporada de cada década t con
+
+una de las temporadas cada temporada
+
+ahora como unos como 35 40 días 45 días
+
+la botellita que ven ahí se llama de clp
+
+y esa es la manera que se gana dentro
+
+del videojuego en el modo pvp cuando uno
+
+compite dentro del modo ppp dependiendo
+
+del rango de pronósticos puede ganar
+
+cada una de estas botellitas y pues
+
+finalmente recibir estos mone estas
+
+criptas y venderlas en el mercado o sea
+
+venderlas por ejemplo en vainas y
+
+obtener dólares y esos dólares pasarlos
+
+a pesos colombianos y
+
+pues obtener una retribución a
+
+recompensa pues por este juego se mueve
+
+lo que está dando uno en en la siguiente
+
+ya positiva pues vemos lo que yo les
+
+comentamos en el tema de las cartas
+
+sachs infinity es un juego de cortes
+
+actualmente la versión que salió origin
+
+como les comentaba se utilizan seis
+
+cartas porque ya están usando los ojos y
+
+la boca y pero anteriormente en la
+
+versión 2 es usado en sólo cuatro cargas
+
+y entonces en la siguiente diapositiva
+
+ya saliendo un poquito de infinity un
+
+poco de los pleitos si tiene alguna
+
+pregunta pues podemos una fábrica pero
+
+pasar un poquito en poquito hablar sobre
+
+el tema ya varas y del open source y la
+
+creación de npt eso y tenemos puedo
+
+decir que tenemos experiencia en el tema
+
+one es el más experimentado en cuanto
+
+anfp es mucho más que yo pero nos hemos
+
+tomado la tarea de desarrollar nuestros
+
+propios ene efe test de hecho hay que
+
+garantizar lanzamos nuestra primera
+
+colección de nfc es el pixel descripto
+
+hackers y también lo pueden ver en el
+
+twitter la
+
+propuesta letras
+
+donde estaba solita donde los códigos
+
+eso ahí y
+
+nada bueno les que les quería aumentar
+
+si la presentación anterior lo que le
+
+está comentando es que básicamente evita
+
+crear un nfc es supremamente fácil
+
+supremamente fácil porque pues puedes
+
+encontrar el código envidia descargar él
+
+el módulo lo descarga lo modifica si
+
+este mismo módulo te permite crear en
+
+tanto los nfts te permite crear la
+
+página web de me entero te permite crear
+
+una cantidad de cosas que obviamente
+
+ahorita hay muchas facilidades en
+
+internet donde tú simplemente pones tus
+
+imágenes y eso te crea todo el contrato
+
+inteligente te hace todo pero no no es
+
+tan personalizado no el npt no puede ser
+
+tan personalizable como lo hacemos
+
+nosotros o cómo se hace
+
+básicamente punta de código de
+
+programación
+
+entonces en guitarra brian hay unos
+
+módulos de naut que tú descargas editas
+
+con pilas y pues bueno te entrega todo
+
+de entregar el html css para la página
+
+de mente o de entregada traer el
+
+javascript página de
+
+los archivos jason keller actor jason
+
+dentro del servidor direcciones donde
+
+está la metadata de cada uno de los nfc
+
+o sea esto es un buscador yo creo que no
+
+esperamos quedar toda la tarde y toda la
+
+noche hablando sobre tema y me gustaría
+
+planta más adelante poder compartir más
+
+tiempo sobre cómo se puede crear un
+
+efecto pero es mucha información porque
+
+hay que subirlo a un sistema
+
+almacenamiento especial no es como
+
+cualquier otro sistema como un drive
+
+algo así
+
+actualmente especial en el siguiente
+
+diapositiva podemos ver que después de
+
+tener todo este código
+
+dentro de este mismo módulo podríamos
+
+podemos usar un nivel
+
+donde esté y d nos permite desde
+
+internet ese sonido que se puede usar
+
+desde el navegador se llama remix la
+
+página de remix de youtube
+
+y desde allí desde esta página puedes
+
+lanzar su contrato inteligente puedes
+
+hacer cualquier modificación que tú
+
+quieras después de lanzar el contrato
+
+inteligente obviamente pues vas a poder
+
+tener la llave y vas a poder tener o los
+
+accesos para poder reeditar nuevamente
+
+el contrato y todo pero básicamente
+
+desde internet es donde hemos apretado
+
+hablar por la creación de un efecto y
+
+todo es gratis el módulo de jet the new
+
+de naut lo descargas de guita gratis
+
+este este pide en el navegador es gratis
+
+lo puedes usar totalmente gratis la
+
+siguiente diapositiva podríamos ver que
+
+pues obviamente para poder lanzar el
+
+contrato inteligente necesitamos de una
+
+'wild en este caso hablando de meta más
+
+que la la más utilizada y realmente la
+
+que se usa para este tipo de cosas metal
+
+ha sido gratis
+
+la descarga la insólita
+
+no es gratis dentro de todo este proceso
+
+es obviamente que hay que tener cripto
+
+monedas para poder
+
+lanzar el contrato para poder hacer el
+
+min de la de los nfts y todo es bueno
+
+pero básicamente hasta donde hemos
+
+hablado todo es totalmente código libre
+
+músculo descargas lo editas realmente
+
+tienes que saber un poco de cada código
+
+en un poco ya escriben porque html un
+
+poco de archivos jason bueno pero
+
+básicamente todo esto es gratis
+
+que necesitamos adicional a una wallet
+
+en la siguiente positiva podemos ver
+
+tres de las redes o incluso nos hablando
+
+de redes sino también descripto maneras
+
+que vamos a necesitar para poder crear
+
+nuestros resúmenes de tesis es la red de
+
+tyrion y la red de público y en gt
+
+vainas estos tres reyes y estas tres
+
+escritos porque si la futura de buena se
+
+desvela el polígon es matic y el tirón
+
+es el dt ate estas son las más unas de
+
+las más populares de que la más plural
+
+es la de ti y es la más costosa los
+
+indigentes más caros están en la red de
+
+tiro
+
+y la más barata por decirlo así dentro
+
+de la red de polis con otra lanzamos
+
+nuestro cnf test en la red de polígonos
+
+y súper bien para atrás con estos
+
+progresos pero hasta aquí es donde hemos
+
+doblado como estudiantes el módulo de
+
+naut la ual eta
+
+el código que te entrega las
+
+terres usarlas
+
+configuradas dentro de tus incluidos
+
+contratos es gratis hasta el momento que
+
+necesite a lanzar el contrato a la blog
+
+que tienes que pagar y si me gustaría
+
+agregar algo que particularmente me
+
+parece bacano que ya hemos tomado es
+
+precisamente estos tres ejemplos porque
+
+aunque estamos hablando de tres crypton
+
+unidades y tres blogs james nativos
+
+diferentes estamos los tres utilizan el
+
+mismo código para hablar de contratos
+
+inteligentes es cierto que es lo que
+
+nosotros conocemos como exterior virtual
+
+marchi con un lenguaje que se llama
+
+solid y que es el lenguaje de los
+
+contratos inteligentes hay otras
+
+lipton esas otras redes que manejan otro
+
+tipo de digamos como dinámicas para
+
+hablar entre funciones pero
+
+particularmente
+
+interesante de esto es que hay muchísima
+
+interoperabilidad y pues también ahí
+
+viene todo el concepto open source que
+
+es precisamente que así tú trabajes en
+
+vainas street marching en polígon en
+
+estéreo en avalancha en muchos otros
+
+proyectos entre es efectivamente vas a
+
+poder siempre el mismo código y
+
+utilizarlo y además ya pensándolo como
+
+es como desarrolladores en general pues
+
+efectivamente entonces no necesariamente
+
+tienes que tener un desarrollador que
+
+sepa entonces todos los lenguajes de
+
+todas las criptas humanidad sino que
+
+está viendo un solo lenguaje puede
+
+aplicar sus conocimientos a diferentes
+
+plataformas y pues es fantástico que sea
+
+de esa manera ya que se haya diseñado
+
+así es el lenguaje para formar y
+
+después de todo este proceso de
+
+desarrollo
+
+y obtener la propia manera la tabla
+
+lanzar el contrato tel y gente pues
+
+tenemos que buscar un sitio donde
+
+publicar que era lo que hablaba juan
+
+donde es el marketing tendremos que
+
+publicar nuestras nuestras colecciones y
+
+está eso es una de las más conocidas
+
+ejemplo hay muchas más pero esta es una
+
+de las más conocidas y básicamente la
+
+crear una cuenta allí es gratis igual
+
+mientras allí tienes que tener meta más
+
+te registras y es gratis simplemente
+
+obviamente pues para poder comprensión
+
+ft para poder
+
+tener tu colección pues hay que tener
+
+dinero para comprar un ft para lanzar el
+
+contrato pero hasta el momento donde
+
+hemos hablado es gratis y en la
+
+siguiente diapositiva abogó pues lo que
+
+les estábamos comentando lanzado a
+
+nuestra la nuestra propia colección
+
+dnp test pixel cripto hackers también
+
+estamos en
+
+la colección
+
+a nivel de experiencia podemos decir que
+
+que es un mundo totalmente diferente a
+
+lo que estamos acostumbrados
+
+hablando de desarrollo una página web
+
+normal en html y css
+
+javascript o sea lleva una cantidad de
+
+trabajo súper fuerte
+
+y riguroso porque pues finalmente
+
+es un arte y no estamos haciendo es un
+
+arte
+
+pero nada pues lo lanzamos lo
+
+disfrutamos haciéndolos lo lanzamos en
+
+la red de de polígono y aprendimos un
+
+montón y pues eso lo que estamos
+
+compartiendo con ustedes esta
+
+experiencia de haber creado este esta
+
+primera colección y así fue como como lo
+
+hicimos con un código totalmente libre y
+
+gratis que está en el que ustedes puede
+
+encontrar en entidad
+
+nada eso es todo
+
+entonces podemos entrar la parte de
+
+preguntas cualquier duda que tengan si
+
+yo quería cargar algo antes de eso si ya
+
+me parece que lo interesante detrás de
+
+también crear una colección como ésta o
+
+bueno empezar a entender también que los
+
+en el fis no solamente están digamos
+
+como un arte o como bueno ahorita
+
+podemos ver que es un personaje x el de
+
+manera es que en cada proyecto de
+
+emprendimiento puede definir si quiere
+
+entonces que sus primeros de su
+
+audiencia ya sean sus clientes o sus
+
+inversionistas iniciales entonces les
+
+den capital de una forma diferente a
+
+financiarse por medio de un crédito en
+
+un banco o algo por el estilo que
+
+simplemente el pago de los de los
+
+servicios que ofrece como empresa puede
+
+ser entonces dado es por medio de la
+
+compra de alguno de estos ene efe text
+
+entonces pues es muy bacano porque
+
+digamos como que con cripto hackers
+
+estamos experimentando y lo que les
+
+decía
+
+cada proyecto tiene tiene una forma
+
+creativa de empezar a acercarse a esto y
+
+pues nosotros estamos entendiendo que
+
+todos estos temas de servicios de
+
+ciberseguridad y de vulnerabilidades de
+
+comunicaciones y de software y de de
+
+ingeniería de sistemas entonces también
+
+pueden ser un servicio como entre
+
+comillas convencional que uno puede
+
+ofrecer entonces con
+
+solamente solamente digamos como
+
+teniendo un y comenzó teniendo una
+
+página que le ofrezca ya pero nos parece
+
+interesante que
+
+se puedan volver unos potenciales y una
+
+potencia de comunidad que le interese el
+
+tema de la ciberseguridad entonces pues
+
+nosotros nos involucramos un poco más en
+
+esto y empezamos a entender cómo tal vez
+
+entonces creamos comunidad y le
+
+ofrecemos entonces el mismo servicio de
+
+de ciberseguridad en este caso a
+
+nuestros a las personas que se empiezan
+
+a involucrar en estas en este proyecto
+
+específico y pues básicamente ese es el
+
+concepto y bueno pues digamos como que
+
+detrás de todo
+
+así como que un momento como
+
+relativamente
+
+movido con tanta información y bueno
+
+pues entonces me gustaría saber si hay
+
+alguna duda si entonces qué tal les
+
+parece cómo está esa locura y pues bueno
+
+muchísimas gracias por su tiempo y bueno
+
+en verdad también aplicamos muchísimas
+
+gracias por la oportunidad de poder
+
+hablar sobre sistemas 3
+
+o bien chicos y chicas
+
+espero que les haya gustado bastante la
+
+tangente de los andadores y persona de
+
+tengo una pregunta para usted y es que
+
+aparte de
+
+que
+
+si por supuesto es lo más bacano que en
+
+ese momento como apenas está saliendo
+
+este mercado desde hace solamente
+
+solamente el año pasado entonces los los
+
+estudios de videojuegos han estado
+
+empezando como que a crear nuevas cosas
+
+vea y juego súper bacano que va a salir
+
+que se llama big time que básicamente es
+
+como un mundo abierto tipo word of
+
+warcraft pero como saltando en el tiempo
+
+y ese tipo de cosas también van a ver
+
+shooters
+
+juegos también de tipo de exploración
+
+como a nivel espacial todos esos juegos
+
+también se convierten el metaverso
+
+sociedad no sé si alcanzaron a escuchar
+
+hace un par de semanas que salió la
+
+colección que se llama los astros que
+
+son para una discoteca en medellín creo
+
+que es imagínate que entonces ellos
+
+también van a tener una versión
+
+discoteca en un metaverso abierto pero
+
+entonces
+
+lo escogieron es un juego súper exitoso
+
+porque pues allí es donde vamos a tener
+
+las interacciones
+
+también
+
+los juegos de cartas también
+
+personalmente no es como que la cosa que
+
+me
+
+divertí también la dinámica de los
+
+nuevos
+
+de las nuevas de las nuevas pautas que
+
+van poniendo es súper chévere y creo que
+
+los que más para la tienen en este
+
+momento y con definitivamente los días
+
+infinity que te digo también big time me
+
+parece que son un proyecto increíble y
+
+buenos proyectos y algo entonces también
+
+después preguntar y ahí vamos a estar
+
+entonces jugando un poquito de todos
+
+claro no hasta los presentes ya todos
+
+ustedes tienen su estudiante ellos nos
+
+vuelva a poner ahí para que vayan a
+
+seguir los reportes que se están
+
+regalando y nfc por cada políticas del
+
+intendente
+
+más o menos
+
+al máximo
+
+vale bueno chicos gracias por estar los
+
+nfc y los lakers la verdad emocionados
+
+ante los lakers y sabiendo que está
+
+empezando como esta nueva moda de poner
+
+juego que me gusta este tipo la verdad
+
+me deja de curiosidad sabiendo que
+
+también son gratis entonces
+
+lo mismo para expresar con nosotros la
+
+verdad
+
+chicos hasta en el directo la verdad
+
+espero que les haya gustado
+
+este adiós a nada mientras las charlas
+
+que tuvimos el día de hoy que si
+
+necesitan cualquier cosa reproducción o
+
+pueden visitar la página de flisol punto
+
+org
+
+perdón
+
+bogotá
+
+punto org y también en las redes
+
+sociales donde estarán en facebook no sé
+
+si tendremos esperó y esperó que todos
+
+todas las charlas pero si me preguntan
+
+personalmente a mí me gustó bastante
+
+esta charla
+
+bueno era de hacer robots con
+
+[Música]
+
+dependiendo en la visión de esta década
+
+que deja animal así que estos chicos y
+
+nosotros después
+

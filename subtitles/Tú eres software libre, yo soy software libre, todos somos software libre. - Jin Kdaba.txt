@@ -1,0 +1,2022 @@
+gracias amigo
+
+[Música]
+
+bien muy bien muchas nos alegra tenerte
+
+acá con nosotros la verdad
+
+y estoy escribiendo tu perfil y parece
+
+ser que nos vas a explicar un poco de
+
+junto en esto de la wikimedia venezuela
+
+sí cuéntanos un poco más de ti
+
+bueno básicamente
+
+soy un
+
+buen rato
+
+en el mundo
+
+10 años
+
+de aportar al mundo de software libre
+
+linux
+
+firefox también
+
+entonces
+
+de lo que voy a hablar y acá es tratar
+
+de poner en palabras un poco más menos
+
+técnicas
+
+de qué forma
+
+es importante el mundo del software
+
+libre y cómo podemos contribuir a ello
+
+sin tener que caer
+
+en tener que desarrollarlo echar como
+
+digo inicios y con trozos claro claro
+
+muy bien podría explicar un poco más
+
+sobre que su punto que es wikimedia para
+
+todos los que nos están viendo que un
+
+saludo para todos los que nos están
+
+viendo
+
+sí a ver
+
+básicamente
+
+es una distribución de software libre y
+
+un sistema operativo tal como puede
+
+servirnos como puede ser y detrás de ese
+
+sistema operativo
+
+[Música]
+
+es fue realizado el día tiene gracias al
+
+apoyo de muchas personas
+
+alrededor del mundo
+
+[Música]
+
+económica que permite no tener otras
+
+alternativas a sistemas operativos como
+
+puede ser
+
+[Música]
+
+wikimedia y no wikipedia que son dos
+
+cosas diferentes
+
+y wikimedia digamos que son las personas
+
+que están detrás de ellas de este
+
+software que se encargan de
+
+[Música]
+
+hacer que este software siga vivo y
+
+ampliado en wikipedia es el quinto la
+
+quinta web a nivel mundial
+
+[Música]
+
+usada en el mundo
+
+ascendió al mundo entonces eso habla de
+
+lo importante de lo conocido que es este
+
+software y que es conocido gracias a que
+
+bueno hay un montón de personas detrás
+
+de ella haciendo actividades eventos
+
+hackathon medita también centra que
+
+hacen que esté eso
+
+o sea lo que es
+
+bastante en la aplicación yo siempre he
+
+usado wiki wikipedia para mis tareas y
+
+es
+
+una buena herramienta
+
+bueno tienes alguna presentación algo
+
+que mostrarlos
+
+sí claro
+
+básicamente la idea era eso
+
+[Música]
+
+avanzar y poder llevar a a felices
+
+términos estos que no empieza
+
+vean y entre orillas
+
+se debería estar viendo ahora nada
+
+bien nada que tal mientras esto blanca
+
+no estás compartiendo pantalla
+
+tengo dos monitores
+
+ah
+
+listo si ya te dejo a ti y espero que
+
+todos disfruten de su charla
+
+graciasjuan bien y nada mientras el
+
+tocar como les decía
+
+mi nombre es jean básicamente vengo a
+
+tratar de
+
+ponerme en
+
+en palabras sencillas que va esto como
+
+se con esto el software libre sin tener
+
+que ser técnico
+
+o tener que ser desarrollador o tener
+
+que ser hacker o carácter como se conoce
+
+por ahí
+
+digamos que en el día a día mucha gente
+
+creen que esto de software libre es para
+
+la gente
+
+que es programado para dedicar esto de
+
+aquí al derecho
+
+entonces
+
+como problema acá
+
+andina
+
+básicamente
+
+presentando
+
+es como podemos usar el software libre a
+
+diario sin tener que hacer
+
+cracker es la palabra correcta para lo
+
+que normalmente se conoce como
+
+como acá bien entonces con quien se con
+
+esto del software libre
+
+vemos acá un montón de imágenes de capas
+
+para que ustedes
+
+en
+
+su mayoría pueden reconocer dos máximo
+
+tres ok
+
+si adivino sería el logo de firefox
+
+sería que para todos es conocido el logo
+
+de android
+
+para quienes no lo sé android entonces
+
+es un smartphone android ya estaba
+
+usando software libre
+
+y tal vez alguno que otros conozcan
+
+el lobo
+
+de mediawiki que es esa de la flor que
+
+está a la izquierda
+
+entonces sí usa firefox ios android
+
+ya está usando su familia sin saber y de
+
+hecho voy a una capa un poco más
+
+si tienes instagram twitter
+
+facebook
+
+estás usando software libre en parte de
+
+los que vemos allí por ejemplo que se
+
+está en medio de ese tornado y debajo un
+
+montón de letras
+
+ininteligibles
+
+estás usando software libre porque
+
+tornado es una de las tecnologías sobre
+
+las cuales está construida facebook
+
+si usas twitter estás usando ese logo
+
+rojo que dice reinos
+
+y si usas instagram
+
+el servidor web que se encarga de
+
+mostrar tus fotos
+
+pero
+
+de ese último luego que estaba aunque de
+
+matrices en emails ok entonces si eso se
+
+da en el día a día sin necesidad de
+
+saber mucho en tecnología sin necesidad
+
+de saber mucho esto es el software libre
+
+ni tener que hacer crack
+
+tener que ser desarrollador estamos
+
+usando el diario
+
+software libre porque pero en fin que es
+
+el software libre básicamente el
+
+software libre es aquel conjunto de
+
+instrucciones de código que es el modelo
+
+de desarrolladores que cumplen con
+
+cuatro pilares fundamentales
+
+esos cuatro pilares el poder usarlo
+
+y obvio pero poder usarlo con cualquier
+
+propósito es decir
+
+usarlo por ejemplo en mi día a día como
+
+puede ser una distribución de algún
+
+sistema operativo
+
+ella es ubuntu debian link central y en
+
+el día a día como puede ser alguna red
+
+social
+
+'twitter' instalan facebook etcétera
+
+luego el segundo pilar es el aprender o
+
+adaptar ese software aprender de ese
+
+software o adaptarlo
+
+y algo de ese software en un segundo
+
+pilar fundamental para cumplir con la
+
+definición de software libre
+
+luego el tercer pilar es el poder
+
+registro de ese software siglo adaptado
+
+es importante y necesario para el
+
+software de vida y ya vamos a ver un
+
+ejemplo de esto más adelante y luego
+
+poder publicar más de esas mejoras que
+
+se han hecho una vez que obviamente para
+
+esto necesitamos tener cierta noción
+
+de conocimientos técnicos o no
+
+y vamos a ver de qué forma podemos
+
+publicar y apoyar al software libre sin
+
+tener que ser un hacker o un crack
+
+entonces
+
+y en primera instancia ha sido un
+
+software hombre conecta estas cuatro
+
+características estamos hablando de que
+
+es software libre
+
+y también dentro de esta definición
+
+entrada algo qué es un poco más
+
+quizás por algo ético que es el tema de
+
+tener la posibilidad de entender el
+
+software
+
+con un conjunto de valores que aporte
+
+que
+
+en deporte de creatividad que aporte el
+
+aprendizaje y
+
+privacidad
+
+entonces
+
+muchas veces dentro del mundo del
+
+software libre
+
+y si se tiene por sentado
+
+se buscan ok al momento de escribir un
+
+software que venga acompañado de estos
+
+valores
+
+entonces como vemos imágenes hay un
+
+montón de cosas
+
+alrededor de ellos pero sin caer en
+
+mucho lo mismo hay muchas formas de
+
+contenido
+
+de software libre como ya mencionaba hay
+
+tecnologías detrás de los sistemas
+
+detrás de las redes sociales que son de
+
+software libre y que permite que a día
+
+de hoy tengamos cosas como instagram
+
+facebook vídeos
+
+que estamos viendo actualmente el string
+
+etcétera
+
+entonces existen
+
+digamos que dos conceptos
+
+[Música]
+
+y el software cuáles serían estas
+
+diferencias que difieren uno del otro
+
+la principal característica es un tema
+
+como sería en la
+
+la presentación de carácter filosófico
+
+porque porque ambos cumplen básicamente
+
+con los cuatro pilares que habíamos
+
+mencionado anteriormente el wing songs
+
+hay uno de esos cuatro elementos
+
+primeros cumple el 100% porque hay la
+
+posibilidad en sarro para cualquier cosa
+
+la diferencia de los huesos es que
+
+muchas veces te dice cómo pero bueno
+
+mira juegos en el software pero hasta
+
+aquí porque esta otra parte es mía es
+
+privada que no te la puedo dar y ahí es
+
+donde entra digamos que un tema
+
+comercial y cuando involucramos el tema
+
+comercial ese software deja de ser
+
+ejemplos de esto hay muchísimos
+
+una gran parte de las de la
+
+distribuciones o sistemas operativos
+
+no son 100% libre nosotros no cumplen
+
+estos cuatro pilares que
+
+vimos anteriormente
+
+porque tienen esa capa extra es decir
+
+hasta aquí tiene o incluido
+
+librerías
+
+dependencias es otro software que no
+
+cumplen con ésta con estos cuatro
+
+pilares entonces
+
+básicamente esta es la diferencia entre
+
+junio
+
+en pagar un poco más sencilla sería algo
+
+que a personas de por medio y algo
+
+privativo algo que te dice no puede
+
+hacer consulta y además de lucro dentro
+
+el software libre el contrario lo que
+
+busca es decir cualquiera te pueden
+
+lucrar de esto o no pero adicionalmente
+
+si tienes acceso a todo el cuerpo
+
+algunas de estas ventajas del software
+
+libre serían la primera es gratuita
+
+el software libre no tiene ningún tipo
+
+de costo por así decirlo
+
+sí sí acordamos desde esos cuatro
+
+pilares por ningún lado interviene ese
+
+tema
+
+embargos
+
+un poco de membresía y
+
+lo segundo es que viene a ser gran
+
+medida legal legal porque porque por
+
+ejemplo no necesitas estar parado
+
+un pago anual o una compra del sistema
+
+operativo como puede ser el caso de
+
+windows y que no es secreto para nadie
+
+que al día de hoy muy pocas personas
+
+tienen un windows legal es decir pagan
+
+por la licencia de usar este este
+
+sistema operativo es uno que se consigue
+
+por ahí algún software o algún sistema
+
+operativo windows crack ya que como se
+
+les suele conocer
+
+otra ventaja es quién
+
+en
+
+parcialmente esto no es viver
+
+parcialmente es el virus ser es decir
+
+no dentro del mundo del software libre y
+
+de los sistemas objetivos
+
+abiertas
+
+esto del virus con tal no existe si hay
+
+otro tipo de obviamente
+
+digamos que cosas malas
+
+[Música]
+
+es decir la ciudad que es un software
+
+libre tú puedes conocer cómo funciona
+
+este sistema operativo ese software esa
+
+tecnología y a partir de aquí si tienes
+
+algo de conocimiento
+
+y abren y eso te lleva a hacer mejoras a
+
+contribuir excel
+
+en otro punto importante es el tema de
+
+la flexibilidad y la adaptación porque
+
+yo puedo tener el software y pudo ser de
+
+este software a una adaptación o una
+
+mejora conocer de este software y eso
+
+era antes hacía
+
+tarea 1 2 y 3 pero sabes qué
+
+como tener conocimientos me permite
+
+adaptar lo voy a hacer ahora
+
+este software a cantaré a 4 entonces es
+
+lo que se agrega al molí de ventajas del
+
+software operativo
+
+otro tema importante es la seguridad ya
+
+que
+
+muchas de estas de estos software al ser
+
+abierto al ser libres hay demasiadas
+
+personas alrededor del mundo trabajando
+
+sobre ese software
+
+y que permite que cuando hay
+
+vulnerabilidades por qué
+
+las hay
+
+no es digamos el hecho de que buzz es un
+
+sistema operativo abierto libre
+
+pero no un poco más seguro que si es
+
+algo
+
+solamente
+
+eso
+
+a largo plazo tiene que dar mucho
+
+y hacer que el software cats en abierto
+
+hay demasiadas personas dándole soporte
+
+a esto y eso hace que el software tenga
+
+continuidad en el tiempo y además muchas
+
+de las distribuciones del software libre
+
+que tienen como que conversiones
+
+estables a largo plazo que
+
+se suelen conocer como el estrés
+
+y por último la diversión diversión
+
+porque es súper divertido tener
+
+estar trabajando con algo que te va a
+
+permitir si lo quieres
+
+aprender probar y cerrar y abre un
+
+abanico de opciones que para qué vamos a
+
+aportar no necesariamente técnico desde
+
+el punto de vista técnico a este mundo
+
+del software libre
+
+y entonces con que con queso con esto
+
+del software libre bueno
+
+este dentro que son principalmente hace
+
+muchos años enfocadas sobre sistemas
+
+operativos y como les decía
+
+anteriormente
+
+a lo que hago mención cuando cuando digo
+
+la palabra distribución o distribuciones
+
+distribuciones
+
+principalmente entonces allí estamos
+
+viendo algunas de ellas por ejemplo está
+
+el sombrero en casa es súper importante
+
+en el software libre porque además de
+
+ser una empresa
+
+bueno el negocio es decir que ellos se
+
+lucran
+
+económicamente
+
+un apartado donde contribuyen al mundo
+
+del software libre y gracias gracias a
+
+ellos tenemos dentro del mundo del
+
+software libre el 80-90 de los drivers
+
+que se encargan de hacer que funcione
+
+por ejemplo de un
+
+dando un dispositivo
+
+el electrón entonces
+
+una óptica bien interesante como
+
+ahora entiendo que a partir del software
+
+libre bien se puede
+
+con un tema de que hay que ser siempre
+
+son turistas y voy a quedarme con
+
+con lo que sea 100% libre no
+
+necesariamente es
+
+bueno distribuciones hay infinitas
+
+recolocados a algunas de las que
+
+particularmente usa en cómo puede ser
+
+marcheline
+
+actualmente
+
+[Música]
+
+etcétera ha pasado por varias de
+
+encontrar con que me he sentido
+
+un poco más como también otro punto a
+
+resaltar acá es el hecho de que hay
+
+muchas distribuciones y muchas buscan
+
+tener
+
+hay un propósito en particular
+
+a decir hay distribuciones enfocadas en
+
+diseño que hay donde solamente está
+
+optimizada para que
+
+si trabajas con esto del mundo del
+
+diseño la mayoría de las cosas que hay
+
+allí van a funcionar en pro de un
+
+diseñador de trabajar con diseño hay
+
+distribuciones específicamente para
+
+música es decir si trabajas con música
+
+es música predicas hacia el mundo hay
+
+distribuciones específicas para eso y
+
+así sucesivamente
+
+y distribución de sistemas operativos
+
+donde
+
+dependiendo de lo que quieres hacer
+
+puedes tener una
+
+en partido
+
+linux que su foco el time
+
+las ayudas de seguridad y entonces esta
+
+distribución se encarga de tener
+
+aplicaciones software donde entre otras
+
+cosas te va a permitir a trabajar con
+
+temas de seguridad de crack
+
+luego
+
+otro ejemplo que podemos tener en el día
+
+a día de software libre que capaz no
+
+lo usamos y no sabemos es el http es el
+
+qué
+
+para muchos capas consiguió como tal vez
+
+para otros
+
+pero si se fijan en sus navegadores
+
+chrome firefox
+
+[Música]
+
+opera safari y hay muchísimos link
+
+arriba donde escriben por ejemplo como
+
+el punto con siempre antes
+
+hay digamos que unas lecturas
+
+/ para muchos pues ya no tenga sentido
+
+por esas letras tenemos un sentido y es
+
+muy importante y que es básicamente el
+
+protocolo por el cual
+
+hay una comunicación entre
+
+nuestro digamos que nuestro navegador y
+
+otros servicios que se encarga de
+
+hacer que lo que queremos conseguir
+
+esté disponible
+
+en palabras
+
+esto tiene un largo camino a recorrer
+
+entonces en resumen http es básicamente
+
+un protocolo de comunicación web en http
+
+ese es éste mismo protocolo en
+
+conclusión sólo que la versión más
+
+actual la versión segura entonces
+
+básicamente la comunicación que es de
+
+tipo precisión respuesta es qué quiere
+
+decir esto que yo hago una petición
+
+https de dos puntos para robar a
+
+google.com
+
+y al presionar entera
+
+esa es mi petición y una vez que yo hago
+
+esa petición obtengo a partir de ella
+
+una respuesta
+
+y esto es dentro de un modelo
+
+de tipo cliente servidor cliente
+
+básicamente va a ser vamos a hacer
+
+nosotros los usuarios que está
+
+escribiendo https puntocom
+
+y el servidor que hacer las máquinas
+
+ampliarlo si el equipo físico en algún
+
+lado del mundo que se va a encargar de
+
+devolvernos esa respuesta
+
+será entonces un poco de historia cap n
+
+de que empezamos a ver de qué forma ha
+
+estado presente es importante de
+
+software libre
+
+en el monte
+
+donde
+
+básicamente a él le debemos
+
+le debemos
+
+muchísimas cosas
+
+no sé si alguno me ha escuchado desde el
+
+proyecto al paladar para que me hiciera
+
+cada es básicamente fue especialmente
+
+para el dinosaurio del internet
+
+es decir fue la primera versión de lo
+
+que hoy en día conocemos con internet
+
+nació desde allí viene de llegar por las
+
+siglas en inglés ya básicamente una
+
+institución el hombre nació el primer
+
+proyecto de lo que hoy en día se conoce
+
+como internet esto obviamente en cuenta
+
+cuánto cuando controlar y en http es
+
+básicamente protocolo que estaba
+
+soportado por otros protocolo cuando se
+
+les conoce como esa sede que también es
+
+muy conocido para algunos
+
+y actualmente
+
+tenemos el https que ambos ambos
+
+protocolos están digamos que funcionales
+
+pero la gran diferencia es que uno el
+
+https
+
+sport secure que de seguro en inglés es
+
+el protocolo que se suele usar lo que se
+
+debe de usar en página web donde tuvo
+
+ingreses algún tipo de información
+
+sensible es decir
+
+tomemos robben o la gran mayoría hemos
+
+usado internet
+
+para comprar bien en el grupo ustedes
+
+quieren comprar algo por internet y
+
+deben introducir los datos de su tarjeta
+
+su dirección fíjense siempre siempre que
+
+dentro del software ustedes pueden ver
+
+este certificado https
+
+dentro del acuerdo porque eso les estoy
+
+dando
+
+un protocolo se ubican
+
+en el medio no hay otra forma pero
+
+si
+
+usted es el
+
+final porque recordemos
+
+hay mucha comunicación que es nosotros
+
+cliente-servidor la web x
+
+2
+
+años
+
+resuene mucho y lo curioso es que a
+
+pesar de que no se encontró realmente en
+
+el 2000 es donde entra en vigencia de
+
+seguridad sin causar entre otras cosas
+
+gracias a que google dijo buendía
+
+todas me empezaron a penalizar
+
+en https
+
+en algunas alternativas
+
+[Música]
+
+para el software nativo
+
+[Música]
+
+de
+
+las
+
+opciones que tenemos para trabajar
+
+con sistemas operativos libres porque
+
+muchas veces pasa
+
+y esto lo he vivido
+
+he trabajado muchos años desarrollador y
+
+eso me lleva a tener mucho contacto con
+
+diseñadores y los diseñadores dicen mira
+
+no puedo dejar de usar windows o mac
+
+no tengo por ejemplo
+
+ofimática de add ons
+
+sólo está disponible para windows y mac
+
+pero esto ya no está en las semillas
+
+de este mundo del software libre puede
+
+que haya sido brillante
+
+por ejemplo para sistemas operativos en
+
+el caso de windows tenemos básicamente
+
+solamente tenemos básicamente aumentos
+
+pero el lapso libre tenemos voluntad
+
+ahora de esto
+
+en su 70 infinidades de sistemas
+
+operativos para trabajar con la
+
+ofimática que tenemos
+
+de los sistemas privativos a office pero
+
+él no quiere tener
+
+un office en cantidad de acciones lo que
+
+le menciona photoshop si trabajas con
+
+pocos médicos
+
+también hay opciones
+
+más que ahora no recuerda y así
+
+sucesivamente
+
+para tu aplicación del software libre
+
+tenemos alguna alternativa de la donde
+
+desaparece
+
+vean que
+
+la forma en que esa transición entre el
+
+mundo del software operativo
+
+[Música]
+
+al mundo de software libre
+
+y no sea tan
+
+complicada entonces pero
+
+esto qué
+
+es
+
+yo quiera usar ahora solamente para
+
+agrega tintos que es totalmente
+
+una forma de
+
+a aportar al mundo del software libre es
+
+a través de organización constituciones
+
+o movimientos dentro del mundo del del
+
+software y
+
+como ya le decía de la gran gran parte
+
+del mundo del software libre se sostiene
+
+por las personas detrás de ellas y en
+
+ese caso
+
+les hago
+
+fue una misión por ejemplo cuando cuando
+
+usamos
+
+creo que no
+
+cuando mandamos a algo
+
+[Música]
+
+básicamente estamos al uso porque detrás
+
+de funciona gracias a un montón de
+
+personas
+
+desde
+
+la
+
+organización
+
+de la fundación weaver
+
+el software
+
+donde escribimos como bien decía forman
+
+en twitter no sé si quiero ser mi tarea
+
+química
+
+que está compuesto de un año se suelen
+
+dependencia de
+
+es el software
+
+pero esa información está allí gracias a
+
+un montón de personas
+
+gracias a un montón de instituciones
+
+como la
+
+media colombia
+
+en los principales países alrededor del
+
+mundo hay
+
+muchos capítulos que así se le conoce
+
+como a estas instituciones
+
+[Música]
+
+de compartir difundir esos esos pilares
+
+no sé cómo capítulos y hay otras formas
+
+de llamar a los usuarios
+
+[Música]
+
+y libre
+
+dentro de este capítulo lo que se
+
+trató de hacer es de impulsar compartir
+
+y tratar de que ese es ese software que
+
+es wikipedia
+
+y se enfoquen en pan
+
+mejorar la información y el contenido
+
+principalmente
+
+de contenido para venezuela
+
+lo mismo hace que colombia lo mismo por
+
+ejemplo
+
+el país lo que busca es tratar de
+
+mejorar el contenido
+
+de
+
+su país dentro del software
+
+entre otras cosas entonces de esta forma
+
+se suficiente podemos contribuir al
+
+mundo del software libre sin tener que
+
+caer en exceso y vamos a ver un ejemplo
+
+real
+
+creo que todos han entrado alguna
+
+[Música]
+
+y en la parte superior vamos a ver
+
+[Música]
+
+una sección donde donde
+
+esa posibilidad de poder contribuir y es
+
+editar el historial si ustedes hacen
+
+clic
+
+como un tributo
+
+a ese artículo
+
+a eso
+
+[Música]
+
+a esa clase
+
+también en clases dentro del wiki
+
+pendiente
+
+berlín etcétera entonces al momento en
+
+que ustedes contribuyan dentro de este
+
+software van a poder hacer que la
+
+múltiple india hace mucho más fácil pero
+
+mucho más fiable que sucede para nadie
+
+[Música]
+
+ella esto no es tan así pero para muchos
+
+multimedia material porque porque
+
+cualquiera puede editar dentro de
+
+wikipedia
+
+y esto es un arma de doble filo
+
+[Música]
+
+porque muchos dirán menos pedro pérez
+
+que no sé nada química física cuántica
+
+por ejemplo poder ir a un artículo de
+
+física cuántica
+
+escribir allí en cualquier tontería
+
+pero en el de mary que básicamente esta
+
+forma no caigo ese es el zurdo de
+
+permitir que cualquier ente está
+
+básicamente cumplir comencé con
+
+esa característica del software libre
+
+y así como hay muchas personas
+
+no saben de física cuántica es necesaria
+
+para contribuir con él por ejemplo en mi
+
+caso yo
+
+he trabajado desde hace unos 12 años
+
+contribuyendo y
+
+editados artículos por ejemplo
+
+he contribuido en artículos por ejemplo
+
+de colombia
+
+[Música]
+
+y
+
+de elecciones de fútbol por ejemplo
+
+el matemático y profesional
+
+[Música]
+
+pero
+
+sin emociones básicas en las que se
+
+puede aportar como por ejemplo si va
+
+mucho creo que para muchos
+
+es como entrar en un comercio con algún
+
+tipo tiene control algo como por ejemplo
+
+sur
+
+nació mientras ardía de líneas dice y el
+
+fútbol se juega como un paquete
+
+todos sabemos que él
+
+mira
+
+técnica es decir mira voy a borrar esto
+
+porque no tiene ningún tipo de sentido
+
+que no seguirá un artículo de química y
+
+la crítica es la ciencia descarga
+
+esto no tiene sentido
+
+voy a revertir eso es porque la química
+
+profesional de la química a ver estudiar
+
+al respecto podemos contribuir a
+
+cualquier tipo de activo y además de eso
+
+wikipedia como movimiento
+
+tiene muchas muchísimas formas de
+
+contribuir y muchos otros
+
+digamos que
+
+elementos que apoyan y se soportan
+
+eso es lo que vamos a ver
+
+tenemos dentro de wikipedia
+
+[Música]
+
+herramientas como wikis o seleccionar
+
+whiting code último diversity que este
+
+último university
+
+es para subir clases el que mencionaba
+
+anteriormente dentro del university que
+
+es un hermano de wikipedia hay muchas
+
+personas donde se encargan
+
+tratan de subir
+
+digamos que aportes educativos con fines
+
+de aprendizaje como puede ser aprender
+
+sobre cómo calcular un pueblo y polino
+
+que aprender a programar aprender a
+
+hacer
+
+cosas
+
+entonces
+
+[Música]
+
+bueno tienes a la continuidad sitio para
+
+ello
+
+por ejemplo si escribís está una
+
+estrella de un libro o queremos ir a
+
+algún tipo de libro tiene wikileaks
+
+también está como que es el repositorio
+
+de imágenes libres abiertas
+
+que aún sea wikipedia para su artículo y
+
+entendamos acá
+
+imágenes libres y abiertas como el hecho
+
+de que todas las imágenes que se suelen
+
+allí el autor de las imágenes está dando
+
+el permiso para que use estas imágenes
+
+en cualquier fin que decida es decir
+
+bueno para cualquier cosa puedes usar
+
+con fines comerciales
+
+o no etcétera
+
+el tema de las licencias
+
+es importante en cualquier área
+
+muchos hemos usado imágenes
+
+para que ustedes han visto por allí que
+
+hay empresas que demandan a otras
+
+personas
+
+[Música]
+
+las imágenes libres estos pasos todas
+
+estas imágenes que están viendo acá
+
+preciosos saca
+
+principalmente de común
+
+otro punto
+
+hermano
+
+a aportar
+
+[Música]
+
+yo voy documentando esto a séptimo
+
+y eso sirve para contribuir a otras
+
+personas
+
+y por qué
+
+algunos
+
+hay infinidad de formas que podemos
+
+contribuir al mundo del software libre
+
+sin tener
+
+programación sobre cosas
+
+tenemos
+
+tengo media
+
+colombia vería
+
+uruguay
+
+en la mayoría de los países de américa
+
+existen
+
+de personas que se unen para contribuir
+
+y esa contribución no siempre tiene que
+
+ser de la misma estructura es decir
+
+puedes hacer actividades
+
+que esas actividades pueden ser
+
+al aire
+
+puede ser
+
+por medio de un editor que son un poco
+
+más técnicas
+
+de wikimedia se le conoce a
+
+vamos a sentarnos varios
+
+a editar su red x en el artículo de
+
+la independencia de colombia
+
+de quién es la jefa etcétera etcétera
+
+entonces dentro de multimedia venezuela
+
+tenemos actividades como son las
+
+reuniones virtuales
+
+muchísimas patrones
+
+[Música]
+
+hacemos talleres para aprender a ayudar
+
+en wikipedia
+
+hacemos digamos que
+
+tenemos un pequeño podcast de donde
+
+seguro que hablar y difundir sobre estos
+
+temas de la construcción con wikipedia
+
+[Música]
+
+actualmente de un proyecto súper
+
+interesante para lenguas originarias
+
+que en el caso de venezuela es
+
+un proyecto que todavía se está en one 2
+
+es decir se está
+
+gestando se está trabajando en la
+
+reforma y que siga creciendo ya está
+
+activo que hay pero como tal
+
+es un proyecto que todavía se está
+
+estructurando que es
+
+trabajar en crear la multimedia en el
+
+idioma 4 que es un idioma nativo de
+
+indígenas venezolanos que entonces
+
+pienso que por ejemplo
+
+aquí tenemos otra forma de contribuir
+
+si hablas francés es hablar una lengua
+
+ordinaria puedes tener la posibilidad de
+
+aportar a wikipedia sin créditos
+
+traducciones
+
+tal vez algún artículo que tengas
+
+que consiga y multiplica
+
+solamente en inglés
+
+traducido
+
+al español o viceversa o en caso de
+
+del guayo
+
+[Música]
+
+digamos que alguna lengua indígena que
+
+comparte alguna parte económico
+
+venezuela puede aportar a eso ok
+
+entonces de esta forma
+
+todas estas que he mencionado
+
+anteriormente se puede contribuir al
+
+mundo del software libre
+
+sin tener que caer en tacones y
+
+entonces
+
+nada creería que por acá
+
+y cerrando y estamos acá para responder
+
+algunas preguntas
+
+listo
+
+gene bueno me ha parecido bastante bien
+
+tu explosionar me parece un tema
+
+bastante bueno hablar sobre los sobre
+
+los softwares libres de verdad
+
+por lo que entendió por tú
+
+por tu presentación software libre se
+
+podría usar hasta para contar los pasos
+
+de
+
+como caminos y creo que incluso hay una
+
+aplicación que es lo mismo hace
+
+sí
+
+claro para la gente que nos ve así tiene
+
+algunas preguntas que le pueda ser
+
+alguien con mucho gusto de las 27 las
+
+responderá
+
+de venezuela como el de colombia
+
+argentina así que sea del bello y muy
+
+seguramente ya hay un grupo de personas
+
+que descargan de esto así que no es
+
+necesariamente
+
+obligatorio contribuir solamente puede
+
+hacer cualquier lado y si tal vez el
+
+país no lo haga no existe ese grupo
+
+an y te puedes animar a tu mismo ser esa
+
+persona que
+
+busca apoyar
+
+vale gracias
+
+por lo que estuve viendo wikimedia tiene
+
+todos los países y ósea existe en todos
+
+los países unos minutos
+
+ah
+
+siento algo siento y algo de países
+
+existe ya una comunidad formada para
+
+contribuir a wikipedia entonces como te
+
+decíamos así es muy seguro que si exista
+
+pero hay países en los que no
+
+no hay
+
+líder a casa
+
+muchísimo que me gusta mucho el software
+
+libre es algo muy altruista que la gente
+
+saltó sin ningún tipo de conocimiento
+
+técnico cómo empezar
+
+el 50 40 años un carpintero que soy yo
+
+cualquier persona porque el requisito
+
+mínimo es que mira
+
+[Música]
+
+de querer abortar y tal vez
+
+guiarte de otras cosas que han estado
+
+haciendo en otros
+
+con proyectos con países
+
+vale tal como tú dijiste esto es un arma
+
+de doble filo entonces podría afectar
+
+para ambas partes
+
+y
+
+y ahí está el ejemplo del nuevo perfil
+
+pero a ver en un fan en wikipedia
+
+[Música]
+
+ha contribuido y escriben
+
+ganadores de premio de la esencia
+
+obviamente en su tiempo allí
+
+hay trabajadores de google
+
+qué sé yo hay muchas personas con
+
+bastante conocimiento técnico aportando
+
+wikipedia como también
+
+la referencia el epítome de algún tipo
+
+de material específico pero si me dedico
+
+por ejemplo me gusta mucho convertir
+
+cosas es decir entrar en artículos y ver
+
+si hay errores ortográficos
+
+falta como un punto
+
+es el vandalismo y el vandalismo es
+
+presionar los
+
+que quieren ser banda personas que se
+
+dedican a la guerra artículos y son más
+
+las personas que se dediquen a dañar
+
+artículos que ambos aportar a ese
+
+artículo entonces que suele ser yo hago
+
+enumera alguien escribió aquí una
+
+tontería esto vamos a sacar
+
+allá está mal escrito o escribieron una
+
+grosería una mala palabra bueno eso
+
+vamos a quitar y de esa forma si sin
+
+tener ningún tipo de conocimiento
+
+técnico estoy aportando a qué
+
+personas que vayan a buscar su tarea en
+
+wikipedia puedan obtener información
+
+fiables
+
+vale mira que nos llega una pregunta de
+
+dos casos becerra un saludito mira de
+
+pregunta en algunas empresas y colegios
+
+existen equipos con poca memoria ram y
+
+discos duros de poca capacidad que
+
+distribuciones linux recomiendas para
+
+equipos como estos
+
+me parece una persona genial
+
+linux
+
+en general suele ser una suelen tener
+
+distribuciones para
+
+dispositivos computadoras con muy poca
+
+poder de cómputo es decir computadoras
+
+viejas 22 que ya hoy en día son equipos
+
+desfasados y hay infinidad lo que se me
+
+ocurre ahora por ejemplo
+
+vivimos
+
+hay una distribución hay una versión de
+
+ubuntu que ahorita se escapa el nombre a
+
+su gusto
+
+e
+
+que otra cosa hay distribuciones como
+
+por ejemplo
+
+manchado que son un poco digamos que
+
+para personas con conocimientos pero que
+
+el consumo de recursos en vulgar
+
+entonces ese tipo de desilusiones y en
+
+google se consiguen muchísimo pero esas
+
+tres puedo dejar como referencias para
+
+equipos de muy lugar y poder de cómputo
+
+con poca memoria con
+
+dispositivos con poco espacio y disco
+
+duro para hacer funcionar este tipo de
+
+equipos
+
+creería también que hay más accionistas
+
+no recuerdo hay distribuciones de linux
+
+pasa en la nube
+
+cómo montarlas dentro de este sistema
+
+operativo como tal sino que pues
+
+básicamente
+
+funciona eso
+
+de trabajar
+
+mira nos pregunta otra vez el que se
+
+alimentaria es una buena opción
+
+elemental que diría que si yo ustedes
+
+elementary una sola en mi vida cuando
+
+estuvo de moda por qué
+
+está mojado
+
+y puedo decir que
+
+sí pero siempre y cuando la instale con
+
+por ejemplo ese que es un gestor de mis
+
+para un poco más línea
+
+porque por defecto si siento que un poco
+
+un poco pesado pero creería que sí puede
+
+funcionar elemental
+
+listo yo creo que hasta aquí terminamos
+
+la cima el poco tiempo que tenemos
+
+espero que se sigan conectando ging
+
+tienes algunas reducidas donde te
+
+podemos seguir para que nos sigas
+
+comentando sobre esto bien de 'twitter'
+
+solamente es donde estoy en que
+
+básicamente es cada hora
+
+y estos oscar becerra espero que te
+
+hayan respondido a las preguntas gene
+
+gracias por tu participación y espero
+
+que estés muy bien gracias por
+
+participar
+
+buen día
+
+bien chicos no olviden
+
+no es conectarse pues ahorita tenemos
+
+otra charla a las 11 de la mañana a 12
+
+tenemos una escritura musical para
+
+principiantes con news score así que
+
+espero que no falten y bueno nos veremos
+
+en allá adiós
+

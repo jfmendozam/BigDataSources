@@ -1,0 +1,2216 @@
+muy buenas tardes a todos nos
+
+encontramos en una nueva edición del
+
+free sol bogotá año 2022
+
+esta vez nos acompaña juan ibarra juan
+
+ibarra eres miembro era l país y nos vas
+
+a compartir unas cosas interesantes de
+
+oferta incluso entonces adelante juan
+
+xxiii xerez a continuar
+
+muchas gracias se puede ver la
+
+presentación sólo para consumir
+
+perfectamente yo tu presentación
+
+muchísimas gracias y gracias por la
+
+invitación también para poder estar
+
+participando ofreciendo una charla
+
+ep y así como en años anteriores estuvo
+
+apoyando el visor este año no fue la
+
+solución entonces nos metimos en lleno
+
+para tratar de abarcar la mayor cantidad
+
+de sedes que se celebra justamente el
+
+día de hoy
+
+y bueno un comentario adicional
+
+se está realizando también un crisol en
+
+la ciudad recordando y mencionando que
+
+bueno haciéndole país pero estoy
+
+actualmente
+
+localizado en paraguay igual tenemos un
+
+crisol también aquí que estaba
+
+acelerando el día de hoy de manera
+
+presencial mundo entonces que me
+
+encuentro en una de las oficinas
+
+momentos todo el espacio para poder
+
+dar esta charla y luego nuevamente
+
+volver al evento presencial si es que el
+
+momento se escrute algún tipo de orgullo
+
+envió disculpas porque puede ser que se
+
+dé la vocación de que entre algo
+
+muy entonces la retirada la nuestra de
+
+sus muertos por permitirme estar
+
+presente en esta charla les vengo
+
+hablando acerca del valor que tienen las
+
+certificaciones linux y open source en
+
+mercado global yo soy padre moses
+
+manager líder de lp y trabajo
+
+básicamente consiste en poder trabajar
+
+con todos los socios que están aliados
+
+con el ep y
+
+estos pueden ser centros entrenamientos
+
+dos universidades
+
+que están en diferentes programas y
+
+también eventualmente también si es que
+
+algunos candidatos requieren de mi ayuda
+
+siempre es también para poder asistirlos
+
+a aquellos que quieren certificarse
+
+y bueno
+
+entonces la agenda de hoy está
+
+constituida por siete puntos empezamos
+
+por el primero quiénes somos presta
+
+aplicamos quitó acerca de lepe y hojas
+
+trabajo es un punto que quiero abarcar y
+
+tiene mucha cara una charla que vengo a
+
+dar hoy que voy a hablar acerca de la
+
+habilidades con mayor demanda hablando
+
+un poco del reporte de demanda laboral
+
+al 2021 y también habla un poco de
+
+aceptar en las oportunidades para
+
+certificados lp y algunas iniciativas
+
+que tenemos justamente un favor en la
+
+comunidad y un pilar que sería
+
+justamente todos
+
+porque entonces que es el pp y con las
+
+siglas significan linux profesional
+
+institución
+
+lp y tiene por misión promover en los
+
+usos de los con shorts al elevarlos en
+
+personas que trabajan en el que
+
+significa que damos apoyo buscamos las
+
+maneras que todas aquellas personas que
+
+se abocan al mundo personas puedan tener
+
+mejores oportunidades buscamos cambiar
+
+prácticamente la vida de las personas
+
+para vivir a través del uso de
+
+reabsorción somos una habitación sin
+
+ánimo de lucro que fue fundada en canadá
+
+tenemos una sede central en canadá y
+
+tenemos afiliados al retorno como estas
+
+millón que estoy en paraguay y respondo
+
+para la región de latinoamérica
+
+de centroamérica
+
+pero también es caribe españa y algunos
+
+países de habla portuguesa y así también
+
+tenemos a otros miembros que están
+
+esparcidos de diferentes regiones
+
+somos un histrión neutral
+
+qué significa que nuestras
+
+certificaciones prácticamente son las de
+
+tapó cualquier distribución linux es
+
+decir todo el manto no exámenes todo
+
+está de manera neutral es decir que no
+
+estamos abocados a ninguna distribución
+
+kubot ambiente y el desarrollo de las
+
+indicaciones impulsados por la comunidad
+
+es decir la comunidad de cierta manera
+
+demanda atención del mundo y de acuerdo
+
+a las estaba construyendo las
+
+certificaciones
+
+entonces un tema en el cual quería
+
+hablar es trabajo
+
+has intentado de las siete manera forma
+
+y hoy les traigo digamos que un truco
+
+que se suele usar y que digamos
+
+tiene con nombres tiene como origen
+
+algunos hacks como
+
+más un juego de palabras de comandos que
+
+uno está tan horrible esto lo hice el
+
+día ayer y es de la siguiente manera
+
+entonces si uno se pone a buscar núcleos
+
+desde los pueden ir probando mientras yo
+
+voy hablando con en el buscador de
+
+google con estas palabras claves
+
+jobs org carrier org y entre comillas
+
+work with us entonces tendríamos un
+
+visitador d
+
+trabajos o postulaciones páginas que
+
+tienen estas palabras claves en especial
+
+work and cake y tenemos un resultado de
+
+aproximadamente 13 mil 510 millones es
+
+muchísimo es muchísimo no nos sirve a
+
+nosotros digamos esta búsqueda para
+
+poder encontrar oportunidades laborales
+
+vamos a más así lo vamos regulando la
+
+búsqueda y ahora le agregamos para que
+
+busque en cité en el sitio de google.com
+
+pues resultado se achicó enormemente
+
+ahora tenemos nada más y nada menos que
+
+400 94 millones
+
+me sirve todavía no tenemos que afinar
+
+más las búsquedas
+
+una vez más y qué pasa si decimos en ese
+
+módulo que mostrarían publicaciones que
+
+se encuentran en este sitio
+
+carriers
+
+google.com
+
+nos va a traer esta cantidad de
+
+resultados
+
+303.000 ya no sólo si pasamos a los 300
+
+y pocos
+
+vamos afinando nuestra búsqueda y vamos
+
+teniendo los resultados más específicos
+
+entonces aquí nos trae digamos
+
+prácticamente dos sitios nada más de
+
+google y en cuanto a carreras es decir
+
+para poder encontrar digamos puesto
+
+sabrás tengo
+
+pero en teoría no sirve tampoco todavía
+
+si estamos bien puntuales porque esto
+
+nuestra de previamente de de cualquier
+
+tiempo y aquí es donde les muestro por
+
+ejemplo que nosotros tenemos como
+
+filtrar por un determinado tiempo es
+
+decir lo que voy a evitar es mirar
+
+publicaciones o vacancias que fueron
+
+publicadas el pasado hace cinco años o
+
+más
+
+qué es lo que yo quiero voy a agregar
+
+esta búsqueda entonces dentro del sitio
+
+le traen todos resultados que sean
+
+después del primero de abril del 2002 y
+
+cuál sería el formato
+
+que se acepta para poder hacer el broker
+
+y este resultado nos trae
+
+16.700 si ya no pasamos
+
+vamos mejorando la ópera
+
+entonces aquí llegamos y decimos que es
+
+el objetivo para lograrlo porque
+
+trabajaremos les puedo indicar las cosas
+
+se alcance la hora les van a dar
+
+para distintos tipos de cargos yo le voy
+
+a agregar lo que sería la palabra links
+
+va a entrar
+
+esta palabra clave linux la vacancia que
+
+estén actualmente disponibles a partir
+
+del 1 de enero en el sitio de un cuánto
+
+nos trae el de ese estado muy bien aquí
+
+espero espero que para aquellos que
+
+están probando
+
+éstas están animando a ser digamos
+
+seguimiento conmigo lo hayan probado y
+
+vamos a verificar cuánto extremis
+
+son 1.400 s
+
+de 13.000 millones
+
+pasamos a 1400 y se sigue siendo mucho
+
+pero es mejor que te hace mil millones
+
+entonces aquí ya podemos empezar a jugar
+
+incluso con más palabras podemos girar
+
+cada uno y como pueden ver tenemos la
+
+aplicación estas tres primeras que son
+
+del 7 de abril del 12 abril y el 4 abril
+
+es decir valen la pena poder empezar a
+
+esto porque son alcances que
+
+posiblemente están corriendo ahora en la
+
+cual les podemos explicar
+
+algo más que yo llegué a hacer es
+
+añadirle a este comando a la verdad lino
+
+de añadiendo palabras el de picos
+
+busqué y encontré por ejemplo esta
+
+postulación queja real y puedo ver los
+
+requisitos de ambiente
+
+mirando un poquito tenemos por ejemplo
+
+que en la parte de
+
+calificaciones o habilidades preferibles
+
+tenemos el tercer punto que dice le picó
+
+a buscándome lo que sería linux el epic
+
+o experiencia equivalente trabajando con
+
+linux y metido una serie de distribución
+
+es la cuarta regidora sucede
+
+y por qué es importante este punto
+
+porque justamente también el eléctrico o
+
+unas distribuciones si tenéis el pib es
+
+como decir que prácticamente podrías
+
+estar en cualquiera de estas islas
+
+y aquí aquí pasamos a hablar acerca de
+
+las habilidades 1 mayores demanda actual
+
+entonces podemos empezar por la parte de
+
+los sisas
+
+a los 6m
+
+digamos son unos giros
+
+y siempre están digamos
+
+trabajando arduamente para poder
+
+utilizarlos
+
+donde servicios
+
+entonces realmente son unos héroes
+
+incapaz
+
+para poder seguir digamos el camino a
+
+sis admin de pei que es lo que ofrece
+
+ofrece estas gamas certificaciones
+
+empezar problemas sean ser el himno
+
+esencial en una certificación
+
+introductor que han certificado unidad
+
+introductoria al mundo del libro que
+
+está abocada para aquellas personas que
+
+tienen digamos
+
+poco o nulo conocimiento ánimos pero
+
+tenemos en electric 1 a partir de el
+
+spink1 valiente song en las activaciones
+
+a profesionales en el cual vamos
+
+viviendo por diferentes niveles alguno
+
+link administrator el 2 y emprendimiento
+
+teniendo estados del pib uno puede
+
+digamos pelear y conseguir mejores
+
+utilidades dentro del mundo de cishan
+
+decir y postularse a un puesto con
+
+nuevas canciones
+
+cuando estas explicaciones hablamos
+
+mucho de uno mismo además de que están
+
+los grupos de personas con experiencia
+
+trabajo y las que no tienen una
+
+experiencia
+
+vale más llegar a una entrevista de
+
+trabajo sin experiencias pero con la
+
+certificación es decir decirle a las
+
+personas que están encargadas de
+
+contratar te de que contar con los
+
+conocimientos no con experiencia tal vez
+
+lo contás con los consiguientes y cuando
+
+las concertaciones podemos hablar
+
+prácticamente
+
+que era hábito no solamente del himno
+
+solamente opensource podemos andar desde
+
+otras áreas incluso en las que no es tan
+
+emotiva en el mundo de té y como tal sin
+
+tener certificaciones habla por sí mismo
+
+no tenemos pasado de los 6.000 a los
+
+desarrolladores y sin estas charlas
+
+están presentes que son software
+
+también se los conoce como los
+
+programadores son nuestros términos que
+
+se utilizan podrán encontrar
+
+algo familiar en esta imagen si este es
+
+el típico desarrollador está en
+
+habilidad de hacer le ve muy bien
+
+vestido de agost el típico desarrollador
+
+esta negra que usas a 7 años
+
+casi sin pelo a veces con canas un pelo
+
+largo pero lo que sí casi todos
+
+contemplan es que la mayoría tal vez más
+
+aún aquellos que trabajan de una remota
+
+comen a moverse desayuna todo encima en
+
+esa historia ya lo que se encuentra
+
+comúnmente si esto es nada más a modo de
+
+broma
+
+los desarrolladores y si ya se los ve ya
+
+la acción los desarrolladores también
+
+tienen como avalar sus conocimientos
+
+entonces por ejemplo con el ep también
+
+pueden expresar donde la inocencia y
+
+luego lo que ya tenemos también
+
+disponible es el web développement
+
+essentials porque no sé que no existe en
+
+un certificado para aquellos que están
+
+abocados al desarrollo web y ambos tanto
+
+en linux esencias como web presenciales
+
+son introductorios si nos el examen no
+
+es tan difícil la comparación del rp en
+
+adelante que son lecciones profesionales
+
+entonces lo abre tiene que ver
+
+desarrollar el software con linux y
+
+tiene mucha gracia tiene mucho que ver
+
+porque de alguna otra manera hoy en día
+
+se utilizan en el proceso de desarrollo
+
+del software con manos a linux
+
+aplicaciones está basada en linux en una
+
+u otra manera se usan con malos
+
+si vamos a trabajar en un proyecto
+
+estándar eso dice no hay que trabajar
+
+con repositorio que estén tiremos la
+
+isla si se utilizan comandos se pueden
+
+hacer pipelines y compañía para hacer
+
+gestos procedimientos y al final es de
+
+alguna manera se usa linux entonces uno
+
+además de ser un desarrollador de
+
+software puede también decir que estaba
+
+al lado
+
+alguien muy técnico en esta área atrás
+
+de estas certificaciones
+
+después esta seguridad me encantan los
+
+de seguridad lo que oportunidad a
+
+buscarnos totalmente a esta área porque
+
+es compleja es la área es complicada es
+
+dolorosa si estudiar seguridad y
+
+trabajar en eso es prácticamente
+
+derramar lágrimas en sangre muy
+
+continuamente en el proceso que bueno se
+
+va construyendo así mismo madurando en
+
+cuanto a lo que es la parte de seguridad
+
+para no decir también estar en el tema
+
+de los hackers y compañía
+
+están los buenos los malos cuando vamos
+
+a las aves pero en fin todos aquellos
+
+que quieran seguir camino a seguridad y
+
+conseguir algún empleo obtener una
+
+empresa que ofrece servicio de seguridad
+
+etcétera avocados habría tenido también
+
+un camino tenemos por ejemplo la
+
+inocencia pero pasa por el circuito es
+
+en ser un aplique es un certificado que
+
+se está desarrollando y luego tenemos
+
+estos tres niveles siempre aparecen en
+
+el peak 16 porque es muy importante
+
+tener este nivel de administrador pero
+
+cuando la seguridad no podemos esquivar
+
+lo que es entender en linux
+
+podéis ir por él y nos engineer y luego
+
+para especializarte tenemos por ejemplo
+
+el enterprise security 6 que una
+
+certificación que pongo es leve pero
+
+estas explicaciones es muy valorada
+
+porque realmente es como decir si
+
+entiendo a seguridad
+
+y para aquellos que ya escucharon hablar
+
+mucho de box y ya está en la boca o que
+
+quieren entrar como sea también tenemos
+
+un ser una certificación de the box si
+
+yo le estoy dando en este momento
+
+aumento de estas certificaciones de
+
+software desarrollado por la comunidad
+
+en conjunto con el pp y existen otro
+
+agente certificado existen claro que sí
+
+un montón pero el valore agua nosotros
+
+ofrecemos es el nivel de aceptación que
+
+se tiene a nivel global y la presencia
+
+que tenemos a nivel global un poco más
+
+adelante
+
+ahora moverá cerca del reporte de
+
+demanda laboral al 2021 porque no son
+
+indios porque probablemente se va a
+
+lanzar
+
+aproximadamente en septiembre de este
+
+año en un reporte que no lo hacemos
+
+nosotros que en este caso utilizamos
+
+mucho reporte creado siempre el
+
+adjudicado por la línea fundation
+
+incluyendo sino ya hace varios años pero
+
+justamente haciendo una investigación
+
+una encuesta acerca de la percepción
+
+laboral de cómo se encontraba hoy hacia
+
+dónde está yendo de acá o básicamente
+
+entonces este es un reporte que fue
+
+lanzado el 21 de septiembre
+
+y estos son algunos de los resultados
+
+que tuvieron en donde el 97% de las
+
+personas encargadas las complicaciones
+
+dicen que contratar
+
+personas con talento en código abierto
+
+es la prioridad también el 50 por ciento
+
+de estos encuestados dicen que
+
+incremento incremento el contrato de
+
+personas este año ante los 91 con estos
+
+conocimientos
+
+el 88 dice que es de los opcionales y
+
+esto en este punto que tenemos en el
+
+apartado izquierdo inferior dice que el
+
+88 por ciento de los profesionales usa
+
+the box
+
+en su día a día
+
+no significa que estén certificados
+
+dicen que utilizan 6 porque al final al
+
+cabo de box es una cultura y es saber
+
+utilizar herramientas imaginada y
+
+digamos implementar ya sea una empresa
+
+es difícil pero muchos no utilizan no al
+
+100% pero están ahí y en un 10% de
+
+vuelta de estas personas que recluta
+
+dicen que es muy difícil encontrar
+
+talento en open source
+
+entonces la mayoría está mirando ya en
+
+los pensar como que allí está el norte
+
+de bolt al 88 por ciento de estas
+
+personas que reclutan priorizan
+
+contratar a profesionales implicados
+
+entonces podéis llegar y decir que
+
+entender de esto aquello incluso puede
+
+hacer una demostración si te lo permiten
+
+o puedes ir trabajar tiene que impresa
+
+en tal área
+
+estos reclutadores pueden contratar y
+
+montar si puede que no está bien pero si
+
+están con una lista de candidatos en las
+
+cuales alumnos ellos vienen con
+
+certificaciones
+
+a quién creen que la mano está
+
+o sea que sea alguien muy malo hablando
+
+pero con certificado tal vez tenga más
+
+oportunidades y es que no tienes espero
+
+la persona indicada tiene más chance así
+
+porque se valora más
+
+entonces vemos por ejemplo abajo el 58%
+
+de estas personas los encargados en
+
+contratación dicen que han aumentado el
+
+entrenamiento para sus empleados
+
+esto es en base a lo que es open source
+
+ok y otras estadísticas más que están
+
+presentes allí en realidad informes
+
+mucho más extenso y yo quise nada más
+
+enfatiza estos y para esta charla hay un
+
+informe que está disponible nada más de
+
+buscar como abajo pueden ver los 21 open
+
+source jobs report y se hace buena que
+
+sea la emitida por la linux foundation
+
+con esto que quiero decir los snp y lo
+
+que dice nosotros nosotros no es nada
+
+inventado es un estudio que se hizo
+
+tienes resultados estos son lenguas que
+
+se hacen a nivel global
+
+cuáles son las oportunidades para los
+
+certificados lp
+
+y aquí están los bienes mencionadas que
+
+existen los luchas en tres
+
+neutralizaciones que significan muchas
+
+ellas son realmente buenas
+
+pero hablando lv y por lo menos yo les
+
+puedo decir que tenemos esta factura es
+
+decir que la certificación es aceptada
+
+casi a nivel global salvo aquellos
+
+puntos negros oscuros que ven en el mapa
+
+pero estamos tenemos una gran presencia
+
+a nivel global
+
+y estas son las explicaciones que les
+
+estamos ofreciendo algunas ya en
+
+desarrollo como en el ces crítico
+
+esenciales y la de jordi esencias
+
+también la de voz especiales y el resto
+
+ya están disponibles y estamos grabando
+
+incluso sobre una darlo a gama que es
+
+bien inicial que abarca prácticamente
+
+casi todas las áreas que en la estar
+
+haití el que se va a estar lanzando
+
+mucho más un poco más adelante y tiene
+
+como objetivo poder darles empujón
+
+las personas dentro del mundo de ella
+
+hasta ahora tenemos más entonces 270.000
+
+certificado emitidos en el día creo ya
+
+pasan más 300 mil y 700 mil 72 mil
+
+exámenes entregados si nuestros exámenes
+
+están disponibles más en 10 idiomas
+
+y aquí nada más en este mapa de calor
+
+pueden ver por ejemplo en la
+
+distribución de la mayor cantidad de
+
+certificados que se encuentran en los
+
+más oscuros donde más certificados hay y
+
+también en esas localizaciones heaven's
+
+son angola se encuentra actualmente el
+
+staff de lp cubriendo las diferentes
+
+regiones cada punto representa a 12
+
+personas entonces cómo pueden ver no
+
+somos muchos del equipo pero tratar no
+
+hacer grandes cosas
+
+un reconocimiento de mercado y aquí
+
+pueden fijarse por ejemplo que también
+
+aparecen otras certificaciones un top 5
+
+en donde por ejemplo encontramos que
+
+para los eeuu los dólares el 'pico no
+
+ocupan el primer lugar contrario más
+
+alto de todas las certificaciones clima
+
+a nivel está unida iu a nivel mundial
+
+está en el epic 2 también sigue por el
+
+título como pueden ver también hay otras
+
+explicaciones que son muy buenas si
+
+existe una gama cada uno es libre
+
+siempre de optar pero a lo que yo vengo
+
+es aparte de hablar un poco de las
+
+nuestras es de que tienen que mirar con
+
+mucho cariño
+
+al oficio no identificarse si no hubiera
+
+siempre bien existir las justificaciones
+
+hablan por sí solas no importa en qué
+
+ámbito estemos desde qué ambiente
+
+hacemos
+
+cuáles son las iniciativas de ley que
+
+fortalecen nuestra comunidad fueron
+
+varias hay varias labores programas hay
+
+varias iniciativas en este caso para
+
+esta charla debido al público que
+
+tenemos su elegía lo más que me
+
+parecieron muy importantes
+
+por ejemplo qué es lo que hicimos a
+
+través de lp y la comunidad se
+
+desarrollaron materiales entrenamientos
+
+si estos son de libre acceso y algunos
+
+son pagos pero esto es de pantalla son
+
+totalmente gratuitos
+
+bueno tenemos el slim o esencia que es
+
+totalmente abierto no puede entrar al
+
+sitio del learning punto lp y punto
+
+hereje en este caso no lo puse pero
+
+haces el sitio luego tenemos el web de
+
+verlos ver esencias y tenemos el
+
+101 y 102 para el lp y con el lp no
+
+necesita ser necesitan aprobar los
+
+exámenes para poder tener la
+
+certificación por qué por qué contenido
+
+es muy largo y nos dejó sin abarcarlo
+
+todo en un solo examen se viven en dos
+
+exámenes que ya los esencial son dos un
+
+solo examen
+
+los que son los materiales de repente a
+
+veces se pagan son aquellos que publican
+
+empresas son libros operatorios y que
+
+también nosotros tenemos limpiados en
+
+nuestro sitio por qué no venta estos
+
+estas empresas son animales
+
+algún más que favorece muchísimo es que
+
+hoy existe la posibilidad de tomar los
+
+exámenes de manera online desde la casa
+
+u oficina es decir ya no necesitan
+
+trasladarse a un sitio físico digamos a
+
+un centro denominador para poder tomar
+
+los aumentos conocer a la casa si
+
+nosotros estamos tomando esa cultura de
+
+que todo sea freno está ahora
+
+y también estamos con el programa de
+
+entrenador aprobado por el pp es decir
+
+aquellas personas que se certifican se
+
+pueden convertir en instructores
+
+nosotros le damos digamos que les
+
+marcamos el paso le decimos por donde
+
+deben ir para poder tener éxito en que
+
+esas personas puedan ser versión e
+
+instructores certificados
+
+registrado explicados por el empeño para
+
+poder ofrecer sus servicios ya sea de
+
+manera remota freelancer o digamos
+
+también para aquellas empresas que
+
+quieran ofrecer entrenamiento a aquellas
+
+universidades
+
+que deseen tener a sus docentes
+
+con estas habilidades y que puedan ser
+
+considerados en tutores
+
+para lo que también les traje entonces
+
+sería todo el mundo ama los desplantes
+
+lp
+
+unas dos formas de apoyar siempre a
+
+parte de una serie de talleres aparte de
+
+las charlas también donde están siempre
+
+siendo lo que serían
+
+cupones de descuento y nosotros para
+
+todas las sedes del crisol
+
+de latinoamérica estamos ofreciendo este
+
+descuento
+
+debido al evento del crisol para poder
+
+dar apoyo a todas las personas que estén
+
+interesadas en registrarse
+
+pueden utilizar este link que está
+
+digamos abajo o utilizar el código qr
+
+para poder obtener el cupo
+
+de un cupón del 30 por ciento de elegir
+
+por un año y algo más para poder tener
+
+el cupón deben tener una cuenta de lp
+
+creada donde la pueden crear bueno ir al
+
+sitio de lp y punto hereje y bien le van
+
+a encontrar la opción para poder
+
+registrarse es es rápido es fácil y
+
+pueden tener un cupón hay que utilizarlo
+
+en caso que se estén preparando o estén
+
+pensando en hacerlo en algún momento si
+
+era algo que quería un poco lo querían
+
+compartir con ustedes
+
+espero que haya sido logrado y nada les
+
+doy las gracias y espero que tengan
+
+preguntas que hacer
+
+muchas gracias
+
+muchas gracias.juan
+
+[Música]
+
+creo que en este momento pasamos al
+
+espacio de preguntas entonces
+
+invito a todo el público presente a que
+
+nos formulen en sus respectivas
+
+inquietudes tenemos 15 minutos
+
+para atender cualquiera esté solicitudes
+
+no tengan pena no hay pregunta mala y
+
+siempre es importante digamos para
+
+nosotros interactuar con el público para
+
+el evento entonces bien puedan formular
+
+sus preguntas
+
+a ver
+
+bueno con la experiencia que tengo
+
+utilizando el exterminar
+
+creo que en este apartado etc te estás
+
+metiendo por
+
+en facebook y por youtube
+
+si es digamos que en esta plataforma nos
+
+permite incrustar esas preguntas
+
+directamente y ya vamos con una luis
+
+eduardo gómez nos pregunta si si estoy
+
+interesado en certificar me puedo
+
+apuntar directamente a una l pedidos o
+
+debo iniciar con las básicas
+
+muy buena pregunta es algo que no
+
+mencioné en la charla
+
+bueno en realidad para él el epic dots
+
+el requisito es tener el epígono
+
+aprobado
+
+para probar para poder ir por el lp uno
+
+no es requisito tener inocencia si no
+
+pueden pueden ir detrás de esa es un
+
+examen sencillo es fácil y digamos la
+
+certificación prácticamente inmediata al
+
+momento de aprobar se sufre menos
+
+digamos sí pero no es requisito para ir
+
+por el artículo no tenemos estadísticas
+
+que demuestran que aquellos que van y
+
+aprueban primero el mismo esenciales
+
+tienen mayores oportunidades para poder
+
+obtener luego el 'pit 1 pero no es un
+
+requisito evaluatorio pueden ir por el
+
+vínculo directo ahora el epic 2 si
+
+requiere primero donde examen de una
+
+certificación epic un aprobado la misma
+
+cosa para el x3 requiere tener el 1 y el
+
+2 ya ganados para ir por el 3 están los
+
+exámenes que son digamos
+
+tecnología abierta como la certificación
+
+de the box que tampoco en estos casos
+
+requieren de un examen previo
+
+no puede ir donde pone box si puede pero
+
+de los tópicos a los contenidos del the
+
+box nosotros siempre recomendamos
+
+primero aprobar en el vínculo de ser
+
+posible el 2012 pero pones uno al menos
+
+ya tengamos va a ayudar muchísimo a
+
+poder tener más chances de aprobar el
+
+the box
+
+espero haber respondido a tu pregunta
+
+louis
+
+vale perfecto
+
+ahora tenemos una pregunta de parte
+
+óscar becerra el pregunta es lo
+
+siguiente cuántas horas se deben dedicar
+
+al estudio para obtener las
+
+certificaciones
+
+me interesan mucho más las de seguridad
+
+pero pues en concreto es cuántas horas
+
+de estudio se deben dedicar
+
+esto es muy relativo a qué cantidad de
+
+horas se deben dedicar
+
+porque ahora tenemos los mejores caminos
+
+para poder prepararnos para las
+
+indicaciones sí hay diferentes tipos de
+
+personas por ha sido que es muy relativo
+
+están en lugar personas que les gusta
+
+estudiar de manera solitaria digamos y
+
+dentro de este grupo están los que
+
+prefieren la documentación es ir
+
+probando seguir ejecutar los comandos
+
+están lo que les gustan los vídeos los
+
+pulsos pregrabados entonces
+
+si uno gusta por uno u otro
+
+digamos seguir la documentación es nada
+
+más ir hasta el final y hay uno va
+
+controlando el tiempo que necesita
+
+llevado por los cursos programados
+
+entonces normalmente son organizaciones
+
+o alguien que ya prepara un curso y que
+
+estima una cantidad de horas equis para
+
+poder finalizar los contenidos y luego
+
+ya uno lo que haría sería repasar estos
+
+contenidos
+
+luego está en lo que le gustaría en
+
+grupo es decir se burlen de dos a tres o
+
+en la forma de estudiar en comunidad van
+
+abarcan los explotó picos hacen
+
+intercambios y se estudia en conjunto y
+
+están aquellos que les va mucho mejor
+
+hacer cursos y recursos que son
+
+presenciales y de vuelta en los cursos
+
+presenciales normalmente las obras ya
+
+están fijas y uno lo que hace ve asiste
+
+la clase recibe instrucción
+
+conocimientos y luego los debe poner en
+
+práctica desistieron la casa y empezar a
+
+practicar sí entonces son distintas
+
+formas que hay no hay una cantidad equis
+
+de horas
+
+un último comentario están las personas
+
+que empiezan de cero y están las
+
+personas que de alguna otra manera ya
+
+están trabajando con linux o recién lo
+
+sé ya tienen mayor experiencia entonces
+
+a estas personas que ya están trabajando
+
+con linux
+
+lo más probable es menos tiempo porque
+
+es menos tópico lo que de norka nada más
+
+ir por aquello que tal vez no hayan
+
+utilizado en sus respectivos trabajos
+
+que un colega de lp había hecho una una
+
+calculadora a través de una de la
+
+familia de jugos jets en donde el
+
+tomando un ejemplo de alguien que quiso
+
+calcular qué cantidad ahora necesita
+
+y dedicar para poder
+
+[Música]
+
+conseguir un trabajo de bublé es alguna
+
+persona y se hace el cálculo y el tomo
+
+ese ejemplo hizo una calculadora no lo
+
+tengo a mano y bueno quisiera poner no
+
+para ahora pero si es que les interesa
+
+nada pueden contactarme y con muchísimo
+
+gusto le voy a pasar el enlace a esta
+
+calculadora de estudios y no es una
+
+calculadora buscada
+
+lp dlp pero si es algo que más o menos
+
+te puede dar un cálculo
+
+aproximado
+
+listo
+
+aún tenemos más espacio para más
+
+preguntas
+
+entonces
+
+no hay problema podemos estar en unos
+
+7 10 minutos más
+
+creo que es
+
+21 acelerador muy fuerte la charla
+
+entonces termine mucho antes de tiempo
+
+fue fue la emoción pero espero que haya
+
+llegado un poco lo que quería comentar
+
+más que nada
+
+las oportunidades están
+
+hay trabajo hay demandas y hay
+
+es cuestión de y letras de ellos claro
+
+hay ciertos pasos que uno debe cumplir y
+
+ser
+
+digamos tratar de ser buenos en algo
+
+para poder ir entradas a oportunidades
+
+por ejemplo
+
+una tendencia grande que hay hoy en día
+
+es el trabajo en remoto se dice buscar
+
+muchas se lanzan muchas ganancias con la
+
+modalidad online o remota
+
+como en mi caso por ejemplo si yo
+
+trabajo para el pp y le pediste asentado
+
+en esa localización en canadá y yo no
+
+trabajo pero no voto en estos casos y
+
+hay muchas empresas que optan por eso
+
+empresas tecnología es decir
+
+principalmente aquellos que trabajan con
+
+servicios en la nube por ejemplo se
+
+contrata a alguien que puede administrar
+
+servicio a las nubes con abedules un
+
+ejemplo entonces dónde está situado a
+
+los mejores de edad
+
+disculpen de wc
+
+esto con la nube donde uno debe ir para
+
+poder tener
+
+una máquina y los conocimientos
+
+necesarios entonces
+
+hay muchas empresas que están que están
+
+dejando utilizar servidores físicos
+
+todos están llevando la nube y necesitan
+
+de gente que entienda por qué
+
+administrar servidores administrar
+
+imagina que estén en estos servicios de
+
+esclavos no están probados en
+
+la complejidad que tengan en la
+
+infractora
+
+para poder llegar y postularse a los
+
+trabajos uno debe llegar con
+
+conocimientos van entrevista con la ley
+
+que nunca escuchado ustedes que se dicen
+
+es otro país no se hable de brasil y
+
+ustedes
+
+primero de las portugués mínimamente es
+
+un ejemplo nada más pero también pueden
+
+tener en heces y dad de hablar inglés
+
+capaz de mostrarnos portugués pero les
+
+pueden pedir por ejemplo que sepan de
+
+inglés entonces un buen requisito puede
+
+ser que ustedes ya se estén preparando y
+
+tengan por lo menos un dominio
+
+intermedio o profesional también cuando
+
+se le dice es decir también o sea
+
+alguien que hable a un nivel muy
+
+avanzado o de ser nativo pero si tengan
+
+un nivel digamos de conversación para
+
+poder comunicarse libremente con
+
+compañeros de trabajo entonces si uno
+
+apunta a esto es algo que son
+
+y remotos debe prepararse yo estoy
+
+lanzando nada más con un plus que es
+
+tener e idiomas complejos como valor
+
+agregado al momento de ir a la
+
+entrevista y algo que decía se iban
+
+atrás por remoto realmente van a tener
+
+que conectarse a servicios remotos y
+
+trabajar esas casas
+
+trabajar en esto y pedir trabajo con
+
+esto y ganárselo se requieren de
+
+habilidades llegaría si yo lo entienden
+
+muy bien puede ser y así con un tiempo y
+
+trabajo en x empresa en donde utilizan
+
+eso también pero a ver cómo que ahora
+
+entiende das al que te está
+
+entrevistando de qué es
+
+[Música]
+
+digamos no va a poner a prueba tenemos
+
+que estar un día
+
+usamos las pruebas los medios los
+
+conocimientos puede ser que puede ser
+
+que no también
+
+entonces
+
+y como dije así el puesto de la charla
+
+el puesto de la vacancia de hule si
+
+pedía un indicio athletic o digamos
+
+equivalente es decir hubo llegadas y
+
+existen entendés de linux y ok de
+
+demuéstramelo por decirlo así también
+
+identificado podemos hacer la jura que
+
+quieras pero a ver si entiendo y este
+
+documento lo hice y el documento es algo
+
+que tiene peso etcétera etcétera extra y
+
+esto lo pueden hacer
+
+para no sé si les gusta la parte de
+
+administración de base de datos hay
+
+certificaciones de ver si les gusta la
+
+parte de ciencia de datos también ya hay
+
+como poder avalar estos conocimientos
+
+entonces es un ejemplo si ustedes pueden
+
+abocarse a conseguir trabajos régimen en
+
+sus regiones de manera local pero por
+
+ejemplo hay una gran tendencia que se da
+
+freno está puede ser dentro del sur de
+
+su país pero puede ser remoto al mismo
+
+tiempo como puede ser que trabajan para
+
+empresas que estén situadas en otros
+
+países
+
+y ésta empresa normalmente que se animan
+
+a tener manos extranjeras remota
+
+[Música]
+
+lo que piden para asegurar la calidad es
+
+que tenga una certificación de vuelta no
+
+hablaba de un lp y nos damos consciente
+
+eso es en forma general en este caso yo
+
+les minas con negra acerca de lo que
+
+nosotros hacemos y de el valor agregado
+
+que puede tener para surgen tres estás
+
+aquí veo una planta más
+
+y oscar becerra también nos pregunta si
+
+las certificaciones evalúan en inglés
+
+también es una buena pregunta saber en
+
+qué idioma están los exámenes bueno
+
+si vamos a irnos por si vamos a irnos
+
+atrás del mundo de tecnología
+
+yo siempre les recomiendo que el inglés
+
+vaya de la mano
+
+ahora se lanza una nueva tecnología
+
+quieren aprenderla en qué idioma creen
+
+que va a estar la documentación los
+
+tutoriales que encuentran de aquellos
+
+chinos o bueno
+
+los chinos bueno por los otros otro gran
+
+público que siempre están muy muy
+
+adelantados son los los hindús entonces
+
+no vamos escuchamos un tutorial del
+
+elemento volando en inglés ya es
+
+complicado
+
+pero al fin y al cabo sigue siendo
+
+inglés un nuevo grado fundación de
+
+walter entonces yo les recomiendo
+
+siempre que traten de adquirir
+
+habilidades o skills
+
+idiomas
+
+pero respondiendo la pregunta
+
+lp y tiene están disponibles en 10
+
+idiomas
+
+inglés español portugués y ahora está
+
+lanzando en francés
+
+alemán chino mandarín entonces
+
+tenemos
+
+una amplia gama en cuanto a utilidades y
+
+en el español en castellano lo que
+
+tenemos disponible es el himno esencial
+
+lo pueden tomar de manera remota
+
+1 también ambos exámenes están
+
+disponibles en español y ya el 2 y el 3
+
+20 mente de la cual vayan sillas siguen
+
+siendo un inglés y se están trabajando
+
+en las traducciones pero esto el proceso
+
+de traducción es lento siempre porque
+
+involucran muchos
+
+procesos de seguridad al momento de
+
+trabajar con los traductores
+
+[Música]
+
+las más certificaciones siempre deben
+
+consultar si es que van por otras
+
+comidas pero de vuelta
+
+no tengan miedo o no se retroceden sólo
+
+porque eres en inglés
+
+al contrario tomen esto como un
+
+digamos un indicador de que es
+
+importante aprender
+
+para toda cualquier entrevista a la que
+
+vayamos siempre tener idiomas
+
+muy importantes
+
+[Música]
+
+qué tal estamos el tiempo
+
+nos quedan máximo 4 minutos y cerramos
+
+conferencia sea
+
+tienen 4 minutos
+
+quienes nos están viendo de formularla
+
+sus últimas preguntas
+
+me gusta que óscar sea súper activo en
+
+youtube son tus comentarios
+
+no se olviden de que pueden ser al cupón
+
+de descuento estoy viendo que está
+
+pasando la información al link
+
+para poder tener acceso deben tener una
+
+cuenta de paypal
+
+y tendrán acceso al portal de personas
+
+de lp algo que no mencioné ahora que
+
+estaba con un poquito de unos minutos
+
+más
+
+nosotros tenemos
+
+una iniciativa también que es la parte
+
+de apoyo laboral
+
+y en un término un y ahora está real y
+
+mental pero algo que voy a todas
+
+aquellas personas que tienen
+
+certificaciones de lepe y tienen acceso
+
+justamente en secuencia al portal de
+
+personas tienen como darle un check a un
+
+pequeño espacio en donde dice deseo
+
+recibir
+
+avisos de
+
+vacancias laborales es decir nosotros
+
+teníamos alianza en luego el mundo con
+
+diferentes empresas que hoy en día están
+
+utilizando nuestra base de datos para
+
+poder buscar a personas científicas con
+
+el pp y hacer el reclutamiento a través
+
+de nuestras plataformas entonces
+
+normalmente que hacen y ponen todos los
+
+requisitos de otra forma
+
+con todas las funciones necesarias no
+
+sea remoto va a ser portal país en el
+
+total idioma y todas las certificaciones
+
+e incluso tales habilidades en otras
+
+tecnologías entonces a través del epp y
+
+pueden llegar a acostumbrarse a estas
+
+canciones orales y normalmente aquí a
+
+veces incluso ni siquiera importa si uno
+
+es o no alguien ya graduado ya no puede
+
+estar incluso en la universidad y tener
+
+un buen trabajo remoto por la población
+
+durante el día si es que la universidad
+
+es para la noche o viceversa en fin
+
+nosotros apoyamos justamente eso no es
+
+solamente llegar y certificarse y liz de
+
+ahora qué hago si si tiene tiene un
+
+valor la significación es pero es una
+
+iniciativa que tomamos y entonces
+
+tratamos de apoyar a las personas de esa
+
+manera dándole ya estas posibilidades
+
+laborales a través de nuestras
+
+que pueden aplicar y claro felices de
+
+poder apoyarlo en eso y haber finalizado
+
+un poquito nosotros realmente buscamos
+
+cambiar las vías a las personas a través
+
+de las identificaciones
+
+hay muchos ejemplos o casos reales de
+
+esto que siempre vamos publicando las
+
+personas que a través de nosotros
+
+han podido obtener un primer empleo
+
+bueno o mejores oportunidades recuerden
+
+el reporte laboral uno de los puntos de
+
+inversión es la dificultad de retención
+
+del talento humano alrededor de gokhan
+
+source y nux es muy difícil de tener
+
+porque la demanda es muy alta y hay muy
+
+muy poca oferta es decir muy pocos
+
+profesionales que están disponibles hoy
+
+para poder aplicar a ciertos requisitos
+
+es correcto louis
+
+el descuento explica solamente a un
+
+examen recordando que por ejemplo el
+
+'pico tiene dos exámenes órdenes puntos
+
+pueden aplicarlo a un examen pero no se
+
+preocupen siempre estábamos atrás
+
+participando en eventos de nada más
+
+estar pendiente de seguirnos y
+
+escribirse a otros eventos que tal vez
+
+también sean la inscripción gratuita en
+
+la que siempre vamos a hacer los
+
+descuentos
+
+o esperadas el siguiente es visón y
+
+volvemos con más de cuentas también
+
+bueno me animo respondemos una pregunta
+
+antes se puede claro
+
+ok ahí la pregunta y ese es en caso de
+
+necesitar una guía soporte o ayuda en el
+
+proceso de preparación para la
+
+certificación a donde me expongo
+
+remitido yo estuve mostrando unos
+
+materiales puedo compartir pantalla y ya
+
+voy cerrando la guerra por supuesto
+
+entonces lo voy a hacer aquí con ustedes
+
+voy a abrir una pestaña y voy a escribir
+
+en mi valor learning punto el punto o
+
+hereje
+
+en este sitio león y estrellas van a
+
+encontrar
+
+estos niños materiales de estudios
+
+poniendo entonces pueden ingresar por
+
+ejemplo al lino esencial esto está
+
+disponible en diversos idiomas entre
+
+ellos también está el español
+
+pueden descargar en el pdf o seguirlo
+
+aquí que lo que tienen tienen una parte
+
+teórica que habla del tópico y tienen ya
+
+lo que serían las prácticas si se puede
+
+inhibirse preparando y hacer ciertos
+
+ejercicios que les piden al final
+
+y también algunas respuestas digamos que
+
+van a tener es bien completo y es
+
+nuestra manera abiertas ahora mismo si
+
+ingresan de vuelta a learning
+
+punto lp punto hereje gran acceso a
+
+estos materiales que nos pueden utilizar
+
+de manera gratuita o también lo pueden
+
+hacer
+
+en algún momento sólo un segundo
+
+vale
+
+disculpen
+
+una opción más que tienen por ejemplo
+
+nosotros trabajamos en alianza con n
+
+vejez o venditti que va de la mano con
+
+cisco tiene su plataforma le ataca si
+
+buscan por ejemplo vamos a poner linux
+
+y luego nos vamos porque sería que n
+
+deje o cisco si entran me va a lanzar a
+
+que está alguna forma le está acá y
+
+tenemos el curso de lo que sería de
+
+linux y en esta plataforma de cisco
+
+tienen lo que sería a ver a ver este
+
+caso del reino esencias aquí este un
+
+curso totalmente gratuito y que tiene
+
+una cantidad ahora al 70 si ustedes
+
+pueden crearse cuenta aquí y registrarse
+
+el curso que tienen disponible en
+
+español también y ya empezará a estudiar
+
+ya prepararse entonces tienen material
+
+disponible sí por lo menos para iniciar
+
+e irse digamos para la parte de él el
+
+epic 1 o en licencias que también el
+
+vehículo está en la plataforma tenemos
+
+tres tienen todo eso disponibles y es
+
+cuestionada va de mujer
+
+bueno juan muchísimas gracias muchísimas
+
+gracias a todos nuestros espectadores ha
+
+sido la última
+
+[Música]
+
+conferencia de esta jornada de esta
+
+hermosa jornada que se ha hecho de
+
+fríjol
+
+y nada generar la expectativa para el
+
+próximo año volvernos a encontrar poder
+
+vernos y volver poder volver a compartir
+
+estos espacios de comunicación y
+
+aprendizaje no siendo más finalizamos
+
+esta charla y nos despedimos muy buenas
+
+tardes
+
+gracias
+
